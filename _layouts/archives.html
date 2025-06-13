@@ -1,0 +1,27 @@
+---
+layout: page
+# All the Archives of posts and book reviews
+---
+
+{% include lang.html %}
+
+{% assign all_posts = site.posts | concat: site.book-reviews %}
+{% assign sorted_posts = all_posts | sort: 'date' | reverse %}
+
+<div id="archives" class="pl-xl-3">
+  {% assign last_year = nil %}
+  {% for post in sorted_posts %}
+    {% assign this_year = post.date | date: "%Y" %}
+    {% if this_year != last_year %}
+      {% unless forloop.first %}</ol>{% endunless %}
+      <h2 class="year">{{ this_year }}</h2>
+      <ol class="list-unstyled">
+      {% assign last_year = this_year %}
+    {% endif %}
+    <li>
+      <span class="date">{{ post.date | date: "%d %b" }}</span>
+      <span class="title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></span>
+    </li>
+    {% if forloop.last %}</ol>{% endif %}
+  {% endfor %}
+</div> 
