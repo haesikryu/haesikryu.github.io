@@ -1,9 +1,9 @@
 ---
+layout: post
 title: "클린 코드 - 로버트 C. 마틴"
-date: 2024-03-20 13:00:00 +0900
+date: 2025-06-13
 categories: [Book Review]
 tags: [clean code, programming]
-rating: 5
 ---
 
 ## 클린 코드 (Clean Code) 리뷰
