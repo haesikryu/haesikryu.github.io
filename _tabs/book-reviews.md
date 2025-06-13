@@ -19,9 +19,13 @@ order: 2
 
 ### 최근 리뷰
 
-{% for review in site.book-reviews limit:5 %}
-- [{{ review.title }}]({{ review.url }}) - {{ review.date | date: "%Y-%m-%d" }}
+<ul>
+{% for review in site.book-reviews %}
+  <li>
+    <a href="{{ review.url }}">{{ review.title }}</a> - {{ review.date | date: "%Y-%m-%d" }}
+  </li>
 {% endfor %}
+</ul>
 
 ### 카테고리
 

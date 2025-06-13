@@ -166,6 +166,8 @@ collections:
   tabs:
     output: true
     sort_by: order
+  book-reviews:
+    output: true
 
 defaults:
   - scope:
