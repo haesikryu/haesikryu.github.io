@@ -4,3 +4,15 @@
     <div class="sidebar__subtitle">{{ site.tagline | newline_to_br }}</div>
   {% endif %}
 </div> 
+<ul class="sidebar__categories" style="margin-top:2em;">
+  <li style="font-weight:bold; margin-bottom:0.5em;">카테고리</li>
+  {% assign categories = site.categories | sort %}
+  {% for category in categories %}
+    <li style="margin-left:1em; margin-bottom:0.3em;">
+      <a href="{{ '/categories/' | append: category[0] | slugify | append: '/' | relative_url }}">
+        {{ category[0] }}
+      </a>
+      <span style="color:#888; font-size:0.9em;">({{ category[1].size }})</span>
+    </li>
+  {% endfor %}
+</ul> 
