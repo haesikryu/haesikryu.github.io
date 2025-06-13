@@ -15,9 +15,7 @@ timezone:
 # ↓ --------------------------
 
 title: Haesik Ryu
-tagline: |
-#  Architect @ SK C&C
-  SW 개발, AI 적용, 시스템 혁신에 대한 생각을 나눕니다.
+tagline: SW 개발, AI 적용, 시스템 혁신에 대한 생각을 나눕니다.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
