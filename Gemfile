@@ -2,6 +2,7 @@
 
 source "https://rubygems.org"
 
+gem "jekyll", "~> 4.3"
 gem "jekyll-theme-chirpy", "~> 6.5"
 gem "jekyll-feed", "~> 0.17"
 gem "jekyll-sitemap"
@@ -9,6 +10,7 @@ gem "jekyll-paginate"
 gem "jekyll-seo-tag"
 gem "jekyll-archives"
 gem "jekyll-redirect-from"
+gem "webrick"
 
 group :test do
   gem "html-proofer", "~> 4.4"
