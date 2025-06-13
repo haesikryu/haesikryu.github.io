@@ -15,7 +15,6 @@ timezone:
 # ↓ --------------------------
 
 title: Haesik Ryu
-
 tagline: "Architect @ SK C&C"
 description: "SW 개발, AI 적용, 시스템 혁신에 대한 생각을 나눕니다."
 
@@ -32,7 +31,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
+  name: Haesik Ryu
   email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
