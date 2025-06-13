@@ -1,9 +1,6 @@
 <div class="sidebar__profile">
   <div class="sidebar__title">{{ site.social.name }}</div>
   {% if site.tagline %}
-    <div class="sidebar__subtitle">{{ site.tagline }}</div>
-  {% endif %}
-  {% if site.description %}
-    <div class="sidebar__subtitle">{{ site.description }}</div>
+    <div class="sidebar__subtitle">{{ site.tagline | newline_to_br }}</div>
   {% endif %}
 </div> 
