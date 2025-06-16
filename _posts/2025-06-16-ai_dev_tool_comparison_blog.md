@@ -1,5 +1,5 @@
 ---
-title: 새 포스트 제목
+title: 🚀 Claude Code vs GitHub Copilot vs Cursor: 2025년 AI 개발 도구 3종 비교 분석
 date: 2025-06-16 00:00:00 +0900
 categories: [Blog]
 tags: [AI Coding, Github Copilot, Cursor, Claude Coe]
