@@ -1,8 +1,8 @@
 ---
-title: AI 코딩 도구의 대중화 - "AI와 함께 하는 개발"
+title: AI 코딩 도구의 대중화 - AI와 함께 하는 개발
 date: 2025-06-17 17:55:00 +0900
 categories: [Blog]
-tags: [AI, AI Codiing, ChatGPT, Github Copilot, Cursor]
+tags: [AI, AI Coding, ChatGPT, Github Copilot, Cursor]
 ---
 
 ## AI 코딩 도구의 대중화 - "AI와 함께 하는 개발"
