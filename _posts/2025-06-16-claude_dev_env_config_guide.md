@@ -2,7 +2,7 @@
 title: Claude Code 설정 가이드 (터미널에서 AI와 함께 코딩하기)
 date: 2025-06-16 00:00:00 +0900
 categories: [Blog]
-tags: [AI Coding, Claude Coe]
+tags: [AI Coding, Claude Code]
 ---
 
 # Claude Code 설정 가이드: 터미널에서 AI와 함께 코딩하기
