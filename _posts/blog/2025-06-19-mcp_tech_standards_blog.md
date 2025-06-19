@@ -1,6 +1,6 @@
 ---
-title: AI 코딩 도구의 대중화 - AI와 함께 하는 개발
-date: 2025-06-17 17:55:00 +0900
+title: MCP 기술 표준 최신 동향 - AI 연결성의 새로운 패러다임
+date: 2025-06-19 16:30:00 +0900
 categories: [Blog]
 tags: [MCP, ModelContextProtocol, AI표준, AI에이전트, Anthropic, Microsoft, 엔터프라이즈AI, AI보안, 2025AI트렌드, 개발자도구]
 ---
