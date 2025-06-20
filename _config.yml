@@ -19,13 +19,13 @@ tagline: SW 개발, AI 적용, 시스템 혁신에 대한 생각을 나눕니다
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://haesikryu.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: haesikryu # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -34,9 +34,9 @@ social:
   email: haesikryu@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://github.com/haesikryu # change to your GitHub homepage
     # Uncomment below to add more social links
+    # - https://twitter.com/username
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
