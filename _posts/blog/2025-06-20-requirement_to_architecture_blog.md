@@ -25,8 +25,7 @@ tags: [DDD, DomainDrivenDesign, SoftwareArchitecture, AIArchitecture, GPT4, LLME
 
 연구에서는 **GPT-4 기반 LLM(Large Language Model)**을 활용하여 다음의 흐름을 반자동화합니다.
 
-<!--
-<img src="/assets/img/ddd-ai-sw-archi.png" alt="DDD와 아키텍처" width="500">-->
+<img src="/assets/img/ddd-ai-sw-archi.png" alt="DDD와 아키텍처" width="500">
 
 1. **요구사항 문서 분석**  
    자연어로 작성된 요구사항을 구조화하여 주요 기능, 제약조건, 품질 속성을 식별합니다.
