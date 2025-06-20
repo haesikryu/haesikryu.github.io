@@ -8,7 +8,7 @@ When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jeky
 from the theme's gem. If you have ever installed this theme gem, you can use the command
 `bundle info --path jekyll-theme-chirpy` to locate these files.
 
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
+The Jekyll team claims that this is to leave the ball in the user's court, but this also results in users not being
 able to enjoy the out-of-the-box experience when using feature-rich themes.
 
 To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
@@ -41,6 +41,3 @@ This work is published under [MIT][mit] License.
 [chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
 [CD]: https://en.wikipedia.org/wiki/Continuous_deployment
 [mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
-
-Triggering a new build
-Triggering a new build
