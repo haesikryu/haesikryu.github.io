@@ -1,5 +1,6 @@
 <!-- _includes/google-analytics.html -->
 <!-- Google tag (gtag.js) -->
+{% if site.analytics.google.id %}
 <script
   async
   src="https://www.googletagmanager.com/gtag/js?id={{ site.analytics.google.id }}"
@@ -13,3 +14,4 @@
 
   gtag("config", "{{ site.analytics.google.id }}");
 </script>
+{% endif %}
