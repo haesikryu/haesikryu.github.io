@@ -12,7 +12,7 @@ tags: [Microservices, DomainDrivenDesign, DDD, MonolithToMicroservices, Software
 이번 글에서는 DDD 전략을 활용해 모놀리스를 마이크로서비스로 전환하는 핵심 단계와 실제 적용 사례를 소개합니다.
 
 ---
-
+515101
 ## 1. 비즈니스 도메인 분석
 
 전환의 첫 단계는 비즈니스 도메인을 명확히 분석하는 것입니다.
