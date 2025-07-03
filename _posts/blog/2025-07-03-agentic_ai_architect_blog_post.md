@@ -1,5 +1,5 @@
 ---
-title: Agentic AI, 아키텍처를 다시 설계하다: 새로운 코파일럿의 등장
+title: "Agentic AI, 아키텍처를 다시 설계하다: 새로운 코파일럿의 등장"
 date: 2025-07-03 21:57:00 +0900
 categories: [Blog]
 tags: [AgenticAI, AIArchitecture, SoftwareArchitect , LLMOrchestration, PromptEngineering, AutonomousAgents, ArchitectureAutomation, AIinDevelopment]
@@ -7,8 +7,6 @@ tags: [AgenticAI, AIArchitecture, SoftwareArchitect , LLMOrchestration, PromptEn
 
 # 🧠 Agentic AI, 아키텍처를 다시 설계하다: 새로운 코파일럿의 등장
 
-> ✍️ 작성자: Ryu Haesik  
-> 📅 2025년 6월 24일  
 > 📚 참고: [Ashvini K. Upadhyay, Medium](https://medium.com/@ashu667/the-software-architects-new-co-pilot-is-agentic-ai-about-to-re-architect-how-we-build-software-7d00a5993c11?utm_source=chatgpt.com)
 
 ---
