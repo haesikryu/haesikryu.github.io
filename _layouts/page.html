@@ -2,12 +2,25 @@
 layout: default
 ---
 
+<!-- Google Analytics(GA4) 직접 삽입 -->
+<script
+  async
+  src="https://www.googletagmanager.com/gtag/js?id=G-XS538DD58D"
+></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+  gtag("config", "G-GMJQPVBEES");
+</script>
+
 <main class="page-content" aria-label="Content">
   <div class="wrapper">
     <h1>{{ page.title }}</h1>
     {% if page.subtitle %}
-      <p class="subtitle">{{ page.subtitle }}</p>
-    {% endif %}
-    {{ content }}
+    <p class="subtitle">{{ page.subtitle }}</p>
+    {% endif %} {{ content }}
   </div>
-</main> 
+</main>
