@@ -4,6 +4,10 @@ icon: fas fa-pen
 order: 1
 ---
 
+<p class="lead">
+  소프트웨어 개발, 아키텍처, AI, 트렌드 등 다양한 주제의 글을 공유합니다. 경험과 인사이트를 기록하는 공간입니다.
+</p>
+
 <ul>
 {% for post in site.posts %}
   {% if post.categories contains "Blog" %}
