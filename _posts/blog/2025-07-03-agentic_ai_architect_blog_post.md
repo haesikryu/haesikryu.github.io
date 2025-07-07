@@ -21,7 +21,7 @@ tags: [AgenticAI, AIArchitecture, SoftwareArchitect , LLMOrchestration, PromptEn
 - 컴포넌트를 정의하며  
 - 구성 요소 간 의존성을 조율하고  
 - 심지어 테스트 시나리오까지 제안하는  
-“**지능형 설계 파트너**”가 실현되려 하고 있습니다.
+"**지능형 설계 파트너**"가 실현되려 하고 있습니다.
 
 ---
 
@@ -42,7 +42,7 @@ Agentic AI는 단순 LLM 기반 응답 생성기를 넘어, **목표 지향성(g
 
 ## 🧩 아키텍트의 역할, 어떻게 재정의되는가?
 
-Agentic AI 도입은 아키텍트의 역할을 ‘축소’시키지 않습니다. 오히려 다음과 같이 **재정의**합니다:
+Agentic AI 도입은 아키텍트의 역할을 '축소'시키지 않습니다. 오히려 다음과 같이 **재정의**합니다:
 
 | 전통 아키텍트 역할 | Agentic 시대 역할 변화 |
 |------------------|--------------------|
@@ -51,7 +51,7 @@ Agentic AI 도입은 아키텍트의 역할을 ‘축소’시키지 않습니�
 | 컴포넌트 설계 | Agent 간 책임(RACI) 및 협업 프로토콜 정의 |
 | 설계 리뷰 | 에이전트 생성물에 대한 메타 피드백 시스템 설계 |
 
-즉, **AI의 ‘설계 능력’을 설계하는 사람**이 되어야 합니다.
+즉, **AI의 '설계 능력'을 설계하는 사람**이 되어야 합니다.
 
 ---
 
@@ -86,11 +86,11 @@ Agentic AI 도입은 아키텍트의 역할을 ‘축소’시키지 않습니�
 ## 🧠 실무에서 고려해야 할 3가지
 
 1. **Agent의 책임과 범위 명확화**  
-   - AI가 “어디까지 설계하고, 언제 사람에게 넘길지” 경계 설계 필요  
+   - AI가 "어디까지 설계하고, 언제 사람에게 넘길지" 경계 설계 필요  
    - `RACI 모델`을 AI 에이전트에게도 적용하라
 
 2. **비즈니스 제약 조건 포함 설계**  
-   - 단가, 유지보수 용이성, 도메인 제약 등 “비기술 요건”을 prompt로 명시해야 설계가 실효성을 갖는다
+   - 단가, 유지보수 용이성, 도메인 제약 등 "비기술 요건"을 prompt로 명시해야 설계가 실효성을 갖는다
 
 3. **검증 가능성과 회고 피드백 채널 확보**  
    - 설계 근거, 변경 이유, 대안 평가가 남아야 → 에이전트의 개선과 학습이 가능
@@ -101,7 +101,7 @@ Agentic AI 도입은 아키텍트의 역할을 ‘축소’시키지 않습니�
 
 Agentic AI는 **설계 과정 그 자체를 아키텍처화(Architecting Architecture)**하고 있습니다.
 
-아키텍트는 더 이상 ‘그림 그리는 사람’이 아니라,  
+아키텍트는 더 이상 '그림 그리는 사람'이 아니라,  
 **AI와 함께 문제를 정의하고, 방향을 세우고, 품질을 판단하는 메타 설계자**로 변화하고 있습니다.
 
 ---
@@ -115,7 +115,7 @@ AI가 설계를 보조하는 시대가 아니라, **AI가 스스로 설계 결�
 AI가 똑똑해지기를 기다리는 것이 아니라  
 **AI가 똑똑해지도록 설계하는 역할**을 스스로 맡는 것입니다.
 
-아키텍트의 미래는 “그리는 사람”이 아닌 “관계를 설계하고 흐름을 설계하는 사람”에게 열려 있습니다.
+아키텍트의 미래는 "그리는 사람"이 아닌 "관계를 설계하고 흐름을 설계하는 사람"에게 열려 있습니다.
 
 ---
 
@@ -123,3 +123,47 @@ AI가 똑똑해지기를 기다리는 것이 아니라
 
 `#AgenticAI` `#AI아키텍처` `#ArchitectRole` `#설계자동화` `#LangGraph`  
 `#CrewAI` `#GenerativeAI` `#아키텍트의미래` `#AI코파일럿`
+
+<script src="https://cdn.jsdelivr.net/npm/wordcloud@1.2.2/src/wordcloud2.min.js"></script>
+<script>
+  var tagList = [
+    {% assign all_posts = site.posts | concat: site.book-reviews %}
+    {% assign all_tags = '' | split: '' %}
+    {% for post in all_posts %}
+      {% for tag in post.tags %}
+        {% unless all_tags contains tag %}
+          {% assign all_tags = all_tags | push: tag %}
+        {% endunless %}
+      {% endfor %}
+    {% endfor %}
+    {% assign sorted_tags = all_tags | sort_natural %}
+    {% for t in sorted_tags %}
+      {%- assign tag_count = 0 -%}
+      {%- for post in all_posts -%}
+        {%- if post.tags contains t -%}
+          {%- assign tag_count = tag_count | plus: 1 -%}
+        {%- endif -%}
+      {%- endfor -%}
+      ["{{ t }}", {{ tag_count }}]{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ];
+</script>
+
+<div style="width: 100%; height: 500px;">
+  <canvas id="tag-cloud-canvas" width="900" height="500"></canvas>
+</div>
+
+<script>
+  WordCloud(document.getElementById('tag-cloud-canvas'), {
+    list: tagList,
+    gridSize: 12,
+    weightFactor: 20,
+    fontFamily: 'Nanum Gothic, Arial',
+    color: 'random-dark',
+    rotateRatio: 0.5,
+    backgroundColor: '#fff',
+    click: function(item) {
+      window.location.href = '/tags/' + encodeURIComponent(item[0]) + '/';
+    }
+  });
+</script>
