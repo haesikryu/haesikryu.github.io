@@ -14,21 +14,64 @@ layout: page
 {% endfor %}
 {% assign sorted_tags = all_tags | sort_natural %}
 
-<div id="tags" class="d-flex flex-wrap mx-xl-2">
+<style>
+.tag-cloud {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin: 32px 0 20px 0;
+}
+.tag-link {
+  background: #f5f5f5;
+  border-radius: 20px;
+  padding: 8px 18px;
+  text-decoration: none;
+  color: #0073aa;
+  font-weight: 500;
+  transition: background 0.2s, color 0.2s;
+  display: inline-block;
+  margin-bottom: 6px;
+}
+.tag-link:hover {
+  background: #0073aa;
+  color: #fff;
+}
+.tag-count {
+  color: #888;
+  font-size: 0.9em;
+  margin-left: 4px;
+}
+</style>
+
+<div class="tag-cloud">
   {% for t in sorted_tags %}
-    <div>
-      <a class="tag" href="{{ t | slugify | url_encode | prepend: '/tags/' | append: '/' | relative_url }}">
-        {{ t -}}
-        <span class="text-muted">
-          {%- assign tag_count = 0 -%}
-          {%- for post in all_posts -%}
-            {%- if post.tags contains t -%}
-              {%- assign tag_count = tag_count | plus: 1 -%}
-            {%- endif -%}
-          {%- endfor -%}
-          {{ tag_count }}
-        </span>
-      </a>
-    </div>
+    {%- assign tag_count = 0 -%}
+    {%- for post in all_posts -%}
+      {%- if post.tags contains t -%}
+        {%- assign tag_count = tag_count | plus: 1 -%}
+      {%- endif -%}
+    {%- endfor -%}
+    {%- assign min_font = 1.0 -%}
+    {%- assign max_font = 2.2 -%}
+    {%- assign min_count = 1 -%}
+    {%- assign max_count = 6 -%}
+    {%- assign count_delta = tag_count | minus: min_count -%}
+    {%- assign font_range = max_font | minus: min_font -%}
+    {%- assign count_range = max_count | minus: min_count -%}
+    {%- if count_range == 0 -%}
+      {%- assign ratio = 0 -%}
+    {%- else -%}
+      {%- assign ratio = count_delta | times: 100 | divided_by: count_range -%}
+    {%- endif -%}
+    {%- assign font_size = min_font | plus: font_range | times: ratio | divided_by: 100 -%}
+    {%- if font_size > max_font -%}
+      {%- assign font_size = max_font -%}
+    {%- endif -%}
+    {%- if font_size < min_font -%}
+      {%- assign font_size = min_font -%}
+    {%- endif -%}
+    <a class="tag-link" href="{{ t | slugify | url_encode | prepend: '/tags/' | append: '/' | relative_url }}" style="font-size: {{ font_size }}em;">
+      {{ t }} <span class="tag-count">({{ tag_count }})</span>
+    </a>
   {% endfor %}
 </div>
