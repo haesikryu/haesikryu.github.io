@@ -6,7 +6,7 @@ tags: [GitHubPages, GoogleAnalytics, GA4, Jekyll, 웹분석, 블로그운영, �
 
 ---
 
-# GitHub Pages에 Google Analytics 4 연동 완벽 가이드 (초보자용)
+# GitHub Pages에에 Google Analytics 연동하는 방법 (GA4 기준)
 
 개발자나 기술 블로거라면 방문자 수, 유입 경로, 페이지별 트래픽을 파악하고 싶을 때가 많습니다. 이 가이드는 GitHub Pages 기반 블로그에 **Google Analytics 4 (GA4)**를 연동하는 방법을 처음 해보는 분도 쉽게 따라할 수 있도록 단계별로 상세히 안내합니다.
 
