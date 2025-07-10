@@ -118,70 +118,72 @@ ja:
 
 ### _layouts/default.html
 
-```html
+```liquid
 <!DOCTYPE html>
 <html lang="{{ site.active_lang }}">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>
-        {% if page.title %}
+        {% raw %}{% if page.title %}
             {{ page.title }} | {{ site.title[site.active_lang] }}
         {% else %}
             {{ site.title[site.active_lang] }}
-        {% endif %}
+        {% endif %}{% endraw %}
     </title>
-    <meta name="description" content="{{ site.description[site.active_lang] }}">
+    <meta name="description" content="{% raw %}{{ site.description[site.active_lang] }}{% endraw %}">
     
     <!-- 다국어 SEO를 위한 hreflang 태그 -->
-    {% for lang in site.languages %}
+    {% raw %}{% for lang in site.languages %}
         {% if lang == site.default_lang %}
             <link rel="alternate" hreflang="{{ lang }}" href="{{ site.url }}{{ page.url }}" />
         {% else %}
             <link rel="alternate" hreflang="{{ lang }}" href="{{ site.url }}/{{ lang }}{{ page.url }}" />
         {% endif %}
-    {% endfor %}
+    {% endfor %}{% endraw %}
     
-    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    <link rel="stylesheet" href="{% raw %}{{ '/assets/css/style.css' | relative_url }}{% endraw %}">
 </head>
 <body>
     <header>
     <nav>
         <div class="nav-brand">
-            <a href="{{ '/' | relative_url }}">{{ site.title[site.active_lang] }}</a>
+            <a href="{% raw %}{{ '/' | relative_url }}{% endraw %}">{% raw %}{{ site.title[site.active_lang] }}{% endraw %}</a>
         </div>
         
         <ul class="nav-menu">
-            {% for nav in site.data.navigation[site.active_lang] %}
+            {% raw %}{% for nav in site.data.navigation[site.active_lang] %}
                 <li><a href="{{ nav.url | relative_url }}">{{ nav.name }}</a></li>
-            {% endfor %}
+            {% endfor %}{% endraw %}
         </ul>
         
     </nav>
 </header>
     
     <main>
-        {{ content }}
+        {% raw %}{{ content }}{% endraw %}
     </main>
     
-    {% include footer.html %}
+    <footer>
+        <p>&copy; 2024 {% raw %}{{ site.title[site.active_lang] }}{% endraw %}</p>
+    </footer>
 </body>
 </html>
 ```
 
 ### _includes/header.html
 
-```html
+```liquid
 <header>
     <nav>
         <div class="nav-brand">
-            <a href="{{ '/' | relative_url }}">{{ site.title[site.active_lang] }}</a>
+            <a href="{% raw %}{{ '/' | relative_url }}{% endraw %}">{% raw %}{{ site.title[site.active_lang] }}{% endraw %}</a>
         </div>
         
         <ul class="nav-menu">
-            {% for nav in site.data.navigation[site.active_lang] %}
+            {% raw %}{% for nav in site.data.navigation[site.active_lang] %}
                 <li><a href="{{ nav.url | relative_url }}">{{ nav.name }}</a></li>
-            {% endfor %}
+            {% endfor %}{% endraw %}
         </ul>
         
     </nav>
@@ -190,10 +192,10 @@ ja:
 
 ### _includes/language-selector.html
 
-```html
+```liquid
 <div class="language-selector">
     <select onchange="changeLanguage(this.value)">
-        {% for lang in site.languages %}
+        {% raw %}{% for lang in site.languages %}
             <option value="{{ lang }}" {% if lang == site.active_lang %}selected{% endif %}>
                 {% case lang %}
                     {% when 'ko' %}한국어
@@ -201,7 +203,7 @@ ja:
                     {% when 'ja' %}日本語
                 {% endcase %}
             </option>
-        {% endfor %}
+        {% endfor %}{% endraw %}
     </select>
 </div>
 
@@ -211,7 +213,7 @@ function changeLanguage(lang) {
     var newPath;
     
     // 기본 언어(ko)인 경우 경로에서 언어 코드 제거
-    if (lang === '{{ site.default_lang }}') {
+    if (lang === '{% raw %}{{ site.default_lang }}{% endraw %}') {
         newPath = currentPath.replace(/^\/[a-z]{2}\//, '/');
     } else {
         // 다른 언어인 경우 경로에 언어 코드 추가
