@@ -120,7 +120,7 @@ ja:
 
 ```liquid
 <!DOCTYPE html>
-<html lang="{{ site.active_lang }}">
+<html lang="{% raw %}{{ site.active_lang }}{% endraw %}">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -146,19 +146,22 @@ ja:
 </head>
 <body>
     <header>
-    <nav>
-        <div class="nav-brand">
-            <a href="{% raw %}{{ '/' | relative_url }}{% endraw %}">{% raw %}{{ site.title[site.active_lang] }}{% endraw %}</a>
-        </div>
-        
-        <ul class="nav-menu">
-            {% raw %}{% for nav in site.data.navigation[site.active_lang] %}
-                <li><a href="{{ nav.url | relative_url }}">{{ nav.name }}</a></li>
-            {% endfor %}{% endraw %}
-        </ul>
-        
-    </nav>
-</header>
+        <nav>
+            <div class="nav-brand">
+                <a href="{% raw %}{{ '/' | relative_url }}{% endraw %}">
+                    {% raw %}{{ site.title[site.active_lang] }}{% endraw %}
+                </a>
+            </div>
+            
+            <ul class="nav-menu">
+                {% raw %}{% for nav in site.data.navigation[site.active_lang] %}
+                    <li>
+                        <a href="{{ nav.url | relative_url }}">{{ nav.name }}</a>
+                    </li>
+                {% endfor %}{% endraw %}
+            </ul>
+        </nav>
+    </header>
     
     <main>
         {% raw %}{{ content }}{% endraw %}
@@ -177,15 +180,18 @@ ja:
 <header>
     <nav>
         <div class="nav-brand">
-            <a href="{% raw %}{{ '/' | relative_url }}{% endraw %}">{% raw %}{{ site.title[site.active_lang] }}{% endraw %}</a>
+            <a href="{% raw %}{{ '/' | relative_url }}{% endraw %}">
+                {% raw %}{{ site.title[site.active_lang] }}{% endraw %}
+            </a>
         </div>
         
         <ul class="nav-menu">
             {% raw %}{% for nav in site.data.navigation[site.active_lang] %}
-                <li><a href="{{ nav.url | relative_url }}">{{ nav.name }}</a></li>
+                <li>
+                    <a href="{{ nav.url | relative_url }}">{{ nav.name }}</a>
+                </li>
             {% endfor %}{% endraw %}
         </ul>
-        
     </nav>
 </header>
 ```
@@ -307,25 +313,27 @@ Welcome to my developer blog.
 
 ## 7. 메인 페이지 (index.md)
 
-```markdown
+```liquid
 ---
 layout: default
 ---
 
 <div class="home">
-    <h1>{{ site.title[site.active_lang] }}</h1>
-    <p>{{ site.description[site.active_lang] }}</p>
+    <h1>{% raw %}{{ site.title[site.active_lang] }}{% endraw %}</h1>
+    <p>{% raw %}{{ site.description[site.active_lang] }}{% endraw %}</p>
     
     <div class="posts">
-        {% for post in site.posts %}
+        {% raw %}{% for post in site.posts %}
             {% if post.lang == site.active_lang %}
                 <article class="post-preview">
-                    <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+                    <h2>
+                        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+                    </h2>
                     <p class="post-meta">{{ post.date | date: "%Y-%m-%d" }}</p>
                     <p>{{ post.excerpt }}</p>
                 </article>
             {% endif %}
-        {% endfor %}
+        {% endfor %}{% endraw %}
     </div>
 </div>
 ```
@@ -380,14 +388,14 @@ jobs:
 
 ### 사이트맵 생성 (sitemap.xml)
 
-```xml
+```liquid
 ---
 layout: null
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
-    {% for post in site.posts %}
+    {% raw %}{% for post in site.posts %}
         {% for lang in site.languages %}
             {% if post.lang == lang %}
                 <url>
@@ -402,7 +410,7 @@ layout: null
                 </url>
             {% endif %}
         {% endfor %}
-    {% endfor %}
+    {% endfor %}{% endraw %}
 </urlset>
 ```
 
