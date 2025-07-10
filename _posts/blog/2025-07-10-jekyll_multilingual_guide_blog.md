@@ -1,5 +1,5 @@
 ---
-title: ekyll 다국어 블로그 구성 가이드
+title: Jekyll 다국어 블로그 구성 가이드
 date: 2025-07-10 22:04:00 +0900
 categories: [Blog]
 tags: [Jekyll다국어블로그, GitHub, jekyll-polyglot, 다국어, 개발자블로그, 국제화i18n, 블로그운영전략, 정적사이트생성기]
