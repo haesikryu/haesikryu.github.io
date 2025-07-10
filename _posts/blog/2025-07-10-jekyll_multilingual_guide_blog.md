@@ -1,3 +1,10 @@
+---
+title: ekyll 다국어 블로그 구성 가이드
+date: 2025-07-10 22:04:00 +0900
+categories: [Blog]
+tags: [Jekyll다국어블로그, GitHub, jekyll-polyglot, 다국어, 개발자블로그, 국제화i18n, 블로그운영전략, 정적사이트생성기]
+---
+
 # Jekyll 다국어 블로그 구성 가이드
 
 ## 1. 플러그인 설치 및 설정
@@ -138,7 +145,20 @@ ja:
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 <body>
-    {% include header.html %}
+    <header>
+    <nav>
+        <div class="nav-brand">
+            <a href="{{ '/' | relative_url }}">{{ site.title[site.active_lang] }}</a>
+        </div>
+        
+        <ul class="nav-menu">
+            {% for nav in site.data.navigation[site.active_lang] %}
+                <li><a href="{{ nav.url | relative_url }}">{{ nav.name }}</a></li>
+            {% endfor %}
+        </ul>
+        
+    </nav>
+</header>
     
     <main>
         {{ content }}
@@ -164,7 +184,6 @@ ja:
             {% endfor %}
         </ul>
         
-        {% include language-selector.html %}
     </nav>
 </header>
 ```
@@ -393,3 +412,346 @@ layout: null
 4. **번역 일관성**: 모든 언어에 대해 동일한 포스트를 작성하는 것이 좋음
 
 이 가이드를 따라하면 Jekyll로 완전한 다국어 블로그를 구축할 수 있습니다.
+
+**그럼 하나의 포스트를 지원할 언어별로 작성해야 하는건가?**
+맞습니다. Jekyll의 jekyll-polyglot 플러그인을 사용하면 하나의 포스트마다 지원할 언어별로 각각 작성해야 합니다.
+
+# Jekyll 다국어 블로그 포스트 작성 전략
+
+## 기본 원칙: 언어별 개별 파일 작성
+
+Jekyll의 jekyll-polyglot 플러그인을 사용하면 **하나의 포스트마다 지원할 언어별로 각각 작성**해야 합니다.
+
+### 예시: 하나의 포스트, 3개 언어
+
+```
+_posts/
+├── ko/
+│   └── 2024-01-01-jekyll-시작하기.md
+├── en/
+│   └── 2024-01-01-getting-started-with-jekyll.md
+└── ja/
+    └── 2024-01-01-jekyllを始める.md
+```
+
+## 현재 방식의 장단점
+
+### ✅ 장점
+
+- **완전한 번역 제어**: 언어별로 내용을 완전히 다르게 작성 가능
+- **SEO 최적화**: 각 언어별로 독립적인 URL과 메타데이터
+- **문화적 맞춤화**: 언어권별 독자를 고려한 콘텐츠 작성 가능
+- **검색 엔진 친화적**: 각 언어별 키워드 최적화 가능
+- **독립적 수정**: 한 언어 수정이 다른 언어에 영향 없음
+
+### ❌ 단점
+
+- **작업량 증가**: 포스트 하나당 지원 언어 수만큼 작성 필요
+- **유지보수 복잡**: 내용 수정 시 모든 언어 버전 업데이트 필요
+- **번역 일관성**: 모든 언어에 동일한 포스트가 없을 수 있음
+- **시간 소모**: 번역 시간으로 인한 포스팅 주기 증가
+
+## 대안적 접근 방법
+
+### 1. 선택적 다국어 지원
+
+모든 포스트를 번역하지 않고, 중요한 포스트만 다국어로 작성
+
+```yaml
+# _config.yml
+languages: ["ko", "en"]
+default_lang: "ko"
+```
+
+#### 파일 구조 예시
+
+```
+_posts/
+├── ko/
+│   ├── 2024-01-01-한국어-전용-포스트.md        # 한국어만
+│   ├── 2024-01-15-중요한-포스트.md             # 양쪽 언어
+│   └── 2024-01-20-일상-이야기.md              # 한국어만
+├── en/
+│   └── 2024-01-15-important-post.md           # 양쪽 언어
+```
+
+#### 포스트 메타데이터 활용
+
+```markdown
+---
+layout: post
+title: "중요한 포스트"
+date: 2024-01-15
+categories: [개발]
+tags: [Jekyll, 블로그]
+lang: ko
+translations: 
+  - lang: en
+    url: /en/2024/01/15/important-post/
+priority: high  # 번역 우선순위
+---
+```
+
+### 2. 부분 번역 시스템
+
+포스트에 번역 여부를 표시하고, 없는 경우 기본 언어로 표시
+
+#### 레이아웃 수정 (_layouts/post.html)
+
+```html
+{% assign translated_post = site.posts | where: "slug", page.slug | where: "lang", site.active_lang | first %}
+{% if translated_post %}
+    <!-- 번역된 포스트 표시 -->
+    <article class="post">
+        <h1>{{ translated_post.title }}</h1>
+        <div class="post-meta">
+            <time datetime="{{ translated_post.date | date_to_xmlschema }}">
+                {{ translated_post.date | date: "%Y-%m-%d" }}
+            </time>
+        </div>
+        <div class="post-content">
+            {{ translated_post.content }}
+        </div>
+    </article>
+{% else %}
+    <!-- 기본 언어 포스트 표시 + 번역 없음 안내 -->
+    <div class="translation-notice">
+        <p class="notice-text">
+            {% case site.active_lang %}
+                {% when 'en' %}This post is not available in English. Showing original Korean version.
+                {% when 'ja' %}この投稿は日本語で利用できません。元の韓国語版を表示しています。
+                {% else %}이 포스트는 {{ site.active_lang }}로 번역되지 않았습니다.
+            {% endcase %}
+        </p>
+        <button onclick="translatePage()" class="translate-btn">
+            {% case site.active_lang %}
+                {% when 'en' %}Auto Translate
+                {% when 'ja' %}自動翻訳
+                {% else %}자동 번역
+            {% endcase %}
+        </button>
+    </div>
+    
+    {% assign original_post = site.posts | where: "slug", page.slug | where: "lang", site.default_lang | first %}
+    <article class="post original-lang">
+        <h1>{{ original_post.title }}</h1>
+        <div class="post-content">
+            {{ original_post.content }}
+        </div>
+    </article>
+{% endif %}
+```
+
+#### 스타일링 (CSS)
+
+```css
+.translation-notice {
+    background: #f8f9fa;
+    border: 1px solid #e9ecef;
+    border-radius: 6px;
+    padding: 1rem;
+    margin-bottom: 2rem;
+}
+
+.notice-text {
+    margin: 0 0 0.5rem 0;
+    color: #6c757d;
+}
+
+.translate-btn {
+    background: #007bff;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.original-lang {
+    opacity: 0.9;
+}
+```
+
+### 3. 자동 번역 + 수동 검수 시스템
+
+초기 번역을 자동화하고 필요시 수동 검수
+
+#### 포스트 메타데이터
+
+```markdown
+---
+layout: post
+title: "포스트 제목"
+date: 2024-01-01
+lang: ko
+translation_status:
+  en: 
+    status: "auto"      # auto, manual, reviewed
+    date: "2024-01-02"
+    quality: "draft"    # draft, good, excellent
+  ja:
+    status: "none"
+---
+```
+
+#### 번역 상태 표시
+
+```html
+<!-- _includes/translation-status.html -->
+{% if page.translation_status %}
+    <div class="translation-status">
+        {% for lang_data in page.translation_status %}
+            {% assign lang = lang_data[0] %}
+            {% assign status = lang_data[1] %}
+            
+            <span class="status-badge status-{{ status.status }}">
+                {{ lang | upcase }}: 
+                {% case status.status %}
+                    {% when 'auto' %}자동 번역
+                    {% when 'manual' %}수동 번역
+                    {% when 'reviewed' %}검수 완료
+                    {% else %}번역 없음
+                {% endcase %}
+            </span>
+        {% endfor %}
+    </div>
+{% endif %}
+```
+
+### 4. 카테고리별 다국어 전략
+
+콘텐츠 유형에 따라 다국어 지원을 차별화
+
+#### 콘텐츠 분류 및 전략
+
+| 카테고리 | 다국어 지원 | 이유 |
+|----------|-------------|------|
+| 기술 튜토리얼 | 🌐 영어 위주 | 국제적 공유 가치 |
+| 개인 일상 | 🇰🇷 한국어만 | 개인적 내용 |
+| 개발 도구 리뷰 | 🌐 다국어 | 범용적 유용성 |
+| 한국 IT 뉴스 | 🇰🇷 한국어만 | 로컬 컨텍스트 |
+
+#### 설정 예시
+
+```yaml
+# _config.yml
+content_strategy:
+  tutorial:
+    languages: ["ko", "en"]
+    priority: "high"
+  personal:
+    languages: ["ko"]
+    priority: "low"
+  review:
+    languages: ["ko", "en", "ja"]
+    priority: "medium"
+  news:
+    languages: ["ko"]
+    priority: "low"
+```
+
+## 권장 접근법: 단계적 구현
+
+### 1단계: 한국어 중심 시작
+```markdown
+# 초기 설정
+languages: ["ko"]
+default_lang: "ko"
+
+# 포스트 작성
+_posts/ko/2024-01-01-first-post.md
+_posts/ko/2024-01-15-second-post.md
+```
+
+### 2단계: 인기 포스트 영어 번역
+```markdown
+# 설정 업데이트
+languages: ["ko", "en"]
+default_lang: "ko"
+
+# 선택적 번역
+_posts/ko/2024-01-01-first-post.md
+_posts/en/2024-01-01-first-post.md  # 번역 추가
+_posts/ko/2024-01-15-second-post.md (한국어만)
+```
+
+### 3단계: 체계적 다국어 확장
+```markdown
+# 전체 다국어 지원
+languages: ["ko", "en", "ja"]
+default_lang: "ko"
+
+# 카테고리별 전략 적용
+_posts/ko/tutorial/2024-01-01-jekyll-guide.md
+_posts/en/tutorial/2024-01-01-jekyll-guide.md
+_posts/ja/tutorial/2024-01-01-jekyll-guide.md
+```
+
+## 실용적 팁
+
+### 번역 작업 효율화
+
+1. **템플릿 활용**
+```markdown
+# 포스트 템플릿
+---
+layout: post
+title: "[번역 필요]"
+date: YYYY-MM-DD
+categories: []
+tags: []
+lang: 
+original_lang: ko
+translation_date: 
+translator: 
+---
+
+# 제목
+
+내용...
+```
+
+2. **번역 체크리스트**
+- [ ] 제목 번역
+- [ ] 카테고리/태그 번역
+- [ ] 본문 번역
+- [ ] 코드 주석 번역
+- [ ] 링크 현지화
+- [ ] 이미지 alt 텍스트 번역
+
+3. **자동화 도구 활용**
+```bash
+# 번역할 포스트 목록 생성
+find _posts/ko -name "*.md" | while read file; do
+    echo "번역 필요: $file"
+done
+```
+
+### 품질 관리
+
+1. **번역 품질 등급**
+- ⭐⭐⭐ 완전 번역 (네이티브 수준)
+- ⭐⭐ 좋은 번역 (의미 전달)
+- ⭐ 기본 번역 (이해 가능)
+
+2. **업데이트 동기화**
+```markdown
+---
+last_updated: 2024-01-15
+sync_status:
+  ko: "2024-01-15"
+  en: "2024-01-10"  # 업데이트 필요
+  ja: "2024-01-15"
+---
+```
+
+## 결론
+
+다국어 블로그 운영은 **완벽함보다는 지속가능성**이 중요합니다. 
+
+- 처음에는 한국어 중심으로 시작
+- 인기 포스트부터 점진적 번역
+- 카테고리별 차별화된 전략 적용
+- 자동화 도구 활용으로 효율성 증대
+
+이런 접근법으로 부담을 줄이면서도 다국어 블로그의 장점을 충분히 활용할 수 있습니다.
