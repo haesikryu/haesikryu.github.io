@@ -3,7 +3,6 @@ title: GitHub Pages에에 Google Analytics 연동하는 방법 (GA4 기준)
 date: 2025-07-09 07:50:00 +0900
 categories: [Blog]
 tags: [GitHubPages, GoogleAnalytics, GA4, Jekyll, 웹분석, 블로그운영, 정적사이트, 트래픽분석]
-
 ---
 
 # GitHub Pages에에 Google Analytics 연동하는 방법 (GA4 기준)
