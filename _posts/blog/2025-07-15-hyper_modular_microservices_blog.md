@@ -1,5 +1,5 @@
 ---
-title: '"하이퍼 모듈러 마이크로서비스: 2025년 아키텍처의 진화"
+title: "하이퍼 모듈러 마이크로서비스: 2025년 아키텍처의 진화"
 date: 2025-07-15 07:25:00 +0900
 categories: [Blog]
 tags: [microservices, software-architecture, distributed-systems, system-design, modular-design, DDD, kubernetes, EDA]
