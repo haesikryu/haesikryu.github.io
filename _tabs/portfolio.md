@@ -2,49 +2,27 @@
 title: Portfolio
 icon: fas fa-project-diagram
 order: 3
+layout: page
 ---
 
-## 포트폴리오
+# 포트폴리오
 
-제가 진행한 프로젝트들을 소개합니다.
+안녕하세요! 저는 SW 아키텍트/시니어 개발자 유해식입니다.
+- **전문 분야**: 마이크로서비스 아키텍처, 클라우드 네이티브, AI/ML, DevOps
+- **경력**: 20년 이상, 대기업/공공/교육 등 다양한 프로젝트 리딩 및 멘토링 경험
+- **기술스택**: Java, Spring Boot, React, TypeScript, AWS, Docker, Kubernetes, Python 등
+- **주요 활동**: 대외 강의, 멘토링, 오픈소스, 기술 블로그 운영
 
-### 주요 프로젝트
+---
 
-{% for project in site.portfolio limit:5 %}
-### [{{ project.title }}]({{ project.url }})
-{{ project.description }}
-- 기술 스택: {{ project.tech_stack }}
-- 기간: {{ project.period }}
-{% endfor %}
+## 프로젝트별 포트폴리오
 
-### 기술 데모
+- [AI 기반 코드 리뷰 시스템](/portfolio/ai-code-review/)
+- [클라우드 네이티브 웹 애플리케이션](/portfolio/cloud-native-webapp/)
+- [Todo App](/portfolio/todo-app/)
 
-- [GitHub Repository](https://github.com/haesikryu)
-- [기술 블로그](https://haesikryu.github.io)
+---
 
-### 오픈 소스 기여
+> 각 프로젝트명을 클릭하면 상세 내용을 볼 수 있습니다. 
 
-- 프로젝트 1
-- 프로젝트 2
-
-### 기술 스택
-
-#### Frontend
-- React.js
-- TypeScript
-- HTML5/CSS3
-
-#### Backend
-- Node.js
-- Spring Boot
-- Python
-
-#### Database
-- MySQL
-- MongoDB
-- Redis
-
-#### DevOps
-- Docker
-- AWS
-- CI/CD 
+---
