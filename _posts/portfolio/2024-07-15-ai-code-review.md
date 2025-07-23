@@ -2,7 +2,7 @@
 title: "AI 기반 코드 리뷰 시스템"
 date: 2024-07-15 14:00:00 +0900
 categories: [Portfolio]
-permalink: /portfolio/todo-app/
+permalink: /portfolio/ai-code-review/
 tags: [AI, LLM, 코드리뷰]
 tech_stack: "Python, FastAPI, React, OpenAI API"
 period: "2023.01 - 2023.12"
