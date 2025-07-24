@@ -200,7 +200,7 @@ com.company.app/
 ### 1. 단일 책임 원칙 (Single Responsibility Principle)
 각 패키지는 하나의 명확한 책임만 가져야 합니다.
 
-```java
+```
 // 좋은 예: 사용자 관련 기능만 포함
 com.company.app.domain.user/
 ├── UserController
@@ -217,7 +217,7 @@ com.company.app.controller/
 ### 2. 개방-폐쇄 원칙 (Open-Closed Principle)
 새로운 기능 추가 시 기존 코드 수정을 최소화해야 합니다.
 
-```java
+```
 // 확장 가능한 구조
 com.company.app.domain.notification/
 ├── NotificationService        # 인터페이스
@@ -229,7 +229,7 @@ com.company.app.domain.notification/
 ### 3. 의존성 역전 원칙 (Dependency Inversion Principle)
 상위 계층이 하위 계층에 의존하지 않도록 설계해야 합니다.
 
-```java
+```
 // 올바른 의존성 방향
 domain (인터페이스) ← application ← infrastructure (구현체)
 ```
