@@ -2,7 +2,7 @@
 title: "Gemini Code Assist: Google의 AI 코딩 어시스턴트 가이드"
 date: 2025-07-25 19:00:00 +0900
 categories: [Blog]
-tags: [GeminiCodeAssist, 구글클라우드, 개발자도구, 코드자동완성, VSCode, 에이전트모드, 무료개발도구]
+tags: [gemini-code-assist, google-cloud, dev-tools, ai-coding, VSCode, agent-mode, free-dev-tool]
 ---
 
 # Gemini Code Assist: Google의 AI 코딩 어시스턴트 가이드
