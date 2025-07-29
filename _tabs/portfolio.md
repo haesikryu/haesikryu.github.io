@@ -17,6 +17,7 @@ layout: page
 
 ## 프로젝트별 포트폴리오
 
+- [도메인 주도 설계를 활용한 마이크로서비스 개발 집필 (위키북스, 2021.04)](/portfolio/microservice_dev_using_ddd/)
 - [AI 기반 코드 리뷰 시스템](/portfolio/ai-code-review/)
 - [클라우드 네이티브 웹 애플리케이션](/portfolio/cloud-native-webapp/)
 - [Todo App](/portfolio/todo-app/)
