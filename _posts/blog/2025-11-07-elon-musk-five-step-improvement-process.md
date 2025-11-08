@@ -2,7 +2,7 @@
 title: "Elon Musk's five-step improvement process"
 date: 2025-11-07 09:12:00 +0900
 categories: [Blog]
-tags: [DevContainer, Docker, 개발환경, 팀협업, VSCode, RemoteDevelopmebt, 컨테이너개발]
+tags: [소프트웨어아키텍처, 프로세스개선, 시스템설계, 개발방법론, 기술부채관리, 일론머스크, 5단계개선프로세스]
 ---
 
 # 일론 머스크의 5단계 개선 프로세스란?
