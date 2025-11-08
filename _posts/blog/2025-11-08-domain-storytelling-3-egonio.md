@@ -7,7 +7,7 @@ tags: [domain-storytelling, egon-io, modeling-tool, collaboration]
 
 ## 시작하며
 
-[이전 포스트](/2025-11-08-domain-storytelling-2-notation-workshop.md)에서 Domain Storytelling 워크샵을 화이트보드로 진행하는 방법을 살펴봤습니다. 하지만 실제 프로젝트에서는 디지털 도구의 활용이 필수적입니다. 이번 포스트에서는 Domain Storytelling 전용 오픈소스 도구인 **Egon.io**의 활용 방법을 상세히 알아보겠습니다.
+[이전 포스트](/_posts/blog/2025-11-08-domain-storytelling-2-notation-workshop.md)에서 Domain Storytelling 워크샵을 화이트보드로 진행하는 방법을 살펴봤습니다. 하지만 실제 프로젝트에서는 디지털 도구의 활용이 필수적입니다. 이번 포스트에서는 Domain Storytelling 전용 오픈소스 도구인 **Egon.io**의 활용 방법을 상세히 알아보겠습니다.
 
 ## Egon.io란?
 
