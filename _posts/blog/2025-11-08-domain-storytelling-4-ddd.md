@@ -1,12 +1,10 @@
 ---
-layout: post
 title: "[Domain Storytelling #4] DDD와의 통합 - Bounded Context와 Ubiquitous Language 식별하기"
-date: 2025-11-08
-categories: [Software Architecture, DDD]
+date: 2025-11-08 15:10:00 +0900
+categories: [Blog]
 tags: [domain-storytelling, ddd, bounded-context, ubiquitous-language, strategic-design]
-series: Domain Storytelling
-series_order: 4
 ---
+
 
 ## 시작하며
 

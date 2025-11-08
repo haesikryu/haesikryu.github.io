@@ -1,11 +1,8 @@
 ---
-layout: post
 title: "[Domain Storytelling #2] 표기법과 워크샵 가이드 - 실제로 어떻게 그리고 진행하는가"
-date: 2025-11-08
-categories: [Software Architecture, DDD]
+date: 2025-11-08 14:20:00 +0900
+categories: [Blog]
 tags: [domain-storytelling, workshop, notation, facilitation]
-series: Domain Storytelling
-series_order: 2
 ---
 
 ## 시작하며

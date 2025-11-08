@@ -1,11 +1,8 @@
 ---
-layout: post
 title: "[Domain Storytelling #3] Egon.io 도구 활용 - 디지털 도구로 효율적으로 작업하기"
-date: 2025-11-08
-categories: [Software Architecture, DDD, Tools]
+date: 2025-11-08 14:45:00 +0900
+categories: [Blog]
 tags: [domain-storytelling, egon-io, modeling-tool, collaboration]
-series: Domain Storytelling
-series_order: 3
 ---
 
 ## 시작하며
