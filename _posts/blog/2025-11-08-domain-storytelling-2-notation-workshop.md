@@ -7,7 +7,7 @@ tags: [domain-storytelling, workshop, notation, facilitation]
 
 ## 시작하며
 
-[이전 포스트](/domain-storytelling-intro)에서 Domain Storytelling의 개념과 필요성을 살펴봤습니다. 이번에는 실제로 Domain Story를 어떻게 그리고, 워크샵을 어떻게 진행하는지 구체적으로 알아보겠습니다.
+[이전 포스트](/2025-11-08-domain-storytelling-1-intro.md)에서 Domain Storytelling의 개념과 필요성을 살펴봤습니다. 이번에는 실제로 Domain Story를 어떻게 그리고, 워크샵을 어떻게 진행하는지 구체적으로 알아보겠습니다.
 
 ## Domain Storytelling의 표기법 (Pictographic Language)
 
