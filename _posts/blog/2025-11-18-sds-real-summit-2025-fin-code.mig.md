@@ -25,7 +25,7 @@ tags: [financial-code-conversion, software-engineering-agent, samsung-sds, real-
 
 이러한 AI 기반의 소프트웨어 엔지니어링 혁신은 금융권에만 국한되지 않고, 전 산업으로 빠르게 확산될 조짐을 보이고 있습니다. 예를 들어, KB금융그룹 같은 곳에서는 AI 에이전트를 활용해 금융 상담 기능을 고도화하고, 사내 지식과 연결하여 누구나 쉽게 복잡한 에이전트를 제작할 수 있는 'AI 랩'이나 'AI 스토어'를 구축하고 있다고 합니다. 
 
-<img src="../../assets/img/blog/variable-domain.png">
+<img src="/assets/img/blog/variable-domain.png" alt="Variable Domain">
 
 또한, 삼성SDS는 자사의 AI 플랫폼인 'FabriX'와 협업 솔루션 'Brity Copilot'을 통해 개인 맞춤형 비서인 '퍼스널 에이전트' 출시를 예고하고 있습니다. 이 에이전트들은 메일 요약, 실시간 통역, 심지어 운전 중 음성 명령 처리까지 담당하며 업무의 연속성을 확보해 준다고 하니, 앞으로 우리의 업무 환경은 상상 이상으로 편리해질 것입니다.
 
