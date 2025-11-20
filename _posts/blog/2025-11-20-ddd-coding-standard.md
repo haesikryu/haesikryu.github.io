@@ -5,6 +5,8 @@ categories: [Blog]
 tags: [ddd, donain-driven-design, hexagonal-architecture, ports-and-adapters, package-by-feature, coding-standard, java, spring-boot]
 ---
 
+# DDD, Hexagonal Architecture를 활용한 Backend 구조 표준
+
 DDD(Domain-Driven Design)와 헥사고날 아키텍처(Hexagonal Architecture, Ports and Adapters)를 Spring Boot 환경에 적용할 때 가장 중요한 핵심은 **"도메인(비즈니스 로직)이 외부 기술(Web, DB, 외부 API 등)에 의존하지 않도록 격리하는 것"**입니다.
 이를 달성하기 위한 패키지 구조 표준과 구성 가이드를 제안합니다.
 
