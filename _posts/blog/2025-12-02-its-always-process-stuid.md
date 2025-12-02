@@ -1,9 +1,11 @@
 ---
-title: "IT 시스템 구축에서 프로세스가 먼저다"
+title: "IT 시스템 구축 프로젝트에서 시스템을 만드는 것보다 프로세스가 먼저다"
 date: 2025-12-02 19:54:33 +0900
 categories: [Blog]
 tags: [ai, machine-learning, deep-learning, tpu, tpu-v4]
 ---
+
+# IT 시스템 구축 프로젝트에서 시스템을 만드는 것보다 프로세스가 먼저다
 
 IT 시스템 구축 프로젝트에서 가장 큰 실수는 “먼저 시스템을 만들고, 나중에 프로세스를 맞추자”는 생각이다.  원문의 핵심 메시지인 “It’s always the process, stupid!”을 IT 시스템 구축 관점에서 확장하면, 다음과 같은 실무 인사이트를 얻을 수 있다.
 
