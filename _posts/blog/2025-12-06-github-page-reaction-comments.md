@@ -154,10 +154,6 @@ Giscus 봇이 내 리포지토리의 Discussions에 글을 쓸 수 있도록 권
 **예시 (Giscus 스크립트 위치):**
 
 ```html
-<article class="post">
-  {{ content }}
-</article>
-
 <script src="https://giscus.app/client.js"
         data-repo="username/repo"
         ...
