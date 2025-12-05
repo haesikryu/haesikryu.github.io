@@ -1,94 +1,107 @@
 ---
-title: "The Aigile Methodology"
-date: 2025-12-03 11:53:18 +0900
+title: "Gemini 3 으로 나만의 '3D 미니어처 날씨 카드' 만들기"
+date: 2025-12-05 11:53:18 +0900
 categories: [Blog]
-tags: [ai, machine-learning, deep-learning, tpu, tpu-v4]
+tags: [AI, AI-Art, Gemini, NanoBanana]
 ---
 
-# The AIgile Methodology
+# [AI Art] Gemini와 Nano Banana로 나만의 '3D 미니어처 날씨 카드' 만들기
 
-> ### AI + Agile = AIgile
+**Gemini**의 이미지 생성 기능을 활용해서 우리동네 날씨 카드를 만드는 프롬프트 엔지니어링 과정을 정리해 드립니다.
 
-`The AIgile Methodology`는 단순한 도구의 도입이 아니라, **'소프트웨어 개발의 생산성 혁명'**을 의미합니다. 기존의 Agile이 "빠르게 실패하고 배우는 것(Fail Fast, Learn Fast)"에 초점을 맞췄다면, **AIgile(AI + Agile)**은 **"AI가 실행하고, 인간은 지휘/검증하는 것"**으로 패러다임을 전환합니다.
+매일 확인하는 날씨 정보, 텍스트나 단순한 아이콘으로만 보고 계신가요?
+오늘은 생성형 AI **Gemini**와 저만의 창작 페르소나인 **Nano Banana** 스타일을 결합하여, 실시간 날씨와 지역의 랜드마크를 반영한 **'3D 아이소메트릭(Isometric) 미니어처 카드'**를 만드는 과정을 공유하려 합니다.
 
-이 방법론을 실제 IT 시스템 구축(SDLC)에 어떻게 적용해야 하는지, 기존 방식과 비교하여 PMO 관점에서 상세히 분석해 드리겠습니다.
-
------
-
-### 1. AIgile Methodology의 핵심 철학
-
-**"Doing vs. Thinking"**
-
-  * **기존 Agile:** 사람이 생각(Think)하고, 사람이 직접 실행(Code/Write)합니다.
-  * **AIgile:** 사람은 **정의(Define)하고 검증(Verify)**하며, AI가 **실행(Do)**합니다.
-  * **핵심 변화:** 개발 속도가 비약적으로 빨라짐에 따라, 병목 구간이 '개발(Coding)'에서 **검토(Review)**와 **의사결정(Decision)**으로 이동합니다.
+단순히 "그림 그려줘"가 아닌, 원하는 구도, 질감, 그리고 텍스트 레이아웃까지 제어하는 **프롬프트 엔지니어링**의 구체적인 사례를 소개합니다.
 
 -----
 
-### 2. 비교 분석: 기존 Agile vs. AIgile (SDLC 단계별)
+## 1. The Goal: 감성적인 날씨 정보 시각화
 
-가장 큰 차이점은 **산출물(Artifacts)의 생성 주체**와 **속도**입니다.
+목표는 간단합니다. 특정 지역(예: 판교, 횡성)의 랜드마크를 반영한 미니어처 도시에 현재의 날씨(눈, 비, 맑음)를 입혀, 한 장의 **'작품'** 같은 날씨 카드를 만드는 것입니다.
 
-| SDLC 단계 | 기존 Agile (Traditional) | AIgile (AI-Augmented) | 핵심 변화 (Impact) |
-| :--- | :--- | :--- | :--- |
-| **기획 및 요구사항**<br>(Requirements) | PO/기획자가 User Story 작성,<br>Backlog 수동 관리 | **AI가 초안 작성**, 인간은 정제.<br>복잡한 요구사항을 AI가 구조화 | **Backlog 생성 시간 80% 단축**<br>빈 페이지 증후군(Blank Page Syndrome) 제거 |
-| **설계**<br>(Design & Arch.) | 아키텍트가 다이어그램 작성,<br>문서화 작업에 시간 소요 | AI가 요구사항 기반 **UML/ERD 자동 생성**,<br>아키텍처 대안 제시 | 설계의 **시각화 즉시성 확보**<br>여러 아키텍처 옵션의 빠른 비교 |
-| **개발**<br>(Development) | 개발자가 직접 코딩 (Hand-coding),<br>구글링하며 문제 해결 | **AI(Copilot 등)가 코드 생성**,<br>개발자는 **Reviewer/Editor** 역할 | **Coding Velocity(속도) 극대화**<br>개발자는 '로직 설계'에 집중 |
-| **테스트**<br>(Testing) | QA팀이 테스트 케이스(TC) 작성,<br>수동/자동 테스트 병행 | AI가 **TC 자동 생성 및 Edge Case 예측**,<br>Unit Test 코드 자동 작성 | 테스트 커버리지의 획기적 증대<br>**Human Error 감소** |
-| **배포 및 운영**<br>(Deployment) | DevOps 엔지니어가 스크립트 작성,<br>로그 모니터링 | AI가 **IaC(Infra as Code) 스크립트 작성**,<br>로그 패턴 분석 및 이상 탐지 | 배포 파이프라인 구성 시간 단축<br>장애 예측 가능성 향상 |
-| **회고**<br>(Retrospective) | 스크럼 마스터 주도 하에 의견 공유,<br>데이터 수동 취합 | AI가 **Sprint 데이터 분석**,<br>감정 분석 및 개선점 제안 | 객관적 데이터 기반의 회고<br>팀의 숨겨진 병목 구간 발견 |
+여기서 핵심 도구는 두 가지입니다.
 
------
+  * **Engine:** Google **Gemini** (이미지 생성 모델 Imagen 3 활용)
+  * **Style Concept:** **Nano Banana** (부드러운 텍스처와 장난감 같은 감성을 담은 나노블럭/미니어처 스타일)
 
-### 3. AIgile 적용 상세 가이드 (PMO 실행 전략)
+## 2. The Prompt Strategy (프롬프트 전략)
 
-PMO로서 프로젝트에 AIgile을 도입할 때의 구체적인 워크플로우입니다.
+원하는 결과물을 얻기 위해 프롬프트를 3가지 핵심 영역으로 구조화했습니다.
 
-#### **Phase 1: Discovery & Planning (탐색 및 계획)**
+### A. 구도 및 스타일 (Composition & Style)
 
-  * **AI의 역할:** 프로젝트 헌터(Project Charter)나 제안요청서(RFP)를 입력받아 **초기 Product Backlog(Epics, User Stories)**를 생성합니다.
-  * **PMO/인간의 역할:** 생성된 Backlog의 우선순위를 비즈니스 가치에 따라 재조정하고, **Acceptance Criteria(인수 조건)**가 명확한지 검증합니다.
-  * **Action:** "이 요구사항 문서를 바탕으로, MECE하게 구성된 에픽(Epic)과 하위 사용자 스토리(User Story) 리스트를 표 형식으로 작성해줘."
+가장 중요한 것은 시점입니다. 도시 건설 시뮬레이션 게임(SimCity 등)에서 자주 보이는 `45° top-down isometric` 뷰를 사용하여 전체적인 조형미를 살렸습니다.
 
-#### **Phase 2: Design & Architecture (설계)**
-
-  * **AI의 역할:** 요구사항을 바탕으로 시퀀스 다이어그램, ERD, 클래스 다이어그램을 **Mermaid.js**나 **PlantUML** 코드로 생성합니다.
-  * **PMO/인간의 역할:** 생성된 다이어그램이 레거시 시스템과 정합성이 맞는지, 보안 규정을 준수하는지 **아키텍처 리뷰**를 수행합니다.
-  * **Action:**
-
-![Image of Sequence Diagram for User Login Process](/assets/img/blog/process-valication-sequence.png)
-(예: 로그인 프로세스 시퀀스 다이어그램을 그려달라고 AI에 요청 후 검증)
-
-
-#### **Phase 3: Implementation (구현 - The Biggest Shift)**
-
-  * **AI의 역할:** Boilerplate 코드(상용구 코드) 작성, 비즈니스 로직 구현, API 연동 코드 작성 등을 수행합니다. (GitHub Copilot, Cursor 등 활용)
-  * **PMO/인간의 역할:**
-      * **Developer → Code Reviewer:** 개발자는 AI가 짠 코드를 **리팩토링**하고, 최적화하며, 보안 취약점을 점검합니다.
-      * **Pair Programming:** 'AI와 짝 코딩'을 기본 원칙으로 삼습니다.
-
-#### **Phase 4: Testing & Quality Assurance (품질 보증)**
-
-  * **AI의 역할:** 구현된 코드를 기반으로 **Unit Test**와 **Integration Test** 코드를 작성하고, 놓치기 쉬운 **예외 상황(Edge Case)**을 시나리오로 만듭니다.
-  * **PMO/인간의 역할:** AI가 만든 테스트가 비즈니스 로직을 충분히 커버하는지 확인하고, 최종 UAT(사용자 인수 테스트)를 주관합니다.
-
------
-
-### 4. AIgile 도입 시 고려해야 할 리스크 및 대응 방안 (PMO Checkpoints)
-
-`The AIgile Methodology`에서도 경고하듯, 속도가 빨라지면 **기술 부채(Technical Debt)**가 쌓이는 속도도 빨라질 수 있습니다.
-
-1.  **품질의 수호자 (Guardian of Quality):**
-      * 개발 속도가 너무 빨라 코드 리뷰가 소홀해질 수 있습니다. PMO는 **"AI 생성 코드에 대한 리뷰 프로세스"**를 엄격한 게이트(Gate)로 설정해야 합니다.
-2.  **환각 현상 (Hallucination) 관리:**
-      * AI가 존재하지 않는 라이브러리를 쓰거나 잘못된 로직을 짤 수 있습니다. 주니어 개발자가 이를 맹신하지 않도록 **시니어 개발자의 검수**가 필수적입니다.
-3.  **보안 및 저작권:**
-      * SK AX와 같은 엔터프라이즈 환경에서는 사내 코드가 외부로 유출되지 않도록 **Enterprise 버전의 AI 도구**를 사용하고, 보안 가이드라인을 수립해야 합니다.
-
-### 5. 결론: "속도(Speed)"가 아닌 "가치(Value)"에 집중
-
-AIgile은 단순히 코드를 빨리 짜는 것이 아닙니다. **"비즈니스 가치를 고객에게 전달하는 리드 타임(Lead Time)"을 줄이는 것**입니다.
-
-> **당신을 위한 한 줄 요약:**
+> **Key Keywords:**
 >
-> "AIgile 환경에서 개발팀은 **'코더(Coder)'에서 '아키텍트(Architect)'로 승격**되어야 하며, PMO는 진척률 관리가 아닌 **'품질과 리스크의 수문장'** 역할을 해야 합니다."
+>   * `45° top-down isometric`: 쿼터뷰 시점 고정
+>   * `Miniature 3D cartoon scene`: 실사보다는 귀엽고 정돈된 느낌
+>   * `Soft, refined textures with realistic PBR materials`: PBR(Physically Based Rendering) 재질감을 명시하여 장난감 같으면서도 고급스러운 빛 반사 유도
+
+### B. 환경 및 대기 (Environment & Atmosphere)
+
+단순한 배경이 아닌, 현재의 '날씨'가 반영되어야 합니다. Gemini는 프롬프트 입력 시점의 컨텍스트를 이해할 수 있으므로, 날씨 조건을 환경에 녹여달라고 요청했습니다.
+
+> **Key Keywords:**
+>
+>   * `Integrate the current weather conditions`: 현재 날씨(눈, 비 등)를 장면에 통합
+>   * `Immersive atmospheric mood`: 대기 효과(안개, 눈보라 등) 추가
+
+### C. 타이포그래피 (Typography)
+
+이미지 생성 AI가 가장 어려워하는 부분이 텍스트입니다. 이를 해결하기 위해 텍스트의 위치, 정렬, 내용을 아주 구체적으로 지시해야 합니다.
+
+> **Key Keywords:**
+>
+>   * `Top-center`: 위치 고정
+>   * `Large bold text`: 폰트 스타일 지정
+>   * `Consistent spacing`: 자간/행간 유지 요청
+
+-----
+
+## 3 . Actual Prompt (실제 사용한 프롬프트)
+
+아래는 **경기도 성남시 판교신도시**와 **강원도 횡성군 안흥면** 이미지를 생성할 때 사용한 실제 프롬프트 구조입니다.
+
+```markdown
+Present a clear, 45° top-down isometric miniature 3D cartoon scene of [Location Name],
+featuring its most iconic landmarks and architectural elements.
+
+Use soft, refined textures with realistic PBR materials and gentle, lifelike lighting and shadows.
+Integrate the current weather conditions directly into the city environment to create an immersive atmospheric mood.
+
+Use a clean, minimalistic composition with a soft, solid-colored background.
+
+At the top-center, place the title “[Location Name]” in large bold text,
+a prominent weather icon beneath it, then the date (small text) and temperature (medium text).
+
+All text must be centered with consistent spacing, and may subtly overlap the tops of the buildings.
+
+Square 1080x1080 dimension.
+```
+
+## 4. Result: Nano Banana 스타일의 결과물
+
+이 프롬프트를 Gemini에 입력했을 때, AI는 위치 정보를 기반으로 해당 지역의 특징(판교의 현대적인 빌딩 숲, 횡성 안흥의 한적한 시골 풍경 등)을 추론하여 **Nano Banana** 특유의 몽글몽글하고 부드러운 3D 룩으로 렌더링해 줍니다.
+
+### A. 경기도 성남시 판교 날씨 카드
+![판교 날씨 카드](/assets/img/blog/weather-pangyo.png)  
+
+### B. 강원도 횡성군 안흥면 날씨 카드
+![횡성 날씨 카드](/assets/img/blog/weather-anhueng.png)
+
+특히, 프롬프트 입력 당시의 실제 날씨(예: 영하의 기온, 눈 내리는 날씨)가 반영되어, 건물 지붕에 눈이 쌓이거나 차가운 색감의 조명이 적용된 것을 확인할 수 있습니다.
+
+## 5. Insight & Next Steps
+
+이번 작업을 통해 얻은 인사이트는 다음과 같습니다.
+
+1.  **디테일한 재질(Material) 정의의 중요성:** 단순히 "3D로 그려줘"라고 하는 것보다 `PBR materials`, `Soft texture` 등을 명시했을 때 훨씬 완성도 높은 '미니어처' 느낌이 납니다.
+2.  **데이터와 아트의 결합:** 날씨 API의 데이터를 프롬프트 변수로 넣어 자동화한다면, 매일 아침 그날의 날씨에 맞는 '오늘의 도시 카드'를 자동으로 발행하는 서비스도 가능할 것입니다.
+
+앞으로는 이 **Nano Banana** 스타일을 더 발전시켜, 개발자들을 위한 GitHub 프로필 이미지나 프로젝트 아키텍처 다이어그램을 이처럼 예쁜 3D 아이소메트릭 형태로 시각화하는 방법도 연구해 볼 예정입니다.
+
+-----
+
+위 프롬프트 구조를 활용하여 "서울 남산타워"나 "제주도" 버전의 이미지를 생성해 보세요.
