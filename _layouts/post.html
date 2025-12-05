@@ -3,3 +3,9 @@ layout: default
 ---
 
 {{ content }}
+
+{% if site.comments.provider == 'giscus' %}
+  <div class="post-comments">
+    {% include giscus.html %}
+  </div>
+{% endif %}
