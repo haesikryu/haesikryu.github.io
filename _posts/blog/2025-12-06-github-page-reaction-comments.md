@@ -145,11 +145,11 @@ Giscus 봇이 내 리포지토리의 Discussions에 글을 쓸 수 있도록 권
 
 ### 적용 팁 (Jekyll 테마 기준)
 
-대부분의 GitHub Pages 블로그(Jekyll)는 `_layouts` 폴더 안에 게시글의 뼈대를 담당하는 `post.html` 파일이 있습니다.
+대부분의 GitHub Pages 블로그(Jekyll)는 "_layouts" 폴더 안에 게시글의 뼈대를 담당하는 "post.html" 파일이 있습니다.
 
 1. 위에서 선택한 서비스의 스크립트 코드를 복사합니다.
-2. `_layouts/post.html` 파일을 엽니다.
-3. 본문 내용(`{{ content }}`)이 끝나는 하단 부분에 복사한 코드를 붙여넣습니다.
+2. "_layouts/post.html" 파일을 엽니다.
+3. 본문 내용("{{ content }}")이 끝나는 하단 부분에 복사한 코드를 붙여넣습니다.
 
 **예시 (Giscus 스크립트 위치):**
 
