@@ -112,10 +112,6 @@ Giscus 봇이 내 리포지토리의 Discussions에 글을 쓸 수 있도록 권
 **코드 예시:**
 
 ```html
-<article class="post-content">
-  {{ content }}
-</article>
-
 <script src="https://giscus.app/client.js"
         data-repo="사용자명/리포지토리명"
         data-repo-id="R_kgD..."
