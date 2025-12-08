@@ -41,6 +41,12 @@ tags: [소프트웨어아키텍처, 프로세스개선, 시스템설계, 개발�
 요약하자면, 머스크의 핵심 철학은 **“자동화보다 먼저 생각하고, 없애고, 단순화하라”** 이다.
 자동화는 출발점이 아니라 마지막 단계로 완전히 정제된 시스템에서만 의미가 있다.
 
+## 일론 머스크의 5단계 일처리 프로세스 (영상)
+<video width="100%" controls>
+  <source src="/assets/media/elon-musk-five-step-improvement-process.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 # IT 시스템에 적용해보기
 
 ## 요구사항 분석 단계
