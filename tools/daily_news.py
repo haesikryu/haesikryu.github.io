@@ -5,6 +5,8 @@ import google.generativeai as genai
 from openai import OpenAI
 import time
 import yaml
+import glob
+import re
 
 # Configuration
 RSS_FEEDS = [
@@ -59,6 +61,38 @@ def fetch_news():
         except Exception as e:
             print(f"Error fetching {url}: {e}")
     return news_items
+
+
+
+def get_today_posted_urls():
+    """
+    Scans _posts/news/ for files created today (or matching today's date pattern)
+    and extracts all links from them to avoid duplicates.
+    """
+    today_str = datetime.datetime.now().strftime('%Y-%m-%d')
+    # Match files starting with YYYY-MM-DD-daily-ai-news
+    pattern = os.path.join("_posts/news", f"{today_str}-daily-ai-news*.md")
+    existing_files = glob.glob(pattern)
+    
+    posted_urls = set()
+    
+    link_pattern = re.compile(r'\[.*?\]\((http[s]?://.*?)\)')
+    
+    for filepath in existing_files:
+        try:
+            with open(filepath, 'r', encoding='utf-8') as f:
+                content = f.read()
+                # Find all links in the content
+                links = link_pattern.findall(content)
+                posted_urls.update(links)
+                
+                # Also check for "Link: " lines if we used that format before (though prompt changed)
+                # Just to be safe, let's look for known source patterns if they are raw URLs
+                # But regex above covers markdown links which is what we produce.
+        except Exception as e:
+            print(f"Error reading {filepath}: {e}")
+            
+    return posted_urls
 
 def generate_blog_post(news_items):
     # Format news for the prompt
@@ -127,11 +161,19 @@ def generate_blog_post(news_items):
 
 def save_post(content):
     date_str = datetime.datetime.now().strftime('%Y-%m-%d')
-    filename = f"{date_str}-daily-ai-news.md"
+    base_filename = f"{date_str}-daily-ai-news"
+    filename = f"{base_filename}.md"
     filepath = os.path.join("_posts/news", filename)
     
     # Ensure directory exists
     os.makedirs(os.path.dirname(filepath), exist_ok=True)
+    
+    # Generate unique filename
+    counter = 1
+    while os.path.exists(filepath):
+        filename = f"{base_filename}-{counter}.md"
+        filepath = os.path.join("_posts/news", filename)
+        counter += 1
 
     # Create front matter
     front_matter = {
@@ -157,11 +199,29 @@ def main():
     try:
         news = fetch_news()
         if not news:
-            print("No news found.")
+            print("No news found from feeds.")
             return
 
         print(f"Collected {len(news)} news candidates.")
-        content = generate_blog_post(news)
+        
+        # Deduplication
+        posted_urls = get_today_posted_urls()
+        if posted_urls:
+            print(f"Found {len(posted_urls)} already posted URLs today.")
+        
+        new_news = []
+        for item in news:
+            if item['link'] not in posted_urls:
+                new_news.append(item)
+            else:
+                print(f"Skipping duplicate: {item['title'][:30]}...")
+                
+        if not new_news:
+            print("No new news items found (all duplicates).")
+            return
+
+        print(f"Proceeding with {len(new_news)} new items.")
+        content = generate_blog_post(new_news)
         save_post(content)
         
     except Exception as e:
