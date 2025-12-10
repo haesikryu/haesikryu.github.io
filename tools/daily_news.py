@@ -73,9 +73,36 @@ def generate_blog_post(news_items):
     if gemini_key:
         print(f"Using Google Gemini... (Library Version: {genai.__version__})")
         genai.configure(api_key=gemini_key)
-        model = genai.GenerativeModel('gemini-1.5-flash')
-        response = model.generate_content(prompt)
-        content = response.text
+        # Try models in order of preference
+        models_to_try = [
+            'gemini-1.5-flash',
+            'gemini-1.5-flash-latest',
+            'gemini-1.5-pro',
+            'gemini-1.0-pro',
+            'gemini-pro'
+        ]
+        
+        for model_name in models_to_try:
+            try:
+                print(f"Trying model: {model_name}...")
+                model = genai.GenerativeModel(model_name)
+                response = model.generate_content(prompt)
+                content = response.text
+                print(f"Success with {model_name}")
+                break
+            except Exception as e:
+                print(f"Failed with {model_name}: {e}")
+                continue
+        
+        if not content:
+            print("All models failed. Listing available models:")
+            try:
+                for m in genai.list_models():
+                    if 'generateContent' in m.supported_generation_methods:
+                        print(f"- {m.name}")
+            except Exception as e:
+                print(f"Could not list models: {e}")
+            raise ValueError("Could not generate content with any model.")
     elif openai_key:
         print("Using OpenAI...")
         client = OpenAI(api_key=openai_key)
