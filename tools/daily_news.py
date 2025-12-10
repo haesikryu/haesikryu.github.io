@@ -75,6 +75,8 @@ def generate_blog_post(news_items):
         genai.configure(api_key=gemini_key)
         # Try models in order of preference
         models_to_try = [
+            'gemini-flash-latest',
+            'gemini-pro-latest',
             'gemini-1.5-flash',
             'gemini-1.5-flash-latest',
             'gemini-1.5-pro',
