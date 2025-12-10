@@ -1,7 +1,7 @@
 ---
 title: Portfolio
 icon: fas fa-project-diagram
-order: 3
+order: 4
 layout: page
 ---
 
