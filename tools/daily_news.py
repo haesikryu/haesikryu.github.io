@@ -21,9 +21,13 @@ Your task is to:
 1. Select the top 5-7 most important and interesting stories related to AI and Technology from the last 24 hours.
 2. Write a daily digest blog post in Korean.
 3. The post should have a catchy title.
-4. For each story, provide a clear title, a summary of what happened, and why it matters.
-5. Use proper Markdown formatting.
-6. Include the source link for each story.
+4. For each story, provide:
+    - A clear title as a header (e.g. ## 1. Title)
+    - A summary of what happened (labeled **Summary:**)
+    - Why it matters (labeled **Why it matters:**)
+    - A source link (labeled **Source:**)
+5. Use proper Markdown formatting. **Do NOT use tables.** Use blockquotes (>) or regular paragraphs for the content to ensure it displays well on mobile devices.
+6. Make it easy to read.
 
 Here is the news data:
 {news_data}
