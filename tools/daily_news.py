@@ -170,15 +170,17 @@ def save_post(content):
     
     # Generate unique filename
     counter = 1
+    title_suffix = ""
     while os.path.exists(filepath):
         filename = f"{base_filename}-{counter}.md"
         filepath = os.path.join("_posts/news", filename)
+        title_suffix = f" ({counter + 1})"
         counter += 1
 
     # Create front matter
     front_matter = {
         'layout': 'post',
-        'title': f"{date_str} Daily AI & Tech News",
+        'title': f"{date_str} Daily AI & Tech News{title_suffix}",
         'date': datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S %z'),
         'categories': ['news', 'ai'],
         'tags': ['daily-news', 'automation', 'ai']
