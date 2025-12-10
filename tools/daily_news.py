@@ -71,7 +71,7 @@ def generate_blog_post(news_items):
     content = ""
 
     if gemini_key:
-        print("Using Google Gemini...")
+        print(f"Using Google Gemini... (Library Version: {genai.__version__})")
         genai.configure(api_key=gemini_key)
         model = genai.GenerativeModel('gemini-1.5-flash')
         response = model.generate_content(prompt)
