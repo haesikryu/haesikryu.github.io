@@ -1,5 +1,5 @@
 ---
-title: NEWS
+title: TECH NEWS
 icon: fas fa-newspaper
 order: 2
 ---
