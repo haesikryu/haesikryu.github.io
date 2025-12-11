@@ -69,7 +69,10 @@ def get_today_posted_urls():
     Scans _posts/news/ for files created today (or matching today's date pattern)
     and extracts all links from them to avoid duplicates.
     """
-    today_str = datetime.datetime.now().strftime('%Y-%m-%d')
+    # Use KST (UTC+9)
+    kst = datetime.timezone(datetime.timedelta(hours=9))
+    now_kst = datetime.datetime.now(kst)
+    today_str = now_kst.strftime('%Y-%m-%d')
     # Match files starting with YYYY-MM-DD-daily-ai-news
     pattern = os.path.join("_posts/news", f"{today_str}-daily-ai-news*.md")
     existing_files = glob.glob(pattern)
@@ -160,7 +163,9 @@ def generate_blog_post(news_items):
     return content
 
 def save_post(content):
-    date_str = datetime.datetime.now().strftime('%Y-%m-%d')
+    kst = datetime.timezone(datetime.timedelta(hours=9))
+    now_kst = datetime.datetime.now(kst)
+    date_str = now_kst.strftime('%Y-%m-%d')
     base_filename = f"{date_str}-daily-ai-news"
     filename = f"{base_filename}.md"
     filepath = os.path.join("_posts/news", filename)
@@ -181,7 +186,7 @@ def save_post(content):
     front_matter = {
         'layout': 'post',
         'title': f"{date_str} Daily AI & Tech News{title_suffix}",
-        'date': datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S %z'),
+        'date': now_kst.strftime('%Y-%m-%d %H:%M:%S %z'),
         'categories': ['news', 'ai'],
         'tags': ['daily-news', 'automation', 'ai']
     }
