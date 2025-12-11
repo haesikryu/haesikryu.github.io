@@ -1,3 +1,12 @@
+---
+layout: post
+title: "유튜브 쇼츠 자동 생성 & 업로드 가이드 (전액 무료)"
+date: 2025-12-11
+categories: [Automation]
+tags: [youtube, shorts, python, github-actions, gemini]
+author: haesikryu
+---
+
 # 📺 유튜브 쇼츠 자동 생성 & 업로드 가이드
 
 이 프로젝트는 매일 아침 9시에 **최신 IT 뉴스**를 수집하여, **블로그 포스팅**을 작성하고, 이를 바탕으로 **유튜브 쇼츠(Shorts) 영상**을 생성하여 **자동으로 업로드**하는 100% 자동화 시스템입니다.
