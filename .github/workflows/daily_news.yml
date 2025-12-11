@@ -23,6 +23,11 @@ jobs:
       with:
         python-version: '3.11'
 
+    - name: Install system dependencies
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y ffmpeg imagemagick ghostscript fonts-nanum
+
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
@@ -35,6 +40,22 @@ jobs:
       run: |
         python tools/daily_news.py
 
+    - name: Generate and Upload Short
+      env:
+        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+        YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
+        YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
+        YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
+      run: |
+        python tools/generate_shorts.py
+    - name: Upload Shorts Artifact
+      uses: actions/upload-artifact@v4
+      if: always() # Upload even if the previous step failed (e.g. upload failed but video generated)
+      with:
+        name: daily-shorts-video
+        path: shorts_output/
+        retention-days: 3
     - name: Commit and Push changes
       run: |
         git config --global user.name 'github-actions[bot]'
