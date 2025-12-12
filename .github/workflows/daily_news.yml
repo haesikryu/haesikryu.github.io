@@ -2,8 +2,8 @@ name: Daily IT News Automation
 
 on:
   schedule:
-    # Runs at 00:00 UTC (9:00 AM KST) daily
-    - cron: '0 0 * * *'
+    # Runs at 00:00 UTC (9:00 AM KST) and 07:00 UTC (4:00 PM KST) daily
+    - cron: '0 0,7 * * *'
   workflow_dispatch: # Allows manual trigger
 
 jobs:
@@ -16,7 +16,7 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v4
       with:
-        token: ${{ secrets.GH_PAT }}
+        token: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Set up Python
       uses: actions/setup-python@v4

@@ -1,6 +1,9 @@
 import os
 import datetime
 import feedparser
+import requests
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 import google.generativeai as genai
 from openai import OpenAI
 import time
@@ -40,9 +43,25 @@ Return only the Markdown content for the blog post (excluding front matter).
 def fetch_news():
     news_items = []
     print("Fetching news from RSS feeds...")
+    
+    # Setup retry strategy
+    retry_strategy = Retry(
+        total=3,
+        backoff_factor=1,
+        status_forcelist=[429, 500, 502, 503, 504],
+    )
+    adapter = HTTPAdapter(max_retries=retry_strategy)
+    http = requests.Session()
+    http.mount("https://", adapter)
+    http.mount("http://", adapter)
+
     for url in RSS_FEEDS:
         try:
-            feed = feedparser.parse(url)
+            # Use requests with timeout to fetch raw content first
+            response = http.get(url, timeout=10)
+            response.raise_for_status()
+            
+            feed = feedparser.parse(response.content)
             print(f"Fetched {len(feed.entries)} items from {url}")
             for entry in feed.entries[:5]: # Take top 5 from each feed
                 # filter for recent news (last 24 hours) if possible, but for simplicity just taking latest
