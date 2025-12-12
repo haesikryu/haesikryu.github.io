@@ -25,7 +25,8 @@ You are a tech blogger. I will provide you with a list of recent news headlines 
 Your task is to:
 1. Select the top 5-7 most important and interesting stories related to AI and Technology from the last 24 hours.
 2. Write a daily digest blog post in Korean.
-3. The post should have a catchy title.
+3. Start with a simple greeting like "안녕하세요!" and do not use placeholders like [Your Name] or introduce yourself.
+4. The post should have a catchy title.
 4. For each story, provide:
     - A clear title as a header (e.g. ## 1. Title)
     - A summary of what happened (labeled **Summary:**)
