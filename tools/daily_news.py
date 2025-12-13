@@ -184,7 +184,8 @@ def generate_blog_post(news_items):
 
 def save_post(content):
     kst = datetime.timezone(datetime.timedelta(hours=9))
-    now_kst = datetime.datetime.now(kst)
+    # Subtract 5 minutes to ensure the post is in the past relative to build server time
+    now_kst = datetime.datetime.now(kst) - datetime.timedelta(minutes=5)
     date_str = now_kst.strftime('%Y-%m-%d')
     base_filename = f"{date_str}-daily-ai-news"
     filename = f"{base_filename}.md"
