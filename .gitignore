@@ -27,3 +27,5 @@ _sass/vendors
 assets/js/dist
 .DS_Store
 .DS_Store
+tools/client_secret.json
+tools/token.pickle
