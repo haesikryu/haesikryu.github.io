@@ -183,11 +183,13 @@ def generate_blog_post(news_items):
     return content
 
 def save_post(content):
-    kst = datetime.timezone(datetime.timedelta(hours=9))
     # Subtract 5 minutes to ensure the post is in the past relative to build server time
     now_kst = datetime.datetime.now(kst) - datetime.timedelta(minutes=5)
     date_str = now_kst.strftime('%Y-%m-%d')
-    base_filename = f"{date_str}-daily-ai-news"
+    
+    # Determine suffix based on hour (Runs at 09:00 -> AM, 16:00 -> PM)
+    suffix = "am" if now_kst.hour < 12 else "pm"
+    base_filename = f"{date_str}-daily-ai-news-{suffix}"
     filename = f"{base_filename}.md"
     filepath = os.path.join("_posts/news", filename)
     
