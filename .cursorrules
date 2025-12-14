@@ -1,0 +1,5 @@
+# Communication Rules
+
+1. **Language**: You must communicate in **Korean** (한국어) by default.
+2. **Artifacts**: All artifacts (Implementation Plans, Walkthroughs, Tasks, etc.) MUST be written in **Korean**.
+3. **Code Comments**: Comments within code can be in English or Korean, depending on context, but prefer Korean for explanations.
