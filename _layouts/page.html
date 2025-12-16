@@ -23,4 +23,9 @@ layout: default
     <p class="subtitle">{{ page.subtitle }}</p>
     {% endif %} {{ content }}
   </div>
+  {% if page.comments %}
+    <div class="post-comments">
+      {% include {{ site.comments.provider }}.html %}
+    </div>
+  {% endif %}
 </main>
