@@ -2,7 +2,7 @@
 layout: post
 title: "관점을 디자인하라 (박용우)"
 date: 2025-12-19
-categories: [Automation]
+categories: [Book Review]
 tags: [design-your-perspective, productivity, career, perspective, design, design-thinking]
 author: haesikryu
 ---
@@ -12,7 +12,7 @@ author: haesikryu
 프로젝트로 바쁘다가 오랜만에 책 읽을 시간이 좀 생겼고, 이 책을 읽게 되었다. 개인적으로 5점 만점에 4.5점. 오랜만에 읽은 책이어서 그런지 모르겠지만, 술술 읽히고 또 내용이 맘에 들었다.
 그래서 이 책을 정리해보았다.
 
-![image](/assets/img/blog/design-your-perspective.png)
+![image](/assets/img/book/design-your-perspective.png)
 
 이게 같은 책이 겉에 씌운 커버가 달라서 초록색과 검정색 커버 두권을 샀다. 그래서 옆자리 동료에게 한권을 줬다. ^^
 
