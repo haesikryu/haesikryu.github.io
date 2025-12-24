@@ -8,32 +8,40 @@ import google.generativeai as genai
 from openai import OpenAI
 import time
 import yaml
+import json
 import glob
 import re
+
+HISTORY_FILE = os.path.join(os.path.dirname(__file__), "news_history.json")
 
 # Configuration
 RSS_FEEDS = [
     "https://techcrunch.com/category/artificial-intelligence/feed/",
     "https://www.theverge.com/rss/index.xml",
     "https://openai.com/blog/rss.xml",
-    "https://blog.google/technology/ai/rss/"
+    "https://blog.google/technology/ai/rss/",
+    "https://venturebeat.com/category/ai/feed/",
+    "https://www.technologyreview.com/feed/",
+    "https://huggingface.co/blog/feed.xml",
+    "https://arstechnica.com/feed/"
 ]
 
 # You can adjust the prompt here
 PROMPT_TEMPLATE = """
 You are a tech blogger. I will provide you with a list of recent news headlines and summaries from various tech sources.
 Your task is to:
-1. Select the top 5-7 most important and interesting stories related to AI and Technology from the last 24 hours.
+1. Select the top 3-5 most important and interesting stories related to AI and Technology from the last 24 hours.
 2. Write a daily digest blog post in Korean.
 3. Start with a simple greeting like "안녕하세요!" and do not use placeholders like [Your Name] or introduce yourself.
 4. The post should have a catchy title.
-4. For each story, provide:
+5. For each story, provide comprehensive details (2-3 paragraphs per story):
     - A clear title as a header (e.g. ## 1. Title)
-    - A summary of what happened (labeled **Summary:**)
-    - Why it matters (labeled **Why it matters:**)
-    - A source link (labeled **Source:**)
-5. Use proper Markdown formatting. **Do NOT use tables.** Use blockquotes (>) or regular paragraphs for the content to ensure it displays well on mobile devices.
-6. Make it easy to read.
+    - **Summary:** A detailed explanation of the event or announcement.
+    - **Why it matters:** An analysis of its significance.
+    - **Source:** The original link.
+6. Use proper Markdown formatting. **Do NOT use tables.** Use blockquotes (>) or regular paragraphs.
+7. Make it easy to read but informative.
+8. If multiple sources cover the same topic, combine them into one strong entry.
 
 Here is the news data:
 {news_data}
@@ -84,38 +92,50 @@ def fetch_news():
 
 
 
-def get_today_posted_urls():
-    """
-    Scans _posts/news/ for files created today (or matching today's date pattern)
-    and extracts all links from them to avoid duplicates.
-    """
-    # Use KST (UTC+9)
-    kst = datetime.timezone(datetime.timedelta(hours=9))
-    now_kst = datetime.datetime.now(kst)
-    today_str = now_kst.strftime('%Y-%m-%d')
-    # Match files starting with YYYY-MM-DD-daily-ai-news
-    pattern = os.path.join("_posts/news", f"{today_str}-daily-ai-news*.md")
-    existing_files = glob.glob(pattern)
+def load_history():
+    """Loads previously posted URLs from a JSON file."""
+    if not os.path.exists(HISTORY_FILE):
+        return {}
+    try:
+        with open(HISTORY_FILE, 'r', encoding='utf-8') as f:
+            return json.load(f)
+    except Exception as e:
+        print(f"Error loading history: {e}")
+        return {}
+
+def save_history(history):
+    """Saves the updated history to a JSON file."""
+    # Prune old history (older than 7 days) to keep file size manageable
+    # structure: { "url": "timestamp" } or just list?
+    # Let's use a list of objects: [{"url": "...", "date": "YYYY-MM-DD", "title": "..."}]
     
-    posted_urls = set()
+    # Actually, simpler: just keep the list and prune based on date.
+    # But for now, let's just save valid items.
     
-    link_pattern = re.compile(r'\[.*?\]\((http[s]?://.*?)\)')
-    
-    for filepath in existing_files:
-        try:
-            with open(filepath, 'r', encoding='utf-8') as f:
-                content = f.read()
-                # Find all links in the content
-                links = link_pattern.findall(content)
-                posted_urls.update(links)
+    # Filter out items older than 7 days
+    try:
+        current_date = datetime.datetime.now()
+        cutoff_date = current_date - datetime.timedelta(days=7)
+        
+        # history is expected to be a list of dicts
+        new_history = []
+        for item in history:
+            item_date = datetime.datetime.strptime(item['date'], '%Y-%m-%d')
+            if item_date > cutoff_date:
+                new_history.append(item)
                 
-                # Also check for "Link: " lines if we used that format before (though prompt changed)
-                # Just to be safe, let's look for known source patterns if they are raw URLs
-                # But regex above covers markdown links which is what we produce.
-        except Exception as e:
-            print(f"Error reading {filepath}: {e}")
+        with open(HISTORY_FILE, 'w', encoding='utf-8') as f:
+            json.dump(new_history, f, ensure_ascii=False, indent=2)
             
-    return posted_urls
+    except Exception as e:
+        print(f"Error saving history: {e}")
+
+def get_posted_urls_from_history():
+    history = load_history()
+    # History is a list of dicts
+    if isinstance(history, list):
+         return {item.get('link') for item in history if item.get('link')}
+    return set()
 
 def generate_blog_post(news_items):
     # Format news for the prompt
@@ -235,17 +255,21 @@ def main():
 
         print(f"Collected {len(news)} news candidates.")
         
-        # Deduplication
-        posted_urls = get_today_posted_urls()
-        if posted_urls:
-            print(f"Found {len(posted_urls)} already posted URLs today.")
+        # Deduplication using History File
+        history_items = load_history()
+        posted_urls = set()
+        if isinstance(history_items, list):
+            posted_urls = {item.get('link') for item in history_items if item.get('link')}
+
+        print(f"Found {len(posted_urls)} previously posted URLs in history.")
         
         new_news = []
         for item in news:
             if item['link'] not in posted_urls:
                 new_news.append(item)
             else:
-                print(f"Skipping duplicate: {item['title'][:30]}...")
+                # print(f"Skipping duplicate: {item['title'][:30]}...")
+                pass # Silent skip to reduce log noise
                 
         if not new_news:
             print("No new news items found (all duplicates).")
@@ -254,6 +278,28 @@ def main():
         print(f"Proceeding with {len(new_news)} new items.")
         content = generate_blog_post(new_news)
         save_post(content)
+
+        # Update History
+        # We assume the LLM used most of the items, but to be safe we mark all 'new_news' as seen 
+        # because we don't want to re-process them immediately even if LLM skipped one.
+        # Ideally, we would parse the output to see what was used, but that's complex.
+        # Marking all candidates provided to LLM as "processed" is safer to avoid endless loops.
+        
+        # Use KST for recording date
+        kst = datetime.timezone(datetime.timedelta(hours=9))
+        today_str = datetime.datetime.now(kst).strftime('%Y-%m-%d')
+        
+        if not isinstance(history_items, list):
+            history_items = []
+            
+        for item in new_news:
+            history_items.append({
+                'title': item['title'],
+                'link': item['link'],
+                'date': today_str
+            })
+            
+        save_history(history_items)
         
     except Exception as e:
         print(f"An error occurred: {e}")
