@@ -4,6 +4,8 @@ source "https://rubygems.org"
 
 gem "jekyll", "~> 4.3.2"
 gem "jekyll-theme-chirpy", "~> 6.5.5"
+gem "jekyll-sitemap"
+gem "jekyll-seo-tag"
 gem "logger"
 gem "csv"
 gem "base64"
