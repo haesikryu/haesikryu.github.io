@@ -38,7 +38,7 @@ Your task is to:
     - A clear title as a header (e.g. ## 1. Title)
     - **Summary:** A detailed explanation of the event or announcement.
     - **Why it matters:** An analysis of its significance.
-    - **Source:** The original link.
+    - **Source:** [Link to Article](URL)
 6. Use proper Markdown formatting. **Do NOT use tables.** Use blockquotes (>) or regular paragraphs.
 7. Make it easy to read but informative.
 8. If multiple sources cover the same topic, combine them into one strong entry.
