@@ -23,7 +23,12 @@ RSS_FEEDS = [
     "https://venturebeat.com/category/ai/feed/",
     "https://www.technologyreview.com/feed/",
     "https://huggingface.co/blog/feed.xml",
-    "https://arstechnica.com/feed/"
+    "https://arstechnica.com/feed/",
+    "https://news.microsoft.com/source/topics/ai/feed/",
+    "https://deepmind.google/rss",
+    "https://news.mit.edu/rss/topic/artificial-intelligence",
+    "https://www.unite.ai/feed/",
+    "https://www.artificialintelligence-news.com/feed/rss/"
 ]
 
 # You can adjust the prompt here
