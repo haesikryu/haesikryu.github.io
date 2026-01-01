@@ -1,155 +1,5 @@
 [
   {
-    "title": "Nvidia to license AI chip challenger Groq’s tech and hire its CEO",
-    "link": "https://techcrunch.com/2025/12/24/nvidia-acquires-ai-chip-challenger-groq-for-20b-report-says/",
-    "date": "2025-12-25"
-  },
-  {
-    "title": "The year data centers went from backend to center stage",
-    "link": "https://techcrunch.com/2025/12/24/the-year-data-centers-went-from-backend-to-center-stage/",
-    "date": "2025-12-25"
-  },
-  {
-    "title": "The European startup market’s data doesn’t match its energy — yet",
-    "link": "https://techcrunch.com/2025/12/24/the-european-startup-markets-data-doesnt-match-its-energy-yet/",
-    "date": "2025-12-25"
-  },
-  {
-    "title": "Why the operating room is ripe for AI, according to Akara",
-    "link": "https://techcrunch.com/podcast/why-the-operating-room-is-ripe-for-ai-according-to-akara/",
-    "date": "2025-12-25"
-  },
-  {
-    "title": "Waymo is testing Gemini as an in-car AI assistant in its robotaxis",
-    "link": "https://techcrunch.com/2025/12/24/waymo-is-testing-gemini-as-an-in-car-ai-assistant-in-its-robotaxis/",
-    "date": "2025-12-25"
-  },
-  {
-    "title": "One in a million: celebrating the customers shaping AI’s future",
-    "link": "https://openai.com/index/one-in-a-million-customers",
-    "date": "2025-12-25"
-  },
-  {
-    "title": "Continuously hardening ChatGPT Atlas against prompt injection",
-    "link": "https://openai.com/index/hardening-atlas-against-prompt-injection",
-    "date": "2025-12-25"
-  },
-  {
-    "title": "Evaluating chain-of-thought monitorability",
-    "link": "https://openai.com/index/evaluating-chain-of-thought-monitorability",
-    "date": "2025-12-25"
-  },
-  {
-    "title": "Deepening our collaboration with the U.S. Department of Energy",
-    "link": "https://openai.com/index/us-department-of-energy-collaboration",
-    "date": "2025-12-25"
-  },
-  {
-    "title": "AI literacy resources for teens and parents",
-    "link": "https://openai.com/index/ai-literacy-resources-for-teens-and-parents",
-    "date": "2025-12-25"
-  },
-  {
-    "title": "Google's year in review: 8 areas with research breakthroughs in 2025",
-    "link": "https://blog.google/technology/ai/2025-research-breakthroughs/",
-    "date": "2025-12-25"
-  },
-  {
-    "title": "60 of our biggest AI announcements in 2025",
-    "link": "https://blog.google/technology/ai/google-ai-news-recap-2025/",
-    "date": "2025-12-25"
-  },
-  {
-    "title": "40 of our most helpful AI tips from 2025",
-    "link": "https://blog.google/technology/ai/ai-tips-2025/",
-    "date": "2025-12-25"
-  },
-  {
-    "title": "5 ways AI agents will transform the way we work in 2026",
-    "link": "https://blog.google/products/google-cloud/ai-business-trends-report-2026/",
-    "date": "2025-12-25"
-  },
-  {
-    "title": "You can now verify Google AI-generated videos in the Gemini app.",
-    "link": "https://blog.google/technology/ai/verify-google-ai-videos-gemini-app/",
-    "date": "2025-12-25"
-  },
-  {
-    "title": "Meet the man hunting the spies in your smartphone",
-    "link": "https://www.technologyreview.com/2025/12/24/1129294/ronald-deibert-citizen-lab-digital-threats-spies-cybersecurity/",
-    "date": "2025-12-25"
-  },
-  {
-    "title": "Four bright spots in climate news in 2025",
-    "link": "https://www.technologyreview.com/2025/12/24/1130191/good-climate-news-2025/",
-    "date": "2025-12-25"
-  },
-  {
-    "title": "Researchers are getting organoids pregnant with human embryos",
-    "link": "https://www.technologyreview.com/2025/12/23/1130415/organoid-uterus-microfluidic-chip-embryo/",
-    "date": "2025-12-25"
-  },
-  {
-    "title": "How social media encourages the worst of AI boosterism",
-    "link": "https://www.technologyreview.com/2025/12/23/1130393/how-social-media-encourages-the-worst-of-ai-boosterism/",
-    "date": "2025-12-25"
-  },
-  {
-    "title": "How I learned to stop worrying and love AI slop",
-    "link": "https://www.technologyreview.com/2025/12/23/1130396/how-i-learned-to-stop-worrying-and-love-ai-slop/",
-    "date": "2025-12-25"
-  },
-  {
-    "title": "AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems",
-    "link": "https://huggingface.co/blog/ServiceNow-AI/aprielguard",
-    "date": "2025-12-25"
-  },
-  {
-    "title": "Tokenization in Transformers v5: Simpler, Clearer, and More Modular",
-    "link": "https://huggingface.co/blog/tokenizers",
-    "date": "2025-12-25"
-  },
-  {
-    "title": "The Open Evaluation Standard: Benchmarking NVIDIA Nemotron 3 Nano with NeMo Evaluator",
-    "link": "https://huggingface.co/blog/nvidia/nemotron-3-nano-evaluation-recipe",
-    "date": "2025-12-25"
-  },
-  {
-    "title": "CUGA on Hugging Face: Democratizing Configurable AI Agents",
-    "link": "https://huggingface.co/blog/ibm-research/cuga-on-hugging-face",
-    "date": "2025-12-25"
-  },
-  {
-    "title": "New in llama.cpp: Model Management",
-    "link": "https://huggingface.co/blog/ggml-org/model-management-in-llamacpp",
-    "date": "2025-12-25"
-  },
-  {
-    "title": "Being Santa Claus is a year-round calling",
-    "link": "https://arstechnica.com/science/2025/12/being-santa-claus-is-a-year-round-calling/",
-    "date": "2025-12-25"
-  },
-  {
-    "title": "SPEED Act passes in House despite changes that threaten clean power projects",
-    "link": "https://arstechnica.com/tech-policy/2025/12/speed-act-passes-in-house-despite-changes-that-threaten-clean-power-projects/",
-    "date": "2025-12-25"
-  },
-  {
-    "title": "TV Technica: Our favorite shows of 2025",
-    "link": "https://arstechnica.com/culture/2025/12/tv-technica-our-favorite-shows-of-2025/",
-    "date": "2025-12-25"
-  },
-  {
-    "title": "How AI coding agents work—and what to remember if you use them",
-    "link": "https://arstechnica.com/information-technology/2025/12/how-do-ai-coding-agents-work-we-look-under-the-hood/",
-    "date": "2025-12-25"
-  },
-  {
-    "title": "China just carried out its second reusable launch attempt in three weeks",
-    "link": "https://arstechnica.com/space/2025/12/china-just-carried-out-its-second-reusable-launch-attempt-in-three-weeks/",
-    "date": "2025-12-25"
-  },
-  {
     "title": "AI Wrapped: The 14 AI terms you couldn’t avoid in 2025",
     "link": "https://www.technologyreview.com/2025/12/25/1130298/ai-wrapped-the-14-ai-terms-you-couldnt-avoid-in-2025/",
     "date": "2025-12-26"
@@ -323,5 +173,30 @@
     "title": "The phone is dead. Long live . . . what exactly?",
     "link": "https://techcrunch.com/2025/12/30/the-phone-is-dead-long-live-what-exactly/",
     "date": "2025-12-31"
+  },
+  {
+    "title": "Investors predict AI is coming for labor in 2026",
+    "link": "https://techcrunch.com/2025/12/31/investors-predict-ai-is-coming-for-labor-in-2026/",
+    "date": "2026-01-01"
+  },
+  {
+    "title": "Why inventing new emotions feels so good",
+    "link": "https://www.technologyreview.com/2025/12/31/1129403/new-emotions-online-life-feelings/",
+    "date": "2026-01-01"
+  },
+  {
+    "title": "Here we go again: Retiring coal plant forced to stay open by Trump Admin",
+    "link": "https://arstechnica.com/science/2025/12/trump-admin-orders-another-coal-plant-to-stay-open/",
+    "date": "2026-01-01"
+  },
+  {
+    "title": "Supply chains, AI, and the cloud: The biggest failures (and one success) of 2025",
+    "link": "https://arstechnica.com/security/2025/12/supply-chains-ai-and-the-cloud-the-biggest-failures-and-one-success-of-2025/",
+    "date": "2026-01-01"
+  },
+  {
+    "title": "From prophet to product: How AI came back down to earth in 2025",
+    "link": "https://arstechnica.com/ai/2025/12/from-prophet-to-product-how-ai-came-back-down-to-earth-in-2025/",
+    "date": "2026-01-01"
   }
 ]
