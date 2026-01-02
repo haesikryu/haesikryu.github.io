@@ -1,10 +1,5 @@
 [
   {
-    "title": "AI Wrapped: The 14 AI terms you couldn’t avoid in 2025",
-    "link": "https://www.technologyreview.com/2025/12/25/1130298/ai-wrapped-the-14-ai-terms-you-couldnt-avoid-in-2025/",
-    "date": "2025-12-26"
-  },
-  {
     "title": "Equity’s 2026 Predictions: AI Agents, Blockbuster IPOs, and the Future of VC",
     "link": "https://techcrunch.com/podcast/equitys-2026-predictions-ai-agents-blockbuster-ipos-and-the-future-of-vc/",
     "date": "2025-12-27"
@@ -273,5 +268,40 @@
     "title": "New in llama.cpp: Model Management",
     "link": "https://huggingface.co/blog/ggml-org/model-management-in-llamacpp",
     "date": "2026-01-01"
+  },
+  {
+    "title": "European banks plan to cut 200,000 jobs as AI takes hold",
+    "link": "https://techcrunch.com/2026/01/01/european-banks-plan-to-cut-200000-jobs-as-ai-takes-hold/",
+    "date": "2026-01-02"
+  },
+  {
+    "title": "OpenAI bets big on audio as Silicon Valley declares war on screens",
+    "link": "https://techcrunch.com/2026/01/01/openai-bets-big-on-audio-as-silicon-valley-declares-war-on-screens/",
+    "date": "2026-01-02"
+  },
+  {
+    "title": "Updating our Model Spec with teen protections",
+    "link": "https://openai.com/index/updating-model-spec-with-teen-protections",
+    "date": "2026-01-02"
+  },
+  {
+    "title": "Marvel rings in new year with Wonder Man trailer",
+    "link": "https://arstechnica.com/culture/2026/01/marvel-rings-in-new-year-with-wonder-man-trailer/",
+    "date": "2026-01-02"
+  },
+  {
+    "title": "Research roundup: 7 cool science stories we almost missed",
+    "link": "https://arstechnica.com/science/2026/01/research-roundup-7-cool-science-stories-we-almost-missed-2/",
+    "date": "2026-01-02"
+  },
+  {
+    "title": "“Streaming stops feeling infinite”: What subscribers can expect in 2026",
+    "link": "https://arstechnica.com/gadgets/2026/01/streaming-stops-feeling-infinite-what-subscribers-can-expect-in-2026/",
+    "date": "2026-01-02"
+  },
+  {
+    "title": "Film Technica: Our top picks for the best films of 2025",
+    "link": "https://arstechnica.com/culture/2026/01/film-technica-our-top-picks-for-the-best-films-of-2025/",
+    "date": "2026-01-02"
   }
 ]
