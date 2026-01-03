@@ -1,35 +1,5 @@
 [
   {
-    "title": "Equity’s 2026 Predictions: AI Agents, Blockbuster IPOs, and the Future of VC",
-    "link": "https://techcrunch.com/podcast/equitys-2026-predictions-ai-agents-blockbuster-ipos-and-the-future-of-vc/",
-    "date": "2025-12-27"
-  },
-  {
-    "title": "MIT Technology Review’s most popular stories of 2025",
-    "link": "https://www.technologyreview.com/2025/12/26/1130318/mit-technology-review-most-popular-stories-2025/",
-    "date": "2025-12-27"
-  },
-  {
-    "title": "The paints, coatings, and chemicals making the world a cooler place",
-    "link": "https://www.technologyreview.com/2025/12/26/1129301/paint-coating-chemicals-materials-cooling-air-conditioning/",
-    "date": "2025-12-27"
-  },
-  {
-    "title": "Embark on a visual voyage of art inspired by black holes",
-    "link": "https://arstechnica.com/science/2025/12/embark-on-a-visual-voyage-of-art-inspired-by-black-holes/",
-    "date": "2025-12-27"
-  },
-  {
-    "title": "In the ’90s, Wing Commander: Privateer made me realize what kind of games I love",
-    "link": "https://arstechnica.com/gaming/2025/12/in-the-90s-wing-commander-privateer-made-me-realize-what-kind-of-games-i-love/",
-    "date": "2025-12-27"
-  },
-  {
-    "title": "Ars Technica’s Top 20 video games of 2025",
-    "link": "https://arstechnica.com/gaming/2025/12/ars-technicas-top-20-video-games-of-2025/",
-    "date": "2025-12-27"
-  },
-  {
     "title": "India startup funding hits $11B in 2025 as investors grow more selective",
     "link": "https://techcrunch.com/2025/12/27/india-startup-funding-hits-11b-in-2025-as-investors-grow-more-selective/",
     "date": "2025-12-28"
@@ -303,5 +273,75 @@
     "title": "Film Technica: Our top picks for the best films of 2025",
     "link": "https://arstechnica.com/culture/2026/01/film-technica-our-top-picks-for-the-best-films-of-2025/",
     "date": "2026-01-02"
+  },
+  {
+    "title": "India orders Musk’s X to fix Grok over ‘obscene’ AI content",
+    "link": "https://techcrunch.com/2026/01/02/india-orders-musks-x-to-fix-grok-over-obscene-ai-content/",
+    "date": "2026-01-03"
+  },
+  {
+    "title": "How AI is reshaping work and who gets to do it, according to Mercor’s CEO",
+    "link": "https://techcrunch.com/podcast/how-ai-is-reshaping-work-and-who-gets-to-do-it-according-to-mercors-ceo/",
+    "date": "2026-01-03"
+  },
+  {
+    "title": "Nvidia’s AI empire: A look at its top startup investments",
+    "link": "https://techcrunch.com/2026/01/02/nvidias-ai-empire-a-look-at-its-top-startup-investments/",
+    "date": "2026-01-03"
+  },
+  {
+    "title": "In 2026, AI will move from hype to pragmatism",
+    "link": "https://techcrunch.com/2026/01/02/in-2026-ai-will-move-from-hype-to-pragmatism/",
+    "date": "2026-01-03"
+  },
+  {
+    "title": "Announcing OpenAI Grove Cohort 2",
+    "link": "https://openai.com/index/openai-grove",
+    "date": "2026-01-03"
+  },
+  {
+    "title": "3 things Will Douglas Heaven is into right now",
+    "link": "https://www.technologyreview.com/2026/01/02/1129409/will-douglas-heaven-el-estepario-siberiano-ed-atkins-laura-jean-mckay/",
+    "date": "2026-01-03"
+  },
+  {
+    "title": "Job titles of the future: Head-transplant surgeon",
+    "link": "https://www.technologyreview.com/2026/01/02/1129416/head-transplant-surgeon-sergio-canavero-future-job/",
+    "date": "2026-01-03"
+  },
+  {
+    "title": "No, Grok can’t really “apologize” for posting non-consensual sexual images",
+    "link": "https://arstechnica.com/ai/2026/01/no-grok-cant-really-apologize-for-posting-non-consensual-sexual-images/",
+    "date": "2026-01-03"
+  },
+  {
+    "title": "Healthy 18-year-old welder nearly died of anthrax—the 9th such puzzling case",
+    "link": "https://arstechnica.com/health/2026/01/anthrax-nearly-kills-healthy-18-year-old-welder-amid-puzzling-pattern/",
+    "date": "2026-01-03"
+  },
+  {
+    "title": "OpenAI reorganizes some teams to build audio-based AI hardware products",
+    "link": "https://arstechnica.com/ai/2026/01/openai-plans-new-voice-model-in-early-2026-audio-based-hardware-in-2027/",
+    "date": "2026-01-03"
+  },
+  {
+    "title": "Researchers spot Saturn-sized planet in the “Einstein desert”",
+    "link": "https://arstechnica.com/science/2026/01/researchers-spot-saturn-sized-planet-in-the-einstein-desert/",
+    "date": "2026-01-03"
+  },
+  {
+    "title": "SpaceX begins “significant reconfiguration” of Starlink satellite constellation",
+    "link": "https://arstechnica.com/space/2026/01/spacex-begins-significant-reconfiguration-of-starlink-satellite-constellation/",
+    "date": "2026-01-03"
+  },
+  {
+    "title": "Understanding how AI and big data transform digital marketing",
+    "link": "https://www.artificialintelligence-news.com/news/understanding-how-ai-and-big-data-transform-digital-marketing/",
+    "date": "2026-01-03"
+  },
+  {
+    "title": "Solana’s high-speed AI gains and malware losses",
+    "link": "https://www.artificialintelligence-news.com/news/solanas-high-speed-ai-gains-and-malware-losses/",
+    "date": "2026-01-03"
   }
 ]
