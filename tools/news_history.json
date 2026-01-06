@@ -1,65 +1,5 @@
 [
   {
-    "title": "2025 was the year AI got a vibe check",
-    "link": "https://techcrunch.com/2025/12/29/2025-was-the-year-ai-got-a-vibe-check/",
-    "date": "2025-12-30"
-  },
-  {
-    "title": "Plaud Note Pro is an excellent AI-powered recorder that I carry everywhere",
-    "link": "https://techcrunch.com/2025/12/29/plaud-note-pro-is-an-excellent-ai-powered-recorder-that-i-carry-everywhere/",
-    "date": "2025-12-30"
-  },
-  {
-    "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
-    "link": "https://techcrunch.com/2025/12/29/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/",
-    "date": "2025-12-30"
-  },
-  {
-    "title": "VCs predict strong enterprise AI adoption next year — again",
-    "link": "https://techcrunch.com/2025/12/29/vcs-predict-strong-enterprise-ai-adoption-next-year-again/",
-    "date": "2025-12-30"
-  },
-  {
-    "title": "The latest AI news we announced in December",
-    "link": "https://blog.google/technology/ai/google-ai-updates-december-2025/",
-    "date": "2025-12-30"
-  },
-  {
-    "title": "Bangladesh’s garment-making industry is getting greener",
-    "link": "https://www.technologyreview.com/2025/12/29/1129308/bangladesh-garment-sustainability-frugal-factories/",
-    "date": "2025-12-30"
-  },
-  {
-    "title": "US can’t deport hate speech researcher for protected speech, lawsuit says",
-    "link": "https://arstechnica.com/tech-policy/2025/12/us-cant-deport-hate-speech-researcher-for-protected-speech-lawsuit-says/",
-    "date": "2025-12-30"
-  },
-  {
-    "title": "Leonardo’s wood charring method predates Japanese practice",
-    "link": "https://arstechnica.com/science/2025/12/did-one-line-in-a-leonardo-codex-anticipate-yakisugi/",
-    "date": "2025-12-30"
-  },
-  {
-    "title": "Researchers make “neuromorphic” artificial skin for robots",
-    "link": "https://arstechnica.com/science/2025/12/researchers-make-neuromorphic-artificial-skin-for-robots/",
-    "date": "2025-12-30"
-  },
-  {
-    "title": "China drafts world’s strictest rules to end AI-encouraged suicide, violence",
-    "link": "https://arstechnica.com/tech-policy/2025/12/china-drafts-worlds-strictest-rules-to-end-ai-encouraged-suicide-violence/",
-    "date": "2025-12-30"
-  },
-  {
-    "title": "A quirky guide to myths and lore based in actual science",
-    "link": "https://arstechnica.com/science/2025/12/a-quirky-guide-to-myths-and-lore-based-in-actual-science/",
-    "date": "2025-12-30"
-  },
-  {
-    "title": "Meta just bought Manus, an AI startup everyone has been talking about",
-    "link": "https://techcrunch.com/2025/12/29/meta-just-bought-manus-an-ai-startup-everyone-has-been-talking-about/",
-    "date": "2025-12-30"
-  },
-  {
     "title": "The best AI-powered dictation apps of 2025",
     "link": "https://techcrunch.com/2025/12/30/the-best-ai-powered-dictation-apps-of-2025/",
     "date": "2025-12-31"
@@ -348,5 +288,95 @@
     "title": "Subtle releases ear buds with its noise cancelation models",
     "link": "https://techcrunch.com/2026/01/04/subtle-releases-ear-buds-with-its-noise-cancelation-models/",
     "date": "2026-01-05"
+  },
+  {
+    "title": "Microsoft’s Nadella wants us to stop thinking of AI as ‘slop’",
+    "link": "https://techcrunch.com/2026/01/05/microsofts-nadella-wants-us-to-stop-thinking-of-ai-as-slop/",
+    "date": "2026-01-06"
+  },
+  {
+    "title": "Nvidia wants to be the Android of generalist robotics",
+    "link": "https://techcrunch.com/2026/01/05/nvidia-wants-to-be-the-android-of-generalist-robotics/",
+    "date": "2026-01-06"
+  },
+  {
+    "title": "Nvidia launches powerful new Rubin chip architecture",
+    "link": "https://techcrunch.com/2026/01/05/nvidia-launches-powerful-new-rubin-chip-architecture/",
+    "date": "2026-01-06"
+  },
+  {
+    "title": "Nvidia launches Alpamayo, open AI models that allow autonomous vehicles to ‘think like a human’",
+    "link": "https://techcrunch.com/2026/01/05/nvidia-launches-alpamayo-open-ai-models-that-allow-autonomous-vehicles-to-think-like-a-human/",
+    "date": "2026-01-06"
+  },
+  {
+    "title": "CES 2026: Follow live as Nvidia, Lego, AMD, Amazon, and more make their big reveals",
+    "link": "https://techcrunch.com/storyline/ces-2026-follow-live-as-nvidia-lego-amd-amazon-and-more-make-their-big-reveals/",
+    "date": "2026-01-06"
+  },
+  {
+    "title": "The creator of Claude Code just revealed his workflow, and developers are losing their minds",
+    "link": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are",
+    "date": "2026-01-06"
+  },
+  {
+    "title": "The overlooked driver of digital transformation",
+    "link": "https://www.technologyreview.com/2026/01/05/1124662/the-overlooked-driver-of-digital-transformation/",
+    "date": "2026-01-06"
+  },
+  {
+    "title": "The Download: Kenya’s Great Carbon Valley, and the AI terms that were everywhere in 2025",
+    "link": "https://www.technologyreview.com/2026/01/05/1130672/the-download-kenyas-great-carbon-valley-and-the-ai-terms-that-were-everywhere-in-2025/",
+    "date": "2026-01-06"
+  },
+  {
+    "title": "What’s next for AI in 2026",
+    "link": "https://www.technologyreview.com/2026/01/05/1130662/whats-next-for-ai-in-2026/",
+    "date": "2026-01-06"
+  },
+  {
+    "title": "NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI",
+    "link": "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning",
+    "date": "2026-01-06"
+  },
+  {
+    "title": "Introducing Falcon-H1-Arabic: Pushing the Boundaries of Arabic Language AI with Hybrid Architecture",
+    "link": "https://huggingface.co/blog/tiiuae/falcon-h1-arabic",
+    "date": "2026-01-06"
+  },
+  {
+    "title": "NVIDIA brings agents to life with DGX Spark and Reachy Mini",
+    "link": "https://huggingface.co/blog/nvidia-reachy-mini",
+    "date": "2026-01-06"
+  },
+  {
+    "title": "NASA’s science budget won’t be a train wreck after all",
+    "link": "https://arstechnica.com/space/2026/01/nasas-science-budget-wont-be-a-train-wreck-after-all/",
+    "date": "2026-01-06"
+  },
+  {
+    "title": "Under anti-vaccine RFK Jr., CDC slashes childhood vaccine schedule",
+    "link": "https://arstechnica.com/health/2026/01/under-anti-vaccine-rfk-jr-cdc-slashes-childhood-vaccine-schedule/",
+    "date": "2026-01-06"
+  },
+  {
+    "title": "The nation’s strictest privacy law just took effect, to data brokers’ chagrin",
+    "link": "https://arstechnica.com/tech-policy/2026/01/data-broker-hoarding-is-rampant-new-law-lets-consumers-fight-back/",
+    "date": "2026-01-06"
+  },
+  {
+    "title": "Anna’s Archive loses .org domain, says suspension likely unrelated to Spotify piracy",
+    "link": "https://arstechnica.com/tech-policy/2026/01/annas-archive-loses-org-domain-says-suspension-likely-unrelated-to-spotify-piracy/",
+    "date": "2026-01-06"
+  },
+  {
+    "title": "Stewart Cheifet, PBS host who chronicled the PC revolution, dies at 87",
+    "link": "https://arstechnica.com/gadgets/2026/01/stewart-cheifet-pbs-host-who-chronicled-the-pc-revolution-dies-at-87/",
+    "date": "2026-01-06"
+  },
+  {
+    "title": "L’Oréal brings AI into everyday digital advertising production",
+    "link": "https://www.artificialintelligence-news.com/news/loreal-brings-ai-into-everyday-digital-advertising-production/",
+    "date": "2026-01-06"
   }
 ]
