@@ -1,75 +1,5 @@
 [
   {
-    "title": "India orders Musk’s X to fix Grok over ‘obscene’ AI content",
-    "link": "https://techcrunch.com/2026/01/02/india-orders-musks-x-to-fix-grok-over-obscene-ai-content/",
-    "date": "2026-01-03"
-  },
-  {
-    "title": "How AI is reshaping work and who gets to do it, according to Mercor’s CEO",
-    "link": "https://techcrunch.com/podcast/how-ai-is-reshaping-work-and-who-gets-to-do-it-according-to-mercors-ceo/",
-    "date": "2026-01-03"
-  },
-  {
-    "title": "Nvidia’s AI empire: A look at its top startup investments",
-    "link": "https://techcrunch.com/2026/01/02/nvidias-ai-empire-a-look-at-its-top-startup-investments/",
-    "date": "2026-01-03"
-  },
-  {
-    "title": "In 2026, AI will move from hype to pragmatism",
-    "link": "https://techcrunch.com/2026/01/02/in-2026-ai-will-move-from-hype-to-pragmatism/",
-    "date": "2026-01-03"
-  },
-  {
-    "title": "Announcing OpenAI Grove Cohort 2",
-    "link": "https://openai.com/index/openai-grove",
-    "date": "2026-01-03"
-  },
-  {
-    "title": "3 things Will Douglas Heaven is into right now",
-    "link": "https://www.technologyreview.com/2026/01/02/1129409/will-douglas-heaven-el-estepario-siberiano-ed-atkins-laura-jean-mckay/",
-    "date": "2026-01-03"
-  },
-  {
-    "title": "Job titles of the future: Head-transplant surgeon",
-    "link": "https://www.technologyreview.com/2026/01/02/1129416/head-transplant-surgeon-sergio-canavero-future-job/",
-    "date": "2026-01-03"
-  },
-  {
-    "title": "No, Grok can’t really “apologize” for posting non-consensual sexual images",
-    "link": "https://arstechnica.com/ai/2026/01/no-grok-cant-really-apologize-for-posting-non-consensual-sexual-images/",
-    "date": "2026-01-03"
-  },
-  {
-    "title": "Healthy 18-year-old welder nearly died of anthrax—the 9th such puzzling case",
-    "link": "https://arstechnica.com/health/2026/01/anthrax-nearly-kills-healthy-18-year-old-welder-amid-puzzling-pattern/",
-    "date": "2026-01-03"
-  },
-  {
-    "title": "OpenAI reorganizes some teams to build audio-based AI hardware products",
-    "link": "https://arstechnica.com/ai/2026/01/openai-plans-new-voice-model-in-early-2026-audio-based-hardware-in-2027/",
-    "date": "2026-01-03"
-  },
-  {
-    "title": "Researchers spot Saturn-sized planet in the “Einstein desert”",
-    "link": "https://arstechnica.com/science/2026/01/researchers-spot-saturn-sized-planet-in-the-einstein-desert/",
-    "date": "2026-01-03"
-  },
-  {
-    "title": "SpaceX begins “significant reconfiguration” of Starlink satellite constellation",
-    "link": "https://arstechnica.com/space/2026/01/spacex-begins-significant-reconfiguration-of-starlink-satellite-constellation/",
-    "date": "2026-01-03"
-  },
-  {
-    "title": "Understanding how AI and big data transform digital marketing",
-    "link": "https://www.artificialintelligence-news.com/news/understanding-how-ai-and-big-data-transform-digital-marketing/",
-    "date": "2026-01-03"
-  },
-  {
-    "title": "Solana’s high-speed AI gains and malware losses",
-    "link": "https://www.artificialintelligence-news.com/news/solanas-high-speed-ai-gains-and-malware-losses/",
-    "date": "2026-01-03"
-  },
-  {
     "title": "Tech billionaires cashed out $16 billion in 2025 as stocks soared",
     "link": "https://techcrunch.com/2026/01/03/tech-billionaires-cashed-out-16-billion-in-2025-as-stocks-soared/",
     "date": "2026-01-04"
@@ -588,5 +518,95 @@
     "title": "NASA orders “controlled medical evacuation” from the International Space Station",
     "link": "https://arstechnica.com/space/2026/01/in-a-first-nasa-orders-astronauts-home-after-unspecified-medical-issue/",
     "date": "2026-01-09"
+  },
+  {
+    "title": "CES 2026: Everything revealed, from Nvidia’s debuts to AMD’s new chips to Razer’s AI oddities",
+    "link": "https://techcrunch.com/2026/01/09/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/",
+    "date": "2026-01-10"
+  },
+  {
+    "title": "How the Sleepbuds maker, Ozlo, is building a platform for sleep data",
+    "link": "https://techcrunch.com/2026/01/09/how-the-sleepbuds-maker-ozlo-is-building-a-platform-for-sleep-data/",
+    "date": "2026-01-10"
+  },
+  {
+    "title": "CES 2026 was all about ‘physical AI’ and robots, robots, robots",
+    "link": "https://techcrunch.com/podcast/ces-2026-was-all-about-physical-ai-and-robots-robots-robots/",
+    "date": "2026-01-10"
+  },
+  {
+    "title": "CES 2026: Follow live for the best, weirdest, most interesting tech as this robot and AI-heavy event wraps up",
+    "link": "https://techcrunch.com/storyline/ces-2026-follow-live-for-the-best-weirdest-most-interesting-tech-as-this-robot-and-ai-heavy-event-wraps/",
+    "date": "2026-01-10"
+  },
+  {
+    "title": "Meta signs deals with three nuclear companies for 6-plus GW of power",
+    "link": "https://techcrunch.com/2026/01/09/meta-signs-deals-with-three-nuclear-companies-for-6-plus-gw-of-power/",
+    "date": "2026-01-10"
+  },
+  {
+    "title": "OpenAI and SoftBank Group partner with SB Energy",
+    "link": "https://openai.com/index/stargate-sb-energy-partnership",
+    "date": "2026-01-10"
+  },
+  {
+    "title": "Datadog uses Codex for system-level code review",
+    "link": "https://openai.com/index/datadog",
+    "date": "2026-01-10"
+  },
+  {
+    "title": "The Download: the case for AI slop, and helping CRISPR fulfill its promise",
+    "link": "https://www.technologyreview.com/2026/01/09/1130953/the-download-the-case-for-ai-slop-and-helping-crispr-fulfill-its-promise/",
+    "date": "2026-01-10"
+  },
+  {
+    "title": "A new CRISPR startup is betting regulators will ease up on gene-editing",
+    "link": "https://www.technologyreview.com/2026/01/09/1130945/crispr-startup-aurora-betting-regulation-pku/",
+    "date": "2026-01-10"
+  },
+  {
+    "title": "SpaceX gets FCC permission to launch another 7,500 Starlink satellites",
+    "link": "https://arstechnica.com/tech-policy/2026/01/spacex-gets-fcc-permission-to-launch-another-7500-starlink-satellites/",
+    "date": "2026-01-10"
+  },
+  {
+    "title": "ESA considers righting the wrongs of Ariane 6 by turning it into a Franken-rocket",
+    "link": "https://arstechnica.com/space/2026/01/esa-considers-righting-the-wrongs-of-ariane-6-by-turning-it-into-a-franken-rocket/",
+    "date": "2026-01-10"
+  },
+  {
+    "title": "Measles continues raging in South Carolina; 99 new cases since Tuesday",
+    "link": "https://arstechnica.com/health/2026/01/measles-continues-raging-in-south-carolina-99-new-cases-since-tuesday/",
+    "date": "2026-01-10"
+  },
+  {
+    "title": "Google: Don’t make “bite-sized” content for LLMs if you care about search rank",
+    "link": "https://arstechnica.com/google/2026/01/google-dont-make-bite-sized-content-for-llms-if-you-care-about-search-rank/",
+    "date": "2026-01-10"
+  },
+  {
+    "title": "Cloudflare defies Italy’s Piracy Shield, won’t block websites on 1.1.1.1 DNS",
+    "link": "https://arstechnica.com/tech-policy/2026/01/cloudflare-may-pull-servers-out-of-italy-over-order-that-it-block-pirate-sites/",
+    "date": "2026-01-10"
+  },
+  {
+    "title": "Datadog: How AI code reviews slash incident risk",
+    "link": "https://www.artificialintelligence-news.com/news/datadog-how-ai-code-reviews-slash-incident-risk/",
+    "date": "2026-01-10"
+  },
+  {
+    "title": "The future of personal injury law: AI and legal tech in Philadelphia",
+    "link": "https://www.artificialintelligence-news.com/news/the-future-of-personal-injury-law-ai-and-legal-tech-in-philadelphia/",
+    "date": "2026-01-10"
+  },
+  {
+    "title": "Autonomy without accountability: The real AI risk",
+    "link": "https://www.artificialintelligence-news.com/news/autonomy-without-accountability-the-real-ai-risk/",
+    "date": "2026-01-10"
+  },
+  {
+    "title": "From cloud to factory – humanoid robots coming to workplaces",
+    "link": "https://www.artificialintelligence-news.com/news/from-cloud-to-factory-humanoid-robots-coming-to-workplaces/",
+    "date": "2026-01-10"
   }
 ]
