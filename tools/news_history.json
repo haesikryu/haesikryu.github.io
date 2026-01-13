@@ -1,115 +1,5 @@
 [
   {
-    "title": "Microsoft’s Nadella wants us to stop thinking of AI as ‘slop’",
-    "link": "https://techcrunch.com/2026/01/05/microsofts-nadella-wants-us-to-stop-thinking-of-ai-as-slop/",
-    "date": "2026-01-06"
-  },
-  {
-    "title": "Nvidia wants to be the Android of generalist robotics",
-    "link": "https://techcrunch.com/2026/01/05/nvidia-wants-to-be-the-android-of-generalist-robotics/",
-    "date": "2026-01-06"
-  },
-  {
-    "title": "Nvidia launches powerful new Rubin chip architecture",
-    "link": "https://techcrunch.com/2026/01/05/nvidia-launches-powerful-new-rubin-chip-architecture/",
-    "date": "2026-01-06"
-  },
-  {
-    "title": "Nvidia launches Alpamayo, open AI models that allow autonomous vehicles to ‘think like a human’",
-    "link": "https://techcrunch.com/2026/01/05/nvidia-launches-alpamayo-open-ai-models-that-allow-autonomous-vehicles-to-think-like-a-human/",
-    "date": "2026-01-06"
-  },
-  {
-    "title": "CES 2026: Follow live as Nvidia, Lego, AMD, Amazon, and more make their big reveals",
-    "link": "https://techcrunch.com/storyline/ces-2026-follow-live-as-nvidia-lego-amd-amazon-and-more-make-their-big-reveals/",
-    "date": "2026-01-06"
-  },
-  {
-    "title": "The creator of Claude Code just revealed his workflow, and developers are losing their minds",
-    "link": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are",
-    "date": "2026-01-06"
-  },
-  {
-    "title": "The overlooked driver of digital transformation",
-    "link": "https://www.technologyreview.com/2026/01/05/1124662/the-overlooked-driver-of-digital-transformation/",
-    "date": "2026-01-06"
-  },
-  {
-    "title": "The Download: Kenya’s Great Carbon Valley, and the AI terms that were everywhere in 2025",
-    "link": "https://www.technologyreview.com/2026/01/05/1130672/the-download-kenyas-great-carbon-valley-and-the-ai-terms-that-were-everywhere-in-2025/",
-    "date": "2026-01-06"
-  },
-  {
-    "title": "What’s next for AI in 2026",
-    "link": "https://www.technologyreview.com/2026/01/05/1130662/whats-next-for-ai-in-2026/",
-    "date": "2026-01-06"
-  },
-  {
-    "title": "NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI",
-    "link": "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning",
-    "date": "2026-01-06"
-  },
-  {
-    "title": "Introducing Falcon-H1-Arabic: Pushing the Boundaries of Arabic Language AI with Hybrid Architecture",
-    "link": "https://huggingface.co/blog/tiiuae/falcon-h1-arabic",
-    "date": "2026-01-06"
-  },
-  {
-    "title": "NVIDIA brings agents to life with DGX Spark and Reachy Mini",
-    "link": "https://huggingface.co/blog/nvidia-reachy-mini",
-    "date": "2026-01-06"
-  },
-  {
-    "title": "NASA’s science budget won’t be a train wreck after all",
-    "link": "https://arstechnica.com/space/2026/01/nasas-science-budget-wont-be-a-train-wreck-after-all/",
-    "date": "2026-01-06"
-  },
-  {
-    "title": "Under anti-vaccine RFK Jr., CDC slashes childhood vaccine schedule",
-    "link": "https://arstechnica.com/health/2026/01/under-anti-vaccine-rfk-jr-cdc-slashes-childhood-vaccine-schedule/",
-    "date": "2026-01-06"
-  },
-  {
-    "title": "The nation’s strictest privacy law just took effect, to data brokers’ chagrin",
-    "link": "https://arstechnica.com/tech-policy/2026/01/data-broker-hoarding-is-rampant-new-law-lets-consumers-fight-back/",
-    "date": "2026-01-06"
-  },
-  {
-    "title": "Anna’s Archive loses .org domain, says suspension likely unrelated to Spotify piracy",
-    "link": "https://arstechnica.com/tech-policy/2026/01/annas-archive-loses-org-domain-says-suspension-likely-unrelated-to-spotify-piracy/",
-    "date": "2026-01-06"
-  },
-  {
-    "title": "Stewart Cheifet, PBS host who chronicled the PC revolution, dies at 87",
-    "link": "https://arstechnica.com/gadgets/2026/01/stewart-cheifet-pbs-host-who-chronicled-the-pc-revolution-dies-at-87/",
-    "date": "2026-01-06"
-  },
-  {
-    "title": "L’Oréal brings AI into everyday digital advertising production",
-    "link": "https://www.artificialintelligence-news.com/news/loreal-brings-ai-into-everyday-digital-advertising-production/",
-    "date": "2026-01-06"
-  },
-  {
-    "title": "AMD unveils new AI PC processors for general use and gaming at CES",
-    "link": "https://techcrunch.com/2026/01/05/amd-unveils-new-ai-pc-processors-for-general-use-and-gaming-at-ces/",
-    "date": "2026-01-06"
-  },
-  {
-    "title": "The latest AI news we announced in December",
-    "link": "https://blog.google/technology/ai/google-ai-updates-december-2025/",
-    "date": "2026-01-06"
-  },
-  {
-    "title": "Intel launches Core Ultra Series 3 CPUs, made using its long-awaited 18A process",
-    "link": "https://arstechnica.com/gadgets/2026/01/intel-launches-core-ultra-series-3-cpus-made-using-its-long-awaited-18a-process/",
-    "date": "2026-01-06"
-  },
-  {
-    "title": "AMD reheats last year’s Ryzen AI and X3D CPUs for 2026’s laptops and desktops",
-    "link": "https://arstechnica.com/gadgets/2026/01/amd-reheats-last-years-ryzen-ai-and-x3d-cpus-for-2026s-laptops-and-desktops/",
-    "date": "2026-01-06"
-  },
-  {
     "title": "CES 2026: Everything revealed, from Nvidia’s debuts to AMD’s new chips to Razer’s AI oddities",
     "link": "https://techcrunch.com/2026/01/06/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/",
     "date": "2026-01-07"
@@ -613,5 +503,100 @@
     "title": "The oceans just keep getting hotter",
     "link": "https://arstechnica.com/science/2026/01/the-oceans-just-keep-getting-hotter/",
     "date": "2026-01-12"
+  },
+  {
+    "title": "Hands-on with Bee, Amazon’s latest AI wearable",
+    "link": "https://techcrunch.com/2026/01/12/hands-on-with-bee-amazons-latest-ai-wearable/",
+    "date": "2026-01-13"
+  },
+  {
+    "title": "Why Amazon bought Bee, an AI wearable",
+    "link": "https://techcrunch.com/2026/01/12/why-amazon-bought-bee-an-ai-wearable/",
+    "date": "2026-01-13"
+  },
+  {
+    "title": "Mark Zuckerberg says Meta is launching its own AI infrastructure initiative",
+    "link": "https://techcrunch.com/2026/01/12/mark-zuckerberg-says-meta-is-launching-its-own-ai-infrastructure-initiative/",
+    "date": "2026-01-13"
+  },
+  {
+    "title": "Anthropic announces Claude for Healthcare following OpenAI’s ChatGPT Health reveal",
+    "link": "https://techcrunch.com/2026/01/12/anthropic-announces-claude-for-healthcare-following-openais-chatgpt-health-reveal/",
+    "date": "2026-01-13"
+  },
+  {
+    "title": "Anthropic’s new Cowork tool offers Claude Code without the code",
+    "link": "https://techcrunch.com/2026/01/12/anthropics-new-cowork-tool-offers-claude-code-without-the-code/",
+    "date": "2026-01-13"
+  },
+  {
+    "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
+    "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+    "date": "2026-01-13"
+  },
+  {
+    "title": "CES showed me why Chinese tech companies feel so optimistic",
+    "link": "https://www.technologyreview.com/2026/01/12/1131193/ces-showed-me-why-chinese-tech-companies-feel-so-optimistic/",
+    "date": "2026-01-13"
+  },
+  {
+    "title": "Mitigating emissions from air freight: Unlocking the potential of SAF with book and claim",
+    "link": "https://www.technologyreview.com/2026/01/12/1128939/mitigating-emissions-from-air-freight-unlocking-the-potential-of-saf-with-book-and-claim/",
+    "date": "2026-01-13"
+  },
+  {
+    "title": "The Download: introducing this year’s 10 Breakthrough Technologies",
+    "link": "https://www.technologyreview.com/2026/01/12/1131176/the-download-introducing-this-years-10-breakthrough-technologies/",
+    "date": "2026-01-13"
+  },
+  {
+    "title": "Securing digital assets as crypto crime surges",
+    "link": "https://www.technologyreview.com/2026/01/12/1129479/securing-digital-assets-as-crypto-crime-surges/",
+    "date": "2026-01-13"
+  },
+  {
+    "title": "10 Breakthrough Technologies 2026",
+    "link": "https://www.technologyreview.com/2026/01/12/1130697/10-breakthrough-technologies-2026/",
+    "date": "2026-01-13"
+  },
+  {
+    "title": "Anthropic launches Cowork, a Claude Code-like for general computing",
+    "link": "https://arstechnica.com/ai/2026/01/anthropic-launches-cowork-a-claude-code-like-for-general-computing/",
+    "date": "2026-01-13"
+  },
+  {
+    "title": "You can now reserve a hotel room on the Moon for $250,000",
+    "link": "https://arstechnica.com/space/2026/01/you-can-now-reserve-a-hotel-room-on-the-moon-for-250000/",
+    "date": "2026-01-13"
+  },
+  {
+    "title": "Paramount sues WBD over Netflix deal. WBD says Paramount’s price is still inadequate.",
+    "link": "https://arstechnica.com/gadgets/2026/01/paramount-sues-wbd-over-netflix-deal-wbd-says-paramounts-price-is-still-inadequate/",
+    "date": "2026-01-13"
+  },
+  {
+    "title": "Even Linus Torvalds is trying his hand at vibe coding (but just a little)",
+    "link": "https://arstechnica.com/ai/2026/01/hobby-github-repo-shows-linus-torvalds-vibe-codes-sometimes/",
+    "date": "2026-01-13"
+  },
+  {
+    "title": "Verizon to stop automatic unlocking of phones as FCC ends 60-day unlock rule",
+    "link": "https://arstechnica.com/tech-policy/2026/01/fcc-lets-verizon-lock-phones-for-longer-making-it-harder-to-switch-carriers/",
+    "date": "2026-01-13"
+  },
+  {
+    "title": "How Shopify is bringing agentic AI to enterprise commerce",
+    "link": "https://www.artificialintelligence-news.com/news/how-shopify-bringing-agentic-ai-enterprise-commerce/",
+    "date": "2026-01-13"
+  },
+  {
+    "title": "Retailers like Kroger and Lowe’s test AI agents without handing control to Google",
+    "link": "https://www.artificialintelligence-news.com/news/kroger-and-lowe-test-ai-agents-without-handing-control-to-google/",
+    "date": "2026-01-13"
+  },
+  {
+    "title": "The Meta-Manus review: What enterprise AI buyers need to know about cross-border compliance risk",
+    "link": "https://www.artificialintelligence-news.com/news/meta-manus-ai-vendor-compliance-risk/",
+    "date": "2026-01-13"
   }
 ]
