@@ -1,120 +1,5 @@
 [
   {
-    "title": "CES 2026: Everything revealed, from Nvidia’s debuts to AMD’s new chips to Razer’s AI oddities",
-    "link": "https://techcrunch.com/2026/01/06/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/",
-    "date": "2026-01-07"
-  },
-  {
-    "title": "A viral Reddit post alleging fraud from a food delivery app turned out to be AI-generated",
-    "link": "https://techcrunch.com/2026/01/06/a-viral-reddit-post-alleging-fraud-from-a-food-delivery-app-turned-out-to-be-ai-generated/",
-    "date": "2026-01-07"
-  },
-  {
-    "title": "xAI says it raised $20B in Series E funding",
-    "link": "https://techcrunch.com/2026/01/06/xai-says-it-raised-20b-in-series-e-funding/",
-    "date": "2026-01-07"
-  },
-  {
-    "title": "California lawmaker proposes a four-year ban on AI chatbots in kids’ toys",
-    "link": "https://techcrunch.com/2026/01/06/california-lawmaker-proposes-a-four-year-ban-on-ai-chatbots-in-kids-toys/",
-    "date": "2026-01-07"
-  },
-  {
-    "title": "The most bizarre tech announced so far at CES 2026",
-    "link": "https://techcrunch.com/2026/01/06/the-most-bizarre-tech-announced-so-far-at-ces-2026/",
-    "date": "2026-01-07"
-  },
-  {
-    "title": "Powering up (and saving) the planet",
-    "link": "https://www.technologyreview.com/2026/01/06/1128655/powering-up-and-saving-the-planet/",
-    "date": "2026-01-07"
-  },
-  {
-    "title": "Starstruck",
-    "link": "https://www.technologyreview.com/2026/01/06/1128661/starstruck/",
-    "date": "2026-01-07"
-  },
-  {
-    "title": "Dennis Whyte’s fusion quest",
-    "link": "https://www.technologyreview.com/2026/01/06/1128665/dennis-whytes-fusion-quest/",
-    "date": "2026-01-07"
-  },
-  {
-    "title": "Hands-on engineering",
-    "link": "https://www.technologyreview.com/2026/01/06/1128990/hands-on-engineering/",
-    "date": "2026-01-07"
-  },
-  {
-    "title": "Investing in the promise of quantum",
-    "link": "https://www.technologyreview.com/2026/01/06/1128993/investing-in-the-promise-of-quantum/",
-    "date": "2026-01-07"
-  },
-  {
-    "title": "Small Yet Mighty: Improve Accuracy In Multimodal Search and Visual Document Retrieval with Llama Nemotron RAG Models",
-    "link": "https://huggingface.co/blog/nvidia/llama-nemotron-vl-1b",
-    "date": "2026-01-07"
-  },
-  {
-    "title": "HP’s EliteBoard G1a is a Ryzen-powered Windows 11 PC in a membrane keyboard",
-    "link": "https://arstechnica.com/gadgets/2026/01/hps-eliteboard-g1a-is-a-ryzen-powered-windows-11-pc-in-a-membrane-keyboard/",
-    "date": "2026-01-07"
-  },
-  {
-    "title": "With GeForce Super GPUs missing in action, Nvidia focuses on software upgrades",
-    "link": "https://arstechnica.com/gadgets/2026/01/nvidia-leans-on-dlss-improvements-to-make-up-for-a-lack-of-gpus-at-ces/",
-    "date": "2026-01-07"
-  },
-  {
-    "title": "Letting prisons jam contraband phones is a bad idea, phone companies tell FCC",
-    "link": "https://arstechnica.com/tech-policy/2026/01/letting-prisons-jam-contraband-phones-is-a-bad-idea-phone-companies-tell-fcc/",
-    "date": "2026-01-07"
-  },
-  {
-    "title": "Dell’s XPS revival is a welcome reprieve from the “AI PC” fad",
-    "link": "https://arstechnica.com/gadgets/2026/01/dells-xps-revival-is-a-welcome-reprieve-from-the-ai-pc-fad/",
-    "date": "2026-01-07"
-  },
-  {
-    "title": "News orgs win fight to access 20M ChatGPT logs. Now they want more.",
-    "link": "https://arstechnica.com/ai/2026/01/news-orgs-want-openai-to-dig-up-millions-of-deleted-chatgpt-logs/",
-    "date": "2026-01-07"
-  },
-  {
-    "title": "The Law Society: Current laws are fit for the AI era",
-    "link": "https://www.artificialintelligence-news.com/news/the-law-society-current-laws-are-fit-for-the-ai-era/",
-    "date": "2026-01-07"
-  },
-  {
-    "title": "What PubMatic’s AgenticOS signals for enterprise marketing",
-    "link": "https://www.artificialintelligence-news.com/news/agentic-ai-in-marketing-and-advertising-at-enterprise-level/",
-    "date": "2026-01-07"
-  },
-  {
-    "title": "5 AI-powered tools streamlining contract management today",
-    "link": "https://www.artificialintelligence-news.com/news/5-ai-powered-tools-streamlining-contract-management-today/",
-    "date": "2026-01-07"
-  },
-  {
-    "title": "2025’s AI chip wars: What enterprise leaders learned about supply chain reality",
-    "link": "https://www.artificialintelligence-news.com/news/ai-chip-shortage-enterprise-ctos-2025/",
-    "date": "2026-01-07"
-  },
-  {
-    "title": "McKinsey and General Catalyst execs say the era of ‘learn once, work forever’ is over",
-    "link": "https://techcrunch.com/2026/01/06/mckinsey-and-general-catalyst-execs-say-the-era-of-learn-once-work-forever-is-over/",
-    "date": "2026-01-07"
-  },
-  {
-    "title": "Meta’s Manus news is getting different receptions in Washington and Beijing",
-    "link": "https://techcrunch.com/2026/01/06/metas-manus-news-is-getting-different-receptions-in-washington-and-beijing/",
-    "date": "2026-01-07"
-  },
-  {
-    "title": "Motorola reveals the Razr Fold, a book-style foldable launching this summer",
-    "link": "https://arstechnica.com/gadgets/2026/01/motorola-reveals-the-razr-fold-a-book-style-foldable-launching-this-summer/",
-    "date": "2026-01-07"
-  },
-  {
     "title": "Ford has an AI assistant and new hands-free BlueCruise tech on the way",
     "link": "https://techcrunch.com/2026/01/07/ford-has-an-ai-assistant-and-new-hands-free-bluecruise-tech-on-the-way/",
     "date": "2026-01-08"
@@ -628,5 +513,85 @@
     "title": "Why Apple chose Google over OpenAI: What enterprise AI buyers can learn from the Gemini deal",
     "link": "https://www.artificialintelligence-news.com/news/apple-gemini-siri-enterprise-foundation-models/",
     "date": "2026-01-13"
+  },
+  {
+    "title": "Microsoft announces glut of new data centers but says it won’t let your electricity bill go up",
+    "link": "https://techcrunch.com/2026/01/13/microsoft-announces-glut-of-new-data-centers-but-says-it-wont-let-your-electricity-bill-go-up/",
+    "date": "2026-01-14"
+  },
+  {
+    "title": "A consumer watchdog issued a warning about Google’s AI agent shopping protocol — Google says she’s wrong",
+    "link": "https://techcrunch.com/2026/01/13/a-consumer-watchdog-issued-a-warning-about-googles-ai-agent-shopping-protocol-google-says-shes-wrong/",
+    "date": "2026-01-14"
+  },
+  {
+    "title": "Ring founder details the camera company’s ‘intelligent assistant’ era",
+    "link": "https://techcrunch.com/2026/01/13/ring-founder-details-the-camera-companys-intelligent-assistant-era/",
+    "date": "2026-01-14"
+  },
+  {
+    "title": "Doctors think AI has a place in healthcare — but maybe not as a chatbot",
+    "link": "https://techcrunch.com/2026/01/13/doctors-think-ai-has-a-place-in-healthcare-but-maybe-not-as-a-chatbot/",
+    "date": "2026-01-14"
+  },
+  {
+    "title": "Neo humanoid maker 1X releases world model to help bots learn what they see",
+    "link": "https://techcrunch.com/2026/01/13/neo-humanoid-maker-1x-releases-world-model-to-help-bots-learn-what-they-see/",
+    "date": "2026-01-14"
+  },
+  {
+    "title": "Zenken boosts a lean sales team with ChatGPT Enterprise",
+    "link": "https://openai.com/index/zenken",
+    "date": "2026-01-14"
+  },
+  {
+    "title": "Veo 3.1 Ingredients to Video: More consistency, creativity and control",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-ingredients-to-video/",
+    "date": "2026-01-14"
+  },
+  {
+    "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+    "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+    "date": "2026-01-14"
+  },
+  {
+    "title": "The Download: sodium-ion batteries and China’s bright tech future",
+    "link": "https://www.technologyreview.com/2026/01/13/1131245/the-download-sodium-ion-batteries-and-chinas-bright-tech-future/",
+    "date": "2026-01-14"
+  },
+  {
+    "title": "BMW’s first electric M car is coming in 2027—with one motor per wheel",
+    "link": "https://arstechnica.com/cars/2026/01/bmws-first-electric-m-car-is-coming-in-2027-with-one-motor-per-wheel/",
+    "date": "2026-01-14"
+  },
+  {
+    "title": "The RAM shortage’s silver lining: Less talk about “AI PCs”",
+    "link": "https://arstechnica.com/gadgets/2026/01/the-ram-shortages-silver-lining-less-talk-about-ai-pcs/",
+    "date": "2026-01-14"
+  },
+  {
+    "title": "Never-before-seen Linux malware is “far more advanced than typical”",
+    "link": "https://arstechnica.com/security/2026/01/never-before-seen-linux-malware-is-far-more-advanced-than-typical/",
+    "date": "2026-01-14"
+  },
+  {
+    "title": "Lawsuit: DHS wants “unlimited subpoena authority” to unmask ICE critics",
+    "link": "https://arstechnica.com/tech-policy/2026/01/instagram-user-fights-dhs-for-the-right-to-post-ice-sightings-anonymously/",
+    "date": "2026-01-14"
+  },
+  {
+    "title": "FDA deletes warning on bogus autism therapies touted by RFK Jr.‘s allies",
+    "link": "https://arstechnica.com/health/2026/01/warning-about-bogus-autism-treatments-vanishes-from-fdas-website/",
+    "date": "2026-01-14"
+  },
+  {
+    "title": "Allister Frost: Tackling workforce anxiety for AI integration success",
+    "link": "https://www.artificialintelligence-news.com/news/allister-frost-tackling-workforce-anxiety-for-ai-integration-success/",
+    "date": "2026-01-14"
+  },
+  {
+    "title": "The latency trap: Smart warehouses abandon cloud for edge",
+    "link": "https://www.artificialintelligence-news.com/news/the-latency-trap-smart-warehouses-abandon-cloud-for-edge/",
+    "date": "2026-01-14"
   }
 ]
