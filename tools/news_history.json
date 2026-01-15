@@ -548,5 +548,30 @@
     "title": "Research shows UK young adults would use AI for financial guidance",
     "link": "https://www.artificialintelligence-news.com/news/financial-advice-ai-powered-uk-fintech-market-possibilities/",
     "date": "2026-01-15"
+  },
+  {
+    "title": "Mira Murati’s startup, Thinking Machines Lab, is losing two of its co-founders to OpenAI",
+    "link": "https://techcrunch.com/2026/01/14/mira-muratis-startup-thinking-machines-lab-is-losing-two-of-its-co-founders-to-openai/",
+    "date": "2026-01-15"
+  },
+  {
+    "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
+    "link": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
+    "date": "2026-01-15"
+  },
+  {
+    "title": "AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems",
+    "link": "https://huggingface.co/blog/ServiceNow-AI/aprielguard",
+    "date": "2026-01-15"
+  },
+  {
+    "title": "Tokenization in Transformers v5: Simpler, Clearer, and More Modular",
+    "link": "https://huggingface.co/blog/tokenizers",
+    "date": "2026-01-15"
+  },
+  {
+    "title": "AI medical diagnostics race intensifies as OpenAI, Google, and Anthropic launch competing healthcare tools",
+    "link": "https://www.artificialintelligence-news.com/news/medical-ai-diagnostics-openai-google-anthropic/",
+    "date": "2026-01-15"
   }
 ]
