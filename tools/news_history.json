@@ -1,135 +1,5 @@
 [
   {
-    "title": "Ford has an AI assistant and new hands-free BlueCruise tech on the way",
-    "link": "https://techcrunch.com/2026/01/07/ford-has-an-ai-assistant-and-new-hands-free-bluecruise-tech-on-the-way/",
-    "date": "2026-01-08"
-  },
-  {
-    "title": "OpenAI unveils ChatGPT Health, says 230 million users ask about health each week",
-    "link": "https://techcrunch.com/2026/01/07/openai-unveils-chatgpt-health-says-230-million-users-ask-about-health-each-week/",
-    "date": "2026-01-08"
-  },
-  {
-    "title": "Where VCs think AI startups can win, even with OpenAI in the game",
-    "link": "https://techcrunch.com/video/where-vcs-think-ai-startups-can-win-even-with-openai-in-the-game/",
-    "date": "2026-01-08"
-  },
-  {
-    "title": "Anthropic reportedly raising $10B at $350B valuation",
-    "link": "https://techcrunch.com/2026/01/07/anthropic-reportedly-raising-10b-at-350b-valuation/",
-    "date": "2026-01-08"
-  },
-  {
-    "title": "VC predicts the consumer AI products OpenAI ‘won’t want to kill’",
-    "link": "https://techcrunch.com/podcast/investing-in-the-consumer-ai-products-openai-wont-want-to-kill/",
-    "date": "2026-01-08"
-  },
-  {
-    "title": "How Tolan builds voice-first AI with GPT-5.1",
-    "link": "https://openai.com/index/tolan",
-    "date": "2026-01-08"
-  },
-  {
-    "title": "Introducing ChatGPT Health",
-    "link": "https://openai.com/index/introducing-chatgpt-health",
-    "date": "2026-01-08"
-  },
-  {
-    "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
-    "link": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
-    "date": "2026-01-08"
-  },
-  {
-    "title": "Deploying a hybrid approach to Web3 in the AI era",
-    "link": "https://www.technologyreview.com/2026/01/07/1129490/deploying-a-hybrid-approach-to-web3-in-the-ai-era/",
-    "date": "2026-01-08"
-  },
-  {
-    "title": "The Download: war in Europe, and the company that wants to cool the planet",
-    "link": "https://www.technologyreview.com/2026/01/07/1130806/the-download-war-in-europe-and-the-company-that-wants-to-cool-the-planet/",
-    "date": "2026-01-08"
-  },
-  {
-    "title": "LLMs contain a LOT of parameters. But what’s a parameter?",
-    "link": "https://www.technologyreview.com/2026/01/07/1130795/what-even-is-a-parameter/",
-    "date": "2026-01-08"
-  },
-  {
-    "title": "The man who made India digital isn’t done yet",
-    "link": "https://www.technologyreview.com/2026/01/07/1129748/aadhaar-nandan-nilekani-india-digital-biometric-identity-data/",
-    "date": "2026-01-08"
-  },
-  {
-    "title": "Ford is getting ready to put AI assistants in its cars",
-    "link": "https://arstechnica.com/cars/2026/01/in-car-ai-assistant-coming-to-fords-and-lincolns-in-2027/",
-    "date": "2026-01-08"
-  },
-  {
-    "title": "Samsung’s Ballie home robot, once promised for summer 2025, gets grim update",
-    "link": "https://arstechnica.com/gadgets/2026/01/samsung-squashes-hopes-that-it-will-release-its-ballie-home-robot/",
-    "date": "2026-01-08"
-  },
-  {
-    "title": "AI starts autonomously writing prescription refills in Utah",
-    "link": "https://arstechnica.com/health/2026/01/utah-allows-ai-to-autonomously-prescribe-medication-refills/",
-    "date": "2026-01-08"
-  },
-  {
-    "title": "Warner Bros. sticks with Netflix merger, calls Paramount’s $108B bid “illusory”",
-    "link": "https://arstechnica.com/tech-policy/2026/01/warner-bros-sticks-with-netflix-merger-calls-paramounts-108b-bid-illusory/",
-    "date": "2026-01-08"
-  },
-  {
-    "title": "Bose open-sources its SoundTouch home theater smart speakers ahead of end-of-life",
-    "link": "https://arstechnica.com/gadgets/2026/01/bose-open-sources-its-soundtouch-home-theater-smart-speakers-ahead-of-eol/",
-    "date": "2026-01-08"
-  },
-  {
-    "title": "Agentic AI scaling requires new memory architecture",
-    "link": "https://www.artificialintelligence-news.com/news/agentic-ai-scaling-requires-new-memory-architecture/",
-    "date": "2026-01-08"
-  },
-  {
-    "title": "Optimism for AI-powered productivity: Deloitte",
-    "link": "https://www.artificialintelligence-news.com/news/deloitte-survey-takes-cfo-and-it-temperature-around-technology-and-ai/",
-    "date": "2026-01-08"
-  },
-  {
-    "title": "Grab brings robotics in-house to manage delivery costs",
-    "link": "https://www.artificialintelligence-news.com/news/grab-brings-robotics-in-house-to-manage-delivery-costs/",
-    "date": "2026-01-08"
-  },
-  {
-    "title": "Google and Character.AI negotiate first major settlements in teen chatbot death cases",
-    "link": "https://techcrunch.com/2026/01/07/google-and-character-ai-negotiate-first-major-settlements-in-teen-chatbot-death-cases/",
-    "date": "2026-01-08"
-  },
-  {
-    "title": "One in a million: celebrating the customers shaping AI’s future",
-    "link": "https://openai.com/index/one-in-a-million-customers",
-    "date": "2026-01-08"
-  },
-  {
-    "title": "Continuously hardening ChatGPT Atlas against prompt injection",
-    "link": "https://openai.com/index/hardening-atlas-against-prompt-injection",
-    "date": "2026-01-08"
-  },
-  {
-    "title": "AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems",
-    "link": "https://huggingface.co/blog/ServiceNow-AI/aprielguard",
-    "date": "2026-01-08"
-  },
-  {
-    "title": "Tokenization in Transformers v5: Simpler, Clearer, and More Modular",
-    "link": "https://huggingface.co/blog/tokenizers",
-    "date": "2026-01-08"
-  },
-  {
-    "title": "A crew member’s “medical concern” foils a planned spacewalk outside the ISS",
-    "link": "https://arstechnica.com/space/2026/01/nasa-postpones-space-station-spacewalk-due-to-crew-members-medical-concern/",
-    "date": "2026-01-08"
-  },
-  {
     "title": "CES 2026: Everything revealed, from Nvidia’s debuts to AMD’s new chips to Razer’s AI oddities",
     "link": "https://techcrunch.com/2026/01/08/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/",
     "date": "2026-01-09"
@@ -593,5 +463,90 @@
     "title": "The latency trap: Smart warehouses abandon cloud for edge",
     "link": "https://www.artificialintelligence-news.com/news/the-latency-trap-smart-warehouses-abandon-cloud-for-edge/",
     "date": "2026-01-14"
+  },
+  {
+    "title": "India’s Emversity doubles valuation as it scales workers AI can’t replace",
+    "link": "https://techcrunch.com/2026/01/14/indias-emversity-doubles-valuation-as-it-scales-workers-ai-cant-replace/",
+    "date": "2026-01-15"
+  },
+  {
+    "title": "Musk denies awareness of Grok sexual underage images as California AG launches probe",
+    "link": "https://techcrunch.com/2026/01/14/musk-denies-awareness-of-grok-sexual-underage-images-as-california-ag-launches-probe/",
+    "date": "2026-01-15"
+  },
+  {
+    "title": "OpenAI signs deal, worth $10B, for compute from Cerebras",
+    "link": "https://techcrunch.com/2026/01/14/openai-signs-deal-reportedly-worth-10-billion-for-compute-from-cerebras/",
+    "date": "2026-01-15"
+  },
+  {
+    "title": "The multibillion-dollar AI security problem enterprises can’t ignore",
+    "link": "https://techcrunch.com/podcast/the-multi-billion-ai-security-problem-enterprises-cant-ignore/",
+    "date": "2026-01-15"
+  },
+  {
+    "title": "AI models are starting to crack high-level math problems",
+    "link": "https://techcrunch.com/2026/01/14/ai-models-are-starting-to-crack-high-level-math-problems/",
+    "date": "2026-01-15"
+  },
+  {
+    "title": "OpenAI partners with Cerebras",
+    "link": "https://openai.com/index/cerebras-partnership",
+    "date": "2026-01-15"
+  },
+  {
+    "title": "Introducing Community Benchmarks on Kaggle",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-community-benchmarks/",
+    "date": "2026-01-15"
+  },
+  {
+    "title": "Announcing the winner of the Global AI Film Award",
+    "link": "https://blog.google/company-news/inside-google/around-the-globe/google-middle-east/winner-of-the-global-ai-film-award/",
+    "date": "2026-01-15"
+  },
+  {
+    "title": "The Download: next-gen nuclear, and the data center backlash",
+    "link": "https://www.technologyreview.com/2026/01/14/1131317/the-download-next-gen-nuclear-and-the-data-center-backlash/",
+    "date": "2026-01-15"
+  },
+  {
+    "title": "Data centers are amazing. Everyone hates them.",
+    "link": "https://www.technologyreview.com/2026/01/14/1131253/data-centers-are-amazing-everyone-hates-them/",
+    "date": "2026-01-15"
+  },
+  {
+    "title": "A British redcoat’s lost memoir resurfaces",
+    "link": "https://arstechnica.com/science/2026/01/a-british-redcoats-lost-memoir-resurfaces/",
+    "date": "2026-01-15"
+  },
+  {
+    "title": "Musk and Hegseth vow to “make Star Trek real” but miss the show’s lessons",
+    "link": "https://arstechnica.com/culture/2026/01/pentagons-arsenal-of-freedom-tour-borrows-name-from-star-trek-episode-about-killer-ai/",
+    "date": "2026-01-15"
+  },
+  {
+    "title": "SC measles outbreak has gone berserk: 124 cases since Friday, 409 quarantined",
+    "link": "https://arstechnica.com/health/2026/01/sc-measles-outbreak-has-gone-berserk-124-cases-since-friday-409-quarantined/",
+    "date": "2026-01-15"
+  },
+  {
+    "title": "A single click mounted a covert, multistage attack against Copilot",
+    "link": "https://arstechnica.com/security/2026/01/a-single-click-mounted-a-covert-multistage-attack-against-copilot/",
+    "date": "2026-01-15"
+  },
+  {
+    "title": "I can’t stop shooting Oddcore’s endless waves of weird little guys",
+    "link": "https://arstechnica.com/gaming/2026/01/i-cant-stop-shooting-oddcores-endless-waves-of-weird-little-guys/",
+    "date": "2026-01-15"
+  },
+  {
+    "title": "AstraZeneca bets on in-house AI to speed up oncology research",
+    "link": "https://www.artificialintelligence-news.com/news/astrazeneca-bets-on-in-house-ai-to-speed-up-oncology-research/",
+    "date": "2026-01-15"
+  },
+  {
+    "title": "Research shows UK young adults would use AI for financial guidance",
+    "link": "https://www.artificialintelligence-news.com/news/financial-advice-ai-powered-uk-fintech-market-possibilities/",
+    "date": "2026-01-15"
   }
 ]
