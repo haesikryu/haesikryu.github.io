@@ -508,5 +508,35 @@
     "title": "JPMorgan Chase treats AI spending as core infrastructure",
     "link": "https://www.artificialintelligence-news.com/news/jpmorgan-chase-treats-ai-spending-as-core-infrastructure/",
     "date": "2026-01-20"
+  },
+  {
+    "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
+    "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+    "date": "2026-01-20"
+  },
+  {
+    "title": "The creator of Claude Code just revealed his workflow, and developers are losing their minds",
+    "link": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are",
+    "date": "2026-01-20"
+  },
+  {
+    "title": "Differential Transformer V2",
+    "link": "https://huggingface.co/blog/microsoft/diff-attn-v2",
+    "date": "2026-01-20"
+  },
+  {
+    "title": "NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI",
+    "link": "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning",
+    "date": "2026-01-20"
+  },
+  {
+    "title": "Introducing Falcon-H1-Arabic: Pushing the Boundaries of Arabic Language AI with Hybrid Architecture",
+    "link": "https://huggingface.co/blog/tiiuae/falcon-h1-arabic",
+    "date": "2026-01-20"
+  },
+  {
+    "title": "NVIDIA brings agents to life with DGX Spark and Reachy Mini",
+    "link": "https://huggingface.co/blog/nvidia-reachy-mini",
+    "date": "2026-01-20"
   }
 ]
