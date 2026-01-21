@@ -1,85 +1,5 @@
 [
   {
-    "title": "Microsoft announces glut of new data centers but says it won’t let your electricity bill go up",
-    "link": "https://techcrunch.com/2026/01/13/microsoft-announces-glut-of-new-data-centers-but-says-it-wont-let-your-electricity-bill-go-up/",
-    "date": "2026-01-14"
-  },
-  {
-    "title": "A consumer watchdog issued a warning about Google’s AI agent shopping protocol — Google says she’s wrong",
-    "link": "https://techcrunch.com/2026/01/13/a-consumer-watchdog-issued-a-warning-about-googles-ai-agent-shopping-protocol-google-says-shes-wrong/",
-    "date": "2026-01-14"
-  },
-  {
-    "title": "Ring founder details the camera company’s ‘intelligent assistant’ era",
-    "link": "https://techcrunch.com/2026/01/13/ring-founder-details-the-camera-companys-intelligent-assistant-era/",
-    "date": "2026-01-14"
-  },
-  {
-    "title": "Doctors think AI has a place in healthcare — but maybe not as a chatbot",
-    "link": "https://techcrunch.com/2026/01/13/doctors-think-ai-has-a-place-in-healthcare-but-maybe-not-as-a-chatbot/",
-    "date": "2026-01-14"
-  },
-  {
-    "title": "Neo humanoid maker 1X releases world model to help bots learn what they see",
-    "link": "https://techcrunch.com/2026/01/13/neo-humanoid-maker-1x-releases-world-model-to-help-bots-learn-what-they-see/",
-    "date": "2026-01-14"
-  },
-  {
-    "title": "Zenken boosts a lean sales team with ChatGPT Enterprise",
-    "link": "https://openai.com/index/zenken",
-    "date": "2026-01-14"
-  },
-  {
-    "title": "Veo 3.1 Ingredients to Video: More consistency, creativity and control",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-ingredients-to-video/",
-    "date": "2026-01-14"
-  },
-  {
-    "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-    "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-    "date": "2026-01-14"
-  },
-  {
-    "title": "The Download: sodium-ion batteries and China’s bright tech future",
-    "link": "https://www.technologyreview.com/2026/01/13/1131245/the-download-sodium-ion-batteries-and-chinas-bright-tech-future/",
-    "date": "2026-01-14"
-  },
-  {
-    "title": "BMW’s first electric M car is coming in 2027—with one motor per wheel",
-    "link": "https://arstechnica.com/cars/2026/01/bmws-first-electric-m-car-is-coming-in-2027-with-one-motor-per-wheel/",
-    "date": "2026-01-14"
-  },
-  {
-    "title": "The RAM shortage’s silver lining: Less talk about “AI PCs”",
-    "link": "https://arstechnica.com/gadgets/2026/01/the-ram-shortages-silver-lining-less-talk-about-ai-pcs/",
-    "date": "2026-01-14"
-  },
-  {
-    "title": "Never-before-seen Linux malware is “far more advanced than typical”",
-    "link": "https://arstechnica.com/security/2026/01/never-before-seen-linux-malware-is-far-more-advanced-than-typical/",
-    "date": "2026-01-14"
-  },
-  {
-    "title": "Lawsuit: DHS wants “unlimited subpoena authority” to unmask ICE critics",
-    "link": "https://arstechnica.com/tech-policy/2026/01/instagram-user-fights-dhs-for-the-right-to-post-ice-sightings-anonymously/",
-    "date": "2026-01-14"
-  },
-  {
-    "title": "FDA deletes warning on bogus autism therapies touted by RFK Jr.‘s allies",
-    "link": "https://arstechnica.com/health/2026/01/warning-about-bogus-autism-treatments-vanishes-from-fdas-website/",
-    "date": "2026-01-14"
-  },
-  {
-    "title": "Allister Frost: Tackling workforce anxiety for AI integration success",
-    "link": "https://www.artificialintelligence-news.com/news/allister-frost-tackling-workforce-anxiety-for-ai-integration-success/",
-    "date": "2026-01-14"
-  },
-  {
-    "title": "The latency trap: Smart warehouses abandon cloud for edge",
-    "link": "https://www.artificialintelligence-news.com/news/the-latency-trap-smart-warehouses-abandon-cloud-for-edge/",
-    "date": "2026-01-14"
-  },
-  {
     "title": "India’s Emversity doubles valuation as it scales workers AI can’t replace",
     "link": "https://techcrunch.com/2026/01/14/indias-emversity-doubles-valuation-as-it-scales-workers-ai-cant-replace/",
     "date": "2026-01-15"
@@ -538,5 +458,105 @@
     "title": "NVIDIA brings agents to life with DGX Spark and Reachy Mini",
     "link": "https://huggingface.co/blog/nvidia-reachy-mini",
     "date": "2026-01-20"
+  },
+  {
+    "title": "In an effort to protect young users, ChatGPT will now predict how old you are",
+    "link": "https://techcrunch.com/2026/01/20/in-an-effort-to-protect-young-users-chatgpt-will-now-predict-how-old-you-are/",
+    "date": "2026-01-21"
+  },
+  {
+    "title": "Elon Musk says Tesla’s restarted Dojo3 will be for ‘space-based AI compute’",
+    "link": "https://techcrunch.com/2026/01/20/elon-musk-says-teslas-restarted-dojo3-will-be-for-space-based-ai-compute/",
+    "date": "2026-01-21"
+  },
+  {
+    "title": "Humans&, a ‘human-centric’ AI startup founded by Anthropic, xAI, Google alums, raised $480M seed round",
+    "link": "https://techcrunch.com/2026/01/20/humans-a-human-centric-ai-startup-founded-by-anthropic-xai-google-alums-raised-480m-seed-round/",
+    "date": "2026-01-21"
+  },
+  {
+    "title": "Indian vibe-coding startup Emergent triples valuation to $300M with $70M fundraise",
+    "link": "https://techcrunch.com/2026/01/20/indian-vibe-coding-startup-emergent-raises-70m-at-300m-valuation-from-softbank-khosla-ventures/",
+    "date": "2026-01-21"
+  },
+  {
+    "title": "Cisco and OpenAI redefine enterprise engineering with AI agents",
+    "link": "https://openai.com/index/cisco",
+    "date": "2026-01-21"
+  },
+  {
+    "title": "ServiceNow powers actionable enterprise AI with OpenAI",
+    "link": "https://openai.com/index/servicenow-powers-actionable-enterprise-ai-with-openai",
+    "date": "2026-01-21"
+  },
+  {
+    "title": "Our approach to age prediction",
+    "link": "https://openai.com/index/our-approach-to-age-prediction",
+    "date": "2026-01-21"
+  },
+  {
+    "title": "Building a community-led future for AI in film with Sundance Institute",
+    "link": "https://blog.google/company-news/outreach-and-initiatives/google-org/sundance-institute-ai-education/",
+    "date": "2026-01-21"
+  },
+  {
+    "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+    "link": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+    "date": "2026-01-21"
+  },
+  {
+    "title": "Reimagining ERP for the agentic AI era",
+    "link": "https://www.technologyreview.com/2026/01/20/1129965/reimagining-erp-for-the-agentic-ai-era/",
+    "date": "2026-01-21"
+  },
+  {
+    "title": "The era of agentic chaos and how data will save us",
+    "link": "https://www.technologyreview.com/2026/01/20/1130911/the-era-of-agentic-chaos-and-how-data-will-save-us/",
+    "date": "2026-01-21"
+  },
+  {
+    "title": "The UK government is backing AI that can run its own lab experiments",
+    "link": "https://www.technologyreview.com/2026/01/20/1131462/the-uk-government-is-backing-ai-scientists-that-can-run-their-own-experiments/",
+    "date": "2026-01-21"
+  },
+  {
+    "title": "The Download: digitizing India, and scoring embryos",
+    "link": "https://www.technologyreview.com/2026/01/20/1131459/the-download-digitizing-india-and-scoring-embryos/",
+    "date": "2026-01-21"
+  },
+  {
+    "title": "Introducing Waypoint-1: Real-time interactive video diffusion from Overworld",
+    "link": "https://huggingface.co/blog/waypoint-1",
+    "date": "2026-01-21"
+  },
+  {
+    "title": "Webb reveals a planetary nebula with phenomenal clarity, and it is spectacular",
+    "link": "https://arstechnica.com/space/2026/01/webb-has-given-us-with-a-stunning-new-view-of-a-well-known-planetary-nebula/",
+    "date": "2026-01-21"
+  },
+  {
+    "title": "Zuck stuck on Trump’s bad side: FTC appeals loss in Meta monopoly case",
+    "link": "https://arstechnica.com/tech-policy/2026/01/zuck-stuck-on-trumps-bad-side-ftc-appeals-loss-in-meta-monopoly-case/",
+    "date": "2026-01-21"
+  },
+  {
+    "title": "Verizon starts requiring 365 days of paid service before it will unlock phones",
+    "link": "https://arstechnica.com/tech-policy/2026/01/verizon-starts-requiring-365-days-of-paid-service-before-it-will-unlock-phones/",
+    "date": "2026-01-21"
+  },
+  {
+    "title": "Google temporarily disabled YouTube's advanced captions without warning",
+    "link": "https://arstechnica.com/gadgets/2026/01/google-temporarily-disabled-youtubes-advanced-captions-without-warning/",
+    "date": "2026-01-21"
+  },
+  {
+    "title": "Flesh-eating flies are eating their way through Mexico, CDC warns",
+    "link": "https://arstechnica.com/health/2026/01/be-on-the-lookout-for-flesh-eating-flies-cdc-tells-clinicians-in-alert/",
+    "date": "2026-01-21"
+  },
+  {
+    "title": "OpenCog Hyperon and AGI: Beyond large language models",
+    "link": "https://www.artificialintelligence-news.com/news/opencog-hyperon-and-agi-beyond-large-language-models/",
+    "date": "2026-01-21"
   }
 ]
