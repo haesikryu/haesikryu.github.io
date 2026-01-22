@@ -1,115 +1,5 @@
 [
   {
-    "title": "India’s Emversity doubles valuation as it scales workers AI can’t replace",
-    "link": "https://techcrunch.com/2026/01/14/indias-emversity-doubles-valuation-as-it-scales-workers-ai-cant-replace/",
-    "date": "2026-01-15"
-  },
-  {
-    "title": "Musk denies awareness of Grok sexual underage images as California AG launches probe",
-    "link": "https://techcrunch.com/2026/01/14/musk-denies-awareness-of-grok-sexual-underage-images-as-california-ag-launches-probe/",
-    "date": "2026-01-15"
-  },
-  {
-    "title": "OpenAI signs deal, worth $10B, for compute from Cerebras",
-    "link": "https://techcrunch.com/2026/01/14/openai-signs-deal-reportedly-worth-10-billion-for-compute-from-cerebras/",
-    "date": "2026-01-15"
-  },
-  {
-    "title": "The multibillion-dollar AI security problem enterprises can’t ignore",
-    "link": "https://techcrunch.com/podcast/the-multi-billion-ai-security-problem-enterprises-cant-ignore/",
-    "date": "2026-01-15"
-  },
-  {
-    "title": "AI models are starting to crack high-level math problems",
-    "link": "https://techcrunch.com/2026/01/14/ai-models-are-starting-to-crack-high-level-math-problems/",
-    "date": "2026-01-15"
-  },
-  {
-    "title": "OpenAI partners with Cerebras",
-    "link": "https://openai.com/index/cerebras-partnership",
-    "date": "2026-01-15"
-  },
-  {
-    "title": "Introducing Community Benchmarks on Kaggle",
-    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-community-benchmarks/",
-    "date": "2026-01-15"
-  },
-  {
-    "title": "Announcing the winner of the Global AI Film Award",
-    "link": "https://blog.google/company-news/inside-google/around-the-globe/google-middle-east/winner-of-the-global-ai-film-award/",
-    "date": "2026-01-15"
-  },
-  {
-    "title": "The Download: next-gen nuclear, and the data center backlash",
-    "link": "https://www.technologyreview.com/2026/01/14/1131317/the-download-next-gen-nuclear-and-the-data-center-backlash/",
-    "date": "2026-01-15"
-  },
-  {
-    "title": "Data centers are amazing. Everyone hates them.",
-    "link": "https://www.technologyreview.com/2026/01/14/1131253/data-centers-are-amazing-everyone-hates-them/",
-    "date": "2026-01-15"
-  },
-  {
-    "title": "A British redcoat’s lost memoir resurfaces",
-    "link": "https://arstechnica.com/science/2026/01/a-british-redcoats-lost-memoir-resurfaces/",
-    "date": "2026-01-15"
-  },
-  {
-    "title": "Musk and Hegseth vow to “make Star Trek real” but miss the show’s lessons",
-    "link": "https://arstechnica.com/culture/2026/01/pentagons-arsenal-of-freedom-tour-borrows-name-from-star-trek-episode-about-killer-ai/",
-    "date": "2026-01-15"
-  },
-  {
-    "title": "SC measles outbreak has gone berserk: 124 cases since Friday, 409 quarantined",
-    "link": "https://arstechnica.com/health/2026/01/sc-measles-outbreak-has-gone-berserk-124-cases-since-friday-409-quarantined/",
-    "date": "2026-01-15"
-  },
-  {
-    "title": "A single click mounted a covert, multistage attack against Copilot",
-    "link": "https://arstechnica.com/security/2026/01/a-single-click-mounted-a-covert-multistage-attack-against-copilot/",
-    "date": "2026-01-15"
-  },
-  {
-    "title": "I can’t stop shooting Oddcore’s endless waves of weird little guys",
-    "link": "https://arstechnica.com/gaming/2026/01/i-cant-stop-shooting-oddcores-endless-waves-of-weird-little-guys/",
-    "date": "2026-01-15"
-  },
-  {
-    "title": "AstraZeneca bets on in-house AI to speed up oncology research",
-    "link": "https://www.artificialintelligence-news.com/news/astrazeneca-bets-on-in-house-ai-to-speed-up-oncology-research/",
-    "date": "2026-01-15"
-  },
-  {
-    "title": "Research shows UK young adults would use AI for financial guidance",
-    "link": "https://www.artificialintelligence-news.com/news/financial-advice-ai-powered-uk-fintech-market-possibilities/",
-    "date": "2026-01-15"
-  },
-  {
-    "title": "Mira Murati’s startup, Thinking Machines Lab, is losing two of its co-founders to OpenAI",
-    "link": "https://techcrunch.com/2026/01/14/mira-muratis-startup-thinking-machines-lab-is-losing-two-of-its-co-founders-to-openai/",
-    "date": "2026-01-15"
-  },
-  {
-    "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
-    "link": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
-    "date": "2026-01-15"
-  },
-  {
-    "title": "AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems",
-    "link": "https://huggingface.co/blog/ServiceNow-AI/aprielguard",
-    "date": "2026-01-15"
-  },
-  {
-    "title": "Tokenization in Transformers v5: Simpler, Clearer, and More Modular",
-    "link": "https://huggingface.co/blog/tokenizers",
-    "date": "2026-01-15"
-  },
-  {
-    "title": "AI medical diagnostics race intensifies as OpenAI, Google, and Anthropic launch competing healthcare tools",
-    "link": "https://www.artificialintelligence-news.com/news/medical-ai-diagnostics-openai-google-anthropic/",
-    "date": "2026-01-15"
-  },
-  {
     "title": "AI journalism startup Symbolic.ai signs deal with Rupert Murdoch’s News Corp",
     "link": "https://techcrunch.com/2026/01/15/ai-journalism-startup-symbolic-ai-signs-deal-with-rupert-murdochs-news-corp/",
     "date": "2026-01-16"
@@ -588,5 +478,90 @@
     "title": "AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality",
     "link": "https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face",
     "date": "2026-01-21"
+  },
+  {
+    "title": "Not to be outdone by OpenAI, Apple is reportedly developing an AI wearable",
+    "link": "https://techcrunch.com/2026/01/21/not-to-be-outdone-by-openai-apple-is-reportedly-developing-an-ai-wearable/",
+    "date": "2026-01-22"
+  },
+  {
+    "title": "Sources: Project SGLang spins out as RadixArk with $400M valuation as inference market explodes",
+    "link": "https://techcrunch.com/2026/01/21/sources-project-sglang-spins-out-as-radixark-with-400m-valuation-as-inference-market-explodes/",
+    "date": "2026-01-22"
+  },
+  {
+    "title": "A timeline of the US semiconductor market in 2025",
+    "link": "https://techcrunch.com/2026/01/21/a-timeline-of-the-u-s-semiconductor-market-in-2025/",
+    "date": "2026-01-22"
+  },
+  {
+    "title": "Todoist’s app now lets you add tasks to your to-do list by speaking to its AI",
+    "link": "https://techcrunch.com/2026/01/21/todoists-app-now-lets-you-add-tasks-to-your-to-do-list-by-speaking-to-its-ai/",
+    "date": "2026-01-22"
+  },
+  {
+    "title": "Apple plans to make Siri an AI chatbot, report says",
+    "link": "https://techcrunch.com/2026/01/21/apple-plans-to-make-siri-an-ai-chatbot-report-says/",
+    "date": "2026-01-22"
+  },
+  {
+    "title": "How Higgsfield turns simple ideas into cinematic social videos",
+    "link": "https://openai.com/index/higgsfield",
+    "date": "2026-01-22"
+  },
+  {
+    "title": "Introducing Edu for Countries",
+    "link": "https://openai.com/index/edu-for-countries",
+    "date": "2026-01-22"
+  },
+  {
+    "title": "How countries can end the capability overhang",
+    "link": "https://openai.com/index/how-countries-can-end-the-capability-overhang",
+    "date": "2026-01-22"
+  },
+  {
+    "title": "Rethinking AI’s future in an augmented workplace",
+    "link": "https://www.technologyreview.com/2026/01/21/1131366/rethinking-ais-future-in-an-augmented-workplace/",
+    "date": "2026-01-22"
+  },
+  {
+    "title": "Everyone wants AI sovereignty. No one can truly have it.",
+    "link": "https://www.technologyreview.com/2026/01/21/1131513/everyone-wants-ai-sovereignty-no-one-can-truly-have-it/",
+    "date": "2026-01-22"
+  },
+  {
+    "title": "The Download: Trump at Davos, and AI scientists",
+    "link": "https://www.technologyreview.com/2026/01/21/1131548/the-download-trump-at-davos-and-ai-scientists/",
+    "date": "2026-01-22"
+  },
+  {
+    "title": "All anyone wants to talk about at Davos is AI and Donald Trump",
+    "link": "https://www.technologyreview.com/2026/01/21/1131538/all-anyone-wants-to-talk-about-at-davos-is-ai-and-donald-trump/",
+    "date": "2026-01-22"
+  },
+  {
+    "title": "Judge orders stop to FBI search of devices seized from Washington Post reporter",
+    "link": "https://arstechnica.com/tech-policy/2026/01/judge-orders-stop-to-fbi-search-of-devices-seized-from-washington-post-reporter/",
+    "date": "2026-01-22"
+  },
+  {
+    "title": "Millions of people imperiled through sign-in links sent by SMS",
+    "link": "https://arstechnica.com/security/2026/01/millions-of-people-imperiled-through-sign-in-links-sent-by-sms/",
+    "date": "2026-01-22"
+  },
+  {
+    "title": "mRNA cancer vaccine shows protection at 5-year follow-up, Moderna and Merck say",
+    "link": "https://arstechnica.com/health/2026/01/mrna-cancer-vaccine-shows-protection-at-5-year-follow-up-moderna-and-merck-say/",
+    "date": "2026-01-22"
+  },
+  {
+    "title": "Trump FCC threatens to enforce equal-time rule on late-night talk shows",
+    "link": "https://arstechnica.com/tech-policy/2026/01/trump-fcc-tries-to-get-more-republicans-on-late-night-and-daytime-talk-shows/",
+    "date": "2026-01-22"
+  },
+  {
+    "title": "Why adding modern controls to 1996's Tomb Raider simply doesn't work",
+    "link": "https://arstechnica.com/gaming/2026/01/the-problem-with-revisiting-tomb-raider-reacclimating-to-tank-controls/",
+    "date": "2026-01-22"
   }
 ]
