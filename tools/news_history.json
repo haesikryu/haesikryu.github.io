@@ -1,100 +1,5 @@
 [
   {
-    "title": "AI cloud startup Runpod hits $120M in ARR — and it started with a Reddit post",
-    "link": "https://techcrunch.com/2026/01/16/ai-cloud-startup-runpod-hits-120m-in-arr-and-it-started-with-a-reddit-post/",
-    "date": "2026-01-17"
-  },
-  {
-    "title": "California AG sends Musk’s xAI a cease-and-desist order over sexual deepfakes",
-    "link": "https://techcrunch.com/2026/01/16/california-ag-sends-musks-xai-a-cease-and-desist-order-over-sexual-deepfakes/",
-    "date": "2026-01-17"
-  },
-  {
-    "title": "From OpenAI’s offices to a deal with Eli Lilly — how Chai Discovery became one of the flashiest names in AI drug development",
-    "link": "https://techcrunch.com/2026/01/16/from-openais-offices-to-a-deal-with-eli-lilly-how-chai-discovery-became-one-of-the-flashiest-names-in-ai-drug-development/",
-    "date": "2026-01-17"
-  },
-  {
-    "title": "ChatGPT users are about to get hit with targeted ads",
-    "link": "https://techcrunch.com/2026/01/16/chatgpt-users-are-about-to-get-hit-with-targeted-ads/",
-    "date": "2026-01-17"
-  },
-  {
-    "title": "Trump administration wants tech companies to buy $15B of power plants they may not use",
-    "link": "https://techcrunch.com/2026/01/16/trump-administration-wants-tech-companies-to-buy-15b-of-power-plants-they-may-not-use/",
-    "date": "2026-01-17"
-  },
-  {
-    "title": "The truth left out from Elon Musk’s recent court filing",
-    "link": "https://openai.com/index/the-truth-elon-left-out",
-    "date": "2026-01-17"
-  },
-  {
-    "title": "Our approach to advertising and expanding access to ChatGPT",
-    "link": "https://openai.com/index/our-approach-to-advertising-and-expanding-access",
-    "date": "2026-01-17"
-  },
-  {
-    "title": "Introducing ChatGPT Go, now available worldwide",
-    "link": "https://openai.com/index/introducing-chatgpt-go",
-    "date": "2026-01-17"
-  },
-  {
-    "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-    "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
-    "date": "2026-01-17"
-  },
-  {
-    "title": "The Download: cut through AI coding hype, and biotech trends to watch",
-    "link": "https://www.technologyreview.com/2026/01/16/1131375/the-download-ai-coding-hype-and-biotech-trends-to-watch/",
-    "date": "2026-01-17"
-  },
-  {
-    "title": "Three technologies that will shape biotech in 2026",
-    "link": "https://www.technologyreview.com/2026/01/16/1131363/three-technologies-shape-biotech-in-2026-gene-editing-embryo-scoring/",
-    "date": "2026-01-17"
-  },
-  {
-    "title": "Rackspace customers grapple with “devastating” email hosting price hike",
-    "link": "https://arstechnica.com/information-technology/2026/01/rackspace-raises-email-hosting-prices-by-as-much-as-706-percent/",
-    "date": "2026-01-17"
-  },
-  {
-    "title": "Archaeologists find a supersized medieval shipwreck in Denmark",
-    "link": "https://arstechnica.com/science/2026/01/archaeologists-find-a-supersized-medieval-shipwreck-in-denmark/",
-    "date": "2026-01-17"
-  },
-  {
-    "title": "Judge orders Anna’s Archive to delete scraped data; no one thinks it will comply",
-    "link": "https://arstechnica.com/tech-policy/2026/01/judge-orders-annas-archive-to-delete-scraped-data-no-one-thinks-it-will-comply/",
-    "date": "2026-01-17"
-  },
-  {
-    "title": "This may be the grossest eye pic ever—but the cause is what’s truly horrifying",
-    "link": "https://arstechnica.com/features/2026/01/this-may-be-the-grossest-eye-pic-ever-but-the-cause-is-whats-truly-horrifying/",
-    "date": "2026-01-17"
-  },
-  {
-    "title": "OpenAI to test ads in ChatGPT as it burns through billions",
-    "link": "https://arstechnica.com/information-technology/2026/01/openai-to-test-ads-in-chatgpt-as-it-burns-through-billions/",
-    "date": "2026-01-17"
-  },
-  {
-    "title": "Retailers bring conversational AI and analytics closer to the user",
-    "link": "https://www.artificialintelligence-news.com/news/retailers-bring-conversational-ai-and-analytics-closer-to-the-user/",
-    "date": "2026-01-17"
-  },
-  {
-    "title": "Banks operationalise as Plumery AI launches standardised integration",
-    "link": "https://www.artificialintelligence-news.com/news/banks-operationalise-ai-as-plumery-ai-launches-standardised-integration/",
-    "date": "2026-01-17"
-  },
-  {
-    "title": "Managers on alert for “launch fever” as pressure builds for NASA’s Moon mission",
-    "link": "https://arstechnica.com/space/2026/01/managers-on-alert-for-launch-fever-as-pressure-builds-for-nasas-moon-mission/",
-    "date": "2026-01-17"
-  },
-  {
     "title": "Musk wants up to $134B in OpenAI lawsuit, despite $700B fortune",
     "link": "https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/",
     "date": "2026-01-18"
@@ -598,5 +503,90 @@
     "title": "Open Responses: What you need to know",
     "link": "https://huggingface.co/blog/open-responses",
     "date": "2026-01-23"
+  },
+  {
+    "title": "Who’s behind AMI Labs, Yann LeCun’s ‘world model’ startup",
+    "link": "https://techcrunch.com/2026/01/23/whos-behind-ami-labs-yann-lecuns-world-model-startup/",
+    "date": "2026-01-24"
+  },
+  {
+    "title": "How did Davos turn into a tech conference?",
+    "link": "https://techcrunch.com/video/how-did-davos-turn-into-a-tech-conference/",
+    "date": "2026-01-24"
+  },
+  {
+    "title": "Google Photos’ latest feature lets you meme yourself",
+    "link": "https://techcrunch.com/2026/01/23/google-photos-latest-feature-lets-you-meme-yourself/",
+    "date": "2026-01-24"
+  },
+  {
+    "title": "Meta pauses teen access to AI characters ahead of new version",
+    "link": "https://techcrunch.com/2026/01/23/meta-pauses-teen-access-to-ai-characters-ahead-of-new-version/",
+    "date": "2026-01-24"
+  },
+  {
+    "title": "AI CEOs transformed Davos into a tech conference",
+    "link": "https://techcrunch.com/podcast/ai-ceos-transformed-davos-into-a-tech-conference/",
+    "date": "2026-01-24"
+  },
+  {
+    "title": "Unrolling the Codex agent loop",
+    "link": "https://openai.com/index/unrolling-the-codex-agent-loop",
+    "date": "2026-01-24"
+  },
+  {
+    "title": "Inside GPT-5 for Work: How Businesses Use GPT-5",
+    "link": "https://openai.com/business/guides-and-resources/chatgpt-usage-and-adoption-patterns-at-work",
+    "date": "2026-01-24"
+  },
+  {
+    "title": "The Download: chatbots for health, and US fights over AI regulation",
+    "link": "https://www.technologyreview.com/2026/01/23/1131708/the-download-chatbots-for-health-and-us-fights-over-ai-regulation/",
+    "date": "2026-01-24"
+  },
+  {
+    "title": "America’s coming war over AI regulation",
+    "link": "https://www.technologyreview.com/2026/01/23/1131559/americas-coming-war-over-ai-regulation/",
+    "date": "2026-01-24"
+  },
+  {
+    "title": "Measles is surging in the US. Wastewater tracking could help.",
+    "link": "https://www.technologyreview.com/2026/01/23/1131698/measles-surging-us-wastewater-tracking/",
+    "date": "2026-01-24"
+  },
+  {
+    "title": "TR-49 is interactive fiction for fans of deep research rabbit holes",
+    "link": "https://arstechnica.com/gaming/2026/01/tr-49-is-interactive-fiction-for-fans-of-deep-research-rabbit-holes/",
+    "date": "2026-01-24"
+  },
+  {
+    "title": "Demand for Intel's processors is apparently there, but the supply is not",
+    "link": "https://arstechnica.com/gadgets/2026/01/core-ultra-series-3-launch-may-be-hampered-by-chip-shortages-says-intel/",
+    "date": "2026-01-24"
+  },
+  {
+    "title": "DHS keeps trying and failing to unmask anonymous ICE critics online",
+    "link": "https://arstechnica.com/tech-policy/2026/01/instagram-ice-critic-wins-fight-to-stay-anonymous-as-dhs-backs-down/",
+    "date": "2026-01-24"
+  },
+  {
+    "title": "White House alters arrest photo of ICE protester, says \"the memes will continue\"",
+    "link": "https://arstechnica.com/tech-policy/2026/01/white-house-posts-altered-arrest-photo-to-make-it-appear-ice-critic-was-sobbing/",
+    "date": "2026-01-24"
+  },
+  {
+    "title": "Telly’s \"free\" ad-based TVs make notable revenue—when they’re actually delivered",
+    "link": "https://arstechnica.com/gadgets/2026/01/tellys-free-ad-based-tvs-make-notable-revenue-when-theyre-actually-delivered/",
+    "date": "2026-01-24"
+  },
+  {
+    "title": "Anthropic’s usage stats paint a detailed picture of AI success",
+    "link": "https://www.artificialintelligence-news.com/news/anthropic-report-economic-index-summary-key-points-2026/",
+    "date": "2026-01-24"
+  },
+  {
+    "title": "Defensive AI and how machine learning strengthens cyber defense",
+    "link": "https://www.artificialintelligence-news.com/news/defensive-ai-and-how-machine-learning-strengthens-cyber-defense/",
+    "date": "2026-01-24"
   }
 ]
