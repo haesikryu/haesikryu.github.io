@@ -1,115 +1,5 @@
 [
   {
-    "title": "Here are the 55 US AI startups that raised $100M or more in 2025",
-    "link": "https://techcrunch.com/2026/01/19/here-are-the-49-us-ai-startups-that-have-raised-100m-or-more-in-2025/",
-    "date": "2026-01-20"
-  },
-  {
-    "title": "Well, there goes the metaverse!",
-    "link": "https://techcrunch.com/2026/01/19/well-there-goes-the-metaverse/",
-    "date": "2026-01-20"
-  },
-  {
-    "title": "Rogue agents and shadow AI: Why VCs are betting big on AI security",
-    "link": "https://techcrunch.com/2026/01/19/rogue-agents-and-shadow-ai-why-vcs-are-betting-big-on-ai-security/",
-    "date": "2026-01-20"
-  },
-  {
-    "title": "AI for self empowerment",
-    "link": "https://openai.com/index/ai-for-self-empowerment",
-    "date": "2026-01-20"
-  },
-  {
-    "title": "The Download: the US digital rights crackdown, and AI companionship",
-    "link": "https://www.technologyreview.com/2026/01/19/1131450/the-download-the-us-digital-rights-crackdown-and-ai-companionship/",
-    "date": "2026-01-20"
-  },
-  {
-    "title": "Going beyond pilots with composable and sovereign AI",
-    "link": "https://www.technologyreview.com/2026/01/19/1131422/going-beyond-pilots-with-composable-and-sovereign-ai/",
-    "date": "2026-01-20"
-  },
-  {
-    "title": "What it’s like to be banned from the US for fighting online hate",
-    "link": "https://www.technologyreview.com/2026/01/19/1131384/what-its-like-to-be-banned-from-the-us-for-fighting-online-hate/",
-    "date": "2026-01-20"
-  },
-  {
-    "title": "The fastest human spaceflight mission in history crawls closer to liftoff",
-    "link": "https://arstechnica.com/space/2026/01/nasas-artemis-ii-rocket-rolls-to-launch-pad-but-key-test-looms-ahead/",
-    "date": "2026-01-20"
-  },
-  {
-    "title": "The first new Marathon game in decades will launch on March 5",
-    "link": "https://arstechnica.com/gaming/2026/01/bungies-delayed-marathon-revival-will-finally-launch-march-5/",
-    "date": "2026-01-20"
-  },
-  {
-    "title": "Signs point to a sooner-rather-than-later M5 MacBook Pro refresh",
-    "link": "https://arstechnica.com/gadgets/2026/01/signs-point-to-a-sooner-rather-than-later-m5-macbook-pro-refresh/",
-    "date": "2026-01-20"
-  },
-  {
-    "title": "Elon Musk accused of making up math to squeeze $134B from OpenAI, Microsoft",
-    "link": "https://arstechnica.com/tech-policy/2026/01/elon-musk-accused-of-making-up-math-to-squeeze-134b-from-openai-microsoft/",
-    "date": "2026-01-20"
-  },
-  {
-    "title": "Asus confirms its smartphone business is on indefinite hiatus",
-    "link": "https://arstechnica.com/gadgets/2026/01/asus-confirms-its-smartphone-business-is-on-indefinite-hiatus/",
-    "date": "2026-01-20"
-  },
-  {
-    "title": "SAP and Fresenius to build sovereign AI backbone for healthcare",
-    "link": "https://www.artificialintelligence-news.com/news/sap-and-fresenius-build-sovereign-ai-backbone-for-healthcare/",
-    "date": "2026-01-20"
-  },
-  {
-    "title": "Scaling AI value beyond pilot phase purgatory",
-    "link": "https://www.artificialintelligence-news.com/news/scaling-ai-value-beyond-pilot-phase-purgatory/",
-    "date": "2026-01-20"
-  },
-  {
-    "title": "Credit unions, fintech and the AI inflection of financial services",
-    "link": "https://www.artificialintelligence-news.com/news/credit-union-ai-in-operational-settings-learnings-from-the-fintech-sector/",
-    "date": "2026-01-20"
-  },
-  {
-    "title": "JPMorgan Chase treats AI spending as core infrastructure",
-    "link": "https://www.artificialintelligence-news.com/news/jpmorgan-chase-treats-ai-spending-as-core-infrastructure/",
-    "date": "2026-01-20"
-  },
-  {
-    "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
-    "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
-    "date": "2026-01-20"
-  },
-  {
-    "title": "The creator of Claude Code just revealed his workflow, and developers are losing their minds",
-    "link": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are",
-    "date": "2026-01-20"
-  },
-  {
-    "title": "Differential Transformer V2",
-    "link": "https://huggingface.co/blog/microsoft/diff-attn-v2",
-    "date": "2026-01-20"
-  },
-  {
-    "title": "NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI",
-    "link": "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning",
-    "date": "2026-01-20"
-  },
-  {
-    "title": "Introducing Falcon-H1-Arabic: Pushing the Boundaries of Arabic Language AI with Hybrid Architecture",
-    "link": "https://huggingface.co/blog/tiiuae/falcon-h1-arabic",
-    "date": "2026-01-20"
-  },
-  {
-    "title": "NVIDIA brings agents to life with DGX Spark and Reachy Mini",
-    "link": "https://huggingface.co/blog/nvidia-reachy-mini",
-    "date": "2026-01-20"
-  },
-  {
     "title": "In an effort to protect young users, ChatGPT will now predict how old you are",
     "link": "https://techcrunch.com/2026/01/20/in-an-effort-to-protect-young-users-chatgpt-will-now-predict-how-old-you-are/",
     "date": "2026-01-21"
@@ -628,5 +518,90 @@
     "title": "A decade of Star Trek-themed fart jokes: The Greatest Generation podcast turns 10",
     "link": "https://arstechnica.com/culture/2026/01/a-decade-of-star-trek-themed-fart-jokes-the-greatest-generation-podcast-turns-10/",
     "date": "2026-01-26"
+  },
+  {
+    "title": "YouTubers sue Snap for alleged copyright infringement in training its AI models",
+    "link": "https://techcrunch.com/2026/01/26/youtubers-sue-snap-for-alleged-copyright-infringement-in-training-its-ai-models/",
+    "date": "2026-01-27"
+  },
+  {
+    "title": "AI startup CVector raises $5M for its industrial ‘nervous system’",
+    "link": "https://techcrunch.com/2026/01/26/ai-startup-cvector-raises-5m-for-its-industrial-nervous-system/",
+    "date": "2026-01-27"
+  },
+  {
+    "title": "Anthropic launches interactive Claude apps, including Slack and other workplace tools",
+    "link": "https://techcrunch.com/2026/01/26/anthropic-launches-interactive-claude-apps-including-slack-and-other-workplace-tools/",
+    "date": "2026-01-27"
+  },
+  {
+    "title": "Obvious Ventures lands fund five with a 360-degree view of planetary, human, economic health",
+    "link": "https://techcrunch.com/2026/01/26/obvious-ventures-lands-fund-five-with-a-360-degree-view-of-planetary-human-economic-health/",
+    "date": "2026-01-27"
+  },
+  {
+    "title": "Tech workers call for CEOs to speak up against ICE after the killing of Alex Pretti",
+    "link": "https://techcrunch.com/2026/01/26/tech-workers-call-for-ceos-to-speak-up-against-ice-after-the-killing-of-alex-pretti/",
+    "date": "2026-01-27"
+  },
+  {
+    "title": "How Indeed uses AI to help evolve the job search",
+    "link": "https://openai.com/index/indeed-maggie-hulce",
+    "date": "2026-01-27"
+  },
+  {
+    "title": "How animators and AI researchers made ‘Dear Upstairs Neighbors’",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/dear-upstairs-neighbors/",
+    "date": "2026-01-27"
+  },
+  {
+    "title": "Inside OpenAI’s big play for science",
+    "link": "https://www.technologyreview.com/2026/01/26/1131728/inside-openais-big-play-for-science/",
+    "date": "2026-01-27"
+  },
+  {
+    "title": "Why chatbots are starting to check your age",
+    "link": "https://www.technologyreview.com/2026/01/26/1131726/why-chatbots-are-starting-to-check-your-age/",
+    "date": "2026-01-27"
+  },
+  {
+    "title": "The power of sound in a virtual world",
+    "link": "https://www.technologyreview.com/2026/01/26/1124655/the-power-of-sound-in-a-virtual-world/",
+    "date": "2026-01-27"
+  },
+  {
+    "title": "The Download: why LLMs are like aliens, and the future of head transplants",
+    "link": "https://www.technologyreview.com/2026/01/26/1131717/the-download-why-llms-are-like-aliens-and-the-future-of-head-transplants/",
+    "date": "2026-01-27"
+  },
+  {
+    "title": "**NVIDIA Earth-2 Open Models Span the Whole Weather Stack**",
+    "link": "https://huggingface.co/blog/nvidia/earth-2-open-models",
+    "date": "2026-01-27"
+  },
+  {
+    "title": "OpenAI spills technical details about how its AI coding agent works",
+    "link": "https://arstechnica.com/ai/2026/01/openai-spills-technical-details-about-how-its-ai-coding-agent-works/",
+    "date": "2026-01-27"
+  },
+  {
+    "title": "Doctors face-palm as RFK Jr.’s top vaccine advisor questions need for polio shot",
+    "link": "https://arstechnica.com/science/2026/01/do-we-really-need-polio-shots-deep-thoughts-by-rfk-jr-advisor-get-dragged/",
+    "date": "2026-01-27"
+  },
+  {
+    "title": "Why has Microsoft been routing example.com traffic to a company in Japan?",
+    "link": "https://arstechnica.com/information-technology/2026/01/odd-anomaly-caused-microsofts-network-to-mishandle-example-com-traffic/",
+    "date": "2026-01-27"
+  },
+  {
+    "title": "Apple's AirTag 2 is easier to find thanks to new chip",
+    "link": "https://arstechnica.com/gadgets/2026/01/apple-introduces-new-airtag-with-better-range-and-a-louder-speaker/",
+    "date": "2026-01-27"
+  },
+  {
+    "title": "“Wildly irresponsible”: DOT's use of AI to draft safety rules sparks concerns",
+    "link": "https://arstechnica.com/tech-policy/2026/01/wildly-irresponsible-dots-use-of-ai-to-draft-safety-rules-sparks-concerns/",
+    "date": "2026-01-27"
   }
 ]
