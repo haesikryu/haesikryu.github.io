@@ -1,100 +1,5 @@
 [
   {
-    "title": "Who’s behind AMI Labs, Yann LeCun’s ‘world model’ startup",
-    "link": "https://techcrunch.com/2026/01/23/whos-behind-ami-labs-yann-lecuns-world-model-startup/",
-    "date": "2026-01-24"
-  },
-  {
-    "title": "How did Davos turn into a tech conference?",
-    "link": "https://techcrunch.com/video/how-did-davos-turn-into-a-tech-conference/",
-    "date": "2026-01-24"
-  },
-  {
-    "title": "Google Photos’ latest feature lets you meme yourself",
-    "link": "https://techcrunch.com/2026/01/23/google-photos-latest-feature-lets-you-meme-yourself/",
-    "date": "2026-01-24"
-  },
-  {
-    "title": "Meta pauses teen access to AI characters ahead of new version",
-    "link": "https://techcrunch.com/2026/01/23/meta-pauses-teen-access-to-ai-characters-ahead-of-new-version/",
-    "date": "2026-01-24"
-  },
-  {
-    "title": "AI CEOs transformed Davos into a tech conference",
-    "link": "https://techcrunch.com/podcast/ai-ceos-transformed-davos-into-a-tech-conference/",
-    "date": "2026-01-24"
-  },
-  {
-    "title": "Unrolling the Codex agent loop",
-    "link": "https://openai.com/index/unrolling-the-codex-agent-loop",
-    "date": "2026-01-24"
-  },
-  {
-    "title": "Inside GPT-5 for Work: How Businesses Use GPT-5",
-    "link": "https://openai.com/business/guides-and-resources/chatgpt-usage-and-adoption-patterns-at-work",
-    "date": "2026-01-24"
-  },
-  {
-    "title": "The Download: chatbots for health, and US fights over AI regulation",
-    "link": "https://www.technologyreview.com/2026/01/23/1131708/the-download-chatbots-for-health-and-us-fights-over-ai-regulation/",
-    "date": "2026-01-24"
-  },
-  {
-    "title": "America’s coming war over AI regulation",
-    "link": "https://www.technologyreview.com/2026/01/23/1131559/americas-coming-war-over-ai-regulation/",
-    "date": "2026-01-24"
-  },
-  {
-    "title": "Measles is surging in the US. Wastewater tracking could help.",
-    "link": "https://www.technologyreview.com/2026/01/23/1131698/measles-surging-us-wastewater-tracking/",
-    "date": "2026-01-24"
-  },
-  {
-    "title": "TR-49 is interactive fiction for fans of deep research rabbit holes",
-    "link": "https://arstechnica.com/gaming/2026/01/tr-49-is-interactive-fiction-for-fans-of-deep-research-rabbit-holes/",
-    "date": "2026-01-24"
-  },
-  {
-    "title": "Demand for Intel's processors is apparently there, but the supply is not",
-    "link": "https://arstechnica.com/gadgets/2026/01/core-ultra-series-3-launch-may-be-hampered-by-chip-shortages-says-intel/",
-    "date": "2026-01-24"
-  },
-  {
-    "title": "DHS keeps trying and failing to unmask anonymous ICE critics online",
-    "link": "https://arstechnica.com/tech-policy/2026/01/instagram-ice-critic-wins-fight-to-stay-anonymous-as-dhs-backs-down/",
-    "date": "2026-01-24"
-  },
-  {
-    "title": "White House alters arrest photo of ICE protester, says \"the memes will continue\"",
-    "link": "https://arstechnica.com/tech-policy/2026/01/white-house-posts-altered-arrest-photo-to-make-it-appear-ice-critic-was-sobbing/",
-    "date": "2026-01-24"
-  },
-  {
-    "title": "Telly’s \"free\" ad-based TVs make notable revenue—when they’re actually delivered",
-    "link": "https://arstechnica.com/gadgets/2026/01/tellys-free-ad-based-tvs-make-notable-revenue-when-theyre-actually-delivered/",
-    "date": "2026-01-24"
-  },
-  {
-    "title": "Anthropic’s usage stats paint a detailed picture of AI success",
-    "link": "https://www.artificialintelligence-news.com/news/anthropic-report-economic-index-summary-key-points-2026/",
-    "date": "2026-01-24"
-  },
-  {
-    "title": "Defensive AI and how machine learning strengthens cyber defense",
-    "link": "https://www.artificialintelligence-news.com/news/defensive-ai-and-how-machine-learning-strengthens-cyber-defense/",
-    "date": "2026-01-24"
-  },
-  {
-    "title": "Legal AI giant Harvey acquires Hexus as competition heats up in legal tech",
-    "link": "https://techcrunch.com/2026/01/23/legal-ai-giant-harvey-acquires-hexus-as-competition-heats-up-in-legal-tech/",
-    "date": "2026-01-24"
-  },
-  {
-    "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-    "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
-    "date": "2026-01-24"
-  },
-  {
     "title": "Tech CEOs boast and bicker about AI at Davos",
     "link": "https://techcrunch.com/2026/01/24/tech-ceos-boast-and-bicker-about-ai-at-davos/",
     "date": "2026-01-25"
@@ -663,5 +568,80 @@
     "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
     "date": "2026-01-30"
+  },
+  {
+    "title": "Physical Intelligence, Stripe veteran Lachy Groom’s latest bet, is building Silicon Valley’s buzziest robot brains",
+    "link": "https://techcrunch.com/2026/01/30/physical-intelligence-stripe-veteran-lachy-grooms-latest-bet-is-building-silicon-valleys-buzziest-robot-brains/",
+    "date": "2026-01-31"
+  },
+  {
+    "title": "OpenClaw’s AI assistants are now building their own social network",
+    "link": "https://techcrunch.com/2026/01/30/openclaws-ai-assistants-are-now-building-their-own-social-network/",
+    "date": "2026-01-31"
+  },
+  {
+    "title": "Anthropic brings agentic plug-ins to Cowork",
+    "link": "https://techcrunch.com/2026/01/30/anthropic-brings-agentic-plugins-to-cowork/",
+    "date": "2026-01-31"
+  },
+  {
+    "title": "Last 24 hours to grab your plus-one pass at 50% off to TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/01/30/last-24-hours-to-grab-your-1-pass-at-50-off-to-techcrunch-disrupt-2026/",
+    "date": "2026-01-31"
+  },
+  {
+    "title": "Inside the marketplace powering bespoke AI deepfakes of real women",
+    "link": "https://www.technologyreview.com/2026/01/30/1131945/inside-the-marketplace-powering-bespoke-ai-deepfakes-of-real-women/",
+    "date": "2026-01-31"
+  },
+  {
+    "title": "The Download: US immigration agencies’ AI videos, and inside the Vitalism movement",
+    "link": "https://www.technologyreview.com/2026/01/30/1132022/the-download-us-immigration-agencies-ai-videos-and-inside-the-vitalism-movement/",
+    "date": "2026-01-31"
+  },
+  {
+    "title": "How the sometimes-weird world of lifespan extension is gaining influence",
+    "link": "https://www.technologyreview.com/2026/01/30/1131933/weird-world-lifespan-extension-gaining-influence-oneill-arpa-h/",
+    "date": "2026-01-31"
+  },
+  {
+    "title": "The TV industry finally concedes that the future may not be in 8K",
+    "link": "https://arstechnica.com/gadgets/2026/01/lg-joins-the-rest-of-the-world-accepts-that-people-dont-want-8k-tvs/",
+    "date": "2026-01-31"
+  },
+  {
+    "title": "ICE protester says her Global Entry was revoked after agent scanned her face",
+    "link": "https://arstechnica.com/tech-policy/2026/01/ice-protester-says-her-global-entry-was-revoked-after-agent-scanned-her-face/",
+    "date": "2026-01-31"
+  },
+  {
+    "title": "TrumpRx delayed as senators question if it's a giant scam with Big Pharma",
+    "link": "https://arstechnica.com/health/2026/01/trumprx-delayed-as-senators-question-if-its-a-giant-scam-with-big-pharma/",
+    "date": "2026-01-31"
+  },
+  {
+    "title": "AI agents now have their own Reddit-style social network, and it's getting weird fast",
+    "link": "https://arstechnica.com/information-technology/2026/01/ai-agents-now-have-their-own-reddit-style-social-network-and-its-getting-weird-fast/",
+    "date": "2026-01-31"
+  },
+  {
+    "title": "Here's why Blue Origin just ended its suborbital space tourism program",
+    "link": "https://arstechnica.com/space/2026/01/heres-why-blue-origin-just-ended-its-suborbital-space-tourism-program/",
+    "date": "2026-01-31"
+  },
+  {
+    "title": "AI use surges at Travelers as call centre roles reduce",
+    "link": "https://www.artificialintelligence-news.com/news/travelers-ai-in-contact-centres-two-stage-innovation-strategy/",
+    "date": "2026-01-31"
+  },
+  {
+    "title": "PepsiCo is using AI to rethink how factories are designed and updated",
+    "link": "https://www.artificialintelligence-news.com/news/pepsico-is-using-ai-to-rethink-how-factories-are-designed-and-updated/",
+    "date": "2026-01-31"
+  },
+  {
+    "title": "China’s hyperscalers bet billions on agentic AI as commerce becomes the new battleground",
+    "link": "https://www.artificialintelligence-news.com/news/china-hyperscalers-agentic-ai-commerce-battleground/",
+    "date": "2026-01-31"
   }
 ]
