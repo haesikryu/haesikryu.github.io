@@ -1,130 +1,5 @@
 [
   {
-    "title": "YouTubers sue Snap for alleged copyright infringement in training its AI models",
-    "link": "https://techcrunch.com/2026/01/26/youtubers-sue-snap-for-alleged-copyright-infringement-in-training-its-ai-models/",
-    "date": "2026-01-27"
-  },
-  {
-    "title": "AI startup CVector raises $5M for its industrial ‘nervous system’",
-    "link": "https://techcrunch.com/2026/01/26/ai-startup-cvector-raises-5m-for-its-industrial-nervous-system/",
-    "date": "2026-01-27"
-  },
-  {
-    "title": "Anthropic launches interactive Claude apps, including Slack and other workplace tools",
-    "link": "https://techcrunch.com/2026/01/26/anthropic-launches-interactive-claude-apps-including-slack-and-other-workplace-tools/",
-    "date": "2026-01-27"
-  },
-  {
-    "title": "Obvious Ventures lands fund five with a 360-degree view of planetary, human, economic health",
-    "link": "https://techcrunch.com/2026/01/26/obvious-ventures-lands-fund-five-with-a-360-degree-view-of-planetary-human-economic-health/",
-    "date": "2026-01-27"
-  },
-  {
-    "title": "Tech workers call for CEOs to speak up against ICE after the killing of Alex Pretti",
-    "link": "https://techcrunch.com/2026/01/26/tech-workers-call-for-ceos-to-speak-up-against-ice-after-the-killing-of-alex-pretti/",
-    "date": "2026-01-27"
-  },
-  {
-    "title": "How Indeed uses AI to help evolve the job search",
-    "link": "https://openai.com/index/indeed-maggie-hulce",
-    "date": "2026-01-27"
-  },
-  {
-    "title": "How animators and AI researchers made ‘Dear Upstairs Neighbors’",
-    "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/dear-upstairs-neighbors/",
-    "date": "2026-01-27"
-  },
-  {
-    "title": "Inside OpenAI’s big play for science",
-    "link": "https://www.technologyreview.com/2026/01/26/1131728/inside-openais-big-play-for-science/",
-    "date": "2026-01-27"
-  },
-  {
-    "title": "Why chatbots are starting to check your age",
-    "link": "https://www.technologyreview.com/2026/01/26/1131726/why-chatbots-are-starting-to-check-your-age/",
-    "date": "2026-01-27"
-  },
-  {
-    "title": "The power of sound in a virtual world",
-    "link": "https://www.technologyreview.com/2026/01/26/1124655/the-power-of-sound-in-a-virtual-world/",
-    "date": "2026-01-27"
-  },
-  {
-    "title": "The Download: why LLMs are like aliens, and the future of head transplants",
-    "link": "https://www.technologyreview.com/2026/01/26/1131717/the-download-why-llms-are-like-aliens-and-the-future-of-head-transplants/",
-    "date": "2026-01-27"
-  },
-  {
-    "title": "**NVIDIA Earth-2 Open Models Span the Whole Weather Stack**",
-    "link": "https://huggingface.co/blog/nvidia/earth-2-open-models",
-    "date": "2026-01-27"
-  },
-  {
-    "title": "OpenAI spills technical details about how its AI coding agent works",
-    "link": "https://arstechnica.com/ai/2026/01/openai-spills-technical-details-about-how-its-ai-coding-agent-works/",
-    "date": "2026-01-27"
-  },
-  {
-    "title": "Doctors face-palm as RFK Jr.’s top vaccine advisor questions need for polio shot",
-    "link": "https://arstechnica.com/science/2026/01/do-we-really-need-polio-shots-deep-thoughts-by-rfk-jr-advisor-get-dragged/",
-    "date": "2026-01-27"
-  },
-  {
-    "title": "Why has Microsoft been routing example.com traffic to a company in Japan?",
-    "link": "https://arstechnica.com/information-technology/2026/01/odd-anomaly-caused-microsofts-network-to-mishandle-example-com-traffic/",
-    "date": "2026-01-27"
-  },
-  {
-    "title": "Apple's AirTag 2 is easier to find thanks to new chip",
-    "link": "https://arstechnica.com/gadgets/2026/01/apple-introduces-new-airtag-with-better-range-and-a-louder-speaker/",
-    "date": "2026-01-27"
-  },
-  {
-    "title": "“Wildly irresponsible”: DOT's use of AI to draft safety rules sparks concerns",
-    "link": "https://arstechnica.com/tech-policy/2026/01/wildly-irresponsible-dots-use-of-ai-to-draft-safety-rules-sparks-concerns/",
-    "date": "2026-01-27"
-  },
-  {
-    "title": "Qualcomm backs SpotDraft to scale on-device contract AI with valuation doubling toward $400M",
-    "link": "https://techcrunch.com/2026/01/26/qualcomm-backs-spotdraft-to-scale-on-device-contract-ai-with-valuation-doubling-toward-400m/",
-    "date": "2026-01-27"
-  },
-  {
-    "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
-    "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
-    "date": "2026-01-27"
-  },
-  {
-    "title": "Unlocking Agentic RL Training for GPT-OSS: A Practical Retrospective",
-    "link": "https://huggingface.co/blog/LinkedIn/gpt-oss-agentic-rl",
-    "date": "2026-01-27"
-  },
-  {
-    "title": "Differential Transformer V2",
-    "link": "https://huggingface.co/blog/microsoft/diff-attn-v2",
-    "date": "2026-01-27"
-  },
-  {
-    "title": "Retailers examine options for on-AI retail",
-    "link": "https://www.artificialintelligence-news.com/news/retailers-examine-options-for-on-ai-retail/",
-    "date": "2026-01-27"
-  },
-  {
-    "title": "Expereo: Enterprise connectivity amid AI surge with ‘visibility at the speed of life’",
-    "link": "https://www.artificialintelligence-news.com/news/expereo-enterprise-connectivity-amid-ai-surge-with-visibility-at-the-speed-of-life/",
-    "date": "2026-01-27"
-  },
-  {
-    "title": "How Formula E uses Google Cloud AI to meet net zero targets",
-    "link": "https://www.artificialintelligence-news.com/news/how-formula-e-uses-google-cloud-ai-to-meet-net-zero-targets/",
-    "date": "2026-01-27"
-  },
-  {
-    "title": "Modernising apps triples the odds of AI returns, Cloudflare says",
-    "link": "https://www.artificialintelligence-news.com/news/modernising-apps-triples-the-odds-of-ai-returns-cloudflare-says/",
-    "date": "2026-01-27"
-  },
-  {
     "title": "Everything you need to know about viral personal AI assistant Clawdbot (now Moltbot)",
     "link": "https://techcrunch.com/2026/01/27/everything-you-need-to-know-about-viral-personal-ai-assistant-clawdbot-now-moltbot/",
     "date": "2026-01-28"
@@ -638,5 +513,115 @@
     "title": "Fungus could be the insecticide of the future",
     "link": "https://arstechnica.com/science/2026/02/fungus-could-be-the-insecticide-of-the-future/",
     "date": "2026-02-02"
+  },
+  {
+    "title": "Elon Musk’s SpaceX officially acquires Elon Musk’s xAI, with plan to build data centers in space",
+    "link": "https://techcrunch.com/2026/02/02/elon-musk-spacex-acquires-xai-data-centers-space-merger/",
+    "date": "2026-02-03"
+  },
+  {
+    "title": "What Snowflake’s deal with OpenAI tells us about the enterprise AI race",
+    "link": "https://techcrunch.com/2026/02/02/what-snowflakes-deal-with-openai-tells-us-about-the-enterprise-ai-race/",
+    "date": "2026-02-03"
+  },
+  {
+    "title": "Firefox will soon let you block all of its generative AI features",
+    "link": "https://techcrunch.com/2026/02/02/firefox-will-soon-let-you-block-all-of-its-generative-ai-features/",
+    "date": "2026-02-03"
+  },
+  {
+    "title": "OpenAI launches new macOS app for agentic coding",
+    "link": "https://techcrunch.com/2026/02/02/openai-launches-new-macos-app-for-agentic-coding/",
+    "date": "2026-02-03"
+  },
+  {
+    "title": "Ring brings its ‘Search Party’ feature for finding lost dogs to non-Ring camera owners",
+    "link": "https://techcrunch.com/2026/02/02/ring-brings-its-search-party-feature-for-finding-lost-dogs-to-non-ring-camera-owners/",
+    "date": "2026-02-03"
+  },
+  {
+    "title": "Snowflake and OpenAI partner to bring frontier intelligence to enterprise data",
+    "link": "https://openai.com/index/snowflake-partnership",
+    "date": "2026-02-03"
+  },
+  {
+    "title": "Introducing the Codex app",
+    "link": "https://openai.com/index/introducing-the-codex-app",
+    "date": "2026-02-03"
+  },
+  {
+    "title": "How we’re helping preserve the genetic information of endangered species with AI",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/ai-to-preserve-endangered-species/",
+    "date": "2026-02-03"
+  },
+  {
+    "title": "Advancing AI benchmarking with Game Arena",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates/",
+    "date": "2026-02-03"
+  },
+  {
+    "title": "Hear more about interactive world models in our latest podcast.",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/release-notes-podcast-project-genie/",
+    "date": "2026-02-03"
+  },
+  {
+    "title": "What we’ve been getting wrong about AI’s truth crisis",
+    "link": "https://www.technologyreview.com/2026/02/02/1132068/what-weve-been-getting-wrong-about-ais-truth-crisis/",
+    "date": "2026-02-03"
+  },
+  {
+    "title": "The crucial first step for designing a successful enterprise AI system",
+    "link": "https://www.technologyreview.com/2026/02/02/1131822/the-crucial-first-step-for-designing-a-successful-enterprise-ai-system/",
+    "date": "2026-02-03"
+  },
+  {
+    "title": "The Download: inside a deepfake marketplace, and EV batteries’ future",
+    "link": "https://www.technologyreview.com/2026/02/02/1132049/the-download-inside-a-deepfake-marketplace-and-ev-batteries-future/",
+    "date": "2026-02-03"
+  },
+  {
+    "title": "What’s next for EV batteries in 2026",
+    "link": "https://www.technologyreview.com/2026/02/02/1132042/whats-next-for-ev-batteries-in-2026/",
+    "date": "2026-02-03"
+  },
+  {
+    "title": "Looking back at Catacomb 3D, the game that led to Wolfenstein 3D",
+    "link": "https://arstechnica.com/gaming/2026/02/looking-back-at-catacomb-3d-the-game-that-led-to-wolfenstein-3d/",
+    "date": "2026-02-03"
+  },
+  {
+    "title": "Streaming service Crunchyroll raises prices weeks after killing its free tier",
+    "link": "https://arstechnica.com/gadgets/2026/02/streaming-service-crunchyroll-raises-prices-weeks-after-killing-its-free-tier/",
+    "date": "2026-02-03"
+  },
+  {
+    "title": "SpaceX acquires xAI, plans to launch a massive satellite constellation to power it",
+    "link": "https://arstechnica.com/ai/2026/02/spacex-acquires-xai-plans-1-million-satellite-constellation-to-power-it/",
+    "date": "2026-02-03"
+  },
+  {
+    "title": "Russian drones use Starlink, but Ukraine has plan to block their Internet access",
+    "link": "https://arstechnica.com/tech-policy/2026/02/russian-drones-use-starlink-but-ukraine-has-plan-to-block-their-internet-access/",
+    "date": "2026-02-03"
+  },
+  {
+    "title": "Court orders restart of all US offshore wind construction",
+    "link": "https://arstechnica.com/science/2026/02/court-orders-restart-of-all-us-offshore-wind-construction/",
+    "date": "2026-02-03"
+  },
+  {
+    "title": "Klarna backs Google UCP to power AI agent payments",
+    "link": "https://www.artificialintelligence-news.com/news/klarna-backs-google-ucp-power-ai-agent-payments/",
+    "date": "2026-02-03"
+  },
+  {
+    "title": "How SAP is modernising HMRC’s tax infrastructure with AI",
+    "link": "https://www.artificialintelligence-news.com/news/how-sap-modernising-hmrc-tax-infrastructure-with-ai/",
+    "date": "2026-02-03"
+  },
+  {
+    "title": "ThoughtSpot: On the new fleet of agents delivering modern analytics",
+    "link": "https://www.artificialintelligence-news.com/news/thoughtspot-on-the-new-fleet-of-agents-delivering-modern-analytics/",
+    "date": "2026-02-03"
   }
 ]
