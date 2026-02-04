@@ -1,160 +1,5 @@
 [
   {
-    "title": "Everything you need to know about viral personal AI assistant Clawdbot (now Moltbot)",
-    "link": "https://techcrunch.com/2026/01/27/everything-you-need-to-know-about-viral-personal-ai-assistant-clawdbot-now-moltbot/",
-    "date": "2026-01-28"
-  },
-  {
-    "title": "Anduril has invented a wild new drone-flying contest where jobs are the prize",
-    "link": "https://techcrunch.com/2026/01/27/anduril-has-invented-a-wild-new-drone-flying-contest-where-jobs-are-the-prize/",
-    "date": "2026-01-28"
-  },
-  {
-    "title": "Anthropic reportedly upped its latest raise to $20B",
-    "link": "https://techcrunch.com/2026/01/27/anthropic-reportedly-upped-its-latest-raise-to-20b/",
-    "date": "2026-01-28"
-  },
-  {
-    "title": "Anthropic and OpenAI CEOs condemn ICE violence, praise Trump",
-    "link": "https://techcrunch.com/2026/01/27/anthropic-and-openai-ceos-condemn-ice-violence-praise-trump/",
-    "date": "2026-01-28"
-  },
-  {
-    "title": "Google’s more affordable AI Plus plan rolls out to all markets, including the US",
-    "link": "https://techcrunch.com/2026/01/27/googles-ai-plus-plan-rolls-out-to-all-markets-including-the-u-s/",
-    "date": "2026-01-28"
-  },
-  {
-    "title": "PVH reimagines the future of fashion with OpenAI",
-    "link": "https://openai.com/index/pvh-future-of-fashion",
-    "date": "2026-01-28"
-  },
-  {
-    "title": "Introducing Prism",
-    "link": "https://openai.com/index/introducing-prism",
-    "date": "2026-01-28"
-  },
-  {
-    "title": "Google AI Plus is now available everywhere our AI plans are available, including the U.S.",
-    "link": "https://blog.google/products-and-platforms/products/google-one/google-ai-plus-availability/",
-    "date": "2026-01-28"
-  },
-  {
-    "title": "Just ask anything: a seamless new Search experience",
-    "link": "https://blog.google/products-and-platforms/products/search/ai-mode-ai-overviews-updates/",
-    "date": "2026-01-28"
-  },
-  {
-    "title": "In our latest podcast, hear how the “Smokejumpers” team brings Gemini to billions of people.",
-    "link": "https://blog.google/products-and-platforms/products/gemini/release-notes-podcast-smokejumpers/",
-    "date": "2026-01-28"
-  },
-  {
-    "title": "The first human test of a rejuvenation method will begin “shortly”",
-    "link": "https://www.technologyreview.com/2026/01/27/1131796/the-first-human-test-of-a-rejuvenation-method-will-begin-shortly/",
-    "date": "2026-01-28"
-  },
-  {
-    "title": "OpenAI’s latest product lets you vibe code science",
-    "link": "https://www.technologyreview.com/2026/01/27/1131793/openais-latest-product-lets-you-vibe-code-science/",
-    "date": "2026-01-28"
-  },
-  {
-    "title": "Stratospheric internet could finally start taking off this year",
-    "link": "https://www.technologyreview.com/2026/01/27/1131780/stratospheric-internet-take-off/",
-    "date": "2026-01-28"
-  },
-  {
-    "title": "The Download: OpenAI’s plans for science, and chatbot age verification",
-    "link": "https://www.technologyreview.com/2026/01/27/1131767/the-download-openais-plans-for-science-and-chatbot-age-verification/",
-    "date": "2026-01-28"
-  },
-  {
-    "title": "Nemotron-Personas-Singapore: Co-Designed Data for Sovereign AI",
-    "link": "https://huggingface.co/blog/nvidia/nemotron-personas-singapore",
-    "date": "2026-01-28"
-  },
-  {
-    "title": "Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek",
-    "link": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2",
-    "date": "2026-01-28"
-  },
-  {
-    "title": "Alyah ⭐️: Toward Robust Evaluation of Emirati Dialect Capabilities in Arabic LLMs",
-    "link": "https://huggingface.co/blog/tiiuae/emirati-benchmarks",
-    "date": "2026-01-28"
-  },
-  {
-    "title": "Dozens of CDC vaccination databases have been frozen under RFK Jr.",
-    "link": "https://arstechnica.com/health/2026/01/rfk-jr-lets-cdc-vaccination-data-rot-dozens-of-databases-frozen/",
-    "date": "2026-01-28"
-  },
-  {
-    "title": "TikTok users “absolutely justified” for fearing MAGA makeover, experts say",
-    "link": "https://arstechnica.com/tech-policy/2026/01/tiktok-claimed-bugs-blocked-anti-ice-videos-epstein-mentions-experts-call-bs/",
-    "date": "2026-01-28"
-  },
-  {
-    "title": "There's a rash of scam spam coming from a real Microsoft address",
-    "link": "https://arstechnica.com/information-technology/2026/01/theres-a-rash-of-scam-spam-coming-from-a-real-microsoft-address/",
-    "date": "2026-01-28"
-  },
-  {
-    "title": "Supreme Court to decide how 1988 videotape privacy law applies to online video",
-    "link": "https://arstechnica.com/tech-policy/2026/01/supreme-court-to-decide-how-1988-videotape-privacy-law-applies-to-online-video/",
-    "date": "2026-01-28"
-  },
-  {
-    "title": "A WB-57 pilot just made a heroic landing in Houston after its landing gear failed",
-    "link": "https://arstechnica.com/space/2026/01/one-of-nasas-three-wb-57-aircraft-just-did-a-belly-landing-in-houston/",
-    "date": "2026-01-28"
-  },
-  {
-    "title": "Databricks: Enterprise AI adoption shifts to agentic systems",
-    "link": "https://www.artificialintelligence-news.com/news/databricks-enterprise-ai-adoption-shifts-agentic-systems/",
-    "date": "2026-01-28"
-  },
-  {
-    "title": "Anthropic selected to build government AI assistant pilot",
-    "link": "https://www.artificialintelligence-news.com/news/anthropic-selected-build-government-ai-assistant-pilot/",
-    "date": "2026-01-28"
-  },
-  {
-    "title": "Lowering the barriers databases place in the way of strategy, with RavenDB",
-    "link": "https://www.artificialintelligence-news.com/news/lowering-the-barriers-databases-place-in-the-way-of-strategy-with-ravendb/",
-    "date": "2026-01-28"
-  },
-  {
-    "title": "Cold snap highlight’s airlines’ proactive use of AI",
-    "link": "https://www.artificialintelligence-news.com/news/cold-snap-highlights-airlines-proactive-use-of-ai-airline-industrys-use-of-ai/",
-    "date": "2026-01-28"
-  },
-  {
-    "title": "Powering tax donations with AI powered personalized recommendations",
-    "link": "https://openai.com/index/trustbank",
-    "date": "2026-01-28"
-  },
-  {
-    "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-    "link": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-    "date": "2026-01-28"
-  },
-  {
-    "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-    "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-    "date": "2026-01-28"
-  },
-  {
-    "title": "Nemotron-Personas-Brazil: Co-Designed Data for Sovereign AI",
-    "link": "https://huggingface.co/blog/nvidia/nemotron-personas-brazil",
-    "date": "2026-01-28"
-  },
-  {
-    "title": "AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality",
-    "link": "https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face",
-    "date": "2026-01-28"
-  },
-  {
     "title": "Zuckerberg teases agentic commerce tools and major AI rollout in 2026",
     "link": "https://techcrunch.com/2026/01/28/zuckerberg-teases-agentic-commerce-tools-and-major-ai-rollout-in-2026/",
     "date": "2026-01-29"
@@ -628,5 +473,100 @@
     "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
     "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
     "date": "2026-02-03"
+  },
+  {
+    "title": "Intel will start making GPUs, a market dominated by Nvidia",
+    "link": "https://techcrunch.com/2026/02/03/intel-will-start-making-gpus-a-market-dominated-by-nvidia/",
+    "date": "2026-02-04"
+  },
+  {
+    "title": "Xcode moves into agentic coding with deeper OpenAI and Anthropic integrations",
+    "link": "https://techcrunch.com/2026/02/03/xcode-moves-into-agentic-coding-with-deeper-openai-and-anthropic-integrations/",
+    "date": "2026-02-04"
+  },
+  {
+    "title": "Lotus Health nabs $35M for AI doctor that sees patients for free",
+    "link": "https://techcrunch.com/2026/02/03/lotus-health-nabs-35m-for-ai-doctor-that-sees-patients-for-free/",
+    "date": "2026-02-04"
+  },
+  {
+    "title": "Fitbit founders launch AI platform to help families monitor their health",
+    "link": "https://techcrunch.com/2026/02/03/fitbit-founders-launch-ai-platform-to-help-families-monitor-their-health/",
+    "date": "2026-02-04"
+  },
+  {
+    "title": "Peak XV says internal disagreement led to partner exits as it doubles down on AI",
+    "link": "https://techcrunch.com/2026/02/03/peak-xv-says-internal-disagreement-led-to-partner-exits-as-it-doubles-down-on-ai/",
+    "date": "2026-02-04"
+  },
+  {
+    "title": "The Sora feed philosophy",
+    "link": "https://openai.com/index/sora-feed-philosophy",
+    "date": "2026-02-04"
+  },
+  {
+    "title": "The Download: squeezing more metal out of aging mines, and AI’s truth crisis",
+    "link": "https://www.technologyreview.com/2026/02/03/1132105/the-download-squeezing-more-metal-out-of-aging-mines-and-ais-truth-crisis/",
+    "date": "2026-02-04"
+  },
+  {
+    "title": "Microbes could extract the metal needed for cleantech",
+    "link": "https://www.technologyreview.com/2026/02/03/1132047/microbes-extract-metal-cleantech/",
+    "date": "2026-02-04"
+  },
+  {
+    "title": "H Company's new Holo2 model takes the lead in UI Localization",
+    "link": "https://huggingface.co/blog/Hcompany/introducing-holo2-235b-a22b",
+    "date": "2026-02-04"
+  },
+  {
+    "title": "The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+",
+    "link": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3",
+    "date": "2026-02-04"
+  },
+  {
+    "title": "Training Design for Text-to-Image Models: Lessons from Ablations",
+    "link": "https://huggingface.co/blog/Photoroom/prx-part2",
+    "date": "2026-02-04"
+  },
+  {
+    "title": "Netflix says users can cancel service if HBO Max merger makes it too expensive",
+    "link": "https://arstechnica.com/gadgets/2026/02/netflix-claims-subscribers-will-get-more-content-for-less-if-it-buys-hbo-max/",
+    "date": "2026-02-04"
+  },
+  {
+    "title": "Godlike Titan threatens humanity in Monarch: Legacy of Monsters S2 trailer",
+    "link": "https://arstechnica.com/culture/2026/02/meet-the-new-tentacled-titan-x-in-monarch-legacy-of-monsters-s2-trailer/",
+    "date": "2026-02-04"
+  },
+  {
+    "title": "Nvidia's $100 billion OpenAI deal has seemingly vanished",
+    "link": "https://arstechnica.com/information-technology/2026/02/five-months-later-nvidias-100-billion-openai-investment-plan-has-fizzled-out/",
+    "date": "2026-02-04"
+  },
+  {
+    "title": "Newborn dies after mother drinks raw milk during pregnancy",
+    "link": "https://arstechnica.com/health/2026/02/newborns-death-spurs-raw-milk-warning-in-new-mexico/",
+    "date": "2026-02-04"
+  },
+  {
+    "title": "X office raided in France's Grok probe; Elon Musk summoned for questioning",
+    "link": "https://arstechnica.com/tech-policy/2026/02/x-office-raided-in-frances-grok-probe-elon-musk-summoned-for-questioning/",
+    "date": "2026-02-04"
+  },
+  {
+    "title": "Ronnie Sheth, CEO, SENEN Group: Why now is the time for enterprise AI to ‘get practical’",
+    "link": "https://www.artificialintelligence-news.com/news/ronnie-sheth-ceo-senen-group-why-now-is-the-time-for-enterprise-ai-to-get-practical/",
+    "date": "2026-02-04"
+  },
+  {
+    "title": "Apptio: Why scaling intelligent automation requires financial rigour",
+    "link": "https://www.artificialintelligence-news.com/news/apptio-why-scaling-intelligent-automation-requires-financial-rigour/",
+    "date": "2026-02-04"
+  },
+  {
+    "title": "FedEx tests how far AI can go in tracking and returns management",
+    "link": "https://www.artificialintelligence-news.com/news/fedex-tests-how-far-ai-can-go-in-tracking-and-returns-management/",
+    "date": "2026-02-04"
   }
 ]
