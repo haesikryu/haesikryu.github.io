@@ -1,120 +1,5 @@
 [
   {
-    "title": "Zuckerberg teases agentic commerce tools and major AI rollout in 2026",
-    "link": "https://techcrunch.com/2026/01/28/zuckerberg-teases-agentic-commerce-tools-and-major-ai-rollout-in-2026/",
-    "date": "2026-01-29"
-  },
-  {
-    "title": "Mark Zuckerberg says a future without smart glasses is ‘hard to imagine’",
-    "link": "https://techcrunch.com/2026/01/28/mark-zuckerberg-future-smart-glasses/",
-    "date": "2026-01-29"
-  },
-  {
-    "title": "Tesla to invest $2B in Elon Musk’s xAI",
-    "link": "https://techcrunch.com/2026/01/28/tesla-invested-2b-in-elon-musks-xai/",
-    "date": "2026-01-29"
-  },
-  {
-    "title": "Elon Musk teases a new image-labeling system for X… we think?",
-    "link": "https://techcrunch.com/2026/01/28/elon-musk-teases-a-new-image-labeling-system-for-xwe-think/",
-    "date": "2026-01-29"
-  },
-  {
-    "title": "ServiceNow inks another AI partnership, this time with Anthropic",
-    "link": "https://techcrunch.com/2026/01/28/servicenow-inks-another-ai-partnership-this-time-with-anthropic/",
-    "date": "2026-01-29"
-  },
-  {
-    "title": "The next chapter for AI in the EU",
-    "link": "https://openai.com/index/the-next-chapter-for-ai-in-the-eu",
-    "date": "2026-01-29"
-  },
-  {
-    "title": "EMEA Youth & Wellbeing Grant",
-    "link": "https://openai.com/index/emea-youth-and-wellbeing-grant",
-    "date": "2026-01-29"
-  },
-  {
-    "title": "Keeping your data safe when an AI agent clicks a link",
-    "link": "https://openai.com/index/ai-agent-link-safety",
-    "date": "2026-01-29"
-  },
-  {
-    "title": "Roundtables: Why AI Companies Are Betting on Next-Gen Nuclear",
-    "link": "https://www.technologyreview.com/2026/01/28/1131340/roundtables-why-ai-companies-are-betting-on-next-gen-nuclear/",
-    "date": "2026-01-29"
-  },
-  {
-    "title": "What AI “remembers” about you is privacy’s next frontier",
-    "link": "https://www.technologyreview.com/2026/01/28/1131835/what-ai-remembers-about-you-is-privacys-next-frontier/",
-    "date": "2026-01-29"
-  },
-  {
-    "title": "Rules fail at the prompt, succeed at the boundary",
-    "link": "https://www.technologyreview.com/2026/01/28/1131003/rules-fail-at-the-prompt-succeed-at-the-boundary/",
-    "date": "2026-01-29"
-  },
-  {
-    "title": "The Download: A bid to treat blindness, and bridging the internet divide",
-    "link": "https://www.technologyreview.com/2026/01/28/1131830/the-download-a-bid-to-treat-blindness-and-bridging-the-internet-divide/",
-    "date": "2026-01-29"
-  },
-  {
-    "title": "We Got Claude to Build CUDA Kernels and teach open models!",
-    "link": "https://huggingface.co/blog/upskill",
-    "date": "2026-01-29"
-  },
-  {
-    "title": "Tesla: 2024 was bad, 2025 was worse as profit falls 46 percent",
-    "link": "https://arstechnica.com/cars/2026/01/2025-sees-teslas-annual-revenue-fall-for-the-first-time/",
-    "date": "2026-01-29"
-  },
-  {
-    "title": "Site catering to online criminals has been seized by the FBI",
-    "link": "https://arstechnica.com/security/2026/01/site-catering-to-online-criminals-has-been-seized-by-the-fbi/",
-    "date": "2026-01-29"
-  },
-  {
-    "title": "Seven things to know about how Apple's Creator Studio subscriptions work",
-    "link": "https://arstechnica.com/gadgets/2026/01/seven-things-to-know-about-how-apples-creator-studio-subscriptions-work/",
-    "date": "2026-01-29"
-  },
-  {
-    "title": "Stranded boys struggle to survive in Lord of the Flies trailer",
-    "link": "https://arstechnica.com/culture/2026/01/bbcs-lord-of-the-flies-miniseries-gets-a-trailer/",
-    "date": "2026-01-29"
-  },
-  {
-    "title": "SpaceX sends list of demands to US states giving broadband grants to Starlink",
-    "link": "https://arstechnica.com/tech-policy/2026/01/starlink-demands-grant-money-from-states-even-when-residents-dont-buy-service/",
-    "date": "2026-01-29"
-  },
-  {
-    "title": "Deloitte sounds alarm as AI agent deployment outruns safety frameworks",
-    "link": "https://www.artificialintelligence-news.com/news/deloitte-agentic-ai-guidelines-published/",
-    "date": "2026-01-29"
-  },
-  {
-    "title": "Franny Hsiao, Salesforce: Scaling enterprise AI",
-    "link": "https://www.artificialintelligence-news.com/news/franny-hsiao-salesforce-scaling-enterprise-ai/",
-    "date": "2026-01-29"
-  },
-  {
-    "title": "Masumi Network: How AI-blockchain fusion adds trust to burgeoning agent economy",
-    "link": "https://www.artificialintelligence-news.com/news/masumi-network-how-ai-blockchain-fusion-adds-trust-to-burgeoning-agent-economy/",
-    "date": "2026-01-29"
-  },
-  {
-    "title": "White House compares industrial revolution with AI era",
-    "link": "https://www.artificialintelligence-news.com/news/white-house-predicts-ai-growth-with-comparison-industrial-and-artificial-intelligence-revolutions/",
-    "date": "2026-01-29"
-  },
-  {
-    "title": "Gallup Workforce shows details of AI adoption in US workplaces",
-    "link": "https://www.artificialintelligence-news.com/news/gallup-workforce-ai-shows-details-of-ml-adoption-in-us-workplaces/",
-    "date": "2026-01-29"
-  },
-  {
     "title": "Guys, I don’t think Tim Cook knows how to monetize AI",
     "link": "https://techcrunch.com/2026/01/29/guys-i-dont-think-tim-cook-knows-how-to-monetize-ai/",
     "date": "2026-01-30"
@@ -583,5 +468,105 @@
     "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
     "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
     "date": "2026-02-04"
+  },
+  {
+    "title": "Sam Altman got exceptionally testy over Claude Super Bowl ads",
+    "link": "https://techcrunch.com/2026/02/04/sam-altman-got-exceptionally-testy-over-claude-super-bowl-ads/",
+    "date": "2026-02-05"
+  },
+  {
+    "title": "Alphabet won’t talk about the Google-Apple AI deal, even to investors",
+    "link": "https://techcrunch.com/2026/02/04/alphabet-wont-talk-about-the-google-apple-ai-deal-even-to-investors/",
+    "date": "2026-02-05"
+  },
+  {
+    "title": "Google’s Gemini app has surpassed 750M monthly active users",
+    "link": "https://techcrunch.com/2026/02/04/googles-gemini-app-has-surpassed-750m-monthly-active-users/",
+    "date": "2026-02-05"
+  },
+  {
+    "title": "Meet Gizmo: A TikTok for interactive, vibe-coded mini apps",
+    "link": "https://techcrunch.com/2026/02/04/meet-gizmo-a-tiktok-for-interactive-vibe-coded-mini-apps/",
+    "date": "2026-02-05"
+  },
+  {
+    "title": "AI SRE Resolve AI confirms $125M raise, unicorn valuation",
+    "link": "https://techcrunch.com/2026/02/04/ai-sre-resolve-ai-confirms-125m-raise-unicorn-valuation/",
+    "date": "2026-02-05"
+  },
+  {
+    "title": "Navigating health questions with ChatGPT",
+    "link": "https://openai.com/index/navigating-health-questions",
+    "date": "2026-02-05"
+  },
+  {
+    "title": "Unlocking the Codex harness: how we built the App Server",
+    "link": "https://openai.com/index/unlocking-the-codex-harness",
+    "date": "2026-02-05"
+  },
+  {
+    "title": "VfL Wolfsburg turns ChatGPT into a club-wide capability",
+    "link": "https://openai.com/index/vfl-wolfsburg",
+    "date": "2026-02-05"
+  },
+  {
+    "title": "The latest AI news we announced in January",
+    "link": "https://blog.google/innovation-and-ai/products/google-ai-updates-january-2026/",
+    "date": "2026-02-05"
+  },
+  {
+    "title": "From guardrails to governance: A CEO’s guide for securing agentic systems",
+    "link": "https://www.technologyreview.com/2026/02/04/1131014/from-guardrails-to-governance-a-ceos-guide-for-securing-agentic-systems/",
+    "date": "2026-02-05"
+  },
+  {
+    "title": "The Download: the future of nuclear power plants, and social media-fueled AI hype",
+    "link": "https://www.technologyreview.com/2026/02/04/1132115/the-download-the-future-of-nuclear-power-plants-and-social-media-fueled-ai-hype/",
+    "date": "2026-02-05"
+  },
+  {
+    "title": "Nemotron ColEmbed V2: Raising the Bar for Multimodal Retrieval with ViDoRe V3’s Top Model",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-colembed-v2",
+    "date": "2026-02-05"
+  },
+  {
+    "title": "Microsoft releases urgent Office patch. Russian-state hackers pounce.",
+    "link": "https://arstechnica.com/security/2026/02/russian-state-hackers-exploit-office-vulnerability-to-infect-computers/",
+    "date": "2026-02-05"
+  },
+  {
+    "title": "FBI stymied by Apple's Lockdown Mode after seizing journalist's iPhone",
+    "link": "https://arstechnica.com/tech-policy/2026/02/fbi-stymied-by-apples-lockdown-mode-after-seizing-journalists-iphone/",
+    "date": "2026-02-05"
+  },
+  {
+    "title": "Should AI chatbots have ads? Anthropic says no.",
+    "link": "https://arstechnica.com/ai/2026/02/should-ai-chatbots-have-ads-anthropic-says-no/",
+    "date": "2026-02-05"
+  },
+  {
+    "title": "US House takes first step toward creating \"commercial\" deep space program",
+    "link": "https://arstechnica.com/space/2026/02/us-house-takes-first-step-toward-creating-commercial-deep-space-program/",
+    "date": "2026-02-05"
+  },
+  {
+    "title": "Judge gives Musk bad news, says Trump hasn't intervened to block SEC lawsuit",
+    "link": "https://arstechnica.com/tech-policy/2026/02/trump-ghosts-musk-wont-back-claims-sec-lawsuit-was-political-harassment/",
+    "date": "2026-02-05"
+  },
+  {
+    "title": "AI Expo 2026 Day 1: Governance and data readiness enable the agentic enterprise",
+    "link": "https://www.artificialintelligence-news.com/news/ai-expo-2026-day-1-governance-data-readiness-enable-agentic-enterprise/",
+    "date": "2026-02-05"
+  },
+  {
+    "title": "Combing the Rackspace blogfiles for operational AI pointers",
+    "link": "https://www.artificialintelligence-news.com/news/combing-the-rackspace-blogfiles-for-operational-ai-pointers/",
+    "date": "2026-02-05"
+  },
+  {
+    "title": "How Cisco builds smart systems for the AI era",
+    "link": "https://www.artificialintelligence-news.com/news/how-cisco-builds-smart-systems-for-the-ai-era/",
+    "date": "2026-02-05"
   }
 ]
