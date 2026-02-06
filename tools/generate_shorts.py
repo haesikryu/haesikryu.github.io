@@ -31,15 +31,30 @@ SCOPES = ['https://www.googleapis.com/auth/youtube.upload']
 def get_latest_post():
     """
     _posts/news 디렉토리에서 가장 최근에 생성된 마크다운 포스트 파일을 찾습니다.
+    단, 파일명에 포함된 날짜가 오늘(KST 기준)과 일치해야 합니다.
     
     Returns:
-        str: 가장 최근 파일의 경로, 파일이 없으면 None 반환
+        str: 가장 최근 파일의 경로, 파일이 없거나 오늘 날짜가 아니면 None 반환
     """
     list_of_files = glob.glob(os.path.join(POSTS_DIR, '*.md'))
     if not list_of_files:
         return None
+    
     # 파일 생성 시간을 기준으로 가장 최신 파일 선택
     latest_file = max(list_of_files, key=os.path.getctime)
+    
+    # KST 기준 오늘 날짜 확인
+    kst = datetime.timezone(datetime.timedelta(hours=9))
+    now_kst = datetime.datetime.now(kst)
+    today_str = now_kst.strftime('%Y-%m-%d')
+    
+    # 파일명에서 날짜 추출 (파일명 형식: YYYY-MM-DD-daily-ai-news-...)
+    filename = os.path.basename(latest_file)
+    
+    if not filename.startswith(today_str):
+        print(f"가장 최근 파일({filename})이 오늘 날짜({today_str})와 일치하지 않아 무시합니다.")
+        return None
+        
     return latest_file
 
 def extract_content(filepath):
