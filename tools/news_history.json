@@ -1,120 +1,5 @@
 [
   {
-    "title": "Guys, I don’t think Tim Cook knows how to monetize AI",
-    "link": "https://techcrunch.com/2026/01/29/guys-i-dont-think-tim-cook-knows-how-to-monetize-ai/",
-    "date": "2026-01-30"
-  },
-  {
-    "title": "Elon Musk’s SpaceX, Tesla, and xAI in talks to merge, according to reports",
-    "link": "https://techcrunch.com/2026/01/29/elon-musk-spacex-tesla-xai-merger-talks-ipo-reuters/",
-    "date": "2026-01-30"
-  },
-  {
-    "title": "Amazon is reportedly in talks to invest $50B in OpenAI",
-    "link": "https://techcrunch.com/2026/01/29/amazon-is-reportedly-in-talks-to-invest-50-billion-in-openai/",
-    "date": "2026-01-30"
-  },
-  {
-    "title": "Satya Nadella insists people are using Microsoft’s Copilot AI a lot",
-    "link": "https://techcrunch.com/2026/01/29/satya-nadella-insists-people-are-using-microsofts-copilot-ai-a-lot/",
-    "date": "2026-01-30"
-  },
-  {
-    "title": "Apple buys Israeli startup Q.ai as the AI race heats up",
-    "link": "https://techcrunch.com/2026/01/29/apple-buys-israeli-startup-q-ai-as-the-ai-race-heats-up/",
-    "date": "2026-01-30"
-  },
-  {
-    "title": "Inside OpenAI’s in-house data agent",
-    "link": "https://openai.com/index/inside-our-in-house-data-agent",
-    "date": "2026-01-30"
-  },
-  {
-    "title": "Taisei Corporation shapes the next generation of talent with ChatGPT",
-    "link": "https://openai.com/index/taisei",
-    "date": "2026-01-30"
-  },
-  {
-    "title": "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
-    "link": "https://openai.com/index/retiring-gpt-4o-and-older-models",
-    "date": "2026-01-30"
-  },
-  {
-    "title": "Project Genie: Experimenting with infinite, interactive worlds",
-    "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/",
-    "date": "2026-01-30"
-  },
-  {
-    "title": "The AI Hype Index: Grok makes porn, and Claude Code nails your job",
-    "link": "https://www.technologyreview.com/2026/01/29/1131787/the-ai-hype-index-grok-makes-porn-claude-code-nails-your-job/",
-    "date": "2026-01-30"
-  },
-  {
-    "title": "DHS is using Google and Adobe AI to make videos",
-    "link": "https://www.technologyreview.com/2026/01/29/1131938/dhs-is-using-google-and-adobe-ai-to-make-videos/",
-    "date": "2026-01-30"
-  },
-  {
-    "title": "The Download: inside the Vitalism movement, and why AI’s “memory” is a privacy problem",
-    "link": "https://www.technologyreview.com/2026/01/29/1131925/the-download-inside-the-vitalism-movement-and-why-ais-memory-is-a-privacy-problem/",
-    "date": "2026-01-30"
-  },
-  {
-    "title": "How the grid can ride out winter storms",
-    "link": "https://www.technologyreview.com/2026/01/29/1131863/grid-winter-storms/",
-    "date": "2026-01-30"
-  },
-  {
-    "title": "Meet the Vitalists: the hardcore longevity enthusiasts who believe death is “wrong”",
-    "link": "https://www.technologyreview.com/2026/01/29/1131815/vitalism-longevity-enthusiasts-influence/",
-    "date": "2026-01-30"
-  },
-  {
-    "title": "Introducing NVIDIA Cosmos Policy for Advanced Robot Control",
-    "link": "https://huggingface.co/blog/nvidia/cosmos-policy-for-robot-control",
-    "date": "2026-01-30"
-  },
-  {
-    "title": "Introducing Daggr: Chain apps programmatically, inspect visually",
-    "link": "https://huggingface.co/blog/daggr",
-    "date": "2026-01-30"
-  },
-  {
-    "title": "Having that high-deductible health plan might kill you, literally",
-    "link": "https://arstechnica.com/health/2026/01/having-that-high-deductible-health-plan-might-kill-you-literally/",
-    "date": "2026-01-30"
-  },
-  {
-    "title": "US spy satellite agency declassifies high-flying Cold War listening post",
-    "link": "https://arstechnica.com/space/2026/01/us-spy-satellite-agency-declassifies-high-flying-cold-war-listening-post/",
-    "date": "2026-01-30"
-  },
-  {
-    "title": "People complaining about Windows 11 hasn't stopped it from hitting 1 billion users",
-    "link": "https://arstechnica.com/gadgets/2026/01/windows-11-has-hit-1-billion-users-just-a-hair-faster-than-windows-10-did/",
-    "date": "2026-01-30"
-  },
-  {
-    "title": "How often do AI chatbots lead users down a harmful path?",
-    "link": "https://arstechnica.com/ai/2026/01/how-often-do-ai-chatbots-lead-users-down-a-harmful-path/",
-    "date": "2026-01-30"
-  },
-  {
-    "title": "Google Project Genie lets you create interactive worlds from a photo or prompt",
-    "link": "https://arstechnica.com/google/2026/01/google-project-genie-lets-you-create-interactive-worlds-from-a-photo-or-prompt/",
-    "date": "2026-01-30"
-  },
-  {
-    "title": "Insurers betting big on AI: Accenture",
-    "link": "https://www.artificialintelligence-news.com/news/accenture-report-on-ai-in-insurance-sector/",
-    "date": "2026-01-30"
-  },
-  {
-    "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-    "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-    "date": "2026-01-30"
-  },
-  {
     "title": "Physical Intelligence, Stripe veteran Lachy Groom’s latest bet, is building Silicon Valley’s buzziest robot brains",
     "link": "https://techcrunch.com/2026/01/30/physical-intelligence-stripe-veteran-lachy-grooms-latest-bet-is-building-silicon-valleys-buzziest-robot-brains/",
     "date": "2026-01-31"
@@ -573,5 +458,135 @@
     "title": "Museums incorporate \"scent of the afterlife\" into Egyptian exhibits",
     "link": "https://arstechnica.com/science/2026/02/museums-incorporate-scent-of-the-afterlife-into-egyptian-exhibits/",
     "date": "2026-02-05"
+  },
+  {
+    "title": "Sapiom raises $15M to help AI agents buy their own tech tools",
+    "link": "https://techcrunch.com/2026/02/05/sapiom-raises-15m-to-help-ai-agents-buy-their-own-tech-tools/",
+    "date": "2026-02-06"
+  },
+  {
+    "title": "Reddit looks to AI search as its next big opportunity",
+    "link": "https://techcrunch.com/2026/02/05/reddit-looks-to-ai-search-as-its-next-big-opportunity/",
+    "date": "2026-02-06"
+  },
+  {
+    "title": "AWS revenue continues to soar as cloud demand remains high",
+    "link": "https://techcrunch.com/2026/02/05/aws-revenue-continues-to-soar-as-cloud-demand-remains-high/",
+    "date": "2026-02-06"
+  },
+  {
+    "title": "Amazon and Google are winning the AI capex race — but what’s the prize?",
+    "link": "https://techcrunch.com/2026/02/05/amazon-and-google-are-winning-the-ai-capex-race-but-whats-the-prize/",
+    "date": "2026-02-06"
+  },
+  {
+    "title": "OpenAI launches new agentic coding model only minutes after Anthropic drops its own",
+    "link": "https://techcrunch.com/2026/02/05/openai-launches-new-agentic-coding-model-only-minutes-after-anthropic-drops-its-own/",
+    "date": "2026-02-06"
+  },
+  {
+    "title": "GPT-5 lowers the cost of cell-free protein synthesis",
+    "link": "https://openai.com/index/gpt-5-lowers-protein-synthesis-cost",
+    "date": "2026-02-06"
+  },
+  {
+    "title": "Introducing Trusted Access for Cyber",
+    "link": "https://openai.com/index/trusted-access-for-cyber",
+    "date": "2026-02-06"
+  },
+  {
+    "title": "Introducing OpenAI Frontier",
+    "link": "https://openai.com/index/introducing-openai-frontier",
+    "date": "2026-02-06"
+  },
+  {
+    "title": "GPT-5.3-Codex System Card",
+    "link": "https://openai.com/index/gpt-5-3-codex-system-card",
+    "date": "2026-02-06"
+  },
+  {
+    "title": "Natively Adaptive Interfaces: A new framework for AI accessibility",
+    "link": "https://blog.google/company-news/outreach-and-initiatives/accessibility/natively-adaptive-interfaces-ai-accessibility/",
+    "date": "2026-02-06"
+  },
+  {
+    "title": "How Google Cloud is helping Team USA elevate their tricks with AI",
+    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/us-ski-snowboard-tool-winter-olympics-2026/",
+    "date": "2026-02-06"
+  },
+  {
+    "title": "Watch our new Gemini ad ahead of football’s biggest weekend",
+    "link": "https://blog.google/company-news/inside-google/company-announcements/gemini-ad-new-home/",
+    "date": "2026-02-06"
+  },
+  {
+    "title": "Consolidating systems for AI with iPaaS",
+    "link": "https://www.technologyreview.com/2026/02/05/1132200/consolidating-systems-for-ai-with-ipaas/",
+    "date": "2026-02-06"
+  },
+  {
+    "title": "The Download: attempting to track AI, and the next generation of nuclear power",
+    "link": "https://www.technologyreview.com/2026/02/05/1132270/the-download-attempting-to-track-ai-and-the-next-generation-of-nuclear-power/",
+    "date": "2026-02-06"
+  },
+  {
+    "title": "Three questions about next-generation nuclear power, answered",
+    "link": "https://www.technologyreview.com/2026/02/05/1132197/nuclear-questions/",
+    "date": "2026-02-06"
+  },
+  {
+    "title": "This is the most misunderstood graph in AI",
+    "link": "https://www.technologyreview.com/2026/02/05/1132254/this-is-the-most-misunderstood-graph-in-ai/",
+    "date": "2026-02-06"
+  },
+  {
+    "title": "Introducing SyGra Studio",
+    "link": "https://huggingface.co/blog/ServiceNow-AI/sygra-studio",
+    "date": "2026-02-06"
+  },
+  {
+    "title": "Community Evals: Because we're done trusting black-box leaderboards over the community",
+    "link": "https://huggingface.co/blog/community-evals",
+    "date": "2026-02-06"
+  },
+  {
+    "title": "AI companies want you to stop chatting with bots and start managing them",
+    "link": "https://arstechnica.com/information-technology/2026/02/ai-companies-want-you-to-stop-chatting-with-bots-and-start-managing-them/",
+    "date": "2026-02-06"
+  },
+  {
+    "title": "The Switch 2 is getting a new Virtual Console (kind of)",
+    "link": "https://arstechnica.com/gaming/2026/02/the-virtual-console-is-sort-of-back-on-the-switch-2/",
+    "date": "2026-02-06"
+  },
+  {
+    "title": "With GPT-5.3-Codex, OpenAI pitches Codex for more than just writing code",
+    "link": "https://arstechnica.com/ai/2026/02/with-gpt-5-3-codex-openai-pitches-codex-for-more-than-just-writing-code/",
+    "date": "2026-02-06"
+  },
+  {
+    "title": "\"ICE Out of Our Faces Act\" would ban ICE and CBP use of facial recognition",
+    "link": "https://arstechnica.com/tech-policy/2026/02/ice-out-of-our-faces-act-would-ban-ice-and-cbp-use-of-facial-recognition/",
+    "date": "2026-02-06"
+  },
+  {
+    "title": "Neocities founder stuck in chatbot hell after Bing blocked 1.5 million sites",
+    "link": "https://arstechnica.com/tech-policy/2026/02/neocities-founder-stuck-in-chatbot-hell-after-bing-blocked-1-5m-sites/",
+    "date": "2026-02-06"
+  },
+  {
+    "title": "AI Expo 2026 Day 2: Moving experimental pilots to AI production",
+    "link": "https://www.artificialintelligence-news.com/news/ai-expo-2026-day-2-moving-experimental-pilots-ai-production/",
+    "date": "2026-02-06"
+  },
+  {
+    "title": "Microsoft unveils method to detect sleeper agent backdoors",
+    "link": "https://www.artificialintelligence-news.com/news/microsoft-unveils-method-detect-sleeper-agent-backdoors/",
+    "date": "2026-02-06"
+  },
+  {
+    "title": "OpenAI’s enterprise push: The hidden story behind AI’s sales race",
+    "link": "https://www.artificialintelligence-news.com/news/openai-ai-consultants-enterprise-adoption-challenges/",
+    "date": "2026-02-06"
   }
 ]
