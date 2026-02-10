@@ -1,120 +1,5 @@
 [
   {
-    "title": "Elon Musk’s SpaceX officially acquires Elon Musk’s xAI, with plan to build data centers in space",
-    "link": "https://techcrunch.com/2026/02/02/elon-musk-spacex-acquires-xai-data-centers-space-merger/",
-    "date": "2026-02-03"
-  },
-  {
-    "title": "What Snowflake’s deal with OpenAI tells us about the enterprise AI race",
-    "link": "https://techcrunch.com/2026/02/02/what-snowflakes-deal-with-openai-tells-us-about-the-enterprise-ai-race/",
-    "date": "2026-02-03"
-  },
-  {
-    "title": "Firefox will soon let you block all of its generative AI features",
-    "link": "https://techcrunch.com/2026/02/02/firefox-will-soon-let-you-block-all-of-its-generative-ai-features/",
-    "date": "2026-02-03"
-  },
-  {
-    "title": "OpenAI launches new macOS app for agentic coding",
-    "link": "https://techcrunch.com/2026/02/02/openai-launches-new-macos-app-for-agentic-coding/",
-    "date": "2026-02-03"
-  },
-  {
-    "title": "Ring brings its ‘Search Party’ feature for finding lost dogs to non-Ring camera owners",
-    "link": "https://techcrunch.com/2026/02/02/ring-brings-its-search-party-feature-for-finding-lost-dogs-to-non-ring-camera-owners/",
-    "date": "2026-02-03"
-  },
-  {
-    "title": "Snowflake and OpenAI partner to bring frontier intelligence to enterprise data",
-    "link": "https://openai.com/index/snowflake-partnership",
-    "date": "2026-02-03"
-  },
-  {
-    "title": "Introducing the Codex app",
-    "link": "https://openai.com/index/introducing-the-codex-app",
-    "date": "2026-02-03"
-  },
-  {
-    "title": "How we’re helping preserve the genetic information of endangered species with AI",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/ai-to-preserve-endangered-species/",
-    "date": "2026-02-03"
-  },
-  {
-    "title": "Advancing AI benchmarking with Game Arena",
-    "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates/",
-    "date": "2026-02-03"
-  },
-  {
-    "title": "Hear more about interactive world models in our latest podcast.",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/release-notes-podcast-project-genie/",
-    "date": "2026-02-03"
-  },
-  {
-    "title": "What we’ve been getting wrong about AI’s truth crisis",
-    "link": "https://www.technologyreview.com/2026/02/02/1132068/what-weve-been-getting-wrong-about-ais-truth-crisis/",
-    "date": "2026-02-03"
-  },
-  {
-    "title": "The crucial first step for designing a successful enterprise AI system",
-    "link": "https://www.technologyreview.com/2026/02/02/1131822/the-crucial-first-step-for-designing-a-successful-enterprise-ai-system/",
-    "date": "2026-02-03"
-  },
-  {
-    "title": "The Download: inside a deepfake marketplace, and EV batteries’ future",
-    "link": "https://www.technologyreview.com/2026/02/02/1132049/the-download-inside-a-deepfake-marketplace-and-ev-batteries-future/",
-    "date": "2026-02-03"
-  },
-  {
-    "title": "What’s next for EV batteries in 2026",
-    "link": "https://www.technologyreview.com/2026/02/02/1132042/whats-next-for-ev-batteries-in-2026/",
-    "date": "2026-02-03"
-  },
-  {
-    "title": "Looking back at Catacomb 3D, the game that led to Wolfenstein 3D",
-    "link": "https://arstechnica.com/gaming/2026/02/looking-back-at-catacomb-3d-the-game-that-led-to-wolfenstein-3d/",
-    "date": "2026-02-03"
-  },
-  {
-    "title": "Streaming service Crunchyroll raises prices weeks after killing its free tier",
-    "link": "https://arstechnica.com/gadgets/2026/02/streaming-service-crunchyroll-raises-prices-weeks-after-killing-its-free-tier/",
-    "date": "2026-02-03"
-  },
-  {
-    "title": "SpaceX acquires xAI, plans to launch a massive satellite constellation to power it",
-    "link": "https://arstechnica.com/ai/2026/02/spacex-acquires-xai-plans-1-million-satellite-constellation-to-power-it/",
-    "date": "2026-02-03"
-  },
-  {
-    "title": "Russian drones use Starlink, but Ukraine has plan to block their Internet access",
-    "link": "https://arstechnica.com/tech-policy/2026/02/russian-drones-use-starlink-but-ukraine-has-plan-to-block-their-internet-access/",
-    "date": "2026-02-03"
-  },
-  {
-    "title": "Court orders restart of all US offshore wind construction",
-    "link": "https://arstechnica.com/science/2026/02/court-orders-restart-of-all-us-offshore-wind-construction/",
-    "date": "2026-02-03"
-  },
-  {
-    "title": "Klarna backs Google UCP to power AI agent payments",
-    "link": "https://www.artificialintelligence-news.com/news/klarna-backs-google-ucp-power-ai-agent-payments/",
-    "date": "2026-02-03"
-  },
-  {
-    "title": "How SAP is modernising HMRC’s tax infrastructure with AI",
-    "link": "https://www.artificialintelligence-news.com/news/how-sap-modernising-hmrc-tax-infrastructure-with-ai/",
-    "date": "2026-02-03"
-  },
-  {
-    "title": "ThoughtSpot: On the new fleet of agents delivering modern analytics",
-    "link": "https://www.artificialintelligence-news.com/news/thoughtspot-on-the-new-fleet-of-agents-delivering-modern-analytics/",
-    "date": "2026-02-03"
-  },
-  {
-    "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
-    "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
-    "date": "2026-02-03"
-  },
-  {
     "title": "Intel will start making GPUs, a market dominated by Nvidia",
     "link": "https://techcrunch.com/2026/02/03/intel-will-start-making-gpus-a-market-dominated-by-nvidia/",
     "date": "2026-02-04"
@@ -598,5 +483,105 @@
     "title": "A Project Hail Mary final trailer? Yes please",
     "link": "https://arstechnica.com/culture/2026/02/a-project-hail-mary-final-trailer-yes-please/",
     "date": "2026-02-09"
+  },
+  {
+    "title": "Databricks CEO says SaaS isn’t dead, but AI will soon make it irrelevant",
+    "link": "https://techcrunch.com/2026/02/09/databricks-ceo-says-saas-isnt-dead-but-ai-will-soon-make-it-irrelevant/",
+    "date": "2026-02-10"
+  },
+  {
+    "title": "Anthropic’s India expansion collides with a local company that already had the name",
+    "link": "https://techcrunch.com/2026/02/09/anthropics-india-expansion-collides-with-a-local-company-that-already-had-the-name/",
+    "date": "2026-02-10"
+  },
+  {
+    "title": "ChatGPT rolls out ads",
+    "link": "https://techcrunch.com/2026/02/09/chatgpt-rolls-out-ads/",
+    "date": "2026-02-10"
+  },
+  {
+    "title": "Workday CEO Eschenbach departs, with co-founder Aneel Bhusri returning as CEO",
+    "link": "https://techcrunch.com/2026/02/09/workday-ceo-eschenbach-departs-with-co-founder-aneel-bhusri-returning-as-ceo/",
+    "date": "2026-02-10"
+  },
+  {
+    "title": "Anthropic closes in on $20B round",
+    "link": "https://techcrunch.com/2026/02/09/anthropic-closes-in-on-20b-round/",
+    "date": "2026-02-10"
+  },
+  {
+    "title": "Bringing ChatGPT to GenAI.mil",
+    "link": "https://openai.com/index/bringing-chatgpt-to-genaimil",
+    "date": "2026-02-10"
+  },
+  {
+    "title": "Testing ads in ChatGPT",
+    "link": "https://openai.com/index/testing-ads-in-chatgpt",
+    "date": "2026-02-10"
+  },
+  {
+    "title": "Why the Moltbook frenzy was like Pokémon",
+    "link": "https://www.technologyreview.com/2026/02/09/1132537/a-lesson-from-pokemon/",
+    "date": "2026-02-10"
+  },
+  {
+    "title": "The Download: what Moltbook tells us about AI hype, and the rise and rise of AI therapy",
+    "link": "https://www.technologyreview.com/2026/02/09/1132498/the-download-what-moltbook-tells-us-about-ai-hype-and-the-rise-and-rise-of-ai-therapy/",
+    "date": "2026-02-10"
+  },
+  {
+    "title": "Making AI Work, MIT Technology Review’s new AI newsletter, is here",
+    "link": "https://www.technologyreview.com/2026/02/09/1132462/ai-newsletter-professional-applications/",
+    "date": "2026-02-10"
+  },
+  {
+    "title": "Transformers.js v4 Preview: Now Available on NPM!",
+    "link": "https://huggingface.co/blog/transformersjs-v4",
+    "date": "2026-02-10"
+  },
+  {
+    "title": "Just look at Ayaneo's absolute unit of a Windows gaming \"handheld\"",
+    "link": "https://arstechnica.com/gaming/2026/02/just-look-at-ayaneos-absolute-unit-of-a-windows-gaming-handheld/",
+    "date": "2026-02-10"
+  },
+  {
+    "title": "No humans allowed: This new space-based MMO is designed exclusively for AI agents",
+    "link": "https://arstechnica.com/ai/2026/02/after-moltbook-ai-agents-can-now-hang-out-in-their-own-space-faring-mmo/",
+    "date": "2026-02-10"
+  },
+  {
+    "title": "Google experiments with locking YouTube Music lyrics behind paywall",
+    "link": "https://arstechnica.com/google/2026/02/google-locks-youtube-music-lyrics-behind-paywall/",
+    "date": "2026-02-10"
+  },
+  {
+    "title": "Trump FCC investigates The View, reportedly says \"fake news\" will be punished",
+    "link": "https://arstechnica.com/tech-policy/2026/02/trump-fcc-investigates-the-view-reportedly-says-fake-news-will-be-punished/",
+    "date": "2026-02-10"
+  },
+  {
+    "title": "Discord faces backlash over age checks after data breach exposed 70,000 IDs",
+    "link": "https://arstechnica.com/tech-policy/2026/02/discord-faces-backlash-over-age-checks-after-data-breach-exposed-70000-ids/",
+    "date": "2026-02-10"
+  },
+  {
+    "title": "What AI can (and can’t) tell us about XRP in ETF-driven markets",
+    "link": "https://www.artificialintelligence-news.com/news/what-ai-can-and-cant-tell-us-about-xrp-in-etf-driven-markets/",
+    "date": "2026-02-10"
+  },
+  {
+    "title": "Exclusive: Why are Chinese AI models dominating open-source as Western labs step back?",
+    "link": "https://www.artificialintelligence-news.com/news/chinese-ai-models-175k-unprotected-systems-western-retreat/",
+    "date": "2026-02-10"
+  },
+  {
+    "title": "Cryptocurrency markets a testbed for AI forecasting models",
+    "link": "https://www.artificialintelligence-news.com/news/cryptocurrency-markets-a-testbed-for-ai-forecasting-models/",
+    "date": "2026-02-10"
+  },
+  {
+    "title": "Goldman Sachs tests autonomous AI agents for process-heavy work",
+    "link": "https://www.artificialintelligence-news.com/news/goldman-sachs-tests-autonomous-ai-agents-for-process-heavy-work/",
+    "date": "2026-02-10"
   }
 ]
