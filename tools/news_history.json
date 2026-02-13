@@ -533,5 +533,30 @@
     "title": "Google identifies state-sponsored hackers using AI in attacks",
     "link": "https://www.artificialintelligence-news.com/news/state-sponsored-hackers-ai-cyberattacks-google/",
     "date": "2026-02-13"
+  },
+  {
+    "title": "Natively Adaptive Interfaces: A new framework for AI accessibility",
+    "link": "https://blog.google/company-news/outreach-and-initiatives/accessibility/natively-adaptive-interfaces-ai-accessibility/",
+    "date": "2026-02-13"
+  },
+  {
+    "title": "How Google Cloud is helping Team USA elevate their tricks with AI",
+    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/us-ski-snowboard-tool-winter-olympics-2026/",
+    "date": "2026-02-13"
+  },
+  {
+    "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+    "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+    "date": "2026-02-13"
+  },
+  {
+    "title": "Introducing SyGra Studio",
+    "link": "https://huggingface.co/blog/ServiceNow-AI/sygra-studio",
+    "date": "2026-02-13"
+  },
+  {
+    "title": "Community Evals: Because we're done trusting black-box leaderboards over the community",
+    "link": "https://huggingface.co/blog/community-evals",
+    "date": "2026-02-13"
   }
 ]
