@@ -1,100 +1,5 @@
 [
   {
-    "title": "Benchmark raises $225M in special funds to double down on Cerebras",
-    "link": "https://techcrunch.com/2026/02/06/benchmark-raises-225m-in-special-funds-to-double-down-on-cerebras/",
-    "date": "2026-02-07"
-  },
-  {
-    "title": "From Svedka to Anthropic, brands make bold plays with AI in Super Bowl ads",
-    "link": "https://techcrunch.com/2026/02/06/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/",
-    "date": "2026-02-07"
-  },
-  {
-    "title": "It just got easier for Claude to check in on your WordPress site",
-    "link": "https://techcrunch.com/2026/02/06/it-just-got-easier-for-claude-to-check-in-on-your-wordpress-site/",
-    "date": "2026-02-07"
-  },
-  {
-    "title": "Maybe AI agents can be lawyers after all",
-    "link": "https://techcrunch.com/2026/02/06/maybe-ai-agents-can-be-lawyers-after-all/",
-    "date": "2026-02-07"
-  },
-  {
-    "title": "How Elon Musk is rewriting the rules on founder power",
-    "link": "https://techcrunch.com/video/how-elon-musk-is-rewriting-the-rules-on-founder-power/",
-    "date": "2026-02-07"
-  },
-  {
-    "title": "Making AI work for everyone, everywhere: our approach to localization",
-    "link": "https://openai.com/index/our-approach-to-localization",
-    "date": "2026-02-07"
-  },
-  {
-    "title": "Korea privacy policy",
-    "link": "https://openai.com/policies/kr-privacy-policy",
-    "date": "2026-02-07"
-  },
-  {
-    "title": "Moltbook was peak AI theater",
-    "link": "https://www.technologyreview.com/2026/02/06/1132448/moltbook-was-peak-ai-theater/",
-    "date": "2026-02-07"
-  },
-  {
-    "title": "The Download: helping cancer survivors to give birth, and cleaning up Bangladesh’s garment industry",
-    "link": "https://www.technologyreview.com/2026/02/06/1132375/the-download-helping-cancer-survivors-to-give-birth-and-cleaning-up-bangladeshs-garment-industry/",
-    "date": "2026-02-07"
-  },
-  {
-    "title": "An experimental surgery is helping cancer survivors give birth",
-    "link": "https://www.technologyreview.com/2026/02/06/1132319/experimental-surgery-colorectal-cancer-survivors-pregnant-birth/",
-    "date": "2026-02-07"
-  },
-  {
-    "title": "Sixteen Claude AI agents working together created a new C compiler",
-    "link": "https://arstechnica.com/ai/2026/02/sixteen-claude-ai-agents-working-together-created-a-new-c-compiler/",
-    "date": "2026-02-07"
-  },
-  {
-    "title": "Penisgate erupts at Olympics; scandal exposes risks of bulking your bulge",
-    "link": "https://arstechnica.com/health/2026/02/penisgate-erupts-at-olympics-scandal-exposes-risks-of-bulking-your-budge/",
-    "date": "2026-02-07"
-  },
-  {
-    "title": "Lawyer sets new standard for abuse of AI; judge tosses case",
-    "link": "https://arstechnica.com/tech-policy/2026/02/randomly-quoting-ray-bradbury-did-not-save-lawyer-from-losing-case-over-ai-errors/",
-    "date": "2026-02-07"
-  },
-  {
-    "title": "Malicious packages for dYdX cryptocurrency exchange empties user wallets",
-    "link": "https://arstechnica.com/security/2026/02/malicious-packages-for-dydx-cryptocurrency-exchange-empties-user-wallets/",
-    "date": "2026-02-07"
-  },
-  {
-    "title": "Why $700 could be a \"death sentence\" for the Steam Machine",
-    "link": "https://arstechnica.com/gaming/2026/02/why-a-bump-to-700-could-be-a-death-sentence-for-the-steam-machine/",
-    "date": "2026-02-07"
-  },
-  {
-    "title": "How separating logic and search boosts AI agent scalability",
-    "link": "https://www.artificialintelligence-news.com/news/how-separating-logic-and-search-boosts-ai-agent-scalability/",
-    "date": "2026-02-07"
-  },
-  {
-    "title": "Intuit, Uber, and State Farm trial AI agents inside enterprise workflows",
-    "link": "https://www.artificialintelligence-news.com/news/intuit-uber-and-state-farm-trial-ai-agents-inside-enterprise-workflows/",
-    "date": "2026-02-07"
-  },
-  {
-    "title": "SuperCool review: Evaluating the reality of autonomous creation",
-    "link": "https://www.artificialintelligence-news.com/news/supercool-review-evaluating-the-reality-of-autonomous-creation/",
-    "date": "2026-02-07"
-  },
-  {
-    "title": "Top 7 best AI penetration testing companies in 2026",
-    "link": "https://www.artificialintelligence-news.com/news/top-7-best-ai-penetration-testing-companies-in-2026/",
-    "date": "2026-02-07"
-  },
-  {
     "title": "New York lawmakers propose a three-year pause on new data centers",
     "link": "https://techcrunch.com/2026/02/07/new-york-lawmakers-propose-a-three-year-pause-on-new-data-centers/",
     "date": "2026-02-08"
@@ -558,5 +463,130 @@
     "title": "Community Evals: Because we're done trusting black-box leaderboards over the community",
     "link": "https://huggingface.co/blog/community-evals",
     "date": "2026-02-13"
+  },
+  {
+    "title": "Airbnb says a third of its customer support is now handled by AI in the US and Canada",
+    "link": "https://techcrunch.com/2026/02/13/airbnb-says-a-third-of-its-customer-support-is-now-handled-by-ai-in-the-u-s-and-canada/",
+    "date": "2026-02-14"
+  },
+  {
+    "title": "Why top talent is walking away from OpenAI and xAI",
+    "link": "https://techcrunch.com/video/why-top-talent-is-walking-away-from-openai-and-xai/",
+    "date": "2026-02-14"
+  },
+  {
+    "title": "OpenAI removes access to sycophancy-prone GPT-4o model",
+    "link": "https://techcrunch.com/2026/02/13/openai-removes-access-to-sycophancy-prone-gpt-4o-model/",
+    "date": "2026-02-14"
+  },
+  {
+    "title": "AI burnout, billion-dollar bets, and Silicon Valley’s Epstein problem",
+    "link": "https://techcrunch.com/podcast/ai-burnout-billion-dollar-bets-and-silicon-valleys-epstein-problem/",
+    "date": "2026-02-14"
+  },
+  {
+    "title": "Anthropic’s Super Bowl ads mocking AI with ads helped push Claude’s app into the top 10",
+    "link": "https://techcrunch.com/2026/02/13/anthropics-super-bowl-ads-mocking-ai-with-ads-helped-push-claudes-app-into-the-top-10/",
+    "date": "2026-02-14"
+  },
+  {
+    "title": "GPT-5.2 derives a new result in theoretical physics",
+    "link": "https://openai.com/index/new-result-theoretical-physics",
+    "date": "2026-02-14"
+  },
+  {
+    "title": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT",
+    "link": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt",
+    "date": "2026-02-14"
+  },
+  {
+    "title": "Beyond rate limits: scaling access to Codex and Sora",
+    "link": "https://openai.com/index/beyond-rate-limits",
+    "date": "2026-02-14"
+  },
+  {
+    "title": "Scaling social science research",
+    "link": "https://openai.com/index/scaling-social-science-research",
+    "date": "2026-02-14"
+  },
+  {
+    "title": "ALS stole this musician’s voice. AI let him sing again.",
+    "link": "https://www.technologyreview.com/2026/02/13/1132913/als-stole-this-musicians-voice-ai-sing/",
+    "date": "2026-02-14"
+  },
+  {
+    "title": "The Download: an exclusive chat with Jim O’Neill, and the surprising truth about heists",
+    "link": "https://www.technologyreview.com/2026/02/13/1132896/the-download-an-exclusive-chat-with-jim-oneill-and-the-surprising-truth-about-heists/",
+    "date": "2026-02-14"
+  },
+  {
+    "title": "The myth of the high-tech heist",
+    "link": "https://www.technologyreview.com/2026/02/13/1132397/myth-of-high-tech-heist/",
+    "date": "2026-02-14"
+  },
+  {
+    "title": "US deputy health secretary: Vaccine guidelines are still subject to change",
+    "link": "https://www.technologyreview.com/2026/02/13/1132889/us-deputy-health-secretary-vaccine-guidelines-longevity-arpa-h-cdc-nih/",
+    "date": "2026-02-14"
+  },
+  {
+    "title": "RFK Jr. follows a carnivore diet. That doesn’t mean you should.",
+    "link": "https://www.technologyreview.com/2026/02/13/1132848/rfk-jr-carnivore-diet-maha-social-media/",
+    "date": "2026-02-14"
+  },
+  {
+    "title": "Custom Kernels for All from Codex and Claude",
+    "link": "https://huggingface.co/blog/custom-cuda-kernels-agent-skills",
+    "date": "2026-02-14"
+  },
+  {
+    "title": "WHO slams US-funded newborn vaccine trial as \"unethical\"",
+    "link": "https://arstechnica.com/health/2026/02/who-slams-us-funded-newborn-vaccine-trial-as-unethical/",
+    "date": "2026-02-14"
+  },
+  {
+    "title": "Aided by AI, California beach town broadens hunt for bike lane blockers",
+    "link": "https://arstechnica.com/tech-policy/2026/02/santa-monica-deploys-ai-powered-parking-cameras-to-protect-bike-lanes/",
+    "date": "2026-02-14"
+  },
+  {
+    "title": "Verizon imposes new roadblock on users trying to unlock paid-off phones",
+    "link": "https://arstechnica.com/tech-policy/2026/02/verizon-makes-customers-wait-35-days-to-unlock-fully-paid-off-phones/",
+    "date": "2026-02-14"
+  },
+  {
+    "title": "Ring cancels Flock deal after dystopian Super Bowl ad prompts mass outrage",
+    "link": "https://arstechnica.com/tech-policy/2026/02/after-creepy-super-bowl-ad-sparks-outrage-ring-abandons-flock-deal/",
+    "date": "2026-02-14"
+  },
+  {
+    "title": "The first Android 17 beta is now available on Pixel devices",
+    "link": "https://arstechnica.com/gadgets/2026/02/the-first-android-17-beta-is-now-available-on-pixel-devices/",
+    "date": "2026-02-14"
+  },
+  {
+    "title": "AI forecasting model targets healthcare resource efficiency",
+    "link": "https://www.artificialintelligence-news.com/news/ai-forecasting-model-targets-healthcare-resource-efficiency/",
+    "date": "2026-02-14"
+  },
+  {
+    "title": "What Murder Mystery 2 reveals about emergent behaviour in online games",
+    "link": "https://www.artificialintelligence-news.com/news/what-murder-mystery-2-reveals-about-emergent-behaviour-in-online-games/",
+    "date": "2026-02-14"
+  },
+  {
+    "title": "Agentic AI drives finance ROI in accounts payable automation",
+    "link": "https://www.artificialintelligence-news.com/news/agentic-ai-drives-finance-roi-in-accounts-payable-automation/",
+    "date": "2026-02-14"
+  },
+  {
+    "title": "Newsweek CEO Dev Pragad warns publishers: adapt as AI becomes news gateway",
+    "link": "https://www.artificialintelligence-news.com/news/newsweek-ceo-dev-pragad-warns-publishers-adapt-as-ai-becomes-news-gateway/",
+    "date": "2026-02-14"
+  },
+  {
+    "title": "How e& is using HR to bring AI into enterprise operations",
+    "link": "https://www.artificialintelligence-news.com/news/how-e-is-using-hr-to-bring-ai-into-enterprise-operations/",
+    "date": "2026-02-14"
   }
 ]
