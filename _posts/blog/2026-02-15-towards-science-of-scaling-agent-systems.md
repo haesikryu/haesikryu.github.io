@@ -3,7 +3,7 @@ layout: post
 title: "Multi-Agent 시스템의 과학적 스케일링 원칙: 논문 심층 분석"
 date: 2026-02-15 22:20:00 +0900
 categories: [Engineering, AI]
-tags: [ai-native, engineering-culture, sdlc, codex, productivity]
+tags: [multi-agent-systems, scaling, agent-architecture, llm, research-paper]
 author: Ryu
 ---
 
