@@ -1,120 +1,5 @@
 [
   {
-    "title": "Databricks CEO says SaaS isn’t dead, but AI will soon make it irrelevant",
-    "link": "https://techcrunch.com/2026/02/09/databricks-ceo-says-saas-isnt-dead-but-ai-will-soon-make-it-irrelevant/",
-    "date": "2026-02-10"
-  },
-  {
-    "title": "Anthropic’s India expansion collides with a local company that already had the name",
-    "link": "https://techcrunch.com/2026/02/09/anthropics-india-expansion-collides-with-a-local-company-that-already-had-the-name/",
-    "date": "2026-02-10"
-  },
-  {
-    "title": "ChatGPT rolls out ads",
-    "link": "https://techcrunch.com/2026/02/09/chatgpt-rolls-out-ads/",
-    "date": "2026-02-10"
-  },
-  {
-    "title": "Workday CEO Eschenbach departs, with co-founder Aneel Bhusri returning as CEO",
-    "link": "https://techcrunch.com/2026/02/09/workday-ceo-eschenbach-departs-with-co-founder-aneel-bhusri-returning-as-ceo/",
-    "date": "2026-02-10"
-  },
-  {
-    "title": "Anthropic closes in on $20B round",
-    "link": "https://techcrunch.com/2026/02/09/anthropic-closes-in-on-20b-round/",
-    "date": "2026-02-10"
-  },
-  {
-    "title": "Bringing ChatGPT to GenAI.mil",
-    "link": "https://openai.com/index/bringing-chatgpt-to-genaimil",
-    "date": "2026-02-10"
-  },
-  {
-    "title": "Testing ads in ChatGPT",
-    "link": "https://openai.com/index/testing-ads-in-chatgpt",
-    "date": "2026-02-10"
-  },
-  {
-    "title": "Why the Moltbook frenzy was like Pokémon",
-    "link": "https://www.technologyreview.com/2026/02/09/1132537/a-lesson-from-pokemon/",
-    "date": "2026-02-10"
-  },
-  {
-    "title": "The Download: what Moltbook tells us about AI hype, and the rise and rise of AI therapy",
-    "link": "https://www.technologyreview.com/2026/02/09/1132498/the-download-what-moltbook-tells-us-about-ai-hype-and-the-rise-and-rise-of-ai-therapy/",
-    "date": "2026-02-10"
-  },
-  {
-    "title": "Making AI Work, MIT Technology Review’s new AI newsletter, is here",
-    "link": "https://www.technologyreview.com/2026/02/09/1132462/ai-newsletter-professional-applications/",
-    "date": "2026-02-10"
-  },
-  {
-    "title": "Transformers.js v4 Preview: Now Available on NPM!",
-    "link": "https://huggingface.co/blog/transformersjs-v4",
-    "date": "2026-02-10"
-  },
-  {
-    "title": "Just look at Ayaneo's absolute unit of a Windows gaming \"handheld\"",
-    "link": "https://arstechnica.com/gaming/2026/02/just-look-at-ayaneos-absolute-unit-of-a-windows-gaming-handheld/",
-    "date": "2026-02-10"
-  },
-  {
-    "title": "No humans allowed: This new space-based MMO is designed exclusively for AI agents",
-    "link": "https://arstechnica.com/ai/2026/02/after-moltbook-ai-agents-can-now-hang-out-in-their-own-space-faring-mmo/",
-    "date": "2026-02-10"
-  },
-  {
-    "title": "Google experiments with locking YouTube Music lyrics behind paywall",
-    "link": "https://arstechnica.com/google/2026/02/google-locks-youtube-music-lyrics-behind-paywall/",
-    "date": "2026-02-10"
-  },
-  {
-    "title": "Trump FCC investigates The View, reportedly says \"fake news\" will be punished",
-    "link": "https://arstechnica.com/tech-policy/2026/02/trump-fcc-investigates-the-view-reportedly-says-fake-news-will-be-punished/",
-    "date": "2026-02-10"
-  },
-  {
-    "title": "Discord faces backlash over age checks after data breach exposed 70,000 IDs",
-    "link": "https://arstechnica.com/tech-policy/2026/02/discord-faces-backlash-over-age-checks-after-data-breach-exposed-70000-ids/",
-    "date": "2026-02-10"
-  },
-  {
-    "title": "What AI can (and can’t) tell us about XRP in ETF-driven markets",
-    "link": "https://www.artificialintelligence-news.com/news/what-ai-can-and-cant-tell-us-about-xrp-in-etf-driven-markets/",
-    "date": "2026-02-10"
-  },
-  {
-    "title": "Exclusive: Why are Chinese AI models dominating open-source as Western labs step back?",
-    "link": "https://www.artificialintelligence-news.com/news/chinese-ai-models-175k-unprotected-systems-western-retreat/",
-    "date": "2026-02-10"
-  },
-  {
-    "title": "Cryptocurrency markets a testbed for AI forecasting models",
-    "link": "https://www.artificialintelligence-news.com/news/cryptocurrency-markets-a-testbed-for-ai-forecasting-models/",
-    "date": "2026-02-10"
-  },
-  {
-    "title": "Goldman Sachs tests autonomous AI agents for process-heavy work",
-    "link": "https://www.artificialintelligence-news.com/news/goldman-sachs-tests-autonomous-ai-agents-for-process-heavy-work/",
-    "date": "2026-02-10"
-  },
-  {
-    "title": "The first signs of burnout are coming from the people who embrace AI the most",
-    "link": "https://techcrunch.com/2026/02/09/the-first-signs-of-burnout-are-coming-from-the-people-who-embrace-ai-the-most/",
-    "date": "2026-02-10"
-  },
-  {
-    "title": "Helping kids and teens learn and grow online on Safer Internet Day",
-    "link": "https://blog.google/innovation-and-ai/technology/safety-security/safer-internet-day-2026-kids-teens/",
-    "date": "2026-02-10"
-  },
-  {
-    "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
-    "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
-    "date": "2026-02-10"
-  },
-  {
     "title": "Amazon may launch a marketplace where media sites can sell their content to AI companies",
     "link": "https://techcrunch.com/2026/02/10/amazon-may-launch-a-marketplace-where-media-sites-can-sell-their-content-to-ai-companies/",
     "date": "2026-02-11"
@@ -638,5 +523,90 @@
     "title": "\"It ain't no unicorn\": These researchers have interviewed 130 Bigfoot hunters",
     "link": "https://arstechnica.com/science/2026/02/it-aint-no-unicorn-these-researchers-have-interviewed-130-bigfoot-hunters/",
     "date": "2026-02-16"
+  },
+  {
+    "title": "Have money, will travel: a16z’s hunt for the next European unicorn",
+    "link": "https://techcrunch.com/2026/02/16/have-money-will-travel-a16zs-hunt-for-the-next-european-unicorn/",
+    "date": "2026-02-17"
+  },
+  {
+    "title": "How Ricursive Intelligence raised $335M at a $4B valuation in 4 months",
+    "link": "https://techcrunch.com/2026/02/16/how-ricursive-intelligence-raised-335m-at-a-4b-valuation-in-4-months/",
+    "date": "2026-02-17"
+  },
+  {
+    "title": "Flapping Airplanes on the future of AI: ‘We want to try really radically different things’",
+    "link": "https://techcrunch.com/2026/02/16/flapping-airplanes-on-the-future-of-ai-we-want-to-try-really-radically-different-things/",
+    "date": "2026-02-17"
+  },
+  {
+    "title": "After all the hype, some AI experts don’t think OpenClaw is all that exciting",
+    "link": "https://techcrunch.com/2026/02/16/after-all-the-hype-some-ai-experts-dont-think-openclaw-is-all-that-exciting/",
+    "date": "2026-02-17"
+  },
+  {
+    "title": "Fractal Analytics’ muted IPO debut signals persistent AI fears in India",
+    "link": "https://techcrunch.com/2026/02/16/fractal-analytics-muted-ipo-debut-signals-persistent-ai-fears-in-india/",
+    "date": "2026-02-17"
+  },
+  {
+    "title": "Tuning into the future of collaboration",
+    "link": "https://www.technologyreview.com/2026/02/16/1125881/tuning-into-the-future-of-collaboration/",
+    "date": "2026-02-17"
+  },
+  {
+    "title": "The Download: unraveling a death threat mystery, and AI voice recreation for musicians",
+    "link": "https://www.technologyreview.com/2026/02/16/1133008/the-download-unraveling-a-death-threat-mystery-and-ai-voice-recreation-for-musicians/",
+    "date": "2026-02-17"
+  },
+  {
+    "title": "The scientist using AI to hunt for antibiotics just about everywhere",
+    "link": "https://www.technologyreview.com/2026/02/16/1132516/cesar-de-la-fuente-using-ai-antibiotics-hunt/",
+    "date": "2026-02-17"
+  },
+  {
+    "title": "Hackers made death threats against this security researcher. Big mistake.",
+    "link": "https://www.technologyreview.com/2026/02/16/1132526/allison-nixon-hackers-security-researcher/",
+    "date": "2026-02-17"
+  },
+  {
+    "title": "Get ready for new Macs and iPads: Apple announces \"Special Experience\" on March 4",
+    "link": "https://arstechnica.com/apple/2026/02/get-ready-for-new-macs-and-ipads-apple-announces-special-experience-on-march-4/",
+    "date": "2026-02-17"
+  },
+  {
+    "title": "Best Buy worker used manager’s code to get 99% off MacBooks, cops say",
+    "link": "https://arstechnica.com/tech-policy/2026/02/best-buy-worker-used-managers-code-to-get-99-off-macbooks-cops-say/",
+    "date": "2026-02-17"
+  },
+  {
+    "title": "ByteDance backpedals after Seedance 2.0 turned Hollywood icons into AI “clip art”",
+    "link": "https://arstechnica.com/tech-policy/2026/02/bytedance-backpedals-after-seedance-2-0-turned-hollywood-icons-into-ai-clip-art/",
+    "date": "2026-02-17"
+  },
+  {
+    "title": "A fluid can store solar energy and then release it as heat months later",
+    "link": "https://arstechnica.com/science/2026/02/dna-inspired-molecule-breaks-records-for-storing-solar-heat/",
+    "date": "2026-02-17"
+  },
+  {
+    "title": "Michigan antitrust lawsuit says oil companies hobbled EVs and renewables",
+    "link": "https://arstechnica.com/tech-policy/2026/02/michigan-accuses-oil-companies-of-antitrust-violations-in-climate-change-lawsuit/",
+    "date": "2026-02-17"
+  },
+  {
+    "title": "Banking AI in multiple business functions at NatWest",
+    "link": "https://www.artificialintelligence-news.com/news/banking-ai-in-multiple-business-functions-at-natwest/",
+    "date": "2026-02-17"
+  },
+  {
+    "title": "Debenhams pilots agentic AI commerce via PayPal integration",
+    "link": "https://www.artificialintelligence-news.com/news/debenhams-pilots-agentic-ai-commerce-paypal-integration/",
+    "date": "2026-02-17"
+  },
+  {
+    "title": "URBN tests agentic AI to automate retail reporting",
+    "link": "https://www.artificialintelligence-news.com/news/urbn-tests-agentic-ai-to-automate-retail-reporting/",
+    "date": "2026-02-17"
   }
 ]
