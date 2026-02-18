@@ -1,110 +1,5 @@
 [
   {
-    "title": "Amazon may launch a marketplace where media sites can sell their content to AI companies",
-    "link": "https://techcrunch.com/2026/02/10/amazon-may-launch-a-marketplace-where-media-sites-can-sell-their-content-to-ai-companies/",
-    "date": "2026-02-11"
-  },
-  {
-    "title": "An ice dance duo skated to AI music at the Olympics",
-    "link": "https://techcrunch.com/2026/02/10/olympics-czech-ice-dancers-duo-ai-music/",
-    "date": "2026-02-11"
-  },
-  {
-    "title": "This Sequoia-backed lab thinks the brain is ‘the floor, not the ceiling’ for AI",
-    "link": "https://techcrunch.com/podcast/this-sequoia-backed-lab-thinks-the-brain-is-the-floor-not-the-ceiling-for-ai/",
-    "date": "2026-02-11"
-  },
-  {
-    "title": "Boston Dynamics CEO Robert Playter steps down after 30 years at the company",
-    "link": "https://techcrunch.com/2026/02/10/boston-dynamics-ceo-robert-playter-steps-down-after-30-years-at-the-company/",
-    "date": "2026-02-11"
-  },
-  {
-    "title": "Nearly half of xAI’s founding team has now left the company",
-    "link": "https://techcrunch.com/2026/02/10/nearly-half-of-xais-founding-team-has-now-left-the-company/",
-    "date": "2026-02-11"
-  },
-  {
-    "title": "9 fun questions to try asking Google Photos",
-    "link": "https://blog.google/products-and-platforms/products/photos/ask-button-ask-photos-tips/",
-    "date": "2026-02-11"
-  },
-  {
-    "title": "A “QuitGPT” campaign is urging people to cancel their ChatGPT subscriptions",
-    "link": "https://www.technologyreview.com/2026/02/10/1132577/a-quitgpt-campaign-is-urging-people-to-cancel-chatgpt-subscriptions/",
-    "date": "2026-02-11"
-  },
-  {
-    "title": "The Download: Making AI Work, and why the Moltbook hype is similar to Pokémon",
-    "link": "https://www.technologyreview.com/2026/02/10/1132608/the-download-making-ai-work-and-why-the-moltbook-hype-is-similar-to-pokemon/",
-    "date": "2026-02-11"
-  },
-  {
-    "title": "SpaceX's next-gen Super Heavy booster aces four days of \"cryoproof\" testing",
-    "link": "https://arstechnica.com/space/2026/02/spacexs-starbase-is-coming-alive-again-after-a-lull-in-starship-testing/",
-    "date": "2026-02-11"
-  },
-  {
-    "title": "Archive.today CAPTCHA page executes DDoS; Wikipedia considers banning site",
-    "link": "https://arstechnica.com/tech-policy/2026/02/wikipedia-might-blacklist-archive-today-after-site-maintainer-ddosed-a-blog/",
-    "date": "2026-02-11"
-  },
-  {
-    "title": "Yet another co-founder departs Elon Musk's xAI",
-    "link": "https://arstechnica.com/ai/2026/02/grok-maker-xai-loses-another-co-founder/",
-    "date": "2026-02-11"
-  },
-  {
-    "title": "Dewormer ivermectin as cancer cure? RFK Jr.'s NIH funds \"absurd\" study.",
-    "link": "https://arstechnica.com/health/2026/02/dewormer-ivermectin-as-cancer-cure-rfk-jr-s-nih-funds-absurd-study/",
-    "date": "2026-02-11"
-  },
-  {
-    "title": "Windows' original Secure Boot certificates expire in June—here's what you need to do",
-    "link": "https://arstechnica.com/gadgets/2026/02/microsoft-sounds-the-alarm-about-secure-boot-certificates-expiring-later-this-year/",
-    "date": "2026-02-11"
-  },
-  {
-    "title": "Chinese hyperscalers and industry-specific agentic AI",
-    "link": "https://www.artificialintelligence-news.com/news/chinese-hyperscalers-and-industry-specific-chinas-agentic-ai/",
-    "date": "2026-02-11"
-  },
-  {
-    "title": "Agentic AI in healthcare: How Life Sciences marketing could achieve $450B in value by 2028",
-    "link": "https://www.artificialintelligence-news.com/news/agentic-ai-healthcare-pharma-marketing-450b-value-2028/",
-    "date": "2026-02-11"
-  },
-  {
-    "title": "With co-founders leaving and an IPO looming, Elon Musk turns talk to the moon",
-    "link": "https://techcrunch.com/2026/02/10/with-co-founders-leaving-and-an-ipo-looming-elon-musk-turns-talk-to-the-moon/",
-    "date": "2026-02-11"
-  },
-  {
-    "title": "OpenAI policy exec who opposed chatbot’s “adult mode” reportedly fired on discrimination claim",
-    "link": "https://techcrunch.com/2026/02/10/openai-policy-exec-who-opposed-chatbots-adult-mode-reportedly-fired-on-discrimination-claim/",
-    "date": "2026-02-11"
-  },
-  {
-    "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-    "link": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-    "date": "2026-02-11"
-  },
-  {
-    "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-    "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-    "date": "2026-02-11"
-  },
-  {
-    "title": "H Company's new Holo2 model takes the lead in UI Localization",
-    "link": "https://huggingface.co/blog/Hcompany/introducing-holo2-235b-a22b",
-    "date": "2026-02-11"
-  },
-  {
-    "title": "FDA refuses to review Moderna's mRNA flu vaccine",
-    "link": "https://arstechnica.com/health/2026/02/fda-refuses-to-review-modernas-mrna-flu-vaccine/",
-    "date": "2026-02-11"
-  },
-  {
     "title": "xAI lays out interplanetary ambitions in public all-hands",
     "link": "https://techcrunch.com/2026/02/11/xai-lays-out-interplanetary-ambitions-in-public-all-hands/",
     "date": "2026-02-12"
@@ -623,5 +518,95 @@
     "title": "Transformers.js v4 Preview: Now Available on NPM!",
     "link": "https://huggingface.co/blog/transformersjs-v4",
     "date": "2026-02-17"
+  },
+  {
+    "title": "Apple is reportedly cooking up a trio of AI wearables",
+    "link": "https://techcrunch.com/2026/02/17/apple-is-reportedly-cooking-up-a-trio-of-ai-wearables/",
+    "date": "2026-02-18"
+  },
+  {
+    "title": "Anthropic releases Sonnet 4.6",
+    "link": "https://techcrunch.com/2026/02/17/anthropic-releases-sonnet-4-6/",
+    "date": "2026-02-18"
+  },
+  {
+    "title": "Mistral AI buys Koyeb in first acquisition to back its cloud ambitions",
+    "link": "https://techcrunch.com/2026/02/17/mistral-ai-buys-koyeb-in-first-acquisition-to-back-its-cloud-ambitions/",
+    "date": "2026-02-18"
+  },
+  {
+    "title": "SpaceX vets raise $50M Series A for data center links",
+    "link": "https://techcrunch.com/2026/02/17/spacex-vets-raise-50m-series-a-for-data-center-links/",
+    "date": "2026-02-18"
+  },
+  {
+    "title": "Running AI models is turning into a memory game",
+    "link": "https://techcrunch.com/2026/02/17/running-ai-models-is-turning-into-a-memory-game/",
+    "date": "2026-02-18"
+  },
+  {
+    "title": "Our 2026 Responsible AI Progress Report",
+    "link": "https://blog.google/innovation-and-ai/products/responsible-ai-2026-report-ongoing-work/",
+    "date": "2026-02-18"
+  },
+  {
+    "title": "The Download: the rise of luxury car theft, and fighting antimicrobial resistance",
+    "link": "https://www.technologyreview.com/2026/02/17/1133018/the-download-the-rise-of-luxury-car-theft-and-fighting-antimicrobial-resistance/",
+    "date": "2026-02-18"
+  },
+  {
+    "title": "The curious case of the disappearing Lamborghinis",
+    "link": "https://www.technologyreview.com/2026/02/17/1132538/curious-case-disappearing-lambhorghinis/",
+    "date": "2026-02-18"
+  },
+  {
+    "title": "NVIDIA Nemotron 2 Nano 9B Japanese: 日本のソブリンAIを支える最先端小規模言語モデル",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-nano-9b-v2-japanese-ja",
+    "date": "2026-02-18"
+  },
+  {
+    "title": "GameHub will give Mac owners another imperfect way to play Windows games",
+    "link": "https://arstechnica.com/gaming/2026/02/gamehub-will-give-mac-owners-another-imperfect-way-to-play-windows-games/",
+    "date": "2026-02-18"
+  },
+  {
+    "title": "Password managers' promise that they can't see your vaults isn't always true",
+    "link": "https://arstechnica.com/security/2026/02/password-managers-promise-that-they-cant-see-your-vaults-isnt-always-true/",
+    "date": "2026-02-18"
+  },
+  {
+    "title": "Stephen Colbert says CBS forbid interview of Democrat because of FCC threat",
+    "link": "https://arstechnica.com/tech-policy/2026/02/stephen-colbert-says-cbs-forbid-interview-of-democrat-because-of-fcc-threat/",
+    "date": "2026-02-18"
+  },
+  {
+    "title": "Most VMware users still \"actively reducing their VMware footprint,\" survey finds",
+    "link": "https://arstechnica.com/information-technology/2026/02/most-vmware-users-still-actively-reducing-their-vmware-footprint-survey-finds/",
+    "date": "2026-02-18"
+  },
+  {
+    "title": "What happens to a car when the company behind its software goes under?",
+    "link": "https://arstechnica.com/cars/2026/02/what-happens-to-a-car-when-the-company-behind-its-software-goes-under/",
+    "date": "2026-02-18"
+  },
+  {
+    "title": "SS&C Blue Prism: On the journey from RPA to agentic automation",
+    "link": "https://www.artificialintelligence-news.com/news/ssc-blue-prism-on-the-journey-from-rpa-to-agentic-automation/",
+    "date": "2026-02-18"
+  },
+  {
+    "title": "Insurance giant AIG deploys agentic AI with orchestration layer",
+    "link": "https://www.artificialintelligence-news.com/news/insurance-giant-aig-deploys-agentic-ai-with-orchestration-layer/",
+    "date": "2026-02-18"
+  },
+  {
+    "title": "Alibaba Qwen is challenging proprietary AI model economics",
+    "link": "https://www.artificialintelligence-news.com/news/alibaba-qwen-challenging-proprietary-ai-model-economics/",
+    "date": "2026-02-18"
+  },
+  {
+    "title": "Goldman Sachs deploys Anthropic systems with success",
+    "link": "https://www.artificialintelligence-news.com/news/goldman-sachs-ai-deploys-anthropic-systems-with-success/",
+    "date": "2026-02-18"
   }
 ]
