@@ -1,100 +1,5 @@
 [
   {
-    "title": "xAI lays out interplanetary ambitions in public all-hands",
-    "link": "https://techcrunch.com/2026/02/11/xai-lays-out-interplanetary-ambitions-in-public-all-hands/",
-    "date": "2026-02-12"
-  },
-  {
-    "title": "AI inference startup Modal Labs in talks to raise at $2.5B valuation, sources say",
-    "link": "https://techcrunch.com/2026/02/11/ai-inference-startup-modal-labs-in-talks-to-raise-at-2-5b-valuation-sources-say/",
-    "date": "2026-02-12"
-  },
-  {
-    "title": "OpenAI disbands mission alignment team",
-    "link": "https://techcrunch.com/2026/02/11/openai-disbands-mission-alignment-team-which-focused-on-safe-and-trustworthy-ai-development/",
-    "date": "2026-02-12"
-  },
-  {
-    "title": "Apple’s Siri revamp reportedly delayed… again",
-    "link": "https://techcrunch.com/2026/02/11/apples-siri-revamp-reportedly-delayed-again/",
-    "date": "2026-02-12"
-  },
-  {
-    "title": "Uber Eats launches AI assistant to help with grocery cart creation",
-    "link": "https://techcrunch.com/2026/02/11/uber-eats-launches-ai-assistant-to-help-with-grocery-cart-creation/",
-    "date": "2026-02-12"
-  },
-  {
-    "title": "Harness engineering: leveraging Codex in an agent-first world",
-    "link": "https://openai.com/index/harness-engineering",
-    "date": "2026-02-12"
-  },
-  {
-    "title": "Is a secure AI assistant possible?",
-    "link": "https://www.technologyreview.com/2026/02/11/1132768/is-a-secure-ai-assistant-possible/",
-    "date": "2026-02-12"
-  },
-  {
-    "title": "The Download: inside the QuitGPT movement, and EVs in Africa",
-    "link": "https://www.technologyreview.com/2026/02/11/1132724/the-download-inside-the-quitgpt-movement-and-evs-in-africa/",
-    "date": "2026-02-12"
-  },
-  {
-    "title": "EVs could be cheaper to own than gas cars in Africa by 2040",
-    "link": "https://www.technologyreview.com/2026/02/11/1132714/evs-africa-cost/",
-    "date": "2026-02-12"
-  },
-  {
-    "title": "Trump orders the military to make agreements with coal power plants",
-    "link": "https://arstechnica.com/science/2026/02/trumps-latest-plan-to-revive-coal-power-make-the-military-buy-it/",
-    "date": "2026-02-12"
-  },
-  {
-    "title": "El Paso airport closed after military used new anti-drone laser to zap party balloon",
-    "link": "https://arstechnica.com/space/2026/02/el-paso-airport-closed-after-military-used-new-anti-drone-laser-to-zap-party-balloon/",
-    "date": "2026-02-12"
-  },
-  {
-    "title": "Once-hobbled Lumma Stealer is back with lures that are hard to resist",
-    "link": "https://arstechnica.com/security/2026/02/once-hobbled-lumma-stealer-is-back-with-lures-that-are-hard-to-resist/",
-    "date": "2026-02-12"
-  },
-  {
-    "title": "Byte magazine artist Robert Tinney, who illustrated the birth of PCs, dies at 78",
-    "link": "https://arstechnica.com/gadgets/2026/02/byte-magazine-artist-robert-tinney-who-illustrated-the-birth-of-pcs-dies-at-78/",
-    "date": "2026-02-12"
-  },
-  {
-    "title": "Yes, Rocket Lab is blowing up engines. No, it's not a big deal, CEO says.",
-    "link": "https://arstechnica.com/space/2026/02/yes-rocket-lab-is-blowing-up-engines-no-its-not-a-big-deal-ceo-says/",
-    "date": "2026-02-12"
-  },
-  {
-    "title": "Barclays bets on AI to cut costs and boost returns",
-    "link": "https://www.artificialintelligence-news.com/news/barclays-bets-on-ai-to-cut-costs-and-boost-returns/",
-    "date": "2026-02-12"
-  },
-  {
-    "title": "How insurance leaders use agentic AI to cut operational costs",
-    "link": "https://www.artificialintelligence-news.com/news/how-insurance-leaders-use-agentic-ai-to-cut-operational-costs/",
-    "date": "2026-02-12"
-  },
-  {
-    "title": "Red Hat unifies AI and tactical edge deployment for UK MOD",
-    "link": "https://www.artificialintelligence-news.com/news/red-hat-unifies-ai-tactical-edge-deployment-for-uk-mod/",
-    "date": "2026-02-12"
-  },
-  {
-    "title": "Nemotron ColEmbed V2: Raising the Bar for Multimodal Retrieval with ViDoRe V3’s Top Model",
-    "link": "https://huggingface.co/blog/nvidia/nemotron-colembed-v2",
-    "date": "2026-02-12"
-  },
-  {
-    "title": "SpaceX takes down Dragon crew arm, giving Starship a leg up in Florida",
-    "link": "https://arstechnica.com/space/2026/02/heres-why-americas-most-historic-launch-pad-is-getting-yet-another-facelift/",
-    "date": "2026-02-12"
-  },
-  {
     "title": "Amid disappointing earnings, Pinterest claims it sees more searches than ChatGPT",
     "link": "https://techcrunch.com/2026/02/12/amid-disappointing-earnings-pinterest-claims-it-sees-more-searches-than-chatgpt/",
     "date": "2026-02-13"
@@ -623,5 +528,110 @@
     "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
     "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
     "date": "2026-02-18"
+  },
+  {
+    "title": "Is your startup’s check engine light on? Google Cloud’s VP explains what to do",
+    "link": "https://techcrunch.com/video/is-your-startups-check-engine-light-on-google-clouds-vp-explains-what-to-do/",
+    "date": "2026-02-19"
+  },
+  {
+    "title": "Google Cloud’s VP for startups on reading your ‘check engine light’ before it’s too late",
+    "link": "https://techcrunch.com/podcast/google-clouds-vp-for-startups-on-reading-your-check-engine-light-before-its-too-late/",
+    "date": "2026-02-19"
+  },
+  {
+    "title": "Amazon halts Blue Jay robotics project after less than 6 months",
+    "link": "https://techcrunch.com/2026/02/18/amazon-halts-blue-jay-robotics-project-after-less-than-six-months/",
+    "date": "2026-02-19"
+  },
+  {
+    "title": "World Labs lands $1B, with $200M from Autodesk, to bring world models into 3D workflows",
+    "link": "https://techcrunch.com/2026/02/18/world-labs-lands-200m-from-autodesk-to-bring-world-models-into-3d-workflows/",
+    "date": "2026-02-19"
+  },
+  {
+    "title": "Google adds music-generation capabilities to the Gemini app",
+    "link": "https://techcrunch.com/2026/02/18/google-adds-music-generation-capabilities-to-the-gemini-app/",
+    "date": "2026-02-19"
+  },
+  {
+    "title": "A new way to express yourself: Gemini can now create music",
+    "link": "https://blog.google/innovation-and-ai/products/gemini-app/lyria-3/",
+    "date": "2026-02-19"
+  },
+  {
+    "title": "AI Impact Summit 2026: How we’re partnering to make AI work for everyone",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-india/",
+    "date": "2026-02-19"
+  },
+  {
+    "title": "AI Impact Summit 2026",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-collection/",
+    "date": "2026-02-19"
+  },
+  {
+    "title": "Google DeepMind wants to know if chatbots are just virtue signaling",
+    "link": "https://www.technologyreview.com/2026/02/18/1133299/google-deepmind-wants-to-know-if-chatbots-are-just-virtue-signaling/",
+    "date": "2026-02-19"
+  },
+  {
+    "title": "The Download: a blockchain enigma, and the algorithms governing our lives",
+    "link": "https://www.technologyreview.com/2026/02/18/1133291/the-download-a-blockchain-enigma-and-the-algorithms-governing-our-lives/",
+    "date": "2026-02-19"
+  },
+  {
+    "title": "The robots who predict the future",
+    "link": "https://www.technologyreview.com/2026/02/18/1132579/robots-predict-future-book-review/",
+    "date": "2026-02-19"
+  },
+  {
+    "title": "Welcome to the dark side of crypto’s permissionless dream",
+    "link": "https://www.technologyreview.com/2026/02/18/1132587/jean-paul-thorbjornsen-dark-side-crypto-permissionless-dream/",
+    "date": "2026-02-19"
+  },
+  {
+    "title": "IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST",
+    "link": "https://huggingface.co/blog/ibm-research/itbenchandmast",
+    "date": "2026-02-19"
+  },
+  {
+    "title": "One-Shot Any Web App with Gradio's gr.HTML",
+    "link": "https://huggingface.co/blog/gradio-html-one-shot-apps",
+    "date": "2026-02-19"
+  },
+  {
+    "title": "Verizon acknowledges \"pain\" of new unlock policy, suggests change is coming",
+    "link": "https://arstechnica.com/tech-policy/2026/02/verizon-might-drop-its-annoying-35-day-wait-for-unlocking-paid-off-phones/",
+    "date": "2026-02-19"
+  },
+  {
+    "title": "Chevy Bolt, BMW i3, or something else? At $10K, you have lots of EV options",
+    "link": "https://arstechnica.com/cars/2026/02/chevy-bolt-bmw-i3-or-something-else-at-10k-you-have-lots-of-ev-options/",
+    "date": "2026-02-19"
+  },
+  {
+    "title": "Lawsuit: EPA revoking greenhouse gas finding risks “thousands of avoidable deaths”",
+    "link": "https://arstechnica.com/tech-policy/2026/02/lawsuit-epa-revoking-greenhouse-gas-finding-risks-thousands-of-avoidable-deaths/",
+    "date": "2026-02-19"
+  },
+  {
+    "title": "5 changes to know about in Apple's latest iOS, macOS, and iPadOS betas",
+    "link": "https://arstechnica.com/gadgets/2026/02/5-changes-to-know-about-in-apples-latest-ios-macos-and-ipados-betas/",
+    "date": "2026-02-19"
+  },
+  {
+    "title": "Microsoft's new 10,000-year data storage medium: glass",
+    "link": "https://arstechnica.com/science/2026/02/microsofts-new-10000-year-data-storage-medium-glass/",
+    "date": "2026-02-19"
+  },
+  {
+    "title": "How financial institutions are embedding AI decision-making",
+    "link": "https://www.artificialintelligence-news.com/news/how-financial-institutions-embedding-ai-decision-making/",
+    "date": "2026-02-19"
+  },
+  {
+    "title": "Infosys AI implementation framework offers business leaders guidance",
+    "link": "https://www.artificialintelligence-news.com/news/infosys-ai-implementation-framework-offers-business-leaders-guidance/",
+    "date": "2026-02-19"
   }
 ]
