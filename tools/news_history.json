@@ -1,120 +1,5 @@
 [
   {
-    "title": "Amid disappointing earnings, Pinterest claims it sees more searches than ChatGPT",
-    "link": "https://techcrunch.com/2026/02/12/amid-disappointing-earnings-pinterest-claims-it-sees-more-searches-than-chatgpt/",
-    "date": "2026-02-13"
-  },
-  {
-    "title": "IBM will hire your entry-level talent in the age of AI",
-    "link": "https://techcrunch.com/2026/02/12/ibm-will-hire-your-entry-level-talent-in-the-age-of-ai/",
-    "date": "2026-02-13"
-  },
-  {
-    "title": "Musk needed a new vision for SpaceX and xAI. He landed on Moonbase Alpha.",
-    "link": "https://techcrunch.com/2026/02/12/musk-needed-a-new-vision-for-spacex-and-xai-he-landed-on-moonbase-alpha/",
-    "date": "2026-02-13"
-  },
-  {
-    "title": "Didero lands $30M to put manufacturing procurement on ‘agentic’ autopilot",
-    "link": "https://techcrunch.com/2026/02/12/didero-lands-30m-to-put-manufacturing-procurement-on-agentic-autopilot/",
-    "date": "2026-02-13"
-  },
-  {
-    "title": "Anthropic raises another $30B in Series G, with a new value of $380B",
-    "link": "https://techcrunch.com/2026/02/12/anthropic-raises-another-30-billion-in-series-g-with-a-new-value-of-380-billion/",
-    "date": "2026-02-13"
-  },
-  {
-    "title": "Introducing GPT-5.3-Codex-Spark",
-    "link": "https://openai.com/index/introducing-gpt-5-3-codex-spark",
-    "date": "2026-02-13"
-  },
-  {
-    "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
-    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
-    "date": "2026-02-13"
-  },
-  {
-    "title": "The Download: AI-enhanced cybercrime, and secure AI assistants",
-    "link": "https://www.technologyreview.com/2026/02/12/1132819/the-download-ai-enhanced-cybercrime-and-secure-ai-assistants/",
-    "date": "2026-02-13"
-  },
-  {
-    "title": "AI is already making online crimes easier. It could get much worse.",
-    "link": "https://www.technologyreview.com/2026/02/12/1132386/ai-already-making-online-swindles-easier/",
-    "date": "2026-02-13"
-  },
-  {
-    "title": "Why EVs are gaining ground in Africa",
-    "link": "https://www.technologyreview.com/2026/02/12/1132790/evs-progress-africa/",
-    "date": "2026-02-13"
-  },
-  {
-    "title": "What’s next for Chinese open-source AI",
-    "link": "https://www.technologyreview.com/2026/02/12/1132811/whats-next-for-chinese-open-source-ai/",
-    "date": "2026-02-13"
-  },
-  {
-    "title": "OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments",
-    "link": "https://huggingface.co/blog/openenv-turing",
-    "date": "2026-02-13"
-  },
-  {
-    "title": "When Amazon badly needed a ride, Europe's Ariane 6 rocket delivered",
-    "link": "https://arstechnica.com/space/2026/02/when-amazon-badly-needed-a-ride-europes-ariane-6-rocket-delivered/",
-    "date": "2026-02-13"
-  },
-  {
-    "title": "OpenAI sidesteps Nvidia with unusually fast coding model on plate-sized chips",
-    "link": "https://arstechnica.com/ai/2026/02/openai-sidesteps-nvidia-with-unusually-fast-coding-model-on-plate-sized-chips/",
-    "date": "2026-02-13"
-  },
-  {
-    "title": "Trump official overruled FDA scientists to reject Moderna's flu shot",
-    "link": "https://arstechnica.com/health/2026/02/trump-official-overruled-fda-scientists-to-reject-modernas-flu-shot/",
-    "date": "2026-02-13"
-  },
-  {
-    "title": "Spider-Noir teaser comes in colorized \"True Hue\" and black and white",
-    "link": "https://arstechnica.com/culture/2026/02/spider-noir-teaser-comes-in-colorized-true-hue-and-black-and-white/",
-    "date": "2026-02-13"
-  },
-  {
-    "title": "ULA's Vulcan rocket suffers another booster problem on the way to orbit",
-    "link": "https://arstechnica.com/space/2026/02/ulas-vulcan-launcher-still-has-a-solid-rocket-booster-problem/",
-    "date": "2026-02-13"
-  },
-  {
-    "title": "Google identifies state-sponsored hackers using AI in attacks",
-    "link": "https://www.artificialintelligence-news.com/news/state-sponsored-hackers-ai-cyberattacks-google/",
-    "date": "2026-02-13"
-  },
-  {
-    "title": "Natively Adaptive Interfaces: A new framework for AI accessibility",
-    "link": "https://blog.google/company-news/outreach-and-initiatives/accessibility/natively-adaptive-interfaces-ai-accessibility/",
-    "date": "2026-02-13"
-  },
-  {
-    "title": "How Google Cloud is helping Team USA elevate their tricks with AI",
-    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/us-ski-snowboard-tool-winter-olympics-2026/",
-    "date": "2026-02-13"
-  },
-  {
-    "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-    "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-    "date": "2026-02-13"
-  },
-  {
-    "title": "Introducing SyGra Studio",
-    "link": "https://huggingface.co/blog/ServiceNow-AI/sygra-studio",
-    "date": "2026-02-13"
-  },
-  {
-    "title": "Community Evals: Because we're done trusting black-box leaderboards over the community",
-    "link": "https://huggingface.co/blog/community-evals",
-    "date": "2026-02-13"
-  },
-  {
     "title": "Airbnb says a third of its customer support is now handled by AI in the US and Canada",
     "link": "https://techcrunch.com/2026/02/13/airbnb-says-a-third-of-its-customer-support-is-now-handled-by-ai-in-the-u-s-and-canada/",
     "date": "2026-02-14"
@@ -653,5 +538,105 @@
     "title": "“No technology has me dreaming bigger than AI”",
     "link": "https://blog.google/company-news/inside-google/message-ceo/sundar-pichai-ai-impact-summit-2026/",
     "date": "2026-02-19"
+  },
+  {
+    "title": "Google’s new Gemini Pro model has record benchmark scores—again",
+    "link": "https://techcrunch.com/2026/02/19/googles-new-gemini-pro-model-has-record-benchmark-scores-again/",
+    "date": "2026-02-20"
+  },
+  {
+    "title": "Nvidia deepens early-stage push into India’s AI startup ecosystem",
+    "link": "https://techcrunch.com/2026/02/19/nvidia-deepens-early-stage-push-into-indias-ai-startup-ecosystem/",
+    "date": "2026-02-20"
+  },
+  {
+    "title": "Why these startup CEOs don’t think AI will replace human roles",
+    "link": "https://techcrunch.com/2026/02/19/web-summit-qatar-read-ai-lucidya-notetakers-customer-support/",
+    "date": "2026-02-20"
+  },
+  {
+    "title": "YouTube’s latest experiment brings its conversational AI tool to TVs",
+    "link": "https://techcrunch.com/2026/02/19/youtubes-latest-experiment-brings-its-conversational-ai-tool-to-tvs/",
+    "date": "2026-02-20"
+  },
+  {
+    "title": "Reddit is testing a new AI search feature for shopping",
+    "link": "https://techcrunch.com/2026/02/19/reddit-is-testing-a-new-ai-search-feature-for-shopping/",
+    "date": "2026-02-20"
+  },
+  {
+    "title": "Advancing independent research on AI alignment",
+    "link": "https://openai.com/index/advancing-independent-research-ai-alignment",
+    "date": "2026-02-20"
+  },
+  {
+    "title": "Microsoft has a new plan to prove what’s real and what’s AI online",
+    "link": "https://www.technologyreview.com/2026/02/19/1133360/microsoft-has-a-new-plan-to-prove-whats-real-and-whats-ai-online/",
+    "date": "2026-02-20"
+  },
+  {
+    "title": "The Download: autonomous narco submarines, and virtue signaling chatbots",
+    "link": "https://www.technologyreview.com/2026/02/19/1133339/the-download-autonomous-narco-submarines-and-virtue-signaling-chatbots/",
+    "date": "2026-02-20"
+  },
+  {
+    "title": "How uncrewed narco subs could transform the Colombian drug trade",
+    "link": "https://www.technologyreview.com/2026/02/19/1132619/uncrewed-narco-subs-transform-columbian-drug-trade/",
+    "date": "2026-02-20"
+  },
+  {
+    "title": "The building legal case for global climate justice",
+    "link": "https://www.technologyreview.com/2026/02/19/1132877/legal-climate-justice/",
+    "date": "2026-02-20"
+  },
+  {
+    "title": "What it takes to make agentic AI work in retail",
+    "link": "https://www.technologyreview.com/2026/02/19/1133324/what-it-takes-to-make-agentic-ai-work-in-retail/",
+    "date": "2026-02-20"
+  },
+  {
+    "title": "Train AI models with Unsloth and Hugging Face Jobs for FREE",
+    "link": "https://huggingface.co/blog/unsloth-jobs",
+    "date": "2026-02-20"
+  },
+  {
+    "title": "「データ不足」の壁を越える：合成ペルソナが日本のAI開発を加速",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-personas-japan-nttdata-ja",
+    "date": "2026-02-20"
+  },
+  {
+    "title": "Lawsuit: ChatGPT told student he was \"meant for greatness\"—then came psychosis",
+    "link": "https://arstechnica.com/tech-policy/2026/02/before-psychosis-chatgpt-told-man-he-was-an-oracle-new-lawsuit-alleges/",
+    "date": "2026-02-20"
+  },
+  {
+    "title": "NASA chief classifies Starliner flight as \"Type A\" mishap, says agency made mistakes",
+    "link": "https://arstechnica.com/space/2026/02/nasa-chief-classifies-starliner-flight-as-type-a-mishap-says-agency-made-mistakes/",
+    "date": "2026-02-20"
+  },
+  {
+    "title": "Rubik’s WOWCube adds complexity, possibility by reinventing the puzzle cube",
+    "link": "https://arstechnica.com/gadgets/2026/02/rubiks-wowcube-adds-complexity-possibility-by-reinventing-the-puzzle-cube/",
+    "date": "2026-02-20"
+  },
+  {
+    "title": "Diablo II’s new Warlock is a great excuse to revisit a classic game",
+    "link": "https://arstechnica.com/gaming/2026/02/diablo-iis-new-warlock-is-a-great-excuse-to-revisit-a-classic-game/",
+    "date": "2026-02-20"
+  },
+  {
+    "title": "From chickens to humans, animals think \"bouba\" sounds round",
+    "link": "https://arstechnica.com/science/2026/02/newly-hatched-chickens-form-the-same-sound-association-we-do/",
+    "date": "2026-02-20"
+  },
+  {
+    "title": "How AI upgrades enterprise treasury management",
+    "link": "https://www.artificialintelligence-news.com/news/how-ai-upgrades-enterprise-treasury-management/",
+    "date": "2026-02-20"
+  },
+  {
+    "title": "DBS pilots system that lets AI agents make payments for customers",
+    "link": "https://www.artificialintelligence-news.com/news/dbs-pilots-system-that-lets-ai-agents-make-payments-for-customers/",
+    "date": "2026-02-20"
   }
 ]
