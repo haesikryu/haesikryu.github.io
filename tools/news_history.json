@@ -1,135 +1,5 @@
 [
   {
-    "title": "Airbnb says a third of its customer support is now handled by AI in the US and Canada",
-    "link": "https://techcrunch.com/2026/02/13/airbnb-says-a-third-of-its-customer-support-is-now-handled-by-ai-in-the-u-s-and-canada/",
-    "date": "2026-02-14"
-  },
-  {
-    "title": "Why top talent is walking away from OpenAI and xAI",
-    "link": "https://techcrunch.com/video/why-top-talent-is-walking-away-from-openai-and-xai/",
-    "date": "2026-02-14"
-  },
-  {
-    "title": "OpenAI removes access to sycophancy-prone GPT-4o model",
-    "link": "https://techcrunch.com/2026/02/13/openai-removes-access-to-sycophancy-prone-gpt-4o-model/",
-    "date": "2026-02-14"
-  },
-  {
-    "title": "AI burnout, billion-dollar bets, and Silicon Valley’s Epstein problem",
-    "link": "https://techcrunch.com/podcast/ai-burnout-billion-dollar-bets-and-silicon-valleys-epstein-problem/",
-    "date": "2026-02-14"
-  },
-  {
-    "title": "Anthropic’s Super Bowl ads mocking AI with ads helped push Claude’s app into the top 10",
-    "link": "https://techcrunch.com/2026/02/13/anthropics-super-bowl-ads-mocking-ai-with-ads-helped-push-claudes-app-into-the-top-10/",
-    "date": "2026-02-14"
-  },
-  {
-    "title": "GPT-5.2 derives a new result in theoretical physics",
-    "link": "https://openai.com/index/new-result-theoretical-physics",
-    "date": "2026-02-14"
-  },
-  {
-    "title": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT",
-    "link": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt",
-    "date": "2026-02-14"
-  },
-  {
-    "title": "Beyond rate limits: scaling access to Codex and Sora",
-    "link": "https://openai.com/index/beyond-rate-limits",
-    "date": "2026-02-14"
-  },
-  {
-    "title": "Scaling social science research",
-    "link": "https://openai.com/index/scaling-social-science-research",
-    "date": "2026-02-14"
-  },
-  {
-    "title": "ALS stole this musician’s voice. AI let him sing again.",
-    "link": "https://www.technologyreview.com/2026/02/13/1132913/als-stole-this-musicians-voice-ai-sing/",
-    "date": "2026-02-14"
-  },
-  {
-    "title": "The Download: an exclusive chat with Jim O’Neill, and the surprising truth about heists",
-    "link": "https://www.technologyreview.com/2026/02/13/1132896/the-download-an-exclusive-chat-with-jim-oneill-and-the-surprising-truth-about-heists/",
-    "date": "2026-02-14"
-  },
-  {
-    "title": "The myth of the high-tech heist",
-    "link": "https://www.technologyreview.com/2026/02/13/1132397/myth-of-high-tech-heist/",
-    "date": "2026-02-14"
-  },
-  {
-    "title": "US deputy health secretary: Vaccine guidelines are still subject to change",
-    "link": "https://www.technologyreview.com/2026/02/13/1132889/us-deputy-health-secretary-vaccine-guidelines-longevity-arpa-h-cdc-nih/",
-    "date": "2026-02-14"
-  },
-  {
-    "title": "RFK Jr. follows a carnivore diet. That doesn’t mean you should.",
-    "link": "https://www.technologyreview.com/2026/02/13/1132848/rfk-jr-carnivore-diet-maha-social-media/",
-    "date": "2026-02-14"
-  },
-  {
-    "title": "Custom Kernels for All from Codex and Claude",
-    "link": "https://huggingface.co/blog/custom-cuda-kernels-agent-skills",
-    "date": "2026-02-14"
-  },
-  {
-    "title": "WHO slams US-funded newborn vaccine trial as \"unethical\"",
-    "link": "https://arstechnica.com/health/2026/02/who-slams-us-funded-newborn-vaccine-trial-as-unethical/",
-    "date": "2026-02-14"
-  },
-  {
-    "title": "Aided by AI, California beach town broadens hunt for bike lane blockers",
-    "link": "https://arstechnica.com/tech-policy/2026/02/santa-monica-deploys-ai-powered-parking-cameras-to-protect-bike-lanes/",
-    "date": "2026-02-14"
-  },
-  {
-    "title": "Verizon imposes new roadblock on users trying to unlock paid-off phones",
-    "link": "https://arstechnica.com/tech-policy/2026/02/verizon-makes-customers-wait-35-days-to-unlock-fully-paid-off-phones/",
-    "date": "2026-02-14"
-  },
-  {
-    "title": "Ring cancels Flock deal after dystopian Super Bowl ad prompts mass outrage",
-    "link": "https://arstechnica.com/tech-policy/2026/02/after-creepy-super-bowl-ad-sparks-outrage-ring-abandons-flock-deal/",
-    "date": "2026-02-14"
-  },
-  {
-    "title": "The first Android 17 beta is now available on Pixel devices",
-    "link": "https://arstechnica.com/gadgets/2026/02/the-first-android-17-beta-is-now-available-on-pixel-devices/",
-    "date": "2026-02-14"
-  },
-  {
-    "title": "AI forecasting model targets healthcare resource efficiency",
-    "link": "https://www.artificialintelligence-news.com/news/ai-forecasting-model-targets-healthcare-resource-efficiency/",
-    "date": "2026-02-14"
-  },
-  {
-    "title": "What Murder Mystery 2 reveals about emergent behaviour in online games",
-    "link": "https://www.artificialintelligence-news.com/news/what-murder-mystery-2-reveals-about-emergent-behaviour-in-online-games/",
-    "date": "2026-02-14"
-  },
-  {
-    "title": "Agentic AI drives finance ROI in accounts payable automation",
-    "link": "https://www.artificialintelligence-news.com/news/agentic-ai-drives-finance-roi-in-accounts-payable-automation/",
-    "date": "2026-02-14"
-  },
-  {
-    "title": "Newsweek CEO Dev Pragad warns publishers: adapt as AI becomes news gateway",
-    "link": "https://www.artificialintelligence-news.com/news/newsweek-ceo-dev-pragad-warns-publishers-adapt-as-ai-becomes-news-gateway/",
-    "date": "2026-02-14"
-  },
-  {
-    "title": "How e& is using HR to bring AI into enterprise operations",
-    "link": "https://www.artificialintelligence-news.com/news/how-e-is-using-hr-to-bring-ai-into-enterprise-operations/",
-    "date": "2026-02-14"
-  },
-  {
-    "title": "Airbnb plans to bake in AI features for search, discovery and support",
-    "link": "https://techcrunch.com/2026/02/13/airbnb-plans-to-bake-in-ai-features-for-search-discovery-and-support/",
-    "date": "2026-02-14"
-  },
-  {
     "title": "Is safety ‘dead’ at xAI?",
     "link": "https://techcrunch.com/2026/02/14/is-safety-is-dead-at-xai/",
     "date": "2026-02-15"
@@ -648,5 +518,105 @@
     "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
     "date": "2026-02-20"
+  },
+  {
+    "title": "India’s Sarvam launches Indus AI chat app as competition heats up",
+    "link": "https://techcrunch.com/2026/02/20/indias-sarvam-launches-indus-ai-chat-app-as-competition-heats-up/",
+    "date": "2026-02-21"
+  },
+  {
+    "title": "The creator economy’s ad revenue problem and India’s AI ambitions",
+    "link": "https://techcrunch.com/video/the-creator-economys-ad-revenue-problem-and-indias-ai-ambitions/",
+    "date": "2026-02-21"
+  },
+  {
+    "title": "Why creators are ditching ad revenue for chocolate bars and fintech acquisitions",
+    "link": "https://techcrunch.com/podcast/why-creators-are-ditching-ad-revenue-for-chocolate-bars-and-fintech-acquisitions/",
+    "date": "2026-02-21"
+  },
+  {
+    "title": "Anthropic-funded group backs candidate attacked by rival AI super PAC",
+    "link": "https://techcrunch.com/2026/02/20/anthropic-funded-group-backs-candidate-attacked-by-rival-ai-super-pac/",
+    "date": "2026-02-21"
+  },
+  {
+    "title": "InScope nabs $14.5M to solve the pain of financial reporting",
+    "link": "https://techcrunch.com/2026/02/20/inscope-nabs-14-5m-to-solve-the-pain-of-financial-reporting/",
+    "date": "2026-02-21"
+  },
+  {
+    "title": "Our First Proof submissions",
+    "link": "https://openai.com/index/first-proof-submissions",
+    "date": "2026-02-21"
+  },
+  {
+    "title": "Exclusive eBook: The great Al hype correction of 2025",
+    "link": "https://www.technologyreview.com/2026/02/20/1133368/exclusive-ebook-the-great-al-hype-correction-of-2025/",
+    "date": "2026-02-21"
+  },
+  {
+    "title": "The Download: Microsoft’s online reality check, and the worrying rise in measles cases",
+    "link": "https://www.technologyreview.com/2026/02/20/1133396/the-download-microsofts-online-reality-check-and-the-worrying-rise-in-measles-cases/",
+    "date": "2026-02-21"
+  },
+  {
+    "title": "Job titles of the future: Breast biomechanic",
+    "link": "https://www.technologyreview.com/2026/02/20/1132629/job-titles-future-breast-biomechanic/",
+    "date": "2026-02-21"
+  },
+  {
+    "title": "Community service",
+    "link": "https://www.technologyreview.com/2026/02/20/1132640/community-service-science-fiction-story/",
+    "date": "2026-02-21"
+  },
+  {
+    "title": "Measles cases are rising. Other vaccine-preventable infections could be next.",
+    "link": "https://www.technologyreview.com/2026/02/20/1133365/measles-cases-rising-vaccine-preventable-infections-mumps-hepatitis-b/",
+    "date": "2026-02-21"
+  },
+  {
+    "title": "GGML and llama.cpp join HF to ensure the long-term progress of Local AI",
+    "link": "https://huggingface.co/blog/ggml-joins-hf",
+    "date": "2026-02-21"
+  },
+  {
+    "title": "After fueling test, optimism grows for March launch of Artemis II to the Moon",
+    "link": "https://arstechnica.com/space/2026/02/nasa-reports-no-significant-leaks-in-artemis-ii-fueling-test-eyes-march-6-launch/",
+    "date": "2026-02-21"
+  },
+  {
+    "title": "Microsoft gaming chief Phil Spencer steps down after 38 years with company",
+    "link": "https://arstechnica.com/gaming/2026/02/microsoft-gaming-chief-phil-spencer-steps-down-after-38-years-with-company/",
+    "date": "2026-02-21"
+  },
+  {
+    "title": "MAHA moms threaten to turn this car around as RFK Jr. flips on pesticide",
+    "link": "https://arstechnica.com/health/2026/02/maha-moms-threaten-to-turn-this-car-around-as-rfk-jr-flips-on-pesticide/",
+    "date": "2026-02-21"
+  },
+  {
+    "title": "Fury over Discord’s age checks explodes after shady Persona test in UK",
+    "link": "https://arstechnica.com/tech-policy/2026/02/discord-and-persona-end-partnership-after-shady-uk-age-test-sparks-outcry/",
+    "date": "2026-02-21"
+  },
+  {
+    "title": "FCC asks stations for \"pro-America\" programming, like daily Pledge of Allegiance",
+    "link": "https://arstechnica.com/tech-policy/2026/02/fcc-asks-stations-for-pro-america-programming-like-daily-pledge-of-allegiance/",
+    "date": "2026-02-21"
+  },
+  {
+    "title": "Exploring AI in the APAC retail sector",
+    "link": "https://www.artificialintelligence-news.com/news/exploring-ai-in-the-apac-retail-sector/",
+    "date": "2026-02-21"
+  },
+  {
+    "title": "AI: Executives’ optimism about the future",
+    "link": "https://www.artificialintelligence-news.com/news/ai-impact-executives-optimism-for-the-future/",
+    "date": "2026-02-21"
+  },
+  {
+    "title": "Coca-Cola turns to AI marketing as price-led growth slows",
+    "link": "https://www.artificialintelligence-news.com/news/coca-cola-turns-to-ai-marketing-as-price-led-growth-slows/",
+    "date": "2026-02-21"
   }
 ]
