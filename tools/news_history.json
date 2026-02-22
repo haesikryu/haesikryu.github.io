@@ -1,40 +1,5 @@
 [
   {
-    "title": "Is safety ‘dead’ at xAI?",
-    "link": "https://techcrunch.com/2026/02/14/is-safety-is-dead-at-xai/",
-    "date": "2026-02-15"
-  },
-  {
-    "title": "Hollywood isn’t happy about the new Seedance 2.0 video generator",
-    "link": "https://techcrunch.com/2026/02/14/hollywood-isnt-happy-about-the-new-seedance-2-0-video-generator/",
-    "date": "2026-02-15"
-  },
-  {
-    "title": "India doubles down on state-backed venture capital, approving $1.1B fund",
-    "link": "https://techcrunch.com/2026/02/14/india-doubles-down-on-state-backed-venture-capital-approving-1-1b-fund/",
-    "date": "2026-02-15"
-  },
-  {
-    "title": "NASA has a new problem to fix before the next Artemis II countdown test",
-    "link": "https://arstechnica.com/space/2026/02/nasa-chief-vows-to-solve-sls-rocket-fueling-issues-before-artemis-iii/",
-    "date": "2026-02-15"
-  },
-  {
-    "title": "A Valentine's Day homage to Crouching Tiger, Hidden Dragon",
-    "link": "https://arstechnica.com/culture/2026/02/a-valentines-day-homage-to-crouching-tiger-hidden-dragon/",
-    "date": "2026-02-15"
-  },
-  {
-    "title": "Astronomers are filling in the blanks of the Kuiper Belt",
-    "link": "https://arstechnica.com/science/2026/02/astronomers-are-filling-in-the-blanks-of-the-kuiper-belt/",
-    "date": "2026-02-15"
-  },
-  {
-    "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-    "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
-    "date": "2026-02-15"
-  },
-  {
     "title": "As AI data centers hit power limits, Peak XV backs Indian startup C2i to fix the bottleneck",
     "link": "https://techcrunch.com/2026/02/15/as-ai-data-centers-hit-power-limits-peak-xv-backs-indian-startup-c2i-to-fix-the-bottleneck/",
     "date": "2026-02-16"
@@ -618,5 +583,60 @@
     "title": "Coca-Cola turns to AI marketing as price-led growth slows",
     "link": "https://www.artificialintelligence-news.com/news/coca-cola-turns-to-ai-marketing-as-price-led-growth-slows/",
     "date": "2026-02-21"
+  },
+  {
+    "title": "Sam Altman would like remind you that humans use a lot of energy, too",
+    "link": "https://techcrunch.com/2026/02/21/sam-altman-would-like-remind-you-that-humans-use-a-lot-of-energy-too/",
+    "date": "2026-02-22"
+  },
+  {
+    "title": "Microsoft’s new gaming CEO vows not to flood the ecosystem with ‘endless AI slop’",
+    "link": "https://techcrunch.com/2026/02/21/microsofts-new-gaming-ceo-vows-not-to-flood-the-ecosystem-with-endless-ai-slop/",
+    "date": "2026-02-22"
+  },
+  {
+    "title": "Google VP warns that two types of AI startups may not survive",
+    "link": "https://techcrunch.com/2026/02/21/google-vp-warns-that-two-types-of-ai-startups-may-not-survive/",
+    "date": "2026-02-22"
+  },
+  {
+    "title": "OpenAI debated calling police about suspected Canadian shooter’s chats",
+    "link": "https://techcrunch.com/2026/02/21/openai-debated-calling-police-about-suspected-canadian-shooters-chats/",
+    "date": "2026-02-22"
+  },
+  {
+    "title": "7 days until ticket prices rise for TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/02/21/7-days-until-ticket-prices-rise-for-techcrunch-disrupt-2026/",
+    "date": "2026-02-22"
+  },
+  {
+    "title": "GPT-5.2 derives a new result in theoretical physics",
+    "link": "https://openai.com/index/new-result-theoretical-physics",
+    "date": "2026-02-22"
+  },
+  {
+    "title": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT",
+    "link": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt",
+    "date": "2026-02-22"
+  },
+  {
+    "title": "NASA says it needs to haul the Artemis II rocket back to the hangar for repairs",
+    "link": "https://arstechnica.com/space/2026/02/nasa-says-it-needs-to-haul-the-artemis-ii-rocket-back-to-the-hangar-for-repairs/",
+    "date": "2026-02-22"
+  },
+  {
+    "title": "Dinosaur eggshells can reveal the age of other fossils",
+    "link": "https://arstechnica.com/science/2026/02/dinosaur-eggshells-can-reveal-the-age-of-other-fossils/",
+    "date": "2026-02-22"
+  },
+  {
+    "title": "Have we leapt into commercial genetic testing without understanding it?",
+    "link": "https://arstechnica.com/science/2026/02/have-we-leapt-into-commercial-genetic-testing-without-understanding-it/",
+    "date": "2026-02-22"
+  },
+  {
+    "title": "Major government research lab appears to be squeezing out foreign scientists",
+    "link": "https://arstechnica.com/science/2026/02/major-government-research-lab-appears-to-be-squeezing-out-foreign-scientists/",
+    "date": "2026-02-22"
   }
 ]
