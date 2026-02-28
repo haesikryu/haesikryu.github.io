@@ -7,6 +7,7 @@ tags: [multi-agent-systems, scaling, agent-architecture, llm, research-paper]
 author: Ryu
 ---
 
+# Multi-Agent 시스템의 과학적 스케일링 원칙: 논문 심층 분석
 
 ## 들어가며
 
