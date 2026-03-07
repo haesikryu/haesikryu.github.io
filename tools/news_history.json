@@ -623,5 +623,100 @@
     "title": "The five AI value models driving business reinvention",
     "link": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",
     "date": "2026-03-06"
+  },
+  {
+    "title": "Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers",
+    "link": "https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department/",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "Anthropic’s Claude found 22 vulnerabilities in Firefox over two weeks",
+    "link": "https://techcrunch.com/2026/03/06/anthropics-claude-found-22-vulnerabilities-in-firefox-over-two-weeks/",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "Anthropic’s Pentagon deal is a cautionary tale for startups chasing federal contracts",
+    "link": "https://techcrunch.com/video/anthropics-pentagon-deal-is-a-cautionary-tale-for-startups-chasing-federal-contracts/",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "Anthropic vs. the Pentagon, the SaaSpocalypse, and why competitions is good, actually",
+    "link": "https://techcrunch.com/podcast/anthropic-vs-the-pentagon-the-saaspocalypse-and-why-competitions-is-good-actually/",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "Claude’s consumer growth surge continues after Pentagon deal debacle",
+    "link": "https://techcrunch.com/2026/03/06/claudes-consumer-growth-surge-continues-after-pentagon-deal-debacle/",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "Codex Security: now in research preview",
+    "link": "https://openai.com/index/codex-security-now-in-research-preview",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "How Descript enables multilingual video dubbing at scale",
+    "link": "https://openai.com/index/descript",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "How Balyasny Asset Management built an AI research engine for investing",
+    "link": "https://openai.com/index/balyasny-asset-management",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "How our open-source AI model SpeciesNet is helping to promote wildlife conservation",
+    "link": "https://blog.google/company-news/outreach-and-initiatives/sustainability/speciesnet-open-source-ai-wildlife/",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "Is the Pentagon allowed to surveil Americans with AI?",
+    "link": "https://www.technologyreview.com/2026/03/06/1134012/is-the-pentagon-allowed-to-surveil-americans-with-ai/",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "The Download: 10 things that matter in AI, plus Anthropic’s plan to sue the Pentagon",
+    "link": "https://www.technologyreview.com/2026/03/06/1133989/the-download-10-things-that-matter-in-ai-anthropics-plan-sue-pentagon/",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "Conversational LLM Evaluations in Minutes with NVIDIA NeMo Evaluator Agent Skills",
+    "link": "https://huggingface.co/blog/nvidia/model-evaluation-skill",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "Ding-dong! The Exploration Upper Stage is dead",
+    "link": "https://arstechnica.com/space/2026/03/ding-dong-the-exploration-upper-stage-is-dead/",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "Satellite firm pauses imagery after revealing Iran's attacks on US bases",
+    "link": "https://arstechnica.com/space/2026/03/satellite-firm-pauses-imagery-after-revealing-irans-attacks-on-us-bases/",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "Fishing crews in the Atlantic keep accidentally dredging up chemical weapons",
+    "link": "https://arstechnica.com/health/2026/03/fishing-crews-in-the-atlantic-keep-accidentally-dredging-up-chemical-weapons/",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "Google's new command-line tool can plug OpenClaw into your Workspace data",
+    "link": "https://arstechnica.com/ai/2026/03/googles-new-command-line-tool-can-plug-openclaw-into-your-workspace-data/",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "Feds take notice of iOS vulnerabilities exploited under mysterious circumstances",
+    "link": "https://arstechnica.com/security/2026/03/cisa-adds-3-ios-flaws-to-its-catalog-of-known-exploited-vulnerabilities/",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "Scaling intelligent automation without breaking live workflows",
+    "link": "https://www.artificialintelligence-news.com/news/scaling-intelligent-automation-without-breaking-live-workflows/",
+    "date": "2026-03-07"
+  },
+  {
+    "title": "The firm that never forgets: Rowspace launches with $50M to make AI for private equity actually work",
+    "link": "https://www.artificialintelligence-news.com/news/rowspace-50m-ai-private-equity-sequoia-emergence/",
+    "date": "2026-03-07"
   }
 ]
