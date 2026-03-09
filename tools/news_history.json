@@ -1,205 +1,5 @@
 [
   {
-    "title": "Google looks to tackle longstanding RCS spam in India — but not alone",
-    "link": "https://techcrunch.com/2026/03/01/google-looks-to-tackle-longstanding-rcs-spam-in-india-but-not-alone/",
-    "date": "2026-03-02"
-  },
-  {
-    "title": "OpenAI reveals more details about its agreement with the Pentagon",
-    "link": "https://techcrunch.com/2026/03/01/openai-shares-more-details-about-its-agreement-with-the-pentagon/",
-    "date": "2026-03-02"
-  },
-  {
-    "title": "Anthropic’s Claude rises to No. 1 in the App Store following Pentagon dispute",
-    "link": "https://techcrunch.com/2026/03/01/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/",
-    "date": "2026-03-02"
-  },
-  {
-    "title": "SaaS in, SaaS out: Here’s what’s driving the SaaSpocalypse",
-    "link": "https://techcrunch.com/2026/03/01/saas-in-saas-out-heres-whats-driving-the-saaspocalypse/",
-    "date": "2026-03-02"
-  },
-  {
-    "title": "The trap Anthropic built for itself",
-    "link": "https://techcrunch.com/2026/02/28/the-trap-anthropic-built-for-itself/",
-    "date": "2026-03-02"
-  },
-  {
-    "title": "Our agreement with the Department of War",
-    "link": "https://openai.com/index/our-agreement-with-the-department-of-war",
-    "date": "2026-03-02"
-  },
-  {
-    "title": "Joint Statement from OpenAI and Microsoft",
-    "link": "https://openai.com/index/continuing-microsoft-partnership",
-    "date": "2026-03-02"
-  },
-  {
-    "title": "OpenAI and Amazon announce strategic partnership",
-    "link": "https://openai.com/index/amazon-partnership",
-    "date": "2026-03-02"
-  },
-  {
-    "title": "Scaling AI for everyone",
-    "link": "https://openai.com/index/scaling-ai-for-everyone",
-    "date": "2026-03-02"
-  },
-  {
-    "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
-    "link": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
-    "date": "2026-03-02"
-  },
-  {
-    "title": "Google and the Massachusetts AI Hub are launching a new AI training initiative for the Commonwealth.",
-    "link": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/google-ai-training-massachusetts-residents/",
-    "date": "2026-03-02"
-  },
-  {
-    "title": "Get more context and understand translations more deeply with new AI-powered updates in Translate.",
-    "link": "https://blog.google/products-and-platforms/products/translate/translation-context-ai-update/",
-    "date": "2026-03-02"
-  },
-  {
-    "title": "Build with Nano Banana 2, our best image generation and editing model",
-    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-nano-banana-2/",
-    "date": "2026-03-02"
-  },
-  {
-    "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/",
-    "date": "2026-03-02"
-  },
-  {
-    "title": "See the whole picture and find the look with Circle to Search",
-    "link": "https://blog.google/products-and-platforms/products/search/circle-to-search-february-2026/",
-    "date": "2026-03-02"
-  },
-  {
-    "title": "MIT Technology Review is a 2026 ASME finalist in reporting",
-    "link": "https://www.technologyreview.com/2026/02/27/1133769/asme-finalist-reporting/",
-    "date": "2026-03-02"
-  },
-  {
-    "title": "The Download: how AI is shaking up Go, and a cybersecurity mystery",
-    "link": "https://www.technologyreview.com/2026/02/27/1133754/the-download-how-ai-is-shaking-up-go-and-a-cybersecurity-mystery/",
-    "date": "2026-03-02"
-  },
-  {
-    "title": "AI is rewiring how the world’s best Go players think",
-    "link": "https://www.technologyreview.com/2026/02/27/1133624/ai-is-rewiring-how-the-worlds-best-go-players-think/",
-    "date": "2026-03-02"
-  },
-  {
-    "title": "Finding value with AI and Industry 5.0 transformation",
-    "link": "https://www.technologyreview.com/2026/02/26/1133707/finding-value-with-ai-and-industry-5-0-transformation/",
-    "date": "2026-03-02"
-  },
-  {
-    "title": "The Download: how America lost its lead in the hunt for alien life, and ambitious battery claims",
-    "link": "https://www.technologyreview.com/2026/02/26/1133734/the-download-how-america-lost-its-lead-in-the-hunt-for-alien-life-and-ambitious-battery-claims/",
-    "date": "2026-03-02"
-  },
-  {
-    "title": "Mixture of Experts (MoEs) in Transformers",
-    "link": "https://huggingface.co/blog/moe-transformers",
-    "date": "2026-03-02"
-  },
-  {
-    "title": "Deploying Open Source Vision Language Models (VLM) on Jetson",
-    "link": "https://huggingface.co/blog/nvidia/cosmos-on-jetson",
-    "date": "2026-03-02"
-  },
-  {
-    "title": "The strange animals that control their body heat",
-    "link": "https://arstechnica.com/science/2026/03/the-strange-animals-that-control-their-body-heat/",
-    "date": "2026-03-02"
-  },
-  {
-    "title": "Trump moves to ban Anthropic from the US government",
-    "link": "https://arstechnica.com/tech-policy/2026/02/trump-moves-to-ban-anthropic-from-the-us-government/",
-    "date": "2026-03-02"
-  },
-  {
-    "title": "In puzzling outbreak, officials look to cold beer, gross ice, and ChatGPT",
-    "link": "https://arstechnica.com/health/2026/02/did-chatgpt-help-health-officials-solve-a-weird-outbreak-maybe/",
-    "date": "2026-03-02"
-  },
-  {
-    "title": "Google quantum-proofs HTTPS by squeezing 15kB of data into 700-byte space",
-    "link": "https://arstechnica.com/security/2026/02/google-is-using-clever-math-to-quantum-proof-https-certificates/",
-    "date": "2026-03-02"
-  },
-  {
-    "title": "The Air Force's new ICBM is nearly ready to fly, but there’s nowhere to put it",
-    "link": "https://arstechnica.com/space/2026/02/the-air-forces-new-icbm-is-nearly-ready-to-fly-but-theres-nowhere-to-put-them/",
-    "date": "2026-03-02"
-  },
-  {
-    "title": "Upgrading agentic AI for finance workflows",
-    "link": "https://www.artificialintelligence-news.com/news/upgrading-agentic-ai-for-finance-workflows/",
-    "date": "2026-03-02"
-  },
-  {
-    "title": "Poor implementation of AI may be behind workforce reduction",
-    "link": "https://www.artificialintelligence-news.com/news/ai-workflows-need-human-in-the-loop-say-datatonic/",
-    "date": "2026-03-02"
-  },
-  {
-    "title": "Goldman Sachs and Deutsche Bank test agentic AI for trade surveillance",
-    "link": "https://www.artificialintelligence-news.com/news/goldman-sachs-and-deutsche-bank-test-agentic-ai-for-trade-surveillance/",
-    "date": "2026-03-02"
-  },
-  {
-    "title": "ASML’s high-NA EUV tools clear the runway for next-gen AI chips",
-    "link": "https://www.artificialintelligence-news.com/news/asml-high-na-euv-production-ready-ai-chips/",
-    "date": "2026-03-02"
-  },
-  {
-    "title": "Nokia and AWS pilot AI automation for real-time 5G network slicing",
-    "link": "https://www.artificialintelligence-news.com/news/nokia-and-aws-pilot-ai-automation-for-real-time-5g-network-slicing/",
-    "date": "2026-03-02"
-  },
-  {
-    "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-    "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-    "date": "2026-03-02"
-  },
-  {
-    "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-    "link": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-    "date": "2026-03-02"
-  },
-  {
-    "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-    "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
-    "date": "2026-03-02"
-  },
-  {
-    "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-    "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-    "date": "2026-03-02"
-  },
-  {
-    "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
-    "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
-    "date": "2026-03-02"
-  },
-  {
-    "title": "GGML and llama.cpp join HF to ensure the long-term progress of Local AI",
-    "link": "https://huggingface.co/blog/ggml-joins-hf",
-    "date": "2026-03-02"
-  },
-  {
-    "title": "Train AI models with Unsloth and Hugging Face Jobs for FREE",
-    "link": "https://huggingface.co/blog/unsloth-jobs",
-    "date": "2026-03-02"
-  },
-  {
-    "title": "IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST",
-    "link": "https://huggingface.co/blog/ibm-research/itbenchandmast",
-    "date": "2026-03-02"
-  },
-  {
     "title": "ChatGPT uninstalls surged by 295% after DoD deal",
     "link": "https://techcrunch.com/2026/03/02/chatgpt-uninstalls-surged-by-295-after-dod-deal/",
     "date": "2026-03-03"
@@ -758,5 +558,25 @@
     "title": "A roadmap for AI, if anyone will listen",
     "link": "https://techcrunch.com/2026/03/07/a-roadmap-for-ai-if-anyone-will-listen/",
     "date": "2026-03-08"
+  },
+  {
+    "title": "Will the Pentagon’s Anthropic controversy scare startups away from defense work?",
+    "link": "https://techcrunch.com/2026/03/08/will-the-pentagons-anthropic-controversy-scare-startups-away-from-defense-work/",
+    "date": "2026-03-09"
+  },
+  {
+    "title": "Owner of ICE detention facility sees big opportunity in AI man camps",
+    "link": "https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps/",
+    "date": "2026-03-09"
+  },
+  {
+    "title": "Jessica Jones joins the fray in Daredevil: Born Again trailer",
+    "link": "https://arstechnica.com/culture/2026/03/jessica-jones-joins-the-fray-in-daredevil-born-again-trailer/",
+    "date": "2026-03-09"
+  },
+  {
+    "title": "Tiny, long-armed dinosaur leads to rethink of dinosaur miniaturization",
+    "link": "https://arstechnica.com/science/2026/03/tiny-long-armed-dinosaur-leads-to-rethink-of-dinosaur-miniaturization/",
+    "date": "2026-03-09"
   }
 ]
