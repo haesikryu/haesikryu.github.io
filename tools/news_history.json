@@ -578,5 +578,45 @@
     "title": "Tiny, long-armed dinosaur leads to rethink of dinosaur miniaturization",
     "link": "https://arstechnica.com/science/2026/03/tiny-long-armed-dinosaur-leads-to-rethink-of-dinosaur-miniaturization/",
     "date": "2026-03-09"
+  },
+  {
+    "title": "Ring’s Jamie Siminoff has been trying to calm privacy fears since the Super Bowl, but his answers may not help",
+    "link": "https://techcrunch.com/2026/03/08/rings-jamie-siminoff-has-been-trying-to-calm-privacy-fears-since-the-super-bowl-but-his-answers-may-not-help/",
+    "date": "2026-03-09"
+  },
+  {
+    "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+    "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+    "date": "2026-03-09"
+  },
+  {
+    "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+    "link": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+    "date": "2026-03-09"
+  },
+  {
+    "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+    "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+    "date": "2026-03-09"
+  },
+  {
+    "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+    "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+    "date": "2026-03-09"
+  },
+  {
+    "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
+    "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+    "date": "2026-03-09"
+  },
+  {
+    "title": "Mixture of Experts (MoEs) in Transformers",
+    "link": "https://huggingface.co/blog/moe-transformers",
+    "date": "2026-03-09"
+  },
+  {
+    "title": "GGML and llama.cpp join HF to ensure the long-term progress of Local AI",
+    "link": "https://huggingface.co/blog/ggml-joins-hf",
+    "date": "2026-03-09"
   }
 ]
