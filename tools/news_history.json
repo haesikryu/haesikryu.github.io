@@ -1,85 +1,5 @@
 [
   {
-    "title": "ChatGPT uninstalls surged by 295% after DoD deal",
-    "link": "https://techcrunch.com/2026/03/02/chatgpt-uninstalls-surged-by-295-after-dod-deal/",
-    "date": "2026-03-03"
-  },
-  {
-    "title": "No one has a good plan for how AI companies should work with the government",
-    "link": "https://techcrunch.com/2026/03/02/openai-anthropic-department-of-defense-war-hegseth-ai-companies-work-with-us-government/",
-    "date": "2026-03-03"
-  },
-  {
-    "title": "Users are ditching ChatGPT for Claude — here’s how to make the switch",
-    "link": "https://techcrunch.com/2026/03/02/users-are-ditching-chatgpt-for-claude-heres-how-to-make-the-switch/",
-    "date": "2026-03-03"
-  },
-  {
-    "title": "Tech workers urge DOD, Congress to withdraw Anthropic label as a supply-chain risk",
-    "link": "https://techcrunch.com/2026/03/02/tech-workers-urge-dod-congress-to-withdraw-anthropic-label-as-a-supply-chain-risk/",
-    "date": "2026-03-03"
-  },
-  {
-    "title": "A married founder duo’s company, 14.ai, is replacing customer support teams at startups",
-    "link": "https://techcrunch.com/2026/03/02/a-married-founder-duos-company-14-ai-is-replacing-customer-support-teams-at-startups/",
-    "date": "2026-03-03"
-  },
-  {
-    "title": "OpenAI’s “compromise” with the Pentagon is what Anthropic feared",
-    "link": "https://www.technologyreview.com/2026/03/02/1133850/openais-compromise-with-the-pentagon-is-what-anthropic-feared/",
-    "date": "2026-03-03"
-  },
-  {
-    "title": "The Download: protesting AI, and what’s floating in space",
-    "link": "https://www.technologyreview.com/2026/03/02/1133811/the-download-protesting-ai-and-whats-floating-in-space/",
-    "date": "2026-03-03"
-  },
-  {
-    "title": "I checked out one of the biggest anti-AI protests yet",
-    "link": "https://www.technologyreview.com/2026/03/02/1133814/i-checked-out-londons-biggest-ever-anti-ai-protest/",
-    "date": "2026-03-03"
-  },
-  {
-    "title": "Clueless cops post seized crypto wallet password. $5M quickly stolen.",
-    "link": "https://arstechnica.com/tech-policy/2026/03/oops-south-korean-cops-lost-5m-in-seized-crypto-after-leaking-wallet-password/",
-    "date": "2026-03-03"
-  },
-  {
-    "title": "Charter gets FCC permission to buy Cox and become largest ISP in the US",
-    "link": "https://arstechnica.com/tech-policy/2026/03/fcc-lets-charter-buy-cox-says-no-reason-to-worry-about-higher-internet-prices/",
-    "date": "2026-03-03"
-  },
-  {
-    "title": "Iowa county adopts strict zoning rules for data centers, but residents still worry",
-    "link": "https://arstechnica.com/ai/2026/03/iowa-county-adopts-strict-zoning-rules-for-data-centers-but-residents-still-worry/",
-    "date": "2026-03-03"
-  },
-  {
-    "title": "$599 M4 iPad Air is a lot like the old one, but with a substantial RAM boost",
-    "link": "https://arstechnica.com/gadgets/2026/03/apple-keeps-the-ipad-air-fresh-with-m4-chip-upgrade-and-12gb-of-ram/",
-    "date": "2026-03-03"
-  },
-  {
-    "title": "Research roundup: Six cool science stories we almost missed",
-    "link": "https://arstechnica.com/science/2026/03/research-roundup-six-cool-science-stories-we-almost-missed/",
-    "date": "2026-03-03"
-  },
-  {
-    "title": "MWC 2026: SK Telecom lays out plan to rebuild its core around AI",
-    "link": "https://www.artificialintelligence-news.com/news/mwc-2026-sk-telecom-lays-out-plan-to-rebuild-its-core-around-ai/",
-    "date": "2026-03-03"
-  },
-  {
-    "title": "AI adoption in financial services has hit a point of no return",
-    "link": "https://www.artificialintelligence-news.com/news/ai-adoption-in-financial-services/",
-    "date": "2026-03-03"
-  },
-  {
-    "title": "Cursor has reportedly surpassed $2B in annualized revenue",
-    "link": "https://techcrunch.com/2026/03/02/cursor-has-reportedly-surpassed-2b-in-annualized-revenue/",
-    "date": "2026-03-03"
-  },
-  {
     "title": "Why AI startups are selling the same equity at two different prices",
     "link": "https://techcrunch.com/2026/03/03/why-ai-startups-are-selling-the-same-equity-at-two-different-prices/",
     "date": "2026-03-04"
@@ -618,5 +538,105 @@
     "title": "GGML and llama.cpp join HF to ensure the long-term progress of Local AI",
     "link": "https://huggingface.co/blog/ggml-joins-hf",
     "date": "2026-03-09"
+  },
+  {
+    "title": "OpenAI and Google employees rush to Anthropic’s defense in DOD lawsuit",
+    "link": "https://techcrunch.com/2026/03/09/openai-and-google-employees-rush-to-anthropics-defense-in-dod-lawsuit/",
+    "date": "2026-03-10"
+  },
+  {
+    "title": "Anthropic launches code review tool to check flood of AI-generated code",
+    "link": "https://techcrunch.com/2026/03/09/anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code/",
+    "date": "2026-03-10"
+  },
+  {
+    "title": "OpenAI acquires Promptfoo to secure its AI agents",
+    "link": "https://techcrunch.com/2026/03/09/openai-acquires-promptfoo-to-secure-its-ai-agents/",
+    "date": "2026-03-10"
+  },
+  {
+    "title": "Anthropic sues Defense Department over supply-chain risk designation",
+    "link": "https://techcrunch.com/2026/03/09/anthropic-sues-defense-department-over-supply-chain-risk-designation/",
+    "date": "2026-03-10"
+  },
+  {
+    "title": "Qualcomm’s partnership with Neura Robotics is just the beginning",
+    "link": "https://techcrunch.com/2026/03/09/qualcomms-partnership-with-neura-robotics-is-just-the-beginning/",
+    "date": "2026-03-10"
+  },
+  {
+    "title": "OpenAI to acquire Promptfoo",
+    "link": "https://openai.com/index/openai-to-acquire-promptfoo",
+    "date": "2026-03-10"
+  },
+  {
+    "title": "How AI is turning the Iran conflict into theater",
+    "link": "https://www.technologyreview.com/2026/03/09/1134063/how-ai-is-turning-the-iran-conflict-into-theater/",
+    "date": "2026-03-10"
+  },
+  {
+    "title": "The usability imperative for securing digital asset devices",
+    "link": "https://www.technologyreview.com/2026/03/09/1132352/the-usability-imperative-for-securing-digital-asset-devices/",
+    "date": "2026-03-10"
+  },
+  {
+    "title": "The Download: murky AI surveillance laws, and the White House cracks down on defiant labs",
+    "link": "https://www.technologyreview.com/2026/03/09/1134050/the-download-ai-surveillance-laws-white-house-cracks-down-defiant-labs/",
+    "date": "2026-03-10"
+  },
+  {
+    "title": "Granite 4.0 1B Speech: Compact, Multilingual, and Built for the Edge",
+    "link": "https://huggingface.co/blog/ibm-granite/granite-4-speech",
+    "date": "2026-03-10"
+  },
+  {
+    "title": "Ulysses Sequence Parallelism: Training with Million-Token Contexts",
+    "link": "https://huggingface.co/blog/ulysses-sp",
+    "date": "2026-03-10"
+  },
+  {
+    "title": "LeRobot v0.5.0: Scaling Every Dimension",
+    "link": "https://huggingface.co/blog/lerobot-release-v050",
+    "date": "2026-03-10"
+  },
+  {
+    "title": "After falling far behind the rest of industry, Blue Origin creates new stock option plan",
+    "link": "https://arstechnica.com/space/2026/03/after-years-of-missteps-blue-origin-to-finally-offer-meaningful-stock-options/",
+    "date": "2026-03-10"
+  },
+  {
+    "title": "Quad Cortex mini amp modeler: All the power, half the size",
+    "link": "https://arstechnica.com/reviews/2026/03/quad-cortex-mini-insane-amp-modeling-power-for-the-discerning-guitarist/",
+    "date": "2026-03-10"
+  },
+  {
+    "title": "Testing Apple's 2026 16-inch MacBook Pro, M5 Max, and its new \"performance\" cores",
+    "link": "https://arstechnica.com/gadgets/2026/03/testing-apples-2026-16-inch-macbook-pro-m5-max-and-its-new-performance-cores/",
+    "date": "2026-03-10"
+  },
+  {
+    "title": "US blindsides states with surprise settlement in Live Nation/Ticketmaster trial",
+    "link": "https://arstechnica.com/tech-policy/2026/03/us-blindsides-states-with-surprise-settlement-in-live-nation-ticketmaster-trial/",
+    "date": "2026-03-10"
+  },
+  {
+    "title": "An unlikely set of clues helps reconstruct ancient Chinese disasters",
+    "link": "https://arstechnica.com/science/2026/03/an-unlikely-set-of-clues-helps-reconstruct-ancient-chinese-disasters/",
+    "date": "2026-03-10"
+  },
+  {
+    "title": "AI insurance underwriting is past the pitch deck—Gradient AI just got the capital to prove it",
+    "link": "https://www.artificialintelligence-news.com/news/gradient-ai-cibc-ai-insurance-underwriting-growth-capital/",
+    "date": "2026-03-10"
+  },
+  {
+    "title": "UK sovereign AI fund to build up domestic computing infrastructure",
+    "link": "https://www.artificialintelligence-news.com/news/uk-sovereign-ai-fund-build-domestic-computing-infrastructure/",
+    "date": "2026-03-10"
+  },
+  {
+    "title": "City Union Bank launches AI centre to support banking operations",
+    "link": "https://www.artificialintelligence-news.com/news/city-union-bank-launches-ai-centre-to-support-banking-operations/",
+    "date": "2026-03-10"
   }
 ]
