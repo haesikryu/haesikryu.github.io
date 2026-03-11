@@ -1,120 +1,5 @@
 [
   {
-    "title": "Why AI startups are selling the same equity at two different prices",
-    "link": "https://techcrunch.com/2026/03/03/why-ai-startups-are-selling-the-same-equity-at-two-different-prices/",
-    "date": "2026-03-04"
-  },
-  {
-    "title": "Alibaba’s Qwen tech lead steps down after major AI push",
-    "link": "https://techcrunch.com/2026/03/03/alibabas-qwen-tech-lead-steps-down-after-major-ai-push/",
-    "date": "2026-03-04"
-  },
-  {
-    "title": "AI companies are spending millions to thwart this former tech exec’s congressional bid",
-    "link": "https://techcrunch.com/2026/03/03/ai-companies-are-spending-millions-to-thwart-this-former-tech-execs-congressional-bid/",
-    "date": "2026-03-04"
-  },
-  {
-    "title": "ChatGPT’s new GPT-5.3 Instant model will stop telling you to calm down",
-    "link": "https://techcrunch.com/2026/03/03/chatgpts-new-gpt-5-3-instant-model-will-stop-telling-you-to-calm-down/",
-    "date": "2026-03-04"
-  },
-  {
-    "title": "Claude Code rolls out a voice mode capability",
-    "link": "https://techcrunch.com/2026/03/03/claude-code-rolls-out-a-voice-mode-capability/",
-    "date": "2026-03-04"
-  },
-  {
-    "title": "GPT-5.3 Instant System Card",
-    "link": "https://openai.com/index/gpt-5-3-instant-system-card",
-    "date": "2026-03-04"
-  },
-  {
-    "title": "GPT-5.3 Instant: Smoother, more useful everyday conversations",
-    "link": "https://openai.com/index/gpt-5-3-instant",
-    "date": "2026-03-04"
-  },
-  {
-    "title": "Create new worlds in Project Genie with these 4 tips",
-    "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/tips-prompt-writing-project-genie/",
-    "date": "2026-03-04"
-  },
-  {
-    "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
-    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/",
-    "date": "2026-03-04"
-  },
-  {
-    "title": "MIT Technology Review Insiders Panel",
-    "link": "https://www.technologyreview.com/2026/03/03/1133907/mit-technology-review-insiders-panel-2/",
-    "date": "2026-03-04"
-  },
-  {
-    "title": "The Download: The startup that says it can stop lightning, and inside OpenAI’s Pentagon deal",
-    "link": "https://www.technologyreview.com/2026/03/03/1133900/the-download-the-startup-that-says-it-can-stop-lightning-and-inside-openais-pentagon-deal/",
-    "date": "2026-03-04"
-  },
-  {
-    "title": "This startup claims it can stop lightning and prevent catastrophic wildfires",
-    "link": "https://www.technologyreview.com/2026/03/03/1133848/this-startup-claims-it-can-stop-lightning-and-prevent-catastrophic-wildfires/",
-    "date": "2026-03-04"
-  },
-  {
-    "title": "PRX Part 3 — Training a Text-to-Image Model in 24h!",
-    "link": "https://huggingface.co/blog/Photoroom/prx-part3",
-    "date": "2026-03-04"
-  },
-  {
-    "title": "No fooling: NASA targets April 1 for Artemis II launch to the Moon",
-    "link": "https://arstechnica.com/space/2026/03/no-fooling-nasa-targets-april-1-for-artemis-ii-launch-to-the-moon/",
-    "date": "2026-03-04"
-  },
-  {
-    "title": "Downdetector, Speedtest sold to IT service provider Accenture in $1.2B deal",
-    "link": "https://arstechnica.com/information-technology/2026/03/downdetector-speedtest-sold-to-it-service-provider-accenture-in-1-2b-deal/",
-    "date": "2026-03-04"
-  },
-  {
-    "title": "FCC chair calls Paramount/WBD merger \"a lot cleaner\" than defunct Netflix deal",
-    "link": "https://arstechnica.com/tech-policy/2026/03/trump-fcc-chair-paramount-warner-bros-merger-likely-to-get-quick-approval/",
-    "date": "2026-03-04"
-  },
-  {
-    "title": "What we can learn from scientific analysis of Renaissance recipes",
-    "link": "https://arstechnica.com/science/2026/03/renaissance-diy-science-people-tested-tweaked-home-remedy-recipes/",
-    "date": "2026-03-04"
-  },
-  {
-    "title": "There are plenty of great choices if you want to spend less than $15K on an EV",
-    "link": "https://arstechnica.com/cars/2026/03/there-are-plenty-of-great-choices-if-you-want-to-spend-less-than-15k-on-an-ev/",
-    "date": "2026-03-04"
-  },
-  {
-    "title": "Best AI security solutions 2026: Top enterprise platforms compared",
-    "link": "https://www.artificialintelligence-news.com/news/best-ai-security-solutions-2026-top-enterprise-platforms-compared/",
-    "date": "2026-03-04"
-  },
-  {
-    "title": "The integration of AI in modern forex automation",
-    "link": "https://www.artificialintelligence-news.com/news/the-integration-of-ai-in-modern-forex-automation/",
-    "date": "2026-03-04"
-  },
-  {
-    "title": "Physical AI adoption boosts customer service ROI",
-    "link": "https://www.artificialintelligence-news.com/news/physical-ai-adoption-boosts-customer-service-roi/",
-    "date": "2026-03-04"
-  },
-  {
-    "title": "Santander and Mastercard run Europe’s first AI-executed payment pilot",
-    "link": "https://www.artificialintelligence-news.com/news/santander-and-mastercard-run-europe-first-ai-executed-payment-pilot/",
-    "date": "2026-03-04"
-  },
-  {
-    "title": "AI-Native networks are no longer a 6G promise–MWC 2026 just proved it",
-    "link": "https://www.artificialintelligence-news.com/news/ai-native-networks-mwc-2026/",
-    "date": "2026-03-04"
-  },
-  {
     "title": "Anthropic CEO Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies,’ report says",
     "link": "https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/",
     "date": "2026-03-05"
@@ -648,5 +533,110 @@
     "title": "Mastercard brings agentic payments to life in Singapore with DBS and UOB",
     "link": "https://www.artificialintelligence-news.com/news/mastercard-agentic-payments-singapore-dbs-uob/",
     "date": "2026-03-10"
+  },
+  {
+    "title": "Amazon launches its healthcare AI assistant on its website and app",
+    "link": "https://techcrunch.com/2026/03/10/amazon-launches-its-healthcare-ai-assistant-on-its-website-and-app/",
+    "date": "2026-03-11"
+  },
+  {
+    "title": "AI-powered apps struggle with long-term retention, new report shows",
+    "link": "https://techcrunch.com/2026/03/10/ai-powered-apps-struggle-with-long-term-retention-new-report-shows/",
+    "date": "2026-03-11"
+  },
+  {
+    "title": "ChatGPT can now create interactive visuals to help you understand math and science concepts",
+    "link": "https://techcrunch.com/2026/03/10/chatgpt-can-now-create-interactive-visuals-to-help-you-understand-math-and-science-concepts/",
+    "date": "2026-03-11"
+  },
+  {
+    "title": "AgentMail raises $6M to build an email service for AI agents",
+    "link": "https://techcrunch.com/2026/03/10/agentmail-raises-6m-to-build-an-email-service-for-ai-agents/",
+    "date": "2026-03-11"
+  },
+  {
+    "title": "Thinking Machines Lab inks massive compute deal with Nvidia",
+    "link": "https://techcrunch.com/2026/03/10/thinking-machines-lab-inks-massive-compute-deal-with-nvidia/",
+    "date": "2026-03-11"
+  },
+  {
+    "title": "Improving instruction hierarchy in frontier LLMs",
+    "link": "https://openai.com/index/instruction-hierarchy-challenge",
+    "date": "2026-03-11"
+  },
+  {
+    "title": "New ways to learn math and science in ChatGPT",
+    "link": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt",
+    "date": "2026-03-11"
+  },
+  {
+    "title": "Gemini in Google Sheets just achieved state-of-the-art performance.",
+    "link": "https://blog.google/products-and-platforms/products/workspace/gemini-google-sheets-state-of-the-art/",
+    "date": "2026-03-11"
+  },
+  {
+    "title": "How Pokémon Go is giving delivery robots an inch-perfect view of the world",
+    "link": "https://www.technologyreview.com/2026/03/10/1134099/how-pokemon-go-is-helping-robots-deliver-pizza-on-time/",
+    "date": "2026-03-11"
+  },
+  {
+    "title": "Prioritizing energy intelligence for sustainable growth",
+    "link": "https://www.technologyreview.com/2026/03/10/1133972/prioritizing-energy-intelligence-for-sustainable-growth/",
+    "date": "2026-03-11"
+  },
+  {
+    "title": "The Download: AI’s role in the Iran war, and an escalating legal fight",
+    "link": "https://www.technologyreview.com/2026/03/10/1134077/the-download-ai-iran-war-theater-anthropic-sues-us/",
+    "date": "2026-03-11"
+  },
+  {
+    "title": "How NVIDIA Builds Open Data for AI",
+    "link": "https://huggingface.co/blog/nvidia/open-data-for-ai",
+    "date": "2026-03-11"
+  },
+  {
+    "title": "Introducing Storage Buckets on the Hugging Face Hub",
+    "link": "https://huggingface.co/blog/storage-buckets",
+    "date": "2026-03-11"
+  },
+  {
+    "title": "Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries",
+    "link": "https://huggingface.co/blog/async-rl-training-landscape",
+    "date": "2026-03-11"
+  },
+  {
+    "title": "Reentry of NASA satellite will exceed the agency's own risk guidelines",
+    "link": "https://arstechnica.com/space/2026/03/nasa-approved-a-safety-waiver-for-this-weeks-reentry-of-van-allen-probe/",
+    "date": "2026-03-11"
+  },
+  {
+    "title": "FDA contradicts Trump admin, declines to approve generic drug for autism",
+    "link": "https://arstechnica.com/health/2026/03/fda-contradicts-trump-admin-declines-to-approve-generic-drug-for-autism/",
+    "date": "2026-03-11"
+  },
+  {
+    "title": "AI can rewrite open source code—but can it rewrite the license, too?",
+    "link": "https://arstechnica.com/ai/2026/03/ai-can-rewrite-open-source-code-but-can-it-rewrite-the-license-too/",
+    "date": "2026-03-11"
+  },
+  {
+    "title": "Meta acquires Moltbook, the AI agent social network",
+    "link": "https://arstechnica.com/ai/2026/03/meta-acquires-moltbook-the-ai-agent-social-network/",
+    "date": "2026-03-11"
+  },
+  {
+    "title": "After complaints, Google will make it easier to disable gen AI search in Photos",
+    "link": "https://arstechnica.com/ai/2026/03/google-backtracks-on-ai-search-in-photos-adds-toggle-for-fast-classic-search/",
+    "date": "2026-03-11"
+  },
+  {
+    "title": "ABB: Physical AI simulation boosts ROI for factory automation",
+    "link": "https://www.artificialintelligence-news.com/news/abb-physical-ai-simulation-secures-factory-automation-roi/",
+    "date": "2026-03-11"
+  },
+  {
+    "title": "Agentic AI in finance speeds up operational automation",
+    "link": "https://www.artificialintelligence-news.com/news/agentic-ai-in-finance-speeds-up-operational-automation/",
+    "date": "2026-03-11"
   }
 ]
