@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-02-03 Daily AI & Tech News
+title: "스페이스X, xAI 공식 인수하며 '우주 데이터 센터' 구축 시동 등 3개 기사"
 ---
 
 안녕하세요!

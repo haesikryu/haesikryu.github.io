@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-01-26 Daily AI & Tech News
+title: "애플, 구글 제미나이 탑재한 새로운 시리 2월 공개 예고 등 4개 기사"
 ---
 
 안녕하세요!

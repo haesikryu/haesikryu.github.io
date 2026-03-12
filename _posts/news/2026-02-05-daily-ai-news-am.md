@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-02-05 Daily AI & Tech News
+title: "앤트로픽의 슈퍼볼 광고 도발, 샘 알트만 분노 폭발 (AI 경쟁 심화) 등 4개 기사"
 ---
 
 안녕하세요!

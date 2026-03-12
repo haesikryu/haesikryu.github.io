@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-03-03 Daily AI & Tech News
+title: "Cursor, 연간 반복 매출(ARR) 20억 달러 돌파하며 'AI 코딩 시대' 증명 등 3개 기사"
 ---
 
 안녕하세요!

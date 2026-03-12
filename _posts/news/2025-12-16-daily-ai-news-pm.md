@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2025-12-16 Daily AI & Tech News
+title: "GPT-5.2 공개: 수학 및 과학 분야에서 '최강' 모델 등극 등 6개 기사"
 ---
 
 # GPT-5.2의 충격파: 금융, 바이오, 엔터테인먼트를 뒤흔드는 오늘의 AI 혁신 뉴스

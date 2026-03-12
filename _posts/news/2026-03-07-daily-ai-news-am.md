@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-03-07 Daily AI & Tech News
+title: "앤스로픽과 미국 국방부의 갈등, 그리고 클로드의 급성장 등 4개 기사"
 ---
 
 안녕하세요!

@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-01-01 Daily AI & Tech News
+title: "'예언자'에서 '제품'으로: 2025년, AI가 현실로 돌아오다 등 3개 기사"
 ---
 
 안녕하세요!

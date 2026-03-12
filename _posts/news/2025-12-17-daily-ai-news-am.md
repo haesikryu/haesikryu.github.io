@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2025-12-17 Daily AI & Tech News
+title: "OpenAI, 이미지 생성 모델 'GPT Image 1.5' 출시 (4배속 돌파!) 등 6개 기사"
 ---
 
 # AI 빅뱅 시대: OpenAI 이미지 속도 4배! 그리고 거대 은행의 AI 도입 소식

@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2025-12-22 Daily AI & Tech News
+title: "Waymo, 대규모 정전으로 샌프란시스코 서비스 일시 중단 등 7개 기사"
 ---
 
 안녕하세요!

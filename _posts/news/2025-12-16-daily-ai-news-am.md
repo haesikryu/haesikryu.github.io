@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2025-12-16 Daily AI & Tech News
+title: "OpenAI, 과학 및 수학 특화 모델 'GPT-5.2' 공개 등 6개 기사"
 ---
 
 # GPT-5.2 등장과 엔비디아의 오픈소스 확장: 오늘 놓치지 말아야 할 AI 뉴스 6가지

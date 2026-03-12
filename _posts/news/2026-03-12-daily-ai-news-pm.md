@@ -8,10 +8,12 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-03-12 Daily AI & Tech News
+title: "NVIDIA AI-Q, 딥리서치(DeepResearch) 벤치마크 1위 석권 등 3개 기사"
 ---
 
 # [일간 AI & Tech] NVIDIA의 벤치마크 제패와 AI 에이전트 시대의 가속화
+
+이번 digest에는 **3개의 기사**가 실렸습니다.
 
 안녕하세요! 지난 24시간 동안 기술 업계와 인공지능 분야에서 가장 주목받은 주요 뉴스들을 선별하여 정리해 드립니다.
 

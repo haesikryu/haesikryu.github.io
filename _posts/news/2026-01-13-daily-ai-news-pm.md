@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-01-13 Daily AI & Tech News
+title: "애플이 구글 제미나이를 선택한 이유: 엔터프라이즈 AI 구매자가 배워야 할 교훈 등 4개 기사"
 ---
 
 안녕하세요!

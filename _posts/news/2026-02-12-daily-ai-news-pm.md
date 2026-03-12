@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-02-12 Daily AI & Tech News
+title: "NVIDIA Nemotron ColEmbed V2 공개: 멀티모달 검색의 새로운 기준 등 2개 기사"
 ---
 
 안녕하세요!

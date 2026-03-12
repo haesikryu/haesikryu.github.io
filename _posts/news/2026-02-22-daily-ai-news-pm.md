@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-02-22 Daily AI & Tech News
+title: "빌보드 광고 한 장의 기적, '리슨 랩스(Listen Labs)' 690억 원 투자 유치 등 4개 기사"
 ---
 
 안녕하세요! 

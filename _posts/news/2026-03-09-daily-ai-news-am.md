@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-03-09 Daily AI & Tech News
+title: "펜타곤-앤스로픽 논란: 스타트업의 국방 사업 진출에 제동이 걸릴까? 등 3개 기사"
 ---
 
 안녕하세요! 오늘의 주요 IT 및 AI 기술 뉴스를 정리해 드립니다.

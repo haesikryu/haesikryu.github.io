@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2025-12-23 Daily AI & Tech News
+title: "OpenAI, AI 에이전트의 프롬프트 주입 공격은 '영원한 위험' 경고 등 6개 기사"
 ---
 
 ## AI 시대, 영원한 위험과 100만 고객의 탄생: 오늘의 테크 & AI 핵심 뉴스 6가지

@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-02-11 Daily AI & Tech News
+title: "일론 머스크의 xAI, 달 위에 ‘AI 위성 공장’ 세우나 등 4개 기사"
 ---
 
 안녕하세요! 

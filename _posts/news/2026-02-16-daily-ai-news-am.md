@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-02-16 Daily AI & Tech News
+title: "\"내 목소리를 훔쳤다\" – 전 NPR 호스트, 구글 NotebookLM에 소송 제기 등 4개 기사"
 ---
 
 안녕하세요!

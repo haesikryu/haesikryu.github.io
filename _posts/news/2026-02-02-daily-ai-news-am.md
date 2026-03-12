@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-02-02 Daily AI & Tech News
+title: "AI 해고 vs. ‘AI 워싱’ 논란: 정리해고의 진짜 이유 등 4개 기사"
 ---
 
 안녕하세요!

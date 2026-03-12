@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-01-21 Daily AI & Tech News
+title: "OpenAI, 미성년자 보호를 위한 ‘연령 예측’ 기능 도입 등 4개 기사"
 ---
 
 안녕하세요!

@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-01-09 Daily AI & Tech News
+title: "GPT-5, ‘모달리티 통합’ 아키텍처로 초지능 향한 움직임 포착 등 3개 기사"
 ---
 
 # ⚡️ 오늘의 AI & 테크 브리핑: GPT-5 아키텍처 루머부터 TSMC의 초격차 투자까지 (2025. XX. YY)

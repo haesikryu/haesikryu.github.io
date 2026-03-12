@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2025-12-25 Daily AI & Tech News
+title: "엔비디아, AI 칩 경쟁자 Groq 기술 라이선스 및 CEO 영입 등 4개 기사"
 ---
 
 안녕하세요!

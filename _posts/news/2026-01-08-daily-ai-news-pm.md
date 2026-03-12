@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-01-08 Daily AI & Tech News
+title: "AI 책임 소재: 구글 및 Character.AI, 챗봇 사용자 사망 소송 첫 합의 등 3개 기사"
 ---
 
 안녕하세요!

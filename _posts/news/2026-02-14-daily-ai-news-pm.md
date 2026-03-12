@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-02-14 Daily AI & Tech News
+title: "에어비앤비, 검색부터 고객 지원까지 'AI 퍼스트' 선언 등 3개 기사"
 ---
 
 # [Daily Tech Digest] 에어비앤비의 AI 혁신과 거대 모델들의 진화: 오늘의 테크 리포트

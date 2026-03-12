@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-02-08 Daily AI & Tech News
+title: "뉴욕주, 데이터 센터 건설 3년 일시 중단 추진: AI 시대 인프라 논란 가열 등 2개 기사"
 ---
 
 안녕하세요!

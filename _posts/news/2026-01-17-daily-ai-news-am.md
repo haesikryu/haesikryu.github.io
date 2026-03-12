@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-01-17 Daily AI & Tech News
+title: "OpenAI, ChatGPT에 광고 도입 테스트 시작 및 저가형 'Go' 티어 출시 등 4개 기사"
 ---
 
 안녕하세요!

@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-02-17 Daily AI & Tech News
+title: "애플, 3월 4일 '특별한 경험' 이벤트 예고: 신형 맥과 아이패드 공개 임박 등 5개 기사"
 ---
 
 안녕하세요!

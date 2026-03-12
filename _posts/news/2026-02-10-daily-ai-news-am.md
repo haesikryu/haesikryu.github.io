@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-02-10 Daily AI & Tech News
+title: "챗GPT, 수익 모델 전환 시도: 광고 테스트 시작 등 4개 기사"
 ---
 
 안녕하세요!

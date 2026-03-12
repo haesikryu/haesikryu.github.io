@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-03-09 Daily AI & Tech News
+title: "앤스로픽(Anthropic)의 야심: 코딩 도구 '클로드 코드'와 일반인용 '코워크' 출시 등 4개 기사"
 ---
 
 안녕하세요!

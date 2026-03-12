@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-01-11 Daily AI & Tech News
+title: "OpenAI, 계약자에게 '실제 과거 작업물' 요구하며 지식재산권(IP) 위험에 직면 등 3개 기사"
 ---
 
 안녕하세요!

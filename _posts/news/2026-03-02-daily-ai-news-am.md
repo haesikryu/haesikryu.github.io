@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-03-02 Daily AI & Tech News
+title: "OpenAI, 1,100억 달러 투자 유치와 아마존과의 전략적 파트너십 발표 등 5개 기사"
 ---
 
 안녕하세요!

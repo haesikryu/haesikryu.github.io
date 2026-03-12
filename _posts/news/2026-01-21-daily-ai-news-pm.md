@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-01-21 Daily AI & Tech News
+title: "OpenAI와 게이츠 재단, 아프리카 의료를 위한 '호라이즌 1000' 협력 발표 등 3개 기사"
 ---
 
 안녕하세요!

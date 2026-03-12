@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-01-22 Daily AI & Tech News
+title: "Nous Research, 오픈소스 코딩 모델 'NousCoder-14B' 출시 등 4개 기사"
 ---
 
 안녕하세요!

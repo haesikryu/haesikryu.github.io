@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-01-15 Daily AI & Tech News
+title: "OpenAI, 미라 무라티 스타트업 공동 창업자 영입하며 인재 전쟁 가속화 등 3개 기사"
 ---
 
 안녕하세요!

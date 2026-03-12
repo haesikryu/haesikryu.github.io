@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-01-24 Daily AI & Tech News
+title: "법률 AI 시장 경쟁 심화: 거대 기업 Harvey, Hexus 인수 등 2개 기사"
 ---
 
 # AI 시대의 자본과 인재 전쟁: 오늘의 테크 헤드라인

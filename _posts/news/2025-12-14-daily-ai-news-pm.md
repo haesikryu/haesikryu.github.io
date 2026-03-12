@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2025-12-14 Daily AI & Tech News
+title: "GPT-5.2 공개 및 과학/수학 혁신 예고 등 6개 기사"
 ---
 
 # GPT-5.2 시대 개막! 규제 불확실성과 데이터센터 전쟁 발발

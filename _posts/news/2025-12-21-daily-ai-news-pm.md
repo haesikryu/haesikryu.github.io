@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2025-12-21 Daily AI & Tech News
+title: "OpenAI, 가장 진보된 코딩 모델 'GPT-5.2-Codex' 공개 등 6개 기사"
 ---
 
 # ⚡️ 오늘의 AI & 테크 다이제스트: GPT-5.2 Codex와 얀 르쿤의 빅 무브

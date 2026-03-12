@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-02-19 Daily AI & Tech News
+title: "구글 제미나이, 이제 텍스트와 이미지를 음악으로 바꾼다 등 4개 기사"
 ---
 
 # 음악 만드는 AI 제미나이와 1만 년의 기록 '글래스 스토리지': 오늘의 테크 다이제스트

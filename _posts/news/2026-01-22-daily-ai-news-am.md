@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-01-22 Daily AI & Tech News
+title: "애플, 시리를 챗봇으로 변신시키고 AI 웨어러블 개발 박차 등 3개 기사"
 ---
 
 안녕하세요!

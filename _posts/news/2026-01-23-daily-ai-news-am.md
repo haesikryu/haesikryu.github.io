@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-01-23 Daily AI & Tech News
+title: "OpenAI, 기업 시장 공략 가속화 및 파트너 LiveKit 10억 달러 가치 달성 등 4개 기사"
 ---
 
 안녕하세요!

@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2025-12-14 Daily AI & Tech News (2)
+title: "GPT-5.2, 수학 및 과학 분야에서 새로운 SOTA 달성 등 5개 기사"
 ---
 
 # AI 전쟁 격화: GPT-5.2 과학 정복부터 구글 Gemini의 실생활 침투까지!

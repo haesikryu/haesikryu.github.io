@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-02-12 Daily AI & Tech News
+title: "OpenAI, '미션 얼라이먼트' 팀 해체와 대대적인 조직 개편 등 5개 기사"
 ---
 
 # [데일리 AI/테크 브리핑] OpenAI의 조직 개편부터 xAI의 '행성 간' 비전까지

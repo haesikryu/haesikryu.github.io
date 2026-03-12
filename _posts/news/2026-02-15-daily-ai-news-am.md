@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-02-15 Daily AI & Tech News
+title: "xAI의 ‘그록(Grok)’, 안전 가드레일 해제 논란 등 4개 기사"
 ---
 
 안녕하세요! 

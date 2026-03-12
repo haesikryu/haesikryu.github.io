@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-02-18 Daily AI & Tech News
+title: "앤스로픽, '클로드 소네트 4.6' 출시 및 금융권 도입 가속화 등 5개 기사"
 ---
 
 안녕하세요!

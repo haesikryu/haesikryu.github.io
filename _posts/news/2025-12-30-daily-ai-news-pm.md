@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2025-12-30 Daily AI & Tech News
+title: "Meta, 모두가 탐내던 AI 스타트업 'Manus' 인수 확정 등 1개 기사"
 ---
 
 안녕하세요! 기술 동향을 깊이 있게 파헤치는 오늘의 AI & Tech 다이제스트 시간입니다.

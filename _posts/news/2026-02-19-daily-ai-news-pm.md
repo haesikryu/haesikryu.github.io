@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-02-19 Daily AI & Tech News
+title: "OpenAI, 인도 시장 본격 공략: 타타(Tata)와 손잡고 대규모 데이터 센터 구축 등 3개 기사"
 ---
 
 안녕하세요!

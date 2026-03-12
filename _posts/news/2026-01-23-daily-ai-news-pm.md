@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-01-23 Daily AI & Tech News
+title: "전 세쿼이아 파트너의 신규 스타트업, AI 캘린더 협상 에이전트 'Blockit' 공개 등 3개 기사"
 ---
 
 안녕하세요!

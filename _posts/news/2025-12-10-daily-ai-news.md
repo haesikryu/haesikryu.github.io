@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2025-12-10 Daily AI & Tech News
+title: "Unconventional AI, 4억 7,500만 달러 규모의 초대형 시드 라운드 유치 확인 등 6개 기사"
 ---
 
 # [오늘의 AI 다이제스트] 구글의 군사 AI 플랫폼 진출부터 5천억 시드 투자까지!

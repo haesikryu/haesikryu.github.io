@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-02-17 Daily AI & Tech News
+title: "앤스로픽, 코딩 없이 파일 작업이 가능한 'Cowork' 에이전트 출시 등 3개 기사"
 ---
 
 안녕하세요!

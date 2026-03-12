@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2025-12-18 Daily AI & Tech News
+title: "구글, 제미나이 3 플래시를 앱의 기본 모델로 설정 등 6개 기사"
 ---
 
 # AI 거대 경쟁 심화! 구글, '제미나이 3 플래시' 전면 배치와 OpenAI의 '앱 마켓' 확장

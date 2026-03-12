@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-02-01 Daily AI & Tech News
+title: "젠슨 황, 엔비디아의 1천억 달러 OpenAI 투자 지연 루머에 강력 반박 등 2개 기사"
 ---
 
 안녕하세요!

@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-03-05 Daily AI & Tech News
+title: "엔비디아, 오픈AI와 앤스로픽 투자 중단 시사... 젠슨 황의 의중은? 등 1개 기사"
 ---
 
 안녕하세요!

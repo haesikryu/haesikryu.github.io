@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-02-20 Daily AI & Tech News
+title: "구글 제미나이 3.1 프로, 다시 한번 벤치마크 신기록 경신 등 5개 기사"
 ---
 
 안녕하세요!

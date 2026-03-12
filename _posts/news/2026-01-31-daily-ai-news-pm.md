@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-01-31 Daily AI & Tech News
+title: "$5000 빌보드 마케팅으로 800억 투자 유치에 성공한 Listen Labs 등 3개 기사"
 ---
 
 안녕하세요!

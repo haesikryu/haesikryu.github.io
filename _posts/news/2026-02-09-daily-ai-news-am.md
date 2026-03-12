@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-02-09 Daily AI & Tech News
+title: "7천만 달러의 승부수: Crypto.com, 'AI.com' 도메인 인수 등 3개 기사"
 ---
 
 안녕하세요!

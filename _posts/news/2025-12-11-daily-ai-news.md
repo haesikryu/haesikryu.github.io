@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2025-12-11 Daily AI & Tech News
+title: "구글, AI 인프라 최고 기술 책임자(CTO) 신설 등 6개 기사"
 ---
 
 # AI 전쟁: 구글 인프라 강화와 엔비디아 칩 추적, 그리고 AI 안전성 표준화 | 오늘의 테크 뉴스 다이제스트

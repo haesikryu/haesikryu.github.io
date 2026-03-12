@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-01-02 Daily AI & Tech News
+title: "AI 도입으로 유럽 은행권 20만 명 일자리 감축 전망 등 3개 기사"
 ---
 
 # AI 경제 충격! 유럽 은행 20만 명 감축 예고와 OpenAI의 '스크린 전쟁' 선포

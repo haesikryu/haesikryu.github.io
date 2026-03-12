@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-01-04 Daily AI & Tech News
+title: "구글, 멀티모달 추론 강화한 제미나이 2.5 프로 공개: GPT-4o에 정면 도전 등 3개 기사"
 ---
 
 안녕하세요!

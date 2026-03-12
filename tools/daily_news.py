@@ -207,14 +207,67 @@ def generate_blog_post(news_items):
 
     return content
 
+
+def _extract_first_title(content):
+    """
+    콘텐츠에서 첫 번째 뉴스 제목(## 1. 제목)을 그대로 추출하여 반환합니다.
+    """
+    if not content or not isinstance(content, str):
+        return None
+    m = re.search(r'^##\s*1\.\s*(.+?)(?:\n|$)', content.strip(), re.MULTILINE)
+    if not m:
+        return None
+    title = m.group(1).strip()
+    return title if title else None
+
+
+def _title_to_slug(title):
+    """제목 문자열을 파일명에 쓸 수 있는 슬러그로 변환합니다 (길이 제한 없음)."""
+    if not title or not isinstance(title, str):
+        return None
+    invalid_chars = r'[\\/:*?"<>|\n\r\t]'
+    slug = re.sub(invalid_chars, '', title)
+    slug = re.sub(r'\s+', '-', slug).strip('-')
+    return slug if slug else None
+
+
+def _count_articles_in_content(content):
+    """콘텐츠 내 '## N. 제목' 형식의 기사 개수를 반환합니다."""
+    if not content or not isinstance(content, str):
+        return 0
+    matches = re.findall(r'^##\s*\d+\.\s', content.strip(), re.MULTILINE)
+    return len(matches)
+
+
+def _inject_article_count_badge(content, count):
+    """본문 상단에 'N개의 기사가 실렸습니다' 문구를 넣습니다. 인사말 바로 다음 줄에 삽입."""
+    if count <= 0:
+        return content
+    badge = f"\n\n이번 digest에는 **{count}개의 기사**가 실렸습니다.\n\n"
+    lines = content.split("\n", 1)
+    if len(lines) == 1:
+        return content + badge
+    first_line, rest = lines[0], lines[1]
+    # 인사말 다음 공백 줄 정리 후 배지 삽입 (연속 빈 줄 방지)
+    rest_after = rest.lstrip("\n")
+    return first_line + badge + ("\n" if rest_after else "") + rest_after
+
+
 def save_post(content):
     kst = datetime.timezone(datetime.timedelta(hours=9))
     # Subtract 5 minutes to ensure the post is in the past relative to build server time
     now_kst = datetime.datetime.now(kst) - datetime.timedelta(minutes=5)
     date_str = now_kst.strftime('%Y-%m-%d')
-    
-    # Determine suffix based on hour (Runs at 09:00 -> AM, 16:00 -> PM)
     suffix = "am" if now_kst.hour < 12 else "pm"
+    
+    # 블로그에 보이는 제목만 "첫 제목 등 N개 기사" 형식으로 설정 (파일명은 고정)
+    first_title = _extract_first_title(content)
+    article_count = _count_articles_in_content(content)
+    if first_title and article_count > 0:
+        display_title = f"{first_title} 등 {article_count}개 기사"
+    else:
+        display_title = f"{date_str} Daily AI & Tech News"
+    
     base_filename = f"{date_str}-daily-ai-news-{suffix}"
     filename = f"{base_filename}.md"
     filepath = os.path.join("_posts/news", filename)
@@ -231,20 +284,19 @@ def save_post(content):
         title_suffix = f" ({counter + 1})"
         counter += 1
 
-    # Create front matter
+    # 본문에 기사 개수 배지 삽입
+    content_with_badge = _inject_article_count_badge(content, article_count)
+
+    # Create front matter (제목에 중복 시 접미사만 추가)
     front_matter = {
         'layout': 'post',
-        'title': f"{date_str} Daily AI & Tech News{title_suffix}",
+        'title': f"{display_title}{title_suffix}",
         'date': now_kst.strftime('%Y-%m-%d %H:%M:%S %z'),
         'categories': ['news', 'ai'],
         'tags': ['daily-news', 'automation', 'ai']
     }
     
-    # If the LLM returned a title in markdown (e.g. # Title), extraction might be needed,
-    # but for now we use a generic title in frontmatter or let the user edit.
-    # Actually, let's keep the generic title in FM and the LLM content below.
-
-    full_content = f"---\n{yaml.dump(front_matter)}---\n\n{content}"
+    full_content = f"---\n{yaml.dump(front_matter)}---\n\n{content_with_badge}"
 
     with open(filepath, 'w') as f:
         f.write(full_content)

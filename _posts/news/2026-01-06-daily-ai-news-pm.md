@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-01-06 Daily AI & Tech News
+title: "AMD, 게이밍 및 일반 사용자용 AI PC 프로세서 공개 등 3개 기사"
 ---
 
 안녕하세요!

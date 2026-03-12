@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-01-28 Daily AI & Tech News
+title: "앤트로픽, 역대급 규모 200억 달러 자금 조달 추진 등 4개 기사"
 ---
 
 안녕하세요!

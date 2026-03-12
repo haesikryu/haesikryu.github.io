@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-01-01 Daily AI & Tech News
+title: "OpenAI, 유료 고객 100만 돌파: 기업 AI 도입 가속화 등 4개 기사"
 ---
 
 안녕하세요!

@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-01-10 Daily AI & Tech News
+title: "AI 인프라 전쟁 가속화: OpenAI와 Meta의 기가와트급 전력 확보 경쟁 등 3개 기사"
 ---
 
 # AI 인프라 전쟁 발발: 전력 소비의 역대급 스케일과 CES를 점령한 '피지컬 AI'

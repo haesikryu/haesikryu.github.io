@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-01-19 Daily AI & Tech News
+title: "Moxie Marlinspike, 개인 정보 보호 AI 챗봇 'Confer' 출시 등 3개 기사"
 ---
 
 안녕하세요!

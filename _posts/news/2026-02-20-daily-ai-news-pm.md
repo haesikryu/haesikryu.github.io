@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-02-20 Daily AI & Tech News
+title: "General Catalyst, 인도 시장에 50억 달러(약 7조 원) 투자 약속 등 2개 기사"
 ---
 
 안녕하세요!

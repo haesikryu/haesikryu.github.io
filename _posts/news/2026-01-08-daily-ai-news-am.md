@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-01-08 Daily AI & Tech News
+title: "OpenAI, 건강 전용 공간 'ChatGPT Health' 공개 등 4개 기사"
 ---
 
 안녕하세요! 테크 인공지능 분야의 주요 소식을 빠르게 전달하는 데일리 다이제스트입니다. 오늘은 AI의 헬스케어 진출 소식부터, 시장을 뒤흔드는 스타트업의 밸류에이션까지, 놓쳐서는 안 될 핵심 뉴스들을 모아봤습니다.

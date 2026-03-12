@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2025-12-12 Daily AI & Tech News (2)
+title: "OpenAI, 구글에 맞서 GPT-5.2 전격 출시 등 5개 기사"
 ---
 
 안녕하세요!

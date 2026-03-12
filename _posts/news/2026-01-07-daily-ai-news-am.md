@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-01-07 Daily AI & Tech News
+title: "CES 2026 마무리: AI 중심의 하드웨어와 괴짜 기술의 향연 등 4개 기사"
 ---
 
 안녕하세요!

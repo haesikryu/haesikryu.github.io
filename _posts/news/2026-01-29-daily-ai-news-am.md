@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-01-29 Daily AI & Tech News
+title: "메타 CEO, \"2026년은 개인 슈퍼 인텔리전스의 해\" 선언 등 4개 기사"
 ---
 
 안녕하세요!

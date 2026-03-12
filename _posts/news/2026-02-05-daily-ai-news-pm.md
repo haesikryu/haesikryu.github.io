@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-02-05 Daily AI & Tech News
+title: "박물관 테크: 고대 이집트 전시회에 '사후 세계의 향' 추가 등 1개 기사"
 ---
 
 # 냄새가 이끈다: 고대 이집트의 '사후 세계 향'이 몰입형 테크의 미래를 보여주는 이유

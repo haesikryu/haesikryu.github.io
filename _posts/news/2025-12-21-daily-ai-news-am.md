@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2025-12-21 Daily AI & Tech News
+title: "OpenAI, 차세대 코딩 모델 'GPT-5.2-Codex' 공개 등 6개 기사"
 ---
 
 안녕하세요!

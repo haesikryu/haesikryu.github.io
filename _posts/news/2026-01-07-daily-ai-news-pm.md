@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-01-07 Daily AI & Tech News
+title: "AI 주도 시대: '한 번 배우면 평생 간다'는 신화의 종말 등 3개 기사"
 ---
 
 안녕하세요!

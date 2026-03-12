@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-01-17 Daily AI & Tech News
+title: "OpenAI, 맞춤형 AI 에이전트 구축 기능 대폭 강화 등 4개 기사"
 ---
 
 안녕하세요!

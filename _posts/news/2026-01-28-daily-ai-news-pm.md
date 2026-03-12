@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-01-28 Daily AI & Tech News
+title: "AI가 후루사토 납세(세금 기부)를 맞춤 추천한다: 일본의 ‘Choice AI’ 등장 등 3개 기사"
 ---
 
 안녕하세요!

@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2025-12-15 Daily AI & Tech News
+title: "트럼프 AI 행정명령 서명: '단일 규정집' 약속, 하지만 혼란 가중 우려 등 4개 기사"
 ---
 
 # 트럼프 AI 규제안부터 구글 제미나이 음성 대화 진화까지: 놓쳐선 안 될 오늘의 테크 뉴스 4가지

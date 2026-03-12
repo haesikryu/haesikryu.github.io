@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-03-10 Daily AI & Tech News
+title: "Anthropic과 미 국방부의 법적 공방, 그리고 이례적인 실리콘밸리의 결집 등 4개 기사"
 ---
 
 안녕하세요!

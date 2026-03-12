@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2025-12-19 Daily AI & Tech News
+title: "ChatGPT, 공식 앱스토어 출시 및 개발자 참여 독려 등 6개 기사"
 ---
 
 # AI 거인들의 질주: OpenAI, 앱스토어 오픈 및 GPT-5.2-Codex 공개

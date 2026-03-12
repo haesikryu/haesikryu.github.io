@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-01-09 Daily AI & Tech News
+title: "CES 2026 개막: 물리적 AI와 로봇이 쇼를 지배하다 등 4개 기사"
 ---
 
 # CES 2026, 물리적 AI의 폭발! 그리고 X를 강타한 딥페이크 논란 (1/8 테크 다이제스트)

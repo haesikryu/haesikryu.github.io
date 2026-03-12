@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-02-11 Daily AI & Tech News
+title: "아마존, 미디어 콘텐츠와 AI 기업 잇는 '데이터 마켓플레이스' 추진 등 4개 기사"
 ---
 
 안녕하세요! 

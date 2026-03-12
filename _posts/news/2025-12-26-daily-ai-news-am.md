@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2025-12-26 Daily AI & Tech News
+title: "2025년을 장식한 14가지 필수 AI 용어 분석 등 3개 기사"
 ---
 
 안녕하세요!

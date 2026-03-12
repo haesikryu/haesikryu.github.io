@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-01-30 Daily AI & Tech News
+title: "AWS에 맞서는 AI 네이티브 클라우드: Railway, 1억 달러 투자 유치 등 1개 기사"
 ---
 
 # AWS에 도전장을 던진 'AI 네이티브 클라우드'의 등장: Railway, 1억 달러 투자 유치!

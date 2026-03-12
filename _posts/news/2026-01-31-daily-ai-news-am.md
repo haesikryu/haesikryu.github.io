@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-01-31 Daily AI & Tech News
+title: "앤트로픽, 기업용 '코워크'에 에이전트 플러그인 도입 등 4개 기사"
 ---
 
 안녕하세요!

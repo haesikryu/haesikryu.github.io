@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2025-12-27 Daily AI & Tech News
+title: "2026년 기술 예측: AI 에이전트, 블록버스터 IPO, VC의 미래 등 2개 기사"
 ---
 
 안녕하세요!

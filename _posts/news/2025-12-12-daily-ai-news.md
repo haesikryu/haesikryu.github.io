@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2025-12-12 Daily AI & Tech News
+title: "오픈AI, 추론 및 코딩 최강 모델 'GPT-5.2' 전격 출시 등 6개 기사"
 ---
 
 # GPT-5.2 vs. 제미나이 3, 그리고 디즈니의 '이중 작전': 오늘의 AI & 테크 뉴스 다이제스트

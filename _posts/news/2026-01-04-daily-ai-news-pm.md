@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-01-04 Daily AI & Tech News
+title: "디즈니, 운영 모델에 생성형 AI를 내재화하다 등 3개 기사"
 ---
 
 안녕하세요! 테크 트렌드를 발 빠르게 전하는 일일 AI 브리핑입니다. 오늘도 엔터프라이즈와 하드웨어의 깊은 변화를 이끄는 흥미로운 AI 소식들을 모아봤습니다.

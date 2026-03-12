@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-01-27 Daily AI & Tech News
+title: "앤트로픽, 클로드 앱 출시로 직장 협업 도구 정면 승부 예고 등 4개 기사"
 ---
 
 # AI 거버넌스 논란과 클로드의 업무 침투: 놓치지 말아야 할 오늘의 테크 & AI 뉴스 다이제스트

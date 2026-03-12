@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-02-15 Daily AI & Tech News
+title: "Listen Labs, '빌보드 채용 도발'로 6,900만 달러 투자 유치 성공 등 3개 기사"
 ---
 
 안녕하세요!

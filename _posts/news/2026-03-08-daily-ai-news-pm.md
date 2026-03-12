@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-03-08 Daily AI & Tech News
+title: "'친인간 선언'과 AI 로드맵: 펜타곤-앤스로픽 대치 속의 새로운 이정표 등 3개 기사"
 ---
 
 안녕하세요!

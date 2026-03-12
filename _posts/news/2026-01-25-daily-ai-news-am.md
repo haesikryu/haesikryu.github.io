@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-01-25 Daily AI & Tech News
+title: "다보스 세계 경제 포럼: AI 거물들의 치열한 경쟁 무대 등 4개 기사"
 ---
 
 안녕하세요!

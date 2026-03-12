@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2025-12-22 Daily AI & Tech News
+title: "OpenAI, 가장 진보된 코딩 모델 GPT-5.2-Codex 공개 등 7개 기사"
 ---
 
 # 새벽을 달구는 AI 뉴스: GPT-5.2 코덱스 등장부터 뉴욕 규제까지!

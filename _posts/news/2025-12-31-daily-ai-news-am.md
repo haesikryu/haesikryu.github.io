@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2025-12-31 Daily AI & Tech News
+title: "VCs, 2026년 기업 AI 지출은 늘지만 '소수 벤더 집중' 예측 등 3개 기사"
 ---
 
 안녕하세요!

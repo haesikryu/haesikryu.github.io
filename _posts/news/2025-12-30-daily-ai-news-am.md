@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2025-12-30 Daily AI & Tech News
+title: "2025년 AI, 거품이 꺼지고 현실을 직시하다: '바이브 체크'의 시대 등 4개 기사"
 ---
 
 안녕하세요!

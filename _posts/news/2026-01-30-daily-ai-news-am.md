@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-01-30 Daily AI & Tech News
+title: "아마존, 경쟁사 OpenAI에 500억 달러 투자 논의설 등 4개 기사"
 ---
 
 # AI 거인들의 충돌: 아마존의 500억 달러 투자설, 일론 머스크의 3사 합병 움직임

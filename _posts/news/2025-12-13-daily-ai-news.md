@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2025-12-13 Daily AI & Tech News
+title: "OpenAI, GPT-5.2 출시: 전문가급 추론 능력 확보 등 7개 기사"
 ---
 
 # GPT-5.2 vs. 구글 딥 리서치: AI 군비 경쟁 심화와 정책 리스크 (12/13 테크 다이제스트)

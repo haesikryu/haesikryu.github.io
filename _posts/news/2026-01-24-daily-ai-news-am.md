@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-01-24 Daily AI & Tech News
+title: "AI 대부 얀 르쿤(Yann LeCun), '월드 모델' 스타트업 AMI Labs 설립 등 4개 기사"
 ---
 
 안녕하세요!

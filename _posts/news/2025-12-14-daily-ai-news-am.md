@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2025-12-14 Daily AI & Tech News
+title: "OpenAI, 최강의 프론티어 모델 'GPT-5.2' 공식 공개 등 7개 기사"
 ---
 
 # GPT-5.2 시대 개막! 그리고 AI 인프라 전쟁: 오늘의 기술 핫이슈 7

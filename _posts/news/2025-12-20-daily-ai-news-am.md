@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2025-12-20 Daily AI & Tech News
+title: "얀 르쿤, ‘월드 모델’ 스타트업 설립 공식 확인 (50억 달러 이상 가치 추구) 등 7개 기사"
 ---
 
 안녕하세요!

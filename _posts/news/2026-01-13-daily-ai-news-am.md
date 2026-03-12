@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-01-13 Daily AI & Tech News
+title: "마크 저커버그, 메타의 초대형 AI 인프라 구축 선언 등 3개 기사"
 ---
 
 안녕하세요!

@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-02-23 Daily AI & Tech News
+title: "OpenAI와 Paradigm, AI 보안 성능 측정을 위한 'EVMbench' 공개 등 3개 기사"
 ---
 
 안녕하세요!

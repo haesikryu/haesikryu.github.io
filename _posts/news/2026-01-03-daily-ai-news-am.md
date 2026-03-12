@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-01-03 Daily AI & Tech News
+title: "인도의 'Grok AI' 음란 콘텐츠 생성에 대한 강력 경고 등 4개 기사"
 ---
 
 안녕하세요!

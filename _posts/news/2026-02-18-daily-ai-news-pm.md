@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-02-18 Daily AI & Tech News
+title: "단순 알림은 옛말, 이제는 AI 에이전트로 거듭난 '슬랙봇(Slackbot)' 등 3개 기사"
 ---
 
 안녕하세요!

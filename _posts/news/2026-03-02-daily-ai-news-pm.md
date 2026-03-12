@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-03-02 Daily AI & Tech News
+title: "Anthropic, 비개발자를 위한 데스크톱 AI 에이전트 'Cowork' 출시 등 4개 기사"
 ---
 
 안녕하세요!

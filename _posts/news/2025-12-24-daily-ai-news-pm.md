@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2025-12-24 Daily AI & Tech News
+title: "유명 작가들, Anthropic 합의 거부하며 6대 AI 기업에 소송 제기 등 6개 기사"
 ---
 
 안녕하세요!

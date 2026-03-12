@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-02-04 Daily AI & Tech News
+title: "인텔, 엔비디아 독점 시장에 도전하며 자체 GPU 개발 본격화 등 4개 기사"
 ---
 
 안녕하세요!

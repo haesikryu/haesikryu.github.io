@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-03-05 Daily AI & Tech News
+title: "AI 군사 계약을 둘러싼 Anthropic과 OpenAI의 진실 공방 등 5개 기사"
 ---
 
 안녕하세요!

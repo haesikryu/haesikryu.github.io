@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-03-06 Daily AI & Tech News
+title: "OpenAI, 차세대 모델 'GPT-5.4' 전격 공개: 전문가 업무의 혁신 등 4개 기사"
 ---
 
 안녕하세요!

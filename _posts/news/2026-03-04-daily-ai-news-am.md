@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-03-04 Daily AI & Tech News
+title: "OpenAI, '오글거림' 뺀 GPT-5.3 인스턴트 모델 출시 등 4개 기사"
 ---
 
 안녕하세요!

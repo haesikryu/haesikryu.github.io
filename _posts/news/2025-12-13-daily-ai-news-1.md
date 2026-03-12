@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2025-12-13 Daily AI & Tech News (2)
+title: "구글 번역에 최첨단 제미나이(Gemini) 번역 기능 도입 등 5개 기사"
 ---
 
 # 제미나이, 구글 번역을 혁신하다: 오늘 놓쳐선 안 될 AI & Tech 핫이슈 5가지

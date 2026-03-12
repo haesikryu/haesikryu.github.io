@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2025-12-15 Daily AI & Tech News
+title: "OpenAI, 차세대 선두 모델 GPT-5.2 공식 발표 등 6개 기사"
 ---
 
 안녕하세요!

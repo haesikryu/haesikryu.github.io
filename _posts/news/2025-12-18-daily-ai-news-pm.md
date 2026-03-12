@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2025-12-18 Daily AI & Tech News
+title: "구글, Gemini 3 Flash를 기본 모델로 지정 및 검색 AI 모델로 도입 등 6개 기사"
 ---
 
 안녕하세요!

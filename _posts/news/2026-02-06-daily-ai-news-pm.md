@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-02-06 Daily AI & Tech News
+title: "OpenAI, 코딩 능력을 한 단계 끌어올린 'GPT-5.3-Codex' 공개 등 2개 기사"
 ---
 
 안녕하세요!

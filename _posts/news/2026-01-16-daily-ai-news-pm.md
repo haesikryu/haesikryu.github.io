@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-01-16 Daily AI & Tech News
+title: "머스크 대 OpenAI/MS 소송, 법원 문턱 넘다 등 1개 기사"
 ---
 
 안녕하세요!

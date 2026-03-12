@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2025-12-29 Daily AI & Tech News
+title: "OpenAI, AI 리스크 관리를 위한 '위험 대비 책임자' 영입 추진 등 1개 기사"
 ---
 
 안녕하세요!

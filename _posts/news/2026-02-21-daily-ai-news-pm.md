@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-02-21 Daily AI & Tech News
+title: "마이크로소프트 게이밍의 수장 필 스펜서 퇴진, 후임은 AI 전문가 등 4개 기사"
 ---
 
 안녕하세요!

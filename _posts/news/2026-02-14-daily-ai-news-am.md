@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-02-14 Daily AI & Tech News
+title: "GPT-5.2, 이론 물리학에서 새로운 공식 발견 등 5개 기사"
 ---
 
 안녕하세요!

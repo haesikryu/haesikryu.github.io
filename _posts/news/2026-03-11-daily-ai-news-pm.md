@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-03-11 Daily AI & Tech News
+title: "구글 제미나이(Gemini), 인도 등 글로벌 크롬 브라우저에 전격 통합 등 3개 기사"
 ---
 
 안녕하세요!

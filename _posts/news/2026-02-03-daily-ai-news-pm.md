@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-02-03 Daily AI & Tech News
+title: "앤트로픽, 일반 사용자용 데스크톱 AI 에이전트 'Cowork' 공개 등 1개 기사"
 ---
 
 안녕하세요!

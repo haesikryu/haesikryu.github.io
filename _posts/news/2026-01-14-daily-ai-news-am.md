@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-01-14 Daily AI & Tech News
+title: "MS의 대규모 데이터센터 투자와 '착한 이웃' 약속 등 4개 기사"
 ---
 
 안녕하세요!

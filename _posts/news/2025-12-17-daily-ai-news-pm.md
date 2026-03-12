@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2025-12-17 Daily AI & Tech News
+title: "OpenAI, 이미지 생성 모델 GPT Image 1.5 출시 (Google과의 경쟁 심화) 등 6개 기사"
 ---
 
 안녕하세요!

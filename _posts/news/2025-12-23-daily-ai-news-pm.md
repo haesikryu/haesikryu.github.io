@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2025-12-23 Daily AI & Tech News
+title: "챗GPT, 스포티파이처럼 '연말 결산(Wrapped)' 기능 출시 등 5개 기사"
 ---
 
 # 오늘의 AI 브리핑: 챗GPT의 연말 결산부터 에너지부와의 협력까지 (12/23)

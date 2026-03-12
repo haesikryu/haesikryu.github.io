@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-03-03 Daily AI & Tech News
+title: "OpenAI의 미 국방부 계약 파문과 ChatGPT 삭제 대열 등 5개 기사"
 ---
 
 안녕하세요!

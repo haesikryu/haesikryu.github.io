@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-02-13 Daily AI & Tech News
+title: "앤스로픽, 300억 달러 투자 유치하며 기업 가치 3,800억 달러 달성 등 5개 기사"
 ---
 
 안녕하세요!

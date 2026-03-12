@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2025-12-19 Daily AI & Tech News
+title: "챗GPT, 개발자들을 위한 앱 스토어 전격 출시 등 7개 기사"
 ---
 
 # AI 생태계 빅뱅: 챗GPT, 앱스토어 열고 $30억 돌파!

@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2025-12-10 Daily AI & Tech News (2)
+title: "OpenAI, 공식 'AI 인증' 프로그램 출시로 인력 양성 시장 진출 등 6개 기사"
 ---
 
 # AI 거물들의 움직임: OpenAI 인증 프로그램 출시와 유럽 시장 공략 (12월 10일 테크 다이제스트)

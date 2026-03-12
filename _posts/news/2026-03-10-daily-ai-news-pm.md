@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-03-10 Daily AI & Tech News
+title: "얀 르쿤의 AMI Labs, '세계 모델' 구축을 위해 10억 달러 투자 유치 등 2개 기사"
 ---
 
 안녕하세요!

@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2025-12-20 Daily AI & Tech News
+title: "얀 르쿤, '월드 모델' 스타트업 공식 인정 (목표 기업 가치 50억 달러 이상) 등 6개 기사"
 ---
 
 # AI 거물들의 움직임 포착! 르쿤의 스타트업 확정 및 GPT-5.2-Codex 출시 | 오늘자 테크 다이제스트

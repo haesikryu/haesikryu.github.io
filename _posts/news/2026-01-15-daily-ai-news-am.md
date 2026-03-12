@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-01-15 Daily AI & Tech News
+title: "OpenAI, Cerebras와 100억 달러 규모의 초대형 컴퓨팅 계약 체결 등 4개 기사"
 ---
 
 안녕하세요!

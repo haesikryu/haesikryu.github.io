@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-03-06 Daily AI & Tech News
+title: "Anthropic, 미국 국방부의 '공급망 위험' 지정에 정면 돌파 선언 등 2개 기사"
 ---
 
 안녕하세요! 

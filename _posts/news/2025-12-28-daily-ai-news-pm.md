@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2025-12-28 Daily AI & Tech News
+title: "미디어 거인 디즈니, 운영 모델에 생성형 AI 통합 등 4개 기사"
 ---
 
 # AI, 이제 '운영 모델'로 진화하다: 디즈니, Arm, 그리고 전력망 혁신

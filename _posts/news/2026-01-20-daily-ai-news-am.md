@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-01-20 Daily AI & Tech News
+title: "AI 투자 열풍 지속: 2025년 1억 달러 이상 투자 유치한 스타트업 55개 돌파 등 4개 기사"
 ---
 
 안녕하세요!
