@@ -5,4 +5,15 @@
   color: #888;
   font-style: italic;
   white-space: pre-line;
+}
+
+/* Tags 페이지: 사이드바 배경/오버레이가 태그 구름을 가리지 않도록 위로 올림 */
+#tag-cloud-wrapper {
+  position: relative;
+  z-index: 10;
+  isolation: isolate;
+}
+#tag-cloud-canvas {
+  position: relative;
+  z-index: 1;
 } 

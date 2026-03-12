@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-01-06 Daily AI & Tech News
+title: "엔비디아, 컴퓨팅과 로봇 생태계를 장악하다: '루빈' 아키텍처 및 로보틱스 안드로이드 전략 발표 등 3개 기사"
 ---
 
 안녕하세요!

@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-01-18 Daily AI & Tech News
+title: "💰 머스크, OpenAI 소송에서 최대 1,340억 달러 요구 등 2개 기사"
 ---
 
 안녕하세요!

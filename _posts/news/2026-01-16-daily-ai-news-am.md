@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-01-16 Daily AI & Tech News
+title: "AI 칩 전쟁 격화: 엔비디아 관세와 대만의 대규모 對美 투자 등 4개 기사"
 ---
 
 안녕하세요!

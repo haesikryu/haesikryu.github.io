@@ -10,15 +10,40 @@ NEWS_DIR = os.path.join(os.path.dirname(__file__), "..", "_posts", "news")
 
 
 def extract_first_title_and_count(content):
-    """본문에서 첫 번째 ## 1. 제목과 기사 개수를 반환. (first_title, count)"""
+    """본문에서 첫 번째 기사 제목과 기사 개수를 반환. 여러 형식 지원. (first_title, count)"""
     if not content or not isinstance(content, str):
         return None, 0
-    first = re.search(r"^##\s*1\.\s*(.+?)(?:\n|$)", content.strip(), re.MULTILINE)
-    if not first:
-        return None, 0
-    title = first.group(1).strip()
-    matches = re.findall(r"^##\s*\d+\.\s", content.strip(), re.MULTILINE)
-    return title if title else None, len(matches)
+    text = content.strip()
+
+    # 패턴 1: ## 1. 제목
+    m = re.search(r"^##\s*1\.\s*(.+?)(?:\n|$)", text, re.MULTILINE)
+    if m:
+        title = m.group(1).strip()
+        cnt = len(re.findall(r"^##\s*\d+\.\s", text, re.MULTILINE))
+        return title if title else None, cnt
+
+    # 패턴 2: ### ## 1. 제목 또는 #+ ## 1. 제목
+    m = re.search(r"^#+\s*##\s*1\.\s*(.+?)(?:\n|$)", text, re.MULTILINE)
+    if m:
+        title = m.group(1).strip()
+        cnt = len(re.findall(r"^#+\s*##\s*\d+\.\s", text, re.MULTILINE))
+        return title if title else None, cnt
+
+    # 패턴 3: ### 1. 제목 (## 없이)
+    m = re.search(r"^###\s*1\.\s*(.+?)(?:\n|$)", text, re.MULTILINE)
+    if m:
+        title = m.group(1).strip()
+        cnt = len(re.findall(r"^###\s*\d+\.\s", text, re.MULTILINE))
+        return title if title else None, cnt
+
+    # 패턴 4: ## 제목 (번호 없음) — 첫 번째 ##를 제목으로, ## 개수를 기사 수로
+    m = re.search(r"^##\s+(.+?)(?:\n|$)", text, re.MULTILINE)
+    if m:
+        title = m.group(1).strip()
+        cnt = len(re.findall(r"^##\s+", text, re.MULTILINE))
+        return title if title else None, cnt
+
+    return None, 0
 
 
 def update_file(filepath):

@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-02-06 Daily AI & Tech News
+title: "코딩을 넘어 과학까지: GPT-5.3-Codex의 등장과 AI 에이전트의 진화 등 3개 기사"
 ---
 
 안녕하세요!

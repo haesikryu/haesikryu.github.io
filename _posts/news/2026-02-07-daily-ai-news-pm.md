@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-02-07 Daily AI & Tech News
+title: "💥 AI 에이전트, 스스로 C 컴파일러를 만들다 (feat. Anthropic Claude) 등 4개 기사"
 ---
 
 안녕하세요!

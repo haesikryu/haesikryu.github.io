@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-02-04 Daily AI & Tech News
+title: "구글, 'Google AI Plus' 서비스 대규모 확장: 미국 포함 35개국 추가 등 3개 기사"
 ---
 
 안녕하세요!

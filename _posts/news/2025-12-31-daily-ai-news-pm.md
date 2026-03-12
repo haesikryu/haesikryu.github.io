@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2025-12-31 Daily AI & Tech News
+title: "\"아이폰은 10년 안에 사라진다\": 스마트폰의 미래에 대한 급진적 예측 등 1개 기사"
 ---
 
 안녕하세요!

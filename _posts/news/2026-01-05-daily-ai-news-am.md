@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-01-05 Daily AI & Tech News
+title: "Grok 딥페이크 생성 논란, 프랑스 및 말레이시아 당국 조사 착수 등 3개 기사"
 ---
 
 안녕하세요!

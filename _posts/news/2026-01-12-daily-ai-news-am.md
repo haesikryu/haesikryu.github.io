@@ -8,7 +8,7 @@ tags:
 - daily-news
 - automation
 - ai
-title: 2026-01-12 Daily AI & Tech News
+title: "Google, 부정확성 논란으로 특정 의료 쿼리에 대한 'AI Overviews' 기능 제거 등 4개 기사"
 ---
 
 안녕하세요! 기술과 AI의 최전선을 빠르게 전달해 드리는 테크 다이제스트입니다.
