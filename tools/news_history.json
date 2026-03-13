@@ -1,135 +1,5 @@
 [
   {
-    "title": "DiligenceSquared uses AI, voice agents to make M&A research affordable",
-    "link": "https://techcrunch.com/2026/03/05/diligencesquared-uses-ai-voice-agents-to-make-ma-research-affordable/",
-    "date": "2026-03-06"
-  },
-  {
-    "title": "AWS launches a new AI agent platform specifically for healthcare",
-    "link": "https://techcrunch.com/2026/03/05/aws-amazon-connect-health-ai-agent-platform-health-care-providers/",
-    "date": "2026-03-06"
-  },
-  {
-    "title": "US reportedly considering sweeping new chip export controls",
-    "link": "https://techcrunch.com/2026/03/05/us-reportedly-considering-sweeping-new-chip-export-controls/",
-    "date": "2026-03-06"
-  },
-  {
-    "title": "It’s official: The Pentagon has labeled Anthropic a supply-chain risk",
-    "link": "https://techcrunch.com/2026/03/05/its-official-the-pentagon-has-labeled-anthropic-a-supply-chain-risk/",
-    "date": "2026-03-06"
-  },
-  {
-    "title": "EXCLUSIVE: Luma launches creative AI agents powered by its new ‘Unified Intelligence’ models",
-    "link": "https://techcrunch.com/2026/03/05/exclusive-luma-launches-creative-ai-agents-powered-by-its-new-unified-intelligence-models/",
-    "date": "2026-03-06"
-  },
-  {
-    "title": "Introducing GPT-5.4",
-    "link": "https://openai.com/index/introducing-gpt-5-4",
-    "date": "2026-03-06"
-  },
-  {
-    "title": "Reasoning models struggle to control their chains of thought, and that’s good",
-    "link": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
-    "date": "2026-03-06"
-  },
-  {
-    "title": "GPT-5.4 Thinking System Card",
-    "link": "https://openai.com/index/gpt-5-4-thinking-system-card",
-    "date": "2026-03-06"
-  },
-  {
-    "title": "Ensuring AI use in education leads to opportunity",
-    "link": "https://openai.com/index/ai-education-opportunity",
-    "date": "2026-03-06"
-  },
-  {
-    "title": "Introducing ChatGPT for Excel and new financial data integrations",
-    "link": "https://openai.com/index/chatgpt-for-excel",
-    "date": "2026-03-06"
-  },
-  {
-    "title": "Ask a Techspert: How does AI understand my visual searches?",
-    "link": "https://blog.google/company-news/inside-google/googlers/how-google-ai-visual-search-works/",
-    "date": "2026-03-06"
-  },
-  {
-    "title": "The latest AI news we announced in February",
-    "link": "https://blog.google/innovation-and-ai/products/google-ai-updates-february-2026/",
-    "date": "2026-03-06"
-  },
-  {
-    "title": "The Download: an AI agent’s hit piece, and preventing lightning",
-    "link": "https://www.technologyreview.com/2026/03/05/1133968/the-download-ai-agent-hit-piece-preventing-lightning/",
-    "date": "2026-03-06"
-  },
-  {
-    "title": "How much wildfire prevention is too much?",
-    "link": "https://www.technologyreview.com/2026/03/05/1133960/wildfire-prevention-limits/",
-    "date": "2026-03-06"
-  },
-  {
-    "title": "Online harassment is entering its AI era",
-    "link": "https://www.technologyreview.com/2026/03/05/1133962/online-harassment-is-entering-its-ai-era/",
-    "date": "2026-03-06"
-  },
-  {
-    "title": "Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fine‑Tuning, and On‑Device Optimizations",
-    "link": "https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms",
-    "date": "2026-03-06"
-  },
-  {
-    "title": "Introducing Modular Diffusers - Composable Building Blocks for Diffusion Pipelines",
-    "link": "https://huggingface.co/blog/modular-diffusers",
-    "date": "2026-03-06"
-  },
-  {
-    "title": "Workers report watching Ray-Ban Meta-shot footage of people using the bathroom",
-    "link": "https://arstechnica.com/gadgets/2026/03/workers-report-watching-ray-ban-meta-shot-footage-of-people-using-the-bathroom/",
-    "date": "2026-03-06"
-  },
-  {
-    "title": "MS exec: Microsoft's next console will play \"Xbox and PC games\"",
-    "link": "https://arstechnica.com/gaming/2026/03/ms-exec-microsofts-next-console-will-play-xbox-and-pc-games/",
-    "date": "2026-03-06"
-  },
-  {
-    "title": "RFK Jr.’s anti-vaccine policies are \"unreviewable,\" DOJ lawyer tells judge",
-    "link": "https://arstechnica.com/health/2026/03/rfk-jr-can-promote-getting-measles-with-impunity-doj-lawyer-tells-judge/",
-    "date": "2026-03-06"
-  },
-  {
-    "title": "Amazon appears to be down, with over 20,000 reported problems",
-    "link": "https://arstechnica.com/gadgets/2026/03/amazon-appears-to-be-down-with-over-20000-reported-problems/",
-    "date": "2026-03-06"
-  },
-  {
-    "title": "OpenAI introduces GPT-5.4 with more knowledge-work capability",
-    "link": "https://arstechnica.com/ai/2026/03/openai-introduces-gpt-5-4-with-more-knowledge-work-capability/",
-    "date": "2026-03-06"
-  },
-  {
-    "title": "JPMorgan expands AI investment as tech spending nears $20B",
-    "link": "https://www.artificialintelligence-news.com/news/jpmorgan-expands-ai-investment/",
-    "date": "2026-03-06"
-  },
-  {
-    "title": "Beyond the pilot: Dyna.Ai raises eight-figure Series A to put agentic AI in financial services to work",
-    "link": "https://www.artificialintelligence-news.com/news/dyna-ai-series-a-agentic-ai-financial-services/",
-    "date": "2026-03-06"
-  },
-  {
-    "title": "Anthropic to challenge DOD’s supply-chain label in court",
-    "link": "https://techcrunch.com/2026/03/05/anthropic-to-challenge-dods-supply-chain-label-in-court/",
-    "date": "2026-03-06"
-  },
-  {
-    "title": "The five AI value models driving business reinvention",
-    "link": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",
-    "date": "2026-03-06"
-  },
-  {
     "title": "Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers",
     "link": "https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department/",
     "date": "2026-03-07"
@@ -658,5 +528,90 @@
     "title": "How NVIDIA AI-Q Reached \\#1 on DeepResearch Bench I and II",
     "link": "https://huggingface.co/blog/nvidia/how-nvidia-won-deepresearch-bench",
     "date": "2026-03-12"
+  },
+  {
+    "title": "How to watch Jensen Huang’s Nvidia GTC 2026 keynote",
+    "link": "https://techcrunch.com/2026/03/12/how-to-watch-jensen-huangs-nvidia-gtc-2026-keynote/",
+    "date": "2026-03-13"
+  },
+  {
+    "title": "Sales automation startup Rox AI hits $1.2B valuation, sources say",
+    "link": "https://techcrunch.com/2026/03/12/sales-automation-startup-rox-ai-hits-1-2b-valuation-sources-say/",
+    "date": "2026-03-13"
+  },
+  {
+    "title": "Facebook Marketplace now lets Meta AI respond to buyers’ messages",
+    "link": "https://techcrunch.com/2026/03/12/facebook-marketplace-now-lets-meta-ai-respond-to-buyers-messages/",
+    "date": "2026-03-13"
+  },
+  {
+    "title": "Tinder tries to lure people back to online dating with IRL events, virtual speed dating",
+    "link": "https://techcrunch.com/2026/03/12/tinder-tries-to-lure-people-back-to-online-dating-with-irl-events-virtual-speed-dating/",
+    "date": "2026-03-13"
+  },
+  {
+    "title": "Atlassian follows Block’s footsteps and cuts staff in the name of AI",
+    "link": "https://techcrunch.com/2026/03/12/atlassian-follows-blocks-footsteps-and-cuts-staff-in-the-name-of-ai/",
+    "date": "2026-03-13"
+  },
+  {
+    "title": "A defense official reveals how AI chatbots could be used for targeting decisions",
+    "link": "https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/",
+    "date": "2026-03-13"
+  },
+  {
+    "title": "The Download: Early adopters cash in on China’s OpenClaw craze, and US batteries slump",
+    "link": "https://www.technologyreview.com/2026/03/12/1134207/the-download-china-openclaw-ai-craze-us-battery-industry-downturn/",
+    "date": "2026-03-13"
+  },
+  {
+    "title": "Pragmatic by design: Engineering AI for the real world",
+    "link": "https://www.technologyreview.com/2026/03/12/1133675/pragmatic-by-design-engineering-ai-for-the-real-world/",
+    "date": "2026-03-13"
+  },
+  {
+    "title": "Brutal times for the US battery industry",
+    "link": "https://www.technologyreview.com/2026/03/12/1134197/us-battery-industry/",
+    "date": "2026-03-13"
+  },
+  {
+    "title": "Build an Agent That Thinks Like a Data Scientist: How We Hit #1 on DABStep with Reusable Tool Generation",
+    "link": "https://huggingface.co/blog/nvidia/nemo-agent-toolkit-data-explorer-dabstep-1st-place",
+    "date": "2026-03-13"
+  },
+  {
+    "title": "The who, what, and why of the attack that has shut down Stryker's Windows network",
+    "link": "https://arstechnica.com/security/2026/03/whats-known-about-wiper-attack-on-stryker-a-major-supplier-of-lifesaving-devices/",
+    "date": "2026-03-13"
+  },
+  {
+    "title": "Live Nation director boasted of gouging ticket buyers, \"robbing them blind\"",
+    "link": "https://arstechnica.com/tech-policy/2026/03/live-nation-director-boasted-of-gouging-ticket-buyers-robbing-them-blind/",
+    "date": "2026-03-13"
+  },
+  {
+    "title": "HP has new incentive to stop blocking third-party ink in its printers",
+    "link": "https://arstechnica.com/gadgets/2026/03/hp-has-new-incentive-to-stop-blocking-third-party-ink-in-its-printers/",
+    "date": "2026-03-13"
+  },
+  {
+    "title": "Trump's DOJ is not falling for Sam Bankman-Fried's MAGA makeover on X",
+    "link": "https://arstechnica.com/tech-policy/2026/03/trumps-doj-is-not-falling-for-sam-bankman-frieds-maga-makeover-on-x/",
+    "date": "2026-03-13"
+  },
+  {
+    "title": "Lucid announces midsize EV platform, says profitability lies with SUVs",
+    "link": "https://arstechnica.com/cars/2026/03/lucid-announces-midsize-ev-platform-says-profitability-lies-with-suvs/",
+    "date": "2026-03-13"
+  },
+  {
+    "title": "How multi-agent AI economics influence business automation",
+    "link": "https://www.artificialintelligence-news.com/news/how-multi-agent-ai-economics-business-automation/",
+    "date": "2026-03-13"
+  },
+  {
+    "title": "FIFA is rebuilding world football operations on AI. The World Cup is just the first test",
+    "link": "https://www.artificialintelligence-news.com/news/fifa-ai-world-cup-2026-lenovo/",
+    "date": "2026-03-13"
   }
 ]
