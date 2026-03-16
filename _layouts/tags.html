@@ -43,10 +43,14 @@ layout: page
   const canvas = document.getElementById("tag-cloud-canvas");
   canvas.width = wrapper.offsetWidth;
   canvas.height = 600;
+  var baseScale = 0.05 * canvas.width;
+  var maxFontSize = 72;  /* 빈도가 매우 높은 태그가 거대하게 그려져 녹색 블록처럼 보이는 현상 방지 */
   WordCloud(canvas, {
     list: tagList,
     gridSize: 8,
-    weightFactor: 0.05 * canvas.width,
+    weightFactor: function (size) {
+      return Math.min(size * baseScale, maxFontSize);
+    },
     minSize: 0,
     fontFamily: "Nanum Gothic, Arial",
     color: "random-dark",
