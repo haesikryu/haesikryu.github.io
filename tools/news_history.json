@@ -1,65 +1,5 @@
 [
   {
-    "title": "Will the Pentagon’s Anthropic controversy scare startups away from defense work?",
-    "link": "https://techcrunch.com/2026/03/08/will-the-pentagons-anthropic-controversy-scare-startups-away-from-defense-work/",
-    "date": "2026-03-09"
-  },
-  {
-    "title": "Owner of ICE detention facility sees big opportunity in AI man camps",
-    "link": "https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps/",
-    "date": "2026-03-09"
-  },
-  {
-    "title": "Jessica Jones joins the fray in Daredevil: Born Again trailer",
-    "link": "https://arstechnica.com/culture/2026/03/jessica-jones-joins-the-fray-in-daredevil-born-again-trailer/",
-    "date": "2026-03-09"
-  },
-  {
-    "title": "Tiny, long-armed dinosaur leads to rethink of dinosaur miniaturization",
-    "link": "https://arstechnica.com/science/2026/03/tiny-long-armed-dinosaur-leads-to-rethink-of-dinosaur-miniaturization/",
-    "date": "2026-03-09"
-  },
-  {
-    "title": "Ring’s Jamie Siminoff has been trying to calm privacy fears since the Super Bowl, but his answers may not help",
-    "link": "https://techcrunch.com/2026/03/08/rings-jamie-siminoff-has-been-trying-to-calm-privacy-fears-since-the-super-bowl-but-his-answers-may-not-help/",
-    "date": "2026-03-09"
-  },
-  {
-    "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-    "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-    "date": "2026-03-09"
-  },
-  {
-    "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-    "link": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-    "date": "2026-03-09"
-  },
-  {
-    "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-    "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
-    "date": "2026-03-09"
-  },
-  {
-    "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-    "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-    "date": "2026-03-09"
-  },
-  {
-    "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
-    "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
-    "date": "2026-03-09"
-  },
-  {
-    "title": "Mixture of Experts (MoEs) in Transformers",
-    "link": "https://huggingface.co/blog/moe-transformers",
-    "date": "2026-03-09"
-  },
-  {
-    "title": "GGML and llama.cpp join HF to ensure the long-term progress of Local AI",
-    "link": "https://huggingface.co/blog/ggml-joins-hf",
-    "date": "2026-03-09"
-  },
-  {
     "title": "OpenAI and Google employees rush to Anthropic’s defense in DOD lawsuit",
     "link": "https://techcrunch.com/2026/03/09/openai-and-google-employees-rush-to-anthropics-defense-in-dod-lawsuit/",
     "date": "2026-03-10"
@@ -603,5 +543,30 @@
     "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
     "link": "https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/",
     "date": "2026-03-15"
+  },
+  {
+    "title": "Google, Accel India accelerator choses 5 startups and none are ‘AI wrappers’",
+    "link": "https://techcrunch.com/2026/03/15/google-and-accel-cut-through-wrappers-in-4000-ai-startup-pitches-to-pick-five-tied-to-india/",
+    "date": "2026-03-16"
+  },
+  {
+    "title": "ByteDance reportedly pauses global launch of its Seedance 2.0 video generator",
+    "link": "https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/",
+    "date": "2026-03-16"
+  },
+  {
+    "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
+    "link": "https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
+    "date": "2026-03-16"
+  },
+  {
+    "title": "Wiz investor unpacks Google’s $32B acquisition",
+    "link": "https://techcrunch.com/2026/03/15/wiz-investor-unpacks-googles-32b-acquisition/",
+    "date": "2026-03-16"
+  },
+  {
+    "title": "An engineering thesis disguised as a coupe: A history of the Honda Prelude",
+    "link": "https://arstechnica.com/cars/2026/03/an-engineering-thesis-disguised-as-a-coupe-a-history-of-the-honda-prelude/",
+    "date": "2026-03-16"
   }
 ]
