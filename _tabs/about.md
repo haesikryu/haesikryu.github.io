@@ -20,13 +20,14 @@ order: 7
 - **Cloud Native Application Architecture**
 - **Microservices Design & Implementation**
 - **Domain-Driven Design (DDD)**
+- **Domain Storytelling**
 - **Application Modeling & UML**
 - **Enterprise System Integration**
 
 ### 보유 기술
-- **Architecture**: Application Architect, UML Modeler
-- **Methodology**: Domain Storytelling, Agile/Scrum
-- **Cloud**: Cloud Computing Applications, MSA
+- **Architecture**: Software Architect, AI/Agent Architect, UML Modeler
+- **Methodology**: Event Storming, Domain Storytelling, Agile/Scrum
+- **Cloud**: Cloud Computing Applications, Microsoft Architecture
 
 ### 인증 & 자격
 - **Certified ScrumMaster® (CSM®)**
@@ -42,12 +43,12 @@ order: 7
 - Cloud Native Application 설계 및 구현 방법론
 - 마이크로서비스 아키텍처의 실무 적용 사례
 - AI 시대의 엔터프라이즈 시스템 통합 전략
-- 도메인 주도 설계와 실무 모델링 기법
+- 도메인 주도 설계, 도메인 스토리텔링과 실무 모델링 기법
 
 ### 콘텐츠 특징
 - **실무 중심**: 23년간의 아키텍트/개발자 경험 기반 실제 사례 제공
 - **교육적 접근**: K-MOOC 강의 경험을 살린 체계적 설명
-- **이론과 실무 연결**: 책 저술 경험을 바탕으로 한 깊이 있는 분석
+- **이론과 실무 연결**: IT 기술도서 저술 경험을 바탕으로 한 깊이 있는 분석
 
 ---
 
@@ -65,45 +66,49 @@ order: 7
 ## 🎤 강연 & 교육 활동
 
 ### 정규 교육 과정
-- **SK C&C 전사 Cloud Application Developing 과정** - 정기 강의
-- **Cloud Native Labs - Application Modeling** - 정기 강의
-- **K-MOOC Cloud 기반 소프트웨어 엔지니어링 과정** - Microservice 설계 및 구현 강사 (2018, SK-KAIST 공동)
+- **SK AX 전사 AI 기반 소프트웨어 개발 방법론 과정** - 정기 강의
+- **SK AX 전사 Applicaiton Modernization Factory 과정** - 정기 강의
+- **Cloud Native Labs - Miroservices/Application Modeling** - 정기 강의
+- **K-MOOC Cloud 기반 소프트웨어 엔지니어링 과정** - Microservice 설계 및 구현 강사 (2018~21, SK-KAIST 공동)
 
 ### 멘토링 활동 (2021 ~ 현재)
+- **정부 Cloud/MSA 전환사업 기술 적합성 검토** - (한국지능정보사회진흥원)
+- **Cloud 주니어 엔지니어 양성과정** - 멘토 (청년취업사관학교 SeSAC)
 - **4차 산업혁명 선도인력양성 융복합 프로젝트** - 멘토 (고용노동부/멀티캠퍼스)
 - **K-디지털 핵심 실무인재 양성사업** - 프로젝트 멘토 (고용노동부/멀티캠퍼스)
 - **혁신성장 청년인재 집중양성 사업** - 프로젝트 멘토 (한국품질재단/부산정보산업진흥원)
 - **클라우드 기반 풀스택 개발자 양성과정** - 프로젝트 멘토 (한국표준협회)
 - **ICT 챌린지 2022/2023** - 멘토 (과학기술정보통신부)
 - **성남시 대학생 취업 멘토링 & 청년 희망 멘토링** - 멘토 (성남시)
-
+- **K-MOOC Cloud 기반 소프트웨어 엔지니어링 과정 (SK-KAIST 공동)** - 강사 (교육부/국가평생교육진흥원)
 ---
 
 ## 💼 주요 경력 & 프로젝트
 
 ### 현재 (SK(주) AX, 2011.10 ~ 현재)
-**SW Architect, Cloud Native Application 개발 방법론 담당**
-- AI 기반 Digital PMO 포털 구축 사업
+**SW Architect, AI Architect, Cloud Native Application 개발 방법론 담당**
+
 - AI기반 SW개발방법론 개발 / 적용
 
 **대내외 기술 지원 프로젝트:**
-- O사 Learning Portal 시스템 구축 사업
-- O사 Next TV Platform 구축 사업  
-- O사 Service Flow 시스템 구축 사업
-- O사 Back Office 시스템 구축 사업
-- O사 통합영업시스템 구축 사업
-- O사 지식관리시스템 구축 사업 (PM)
+- O사 AI 기반 Digital PMO 포털 구축 사업 - Architect/방법론담당/PL
+- O사 AI 기반 지식/기술 자산 관리 시스템 구축 - PM/Architect
+- O사 Learning Portal 시스템 구축 사업 - Architect
+- O사 Next TV Platform 구축 사업 - MSA Architect, 업무PL(MSA 3개, Cloud Friendly 3개 시스템)
+- O사 Service Flow 시스템 구축 사업 - MSA Architect/UML Modeler
+- O사 POS Back Office 시스템 구축 사업 - MSA Architect
+- O사 통합영업시스템 구축 사업 - MSA Architect
 
 
 ### 이전 경력 (도담시스템스, 2003.01 ~ 2011.10)
 **Simulation SW 개발 담당**
 
 **주요 국방 프로젝트:**
-- 한국형 고등훈련기 (T-50) Simulator 개발 (방위사업청/공군)
-- UH-60P Full Flight Simulator 개발 (방위사업청/육군)
-- 항공기 임베디드 시스템(HUD) 개발 (지식경제부)
-- 해상작전헬기(Lynx) Full Mission Simulator 개발 (방위사업청/해군)
-- 해군 특수전 여단 모의 훈련체계 개발 총괄 (방위사업청/해군)
+- 해군 특수전 여단 모의 훈련체계 개발 총괄 - PM (방위사업청/해군)
+- 해상작전헬기(Lynx) Full Mission Simulator 개발 - Simulation SW PL (방위사업청/해군)
+- 항공기 임베디드 시스템(HUD) 개발 - Simulation SW Developer  (지식경제부)
+- UH-60P Full Flight Simulator 개발 - Simulation SW Developer  (방위사업청/육군)
+- 한국형 고등훈련기 (T-50) Simulator 개발 - Simulation SW Developer (방위사업청/공군)
 
 ---
 
@@ -122,4 +127,4 @@ order: 7
 
 *"복잡한 시스템의 본질을 파악하여, 지속 가능하고 확장 가능한 아키텍처를 설계하는 것이 저의 목표입니다."*
 
-**마지막 업데이트**: 2025년 6월 19일
+**마지막 업데이트**: 2026년 3월 16일
