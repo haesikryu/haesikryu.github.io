@@ -1,7 +1,7 @@
 ---
 title: Q&A
 icon: fas fa-comments
-order: 6
+order: 8
 layout: page
 comments: true
 ---
