@@ -1,115 +1,5 @@
 [
   {
-    "title": "OpenAI and Google employees rush to Anthropic’s defense in DOD lawsuit",
-    "link": "https://techcrunch.com/2026/03/09/openai-and-google-employees-rush-to-anthropics-defense-in-dod-lawsuit/",
-    "date": "2026-03-10"
-  },
-  {
-    "title": "Anthropic launches code review tool to check flood of AI-generated code",
-    "link": "https://techcrunch.com/2026/03/09/anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code/",
-    "date": "2026-03-10"
-  },
-  {
-    "title": "OpenAI acquires Promptfoo to secure its AI agents",
-    "link": "https://techcrunch.com/2026/03/09/openai-acquires-promptfoo-to-secure-its-ai-agents/",
-    "date": "2026-03-10"
-  },
-  {
-    "title": "Anthropic sues Defense Department over supply-chain risk designation",
-    "link": "https://techcrunch.com/2026/03/09/anthropic-sues-defense-department-over-supply-chain-risk-designation/",
-    "date": "2026-03-10"
-  },
-  {
-    "title": "Qualcomm’s partnership with Neura Robotics is just the beginning",
-    "link": "https://techcrunch.com/2026/03/09/qualcomms-partnership-with-neura-robotics-is-just-the-beginning/",
-    "date": "2026-03-10"
-  },
-  {
-    "title": "OpenAI to acquire Promptfoo",
-    "link": "https://openai.com/index/openai-to-acquire-promptfoo",
-    "date": "2026-03-10"
-  },
-  {
-    "title": "How AI is turning the Iran conflict into theater",
-    "link": "https://www.technologyreview.com/2026/03/09/1134063/how-ai-is-turning-the-iran-conflict-into-theater/",
-    "date": "2026-03-10"
-  },
-  {
-    "title": "The usability imperative for securing digital asset devices",
-    "link": "https://www.technologyreview.com/2026/03/09/1132352/the-usability-imperative-for-securing-digital-asset-devices/",
-    "date": "2026-03-10"
-  },
-  {
-    "title": "The Download: murky AI surveillance laws, and the White House cracks down on defiant labs",
-    "link": "https://www.technologyreview.com/2026/03/09/1134050/the-download-ai-surveillance-laws-white-house-cracks-down-defiant-labs/",
-    "date": "2026-03-10"
-  },
-  {
-    "title": "Granite 4.0 1B Speech: Compact, Multilingual, and Built for the Edge",
-    "link": "https://huggingface.co/blog/ibm-granite/granite-4-speech",
-    "date": "2026-03-10"
-  },
-  {
-    "title": "Ulysses Sequence Parallelism: Training with Million-Token Contexts",
-    "link": "https://huggingface.co/blog/ulysses-sp",
-    "date": "2026-03-10"
-  },
-  {
-    "title": "LeRobot v0.5.0: Scaling Every Dimension",
-    "link": "https://huggingface.co/blog/lerobot-release-v050",
-    "date": "2026-03-10"
-  },
-  {
-    "title": "After falling far behind the rest of industry, Blue Origin creates new stock option plan",
-    "link": "https://arstechnica.com/space/2026/03/after-years-of-missteps-blue-origin-to-finally-offer-meaningful-stock-options/",
-    "date": "2026-03-10"
-  },
-  {
-    "title": "Quad Cortex mini amp modeler: All the power, half the size",
-    "link": "https://arstechnica.com/reviews/2026/03/quad-cortex-mini-insane-amp-modeling-power-for-the-discerning-guitarist/",
-    "date": "2026-03-10"
-  },
-  {
-    "title": "Testing Apple's 2026 16-inch MacBook Pro, M5 Max, and its new \"performance\" cores",
-    "link": "https://arstechnica.com/gadgets/2026/03/testing-apples-2026-16-inch-macbook-pro-m5-max-and-its-new-performance-cores/",
-    "date": "2026-03-10"
-  },
-  {
-    "title": "US blindsides states with surprise settlement in Live Nation/Ticketmaster trial",
-    "link": "https://arstechnica.com/tech-policy/2026/03/us-blindsides-states-with-surprise-settlement-in-live-nation-ticketmaster-trial/",
-    "date": "2026-03-10"
-  },
-  {
-    "title": "An unlikely set of clues helps reconstruct ancient Chinese disasters",
-    "link": "https://arstechnica.com/science/2026/03/an-unlikely-set-of-clues-helps-reconstruct-ancient-chinese-disasters/",
-    "date": "2026-03-10"
-  },
-  {
-    "title": "AI insurance underwriting is past the pitch deck—Gradient AI just got the capital to prove it",
-    "link": "https://www.artificialintelligence-news.com/news/gradient-ai-cibc-ai-insurance-underwriting-growth-capital/",
-    "date": "2026-03-10"
-  },
-  {
-    "title": "UK sovereign AI fund to build up domestic computing infrastructure",
-    "link": "https://www.artificialintelligence-news.com/news/uk-sovereign-ai-fund-build-domestic-computing-infrastructure/",
-    "date": "2026-03-10"
-  },
-  {
-    "title": "City Union Bank launches AI centre to support banking operations",
-    "link": "https://www.artificialintelligence-news.com/news/city-union-bank-launches-ai-centre-to-support-banking-operations/",
-    "date": "2026-03-10"
-  },
-  {
-    "title": "Yann LeCun’s AMI Labs raises $1.03 billion to build world models",
-    "link": "https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/",
-    "date": "2026-03-10"
-  },
-  {
-    "title": "Mastercard brings agentic payments to life in Singapore with DBS and UOB",
-    "link": "https://www.artificialintelligence-news.com/news/mastercard-agentic-payments-singapore-dbs-uob/",
-    "date": "2026-03-10"
-  },
-  {
     "title": "Amazon launches its healthcare AI assistant on its website and app",
     "link": "https://techcrunch.com/2026/03/10/amazon-launches-its-healthcare-ai-assistant-on-its-website-and-app/",
     "date": "2026-03-11"
@@ -593,5 +483,100 @@
     "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
     "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
     "date": "2026-03-16"
+  },
+  {
+    "title": "Picsart now allows creators to ‘hire’ AI assistants through agent marketplace",
+    "link": "https://techcrunch.com/2026/03/16/picsart-now-allows-creators-to-hire-ai-assistants-through-agent-marketplace/",
+    "date": "2026-03-17"
+  },
+  {
+    "title": "Nvidia’s version of OpenClaw could solve its biggest problem: security",
+    "link": "https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/",
+    "date": "2026-03-17"
+  },
+  {
+    "title": "Jensen Huang just put Nvidia’s Blackwell and Vera Rubin sales projections into the $1 trillion stratosphere",
+    "link": "https://techcrunch.com/2026/03/16/jensen-just-put-nvidias-blackwell-and-vera-rubin-sales-projections-into-the-1-trillion-stratosphere/",
+    "date": "2026-03-17"
+  },
+  {
+    "title": "Warren presses Pentagon over decision to grant xAI access to classified networks",
+    "link": "https://techcrunch.com/2026/03/16/warren-presses-pentagon-over-decision-to-grant-xai-access-to-classified-networks/",
+    "date": "2026-03-17"
+  },
+  {
+    "title": "Memories AI is building the visual memory layer for wearables and robotics",
+    "link": "https://techcrunch.com/2026/03/16/memories-ai-is-building-the-visual-memory-layer-for-wearables-and-robotics/",
+    "date": "2026-03-17"
+  },
+  {
+    "title": "Why Codex Security Doesn’t Include a SAST Report",
+    "link": "https://openai.com/index/why-codex-security-doesnt-include-sast",
+    "date": "2026-03-17"
+  },
+  {
+    "title": "Where OpenAI’s technology could show up in Iran",
+    "link": "https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/",
+    "date": "2026-03-17"
+  },
+  {
+    "title": "Nurturing agentic AI beyond the toddler stage",
+    "link": "https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/",
+    "date": "2026-03-17"
+  },
+  {
+    "title": "The Download: glass chips and “AI-free” logos",
+    "link": "https://www.technologyreview.com/2026/03/16/1134301/the-download-glass-ai-chips-ai-free-logo/",
+    "date": "2026-03-17"
+  },
+  {
+    "title": "Securing digital assets against future threats",
+    "link": "https://www.technologyreview.com/2026/03/16/1134287/securing-digital-assets-against-future-threats/",
+    "date": "2026-03-17"
+  },
+  {
+    "title": "The First Healthcare Robotics Dataset and Foundational Physical AI Models for Healthcare Robotics",
+    "link": "https://huggingface.co/blog/nvidia/physical-ai-for-healthcare-robotics",
+    "date": "2026-03-17"
+  },
+  {
+    "title": "RFK Jr.’s anti-vaccine changes to CDC vaccine guidance blocked by judge",
+    "link": "https://arstechnica.com/health/2026/03/judge-temporarily-blocks-rfk-jr-s-changes-to-cdc-vaccine-recommendations/",
+    "date": "2026-03-17"
+  },
+  {
+    "title": "Elon Musk's xAI sued for turning three girls' real photos into AI CSAM",
+    "link": "https://arstechnica.com/tech-policy/2026/03/elon-musks-xai-sued-for-turning-three-girls-real-photos-into-ai-csam/",
+    "date": "2026-03-17"
+  },
+  {
+    "title": "National Academies of Sciences says no to demands it remove climate info",
+    "link": "https://arstechnica.com/science/2026/03/national-academies-of-sciences-resisting-pressure-to-pull-climate-info/",
+    "date": "2026-03-17"
+  },
+  {
+    "title": "New \"vibe coded\" AI translation tool splits the video game preservation community",
+    "link": "https://arstechnica.com/ai/2026/03/new-vibe-coded-ai-translation-tool-splits-the-video-game-preservation-community/",
+    "date": "2026-03-17"
+  },
+  {
+    "title": "Trump and his FCC chair demand more positive news coverage of Iran war",
+    "link": "https://arstechnica.com/tech-policy/2026/03/trump-and-his-fcc-chair-demand-more-positive-news-coverage-of-iran-war/",
+    "date": "2026-03-17"
+  },
+  {
+    "title": "US Treasury publishes AI risk Guidebook for financial institutions",
+    "link": "https://www.artificialintelligence-news.com/news/us-treasury-publishes-ai-risk-governance-guidebook-for-financial-institutions/",
+    "date": "2026-03-17"
+  },
+  {
+    "title": "NTT DATA and NVIDIA bring enterprise AI factories to production scale",
+    "link": "https://www.artificialintelligence-news.com/news/ntt-data-nvidia-enterprise-ai-factories-production/",
+    "date": "2026-03-17"
+  },
+  {
+    "title": "OpenAI’s Frontier puts AI agents in a fight SaaS can’t afford to lose",
+    "link": "https://www.artificialintelligence-news.com/news/openai-frontier-enterprise-ai-agents-saas/",
+    "date": "2026-03-17"
   }
 ]
