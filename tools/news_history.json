@@ -1,115 +1,5 @@
 [
   {
-    "title": "Amazon launches its healthcare AI assistant on its website and app",
-    "link": "https://techcrunch.com/2026/03/10/amazon-launches-its-healthcare-ai-assistant-on-its-website-and-app/",
-    "date": "2026-03-11"
-  },
-  {
-    "title": "AI-powered apps struggle with long-term retention, new report shows",
-    "link": "https://techcrunch.com/2026/03/10/ai-powered-apps-struggle-with-long-term-retention-new-report-shows/",
-    "date": "2026-03-11"
-  },
-  {
-    "title": "ChatGPT can now create interactive visuals to help you understand math and science concepts",
-    "link": "https://techcrunch.com/2026/03/10/chatgpt-can-now-create-interactive-visuals-to-help-you-understand-math-and-science-concepts/",
-    "date": "2026-03-11"
-  },
-  {
-    "title": "AgentMail raises $6M to build an email service for AI agents",
-    "link": "https://techcrunch.com/2026/03/10/agentmail-raises-6m-to-build-an-email-service-for-ai-agents/",
-    "date": "2026-03-11"
-  },
-  {
-    "title": "Thinking Machines Lab inks massive compute deal with Nvidia",
-    "link": "https://techcrunch.com/2026/03/10/thinking-machines-lab-inks-massive-compute-deal-with-nvidia/",
-    "date": "2026-03-11"
-  },
-  {
-    "title": "Improving instruction hierarchy in frontier LLMs",
-    "link": "https://openai.com/index/instruction-hierarchy-challenge",
-    "date": "2026-03-11"
-  },
-  {
-    "title": "New ways to learn math and science in ChatGPT",
-    "link": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt",
-    "date": "2026-03-11"
-  },
-  {
-    "title": "Gemini in Google Sheets just achieved state-of-the-art performance.",
-    "link": "https://blog.google/products-and-platforms/products/workspace/gemini-google-sheets-state-of-the-art/",
-    "date": "2026-03-11"
-  },
-  {
-    "title": "How Pokémon Go is giving delivery robots an inch-perfect view of the world",
-    "link": "https://www.technologyreview.com/2026/03/10/1134099/how-pokemon-go-is-helping-robots-deliver-pizza-on-time/",
-    "date": "2026-03-11"
-  },
-  {
-    "title": "Prioritizing energy intelligence for sustainable growth",
-    "link": "https://www.technologyreview.com/2026/03/10/1133972/prioritizing-energy-intelligence-for-sustainable-growth/",
-    "date": "2026-03-11"
-  },
-  {
-    "title": "The Download: AI’s role in the Iran war, and an escalating legal fight",
-    "link": "https://www.technologyreview.com/2026/03/10/1134077/the-download-ai-iran-war-theater-anthropic-sues-us/",
-    "date": "2026-03-11"
-  },
-  {
-    "title": "How NVIDIA Builds Open Data for AI",
-    "link": "https://huggingface.co/blog/nvidia/open-data-for-ai",
-    "date": "2026-03-11"
-  },
-  {
-    "title": "Introducing Storage Buckets on the Hugging Face Hub",
-    "link": "https://huggingface.co/blog/storage-buckets",
-    "date": "2026-03-11"
-  },
-  {
-    "title": "Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries",
-    "link": "https://huggingface.co/blog/async-rl-training-landscape",
-    "date": "2026-03-11"
-  },
-  {
-    "title": "Reentry of NASA satellite will exceed the agency's own risk guidelines",
-    "link": "https://arstechnica.com/space/2026/03/nasa-approved-a-safety-waiver-for-this-weeks-reentry-of-van-allen-probe/",
-    "date": "2026-03-11"
-  },
-  {
-    "title": "FDA contradicts Trump admin, declines to approve generic drug for autism",
-    "link": "https://arstechnica.com/health/2026/03/fda-contradicts-trump-admin-declines-to-approve-generic-drug-for-autism/",
-    "date": "2026-03-11"
-  },
-  {
-    "title": "AI can rewrite open source code—but can it rewrite the license, too?",
-    "link": "https://arstechnica.com/ai/2026/03/ai-can-rewrite-open-source-code-but-can-it-rewrite-the-license-too/",
-    "date": "2026-03-11"
-  },
-  {
-    "title": "Meta acquires Moltbook, the AI agent social network",
-    "link": "https://arstechnica.com/ai/2026/03/meta-acquires-moltbook-the-ai-agent-social-network/",
-    "date": "2026-03-11"
-  },
-  {
-    "title": "After complaints, Google will make it easier to disable gen AI search in Photos",
-    "link": "https://arstechnica.com/ai/2026/03/google-backtracks-on-ai-search-in-photos-adds-toggle-for-fast-classic-search/",
-    "date": "2026-03-11"
-  },
-  {
-    "title": "ABB: Physical AI simulation boosts ROI for factory automation",
-    "link": "https://www.artificialintelligence-news.com/news/abb-physical-ai-simulation-secures-factory-automation-roi/",
-    "date": "2026-03-11"
-  },
-  {
-    "title": "Agentic AI in finance speeds up operational automation",
-    "link": "https://www.artificialintelligence-news.com/news/agentic-ai-in-finance-speeds-up-operational-automation/",
-    "date": "2026-03-11"
-  },
-  {
-    "title": "Google brings Gemini in Chrome to India",
-    "link": "https://techcrunch.com/2026/03/10/google-gemini-chrome-expands-to-india-canada-new-zealand/",
-    "date": "2026-03-11"
-  },
-  {
     "title": "AI ‘actor’ Tilly Norwood put out the worst song I’ve ever heard",
     "link": "https://techcrunch.com/2026/03/11/ai-actor-tilly-norwood-put-out-the-worst-song-ive-ever-heard/",
     "date": "2026-03-12"
@@ -578,5 +468,110 @@
     "title": "OpenAI’s Frontier puts AI agents in a fight SaaS can’t afford to lose",
     "link": "https://www.artificialintelligence-news.com/news/openai-frontier-enterprise-ai-agents-saas/",
     "date": "2026-03-17"
+  },
+  {
+    "title": "Mistral bets on ‘build-your-own AI’ as it takes on OpenAI, Anthropic in the enterprise",
+    "link": "https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/",
+    "date": "2026-03-18"
+  },
+  {
+    "title": "Why Garry Tan’s Claude Code setup has gotten so much love, and hate",
+    "link": "https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/",
+    "date": "2026-03-18"
+  },
+  {
+    "title": "The Pentagon is developing alternatives to Anthropic, report says",
+    "link": "https://techcrunch.com/2026/03/17/the-pentagon-is-developing-alternatives-to-anthropic-report-says/",
+    "date": "2026-03-18"
+  },
+  {
+    "title": "BuzzFeed debuts AI slop apps in bid for new revenue",
+    "link": "https://techcrunch.com/2026/03/17/buzzfeed-ai-slop-apps-sxsw-bf-island-conjure/",
+    "date": "2026-03-18"
+  },
+  {
+    "title": "Google’s Personal Intelligence feature is expanding to all US users",
+    "link": "https://techcrunch.com/2026/03/17/googles-personal-intelligence-feature-is-expanding-to-all-us-users/",
+    "date": "2026-03-18"
+  },
+  {
+    "title": "Introducing GPT-5.4 mini and nano",
+    "link": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+    "date": "2026-03-18"
+  },
+  {
+    "title": "Equipping workers with insights about compensation",
+    "link": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
+    "date": "2026-03-18"
+  },
+  {
+    "title": "Bringing the power of Personal Intelligence to more people",
+    "link": "https://blog.google/products-and-platforms/products/search/personal-intelligence-expansion/",
+    "date": "2026-03-18"
+  },
+  {
+    "title": "Our latest investment in open source security for the AI era",
+    "link": "https://blog.google/innovation-and-ai/technology/safety-security/ai-powered-open-source-security/",
+    "date": "2026-03-18"
+  },
+  {
+    "title": "The Pentagon is planning for AI companies to train on classified data, defense official says",
+    "link": "https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/",
+    "date": "2026-03-18"
+  },
+  {
+    "title": "The Download: OpenAI’s US military deal, and Grok’s CSAM lawsuit",
+    "link": "https://www.technologyreview.com/2026/03/17/1134322/the-download-openi-us-military-deal-grok-xai-csam-lawsuit/",
+    "date": "2026-03-18"
+  },
+  {
+    "title": "Nemotron 3 Nano 4B: A Compact Hybrid Model for Efficient Local AI",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-3-nano-4b",
+    "date": "2026-03-18"
+  },
+  {
+    "title": "State of Open Source on Hugging Face: Spring 2026",
+    "link": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+    "date": "2026-03-18"
+  },
+  {
+    "title": "Holotron-12B - High Throughput Computer Use Agent",
+    "link": "https://huggingface.co/blog/Hcompany/holotron-12b",
+    "date": "2026-03-18"
+  },
+  {
+    "title": "Apple can delist apps \"with or without cause,\" judge says in loss for Musi app",
+    "link": "https://arstechnica.com/tech-policy/2026/03/judge-upholds-apple-delisting-of-free-musi-app-that-streams-songs-from-youtube/",
+    "date": "2026-03-18"
+  },
+  {
+    "title": "How World ID wants to put a unique human identity on every AI agent",
+    "link": "https://arstechnica.com/ai/2026/03/world-id-wants-you-to-put-a-cryptographically-unique-human-identity-behind-your-ai-agents/",
+    "date": "2026-03-18"
+  },
+  {
+    "title": "Arizona indicts prediction market Kalshi for running illegal gambling operation",
+    "link": "https://arstechnica.com/tech-policy/2026/03/arizona-indicts-prediction-market-kalshi-for-running-illegal-gambling-operation/",
+    "date": "2026-03-18"
+  },
+  {
+    "title": "FDA links raw cheese to outbreak; Makers \"100% disagree,\" refuse recall",
+    "link": "https://arstechnica.com/health/2026/03/fda-links-raw-cheese-to-outbreak-makers-100-disagree-refuse-recall/",
+    "date": "2026-03-18"
+  },
+  {
+    "title": "Trump's plan to shut down weather and climate center triggers lawsuit",
+    "link": "https://arstechnica.com/science/2026/03/university-group-sues-trump-administration-over-shutdown-of-climate-center/",
+    "date": "2026-03-18"
+  },
+  {
+    "title": "Trustpilot partners with AI companies as traditional search declines",
+    "link": "https://www.artificialintelligence-news.com/news/ai-in-ecommerce-trustpilot-partnerships-integration-news-trad-search-declines/",
+    "date": "2026-03-18"
+  },
+  {
+    "title": "Goldman Sachs sees AI investment shift to data centres",
+    "link": "https://www.artificialintelligence-news.com/news/goldman-sachs-sees-ai-investment-shift-to-data-centres/",
+    "date": "2026-03-18"
   }
 ]
