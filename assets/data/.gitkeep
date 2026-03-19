@@ -1,0 +1,2 @@
+# vector_store.json 은 `npm run generate-embeddings` 로 생성합니다.
+# 생성 후 이 디렉터리에 vector_store.json 이 생깁니다.

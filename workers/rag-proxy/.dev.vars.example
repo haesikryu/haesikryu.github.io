@@ -1,0 +1,2 @@
+# 로컬 `wrangler dev` 전용 — 이 파일을 .dev.vars 로 복사하고 값 채움 (git 에 커밋하지 마세요)
+GEMINI_API_KEY=

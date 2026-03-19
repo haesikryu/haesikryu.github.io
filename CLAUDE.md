@@ -18,6 +18,11 @@ This is a Jekyll-based personal blog using the Chirpy theme, hosted on GitHub Pa
 - **_includes/**: Reusable components (Google Analytics, sidebar profile)
 - **_layouts/**: Page templates for different content types
 - **assets/**: Static assets (images, CSS, JS)
+- **workers/rag-proxy/**: Optional Cloudflare Worker — proxies Gemini API with rate limits and secrets (see `workers/rag-proxy/README.md`)
+
+### RAG chatbot
+- Build widget: `npm run build:rag` → `assets/js/rag/embed.js`, `rag-chat.css`
+- Jekyll: `rag_chat.proxy_url` in `_config.yml` enables proxy mode (no browser API key). Empty string = direct Gemini + localStorage key.
 
 ### Jekyll Configuration
 - Uses Chirpy theme (jekyll-theme-chirpy ~> 6.5.5)

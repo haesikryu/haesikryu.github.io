@@ -153,6 +153,11 @@ paginate: 10
 # The base URL of your site
 baseurl: ""
 
+# RAG 챗봇: Cloudflare Worker 프록시 URL (예: https://blog-rag-proxy.xxx.workers.dev).
+# 비우면 브라우저에서 Gemini API 키를 직접 넣는 모드. 배포 방법은 workers/rag-proxy/README.md 참고.
+rag_chat:
+  proxy_url: ""
+
 # ------------ The following options are not recommended to be modified ------------------
 
 kramdown:
@@ -218,6 +223,17 @@ exclude:
   - purgecss.js
   - "*.config.js"
   - "package*.json"
+  # RAG 빌드 도구 (사이트에 복사하지 않음)
+  - node_modules
+  - scripts
+  - types
+  - utils
+  - components
+  - rag-chat
+  - vite.config.ts
+  - postcss.config.js
+  - tailwind.config.js
+  - workers
 
 jekyll-archives:
   enabled: [categories, tags]

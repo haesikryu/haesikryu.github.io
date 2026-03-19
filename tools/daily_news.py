@@ -16,6 +16,8 @@ HISTORY_FILE = os.path.join(os.path.dirname(__file__), "news_history.json")
 
 # Configuration
 RSS_FEEDS = [
+    "https://news.hada.io/rss/news",  # GeekNews - 개발/기술/스타트업 뉴스
+    "https://news.hada.io/rss/blog",  # GeekNews - 공지/기능 소식
     "https://techcrunch.com/category/artificial-intelligence/feed/",
     "https://www.theverge.com/rss/index.xml",
     "https://openai.com/blog/rss.xml",

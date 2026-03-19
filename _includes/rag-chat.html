@@ -1,0 +1,10 @@
+{% comment %}
+  RAG 챗봇 위젯 (Vite 빌드: npm run build:rag → embed.js, rag-chat.css)
+{% endcomment %}
+<link rel="stylesheet" href="{{ '/assets/js/rag/rag-chat.css' | relative_url }}" />
+<div
+  id="rag-chat-root"
+  data-baseurl="{{ site.baseurl | default: '' }}"
+  data-proxy-url="{% if site.rag_chat %}{{ site.rag_chat.proxy_url | default: '' | strip }}{% endif %}"
+></div>
+<script type="module" src="{{ '/assets/js/rag/embed.js' | relative_url }}"></script>

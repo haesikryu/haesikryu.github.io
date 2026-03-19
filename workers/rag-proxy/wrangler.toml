@@ -1,0 +1,24 @@
+# 배포 전:
+# 1) 대시보드에서 KV 네임스페이스 생성 후 아래 id 를 채움
+# 2) wrangler secret put GEMINI_API_KEY
+# 3) npm run deploy
+
+name = "blog-rag-proxy"
+main = "src/index.ts"
+compatibility_date = "2024-11-01"
+
+# 콤마로 구분. GitHub Pages 도메인 + 로컬 Jekyll 주소
+[vars]
+ALLOWED_ORIGINS = "https://haesikryu.github.io,http://127.0.0.1:4000,http://localhost:4000"
+MAX_BODY_BYTES = "24576"
+RATE_LIMIT_PER_MINUTE = "12"
+# 일일 한도(0 이면 비활성화 — KV 쓰기 절약)
+RATE_LIMIT_PER_DAY = "120"
+MAX_USER_TEXT_CHARS = "2000"
+MAX_SYSTEM_PROMPT_CHARS = "4500"
+ALLOWED_MODELS = "gemini-2.0-flash,gemini-2.0-flash-001,gemini-1.5-flash,gemini-1.5-flash-latest,gemini-1.5-flash-8b"
+MAX_OUTPUT_TOKENS = "1024"
+
+[[kv_namespaces]]
+binding = "RATE_LIMIT"
+id = "REPLACE_WITH_YOUR_KV_NAMESPACE_ID"

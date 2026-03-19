@@ -45,6 +45,20 @@ jobs:
           ruby-version: 3.2
           bundler-cache: true
 
+      # RAG 챗봇용 벡터 인덱스 (Step 2). _posts 기반으로 assets/data/vector_store.json 생성
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Generate RAG embeddings
+        run: |
+          npm install
+          npm run generate-embeddings
+
+      - name: Build RAG chat widget (Vite)
+        run: npm run build:rag
+
       - name: Build site
         run: bundle exec jekyll b -d "_site" --trace
         env:

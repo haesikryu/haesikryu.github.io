@@ -29,3 +29,6 @@ assets/js/dist
 .DS_Store
 tools/client_secret.json
 tools/token.pickle
+
+# Cloudflare Worker 로컬 시크릿
+workers/rag-proxy/.dev.vars

@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Chirpy 본문과 겹칠 때 최소 보장 */
+.rag-fab,
+.rag-panel {
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
+
+/* 사이드바 소셜 아이콘과 유사: 그림자 없이 얇은 테두리 원 */
+.rag-fab {
+  box-shadow: none;
+}

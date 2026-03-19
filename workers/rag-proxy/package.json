@@ -1,0 +1,12 @@
+{
+  "name": "blog-rag-proxy",
+  "private": true,
+  "description": "Cloudflare Worker: Gemini RAG 챗봇 프록시 (키·레이트리밋·비용 가드)",
+  "scripts": {
+    "deploy": "wrangler deploy",
+    "dev": "wrangler dev"
+  },
+  "devDependencies": {
+    "wrangler": "^3.114.0"
+  }
+}
