@@ -1,120 +1,5 @@
 [
   {
-    "title": "AI ‘actor’ Tilly Norwood put out the worst song I’ve ever heard",
-    "link": "https://techcrunch.com/2026/03/11/ai-actor-tilly-norwood-put-out-the-worst-song-ive-ever-heard/",
-    "date": "2026-03-12"
-  },
-  {
-    "title": "Ford’s new AI assistant will help fleet owners know if seatbelts are being used",
-    "link": "https://techcrunch.com/2026/03/11/fords-new-ai-assistant-will-help-fleet-owners-know-if-seatbelts-are-being-used/",
-    "date": "2026-03-12"
-  },
-  {
-    "title": "Zendesk acquires agentic customer service startup Forethought",
-    "link": "https://techcrunch.com/2026/03/11/zendesk-acquires-agentic-customer-service-startup-forethought/",
-    "date": "2026-03-12"
-  },
-  {
-    "title": "Netflix may have paid $600 million for Ben Affleck’s AI startup",
-    "link": "https://techcrunch.com/2026/03/11/netflix-may-have-paid-600-million-for-ben-afflecks-ai-startup/",
-    "date": "2026-03-12"
-  },
-  {
-    "title": "Lovable says it added $100M in revenue last month alone, with just 146 employees",
-    "link": "https://techcrunch.com/2026/03/11/lovable-says-it-added-100m-in-revenue-last-month-alone-with-just-146-employees/",
-    "date": "2026-03-12"
-  },
-  {
-    "title": "Rakuten fixes issues twice as fast with Codex",
-    "link": "https://openai.com/index/rakuten",
-    "date": "2026-03-12"
-  },
-  {
-    "title": "Designing AI agents to resist prompt injection",
-    "link": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
-    "date": "2026-03-12"
-  },
-  {
-    "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
-    "link": "https://openai.com/index/wayfair",
-    "date": "2026-03-12"
-  },
-  {
-    "title": "From model to agent: Equipping the Responses API with a computer environment",
-    "link": "https://openai.com/index/equip-responses-api-computer-environment",
-    "date": "2026-03-12"
-  },
-  {
-    "title": "How AI is helping improve heart health in rural Australia",
-    "link": "https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/",
-    "date": "2026-03-12"
-  },
-  {
-    "title": "Hustlers are cashing in on China’s OpenClaw AI craze",
-    "link": "https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/",
-    "date": "2026-03-12"
-  },
-  {
-    "title": "The Download: Pokémon Go to train world models, and the US-China race to find aliens",
-    "link": "https://www.technologyreview.com/2026/03/11/1134174/the-download-pokemon-go-train-world-models-us-china-race-find-aliens/",
-    "date": "2026-03-12"
-  },
-  {
-    "title": "Code Concepts: A Large-Scale Synthetic Dataset Generated from Programming Concept Seeds",
-    "link": "https://huggingface.co/blog/nvidia/synthetic-code-concepts",
-    "date": "2026-03-12"
-  },
-  {
-    "title": "Google Play Games for PC is getting more premium titles and cross-buy with Android",
-    "link": "https://arstechnica.com/gaming/2026/03/google-play-games-for-pc-is-getting-more-premium-titles-and-cross-buy-with-android/",
-    "date": "2026-03-12"
-  },
-  {
-    "title": "Report: RFK Jr.’s anti-vaccine agenda curbed as GOP realizes it's unpopular",
-    "link": "https://arstechnica.com/health/2026/03/report-trump-admin-trying-to-rein-in-rfk-jr-s-unpopular-anti-vaccine-agenda/",
-    "date": "2026-03-12"
-  },
-  {
-    "title": "FCC chair blasts Amazon after it criticizes SpaceX megaconstellation",
-    "link": "https://arstechnica.com/space/2026/03/fcc-chair-blasts-amazon-after-it-criticizes-spacex-megaconstellation/",
-    "date": "2026-03-12"
-  },
-  {
-    "title": "14,000 routers are infected by malware that's highly resistant to takedowns",
-    "link": "https://arstechnica.com/security/2026/03/14000-routers-are-infected-by-malware-thats-highly-resistant-to-takedowns/",
-    "date": "2026-03-12"
-  },
-  {
-    "title": "Explain it like I'm 5: Why is everyone on speakerphone in public?",
-    "link": "https://arstechnica.com/culture/2026/03/explain-it-like-im-5-why-is-everyone-on-speakerphone-in-public/",
-    "date": "2026-03-12"
-  },
-  {
-    "title": "Ai2: Building physical AI with virtual simulation data",
-    "link": "https://www.artificialintelligence-news.com/news/ai2-building-physical-ai-with-virtual-simulation-data/",
-    "date": "2026-03-12"
-  },
-  {
-    "title": "New partnership to offer smart robots for dangerous environments",
-    "link": "https://www.artificialintelligence-news.com/news/new-partnership-to-offer-ai-for-robotics-for-work-in-dangerous-environments/",
-    "date": "2026-03-12"
-  },
-  {
-    "title": "Manulife moves AI agents into core financial workflows",
-    "link": "https://www.artificialintelligence-news.com/news/manulife-moves-ai-agents-into-core-financial-workflows/",
-    "date": "2026-03-12"
-  },
-  {
-    "title": "How physical AI integration accelerates vehicle innovation",
-    "link": "https://www.artificialintelligence-news.com/news/how-physical-ai-integration-accelerates-vehicle-innovation/",
-    "date": "2026-03-12"
-  },
-  {
-    "title": "How NVIDIA AI-Q Reached \\#1 on DeepResearch Bench I and II",
-    "link": "https://huggingface.co/blog/nvidia/how-nvidia-won-deepresearch-bench",
-    "date": "2026-03-12"
-  },
-  {
     "title": "How to watch Jensen Huang’s Nvidia GTC 2026 keynote",
     "link": "https://techcrunch.com/2026/03/12/how-to-watch-jensen-huangs-nvidia-gtc-2026-keynote/",
     "date": "2026-03-13"
@@ -573,5 +458,95 @@
     "title": "Goldman Sachs sees AI investment shift to data centres",
     "link": "https://www.artificialintelligence-news.com/news/goldman-sachs-sees-ai-investment-shift-to-data-centres/",
     "date": "2026-03-18"
+  },
+  {
+    "title": "Meta is having trouble with rogue AI agents",
+    "link": "https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/",
+    "date": "2026-03-19"
+  },
+  {
+    "title": "Sam Altman’s thank-you to coders draws the memes",
+    "link": "https://techcrunch.com/2026/03/18/sam-altmans-thank-you-to-coders-draws-the-memes/",
+    "date": "2026-03-19"
+  },
+  {
+    "title": "Nothing CEO Carl Pei says smartphone apps will disappear as AI agents take their place",
+    "link": "https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/",
+    "date": "2026-03-19"
+  },
+  {
+    "title": "Nvidia is quietly building a multibillion-dollar behemoth to rival its chips business",
+    "link": "https://techcrunch.com/2026/03/18/nvidia-networking-division-building-a-multibillion-dollar-behemoth-to-rival-its-chips-business/",
+    "date": "2026-03-19"
+  },
+  {
+    "title": "Patreon CEO calls AI companies’ fair use argument ‘bogus,’ says creators should be paid",
+    "link": "https://techcrunch.com/2026/03/18/patreon-ceo-calls-ai-companies-fair-use-argument-bogus-says-creators-should-be-paid/",
+    "date": "2026-03-19"
+  },
+  {
+    "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
+    "link": "https://openai.com/index/japan-teen-safety-blueprint",
+    "date": "2026-03-19"
+  },
+  {
+    "title": "Gemini in Google Sheets just achieved state-of-the-art performance.",
+    "link": "https://blog.google/products-and-platforms/products/workspace/gemini-google-sheets-state-of-the-art/",
+    "date": "2026-03-19"
+  },
+  {
+    "title": "The Download: The Pentagon’s new AI plans, and next-gen nuclear reactors",
+    "link": "https://www.technologyreview.com/2026/03/18/1134371/the-download-the-pentagons-new-ai-plans-and-next-gen-nuclear-reactors/",
+    "date": "2026-03-19"
+  },
+  {
+    "title": "What do new nuclear reactors mean for waste?",
+    "link": "https://www.technologyreview.com/2026/03/18/1134345/advanced-nuclear-reactors-waste/",
+    "date": "2026-03-19"
+  },
+  {
+    "title": "Introducing Storage Buckets on the Hugging Face Hub",
+    "link": "https://huggingface.co/blog/storage-buckets",
+    "date": "2026-03-19"
+  },
+  {
+    "title": "Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries",
+    "link": "https://huggingface.co/blog/async-rl-training-landscape",
+    "date": "2026-03-19"
+  },
+  {
+    "title": "Kagi Translate's AI answers the question \"What would horny Margaret Thatcher say?\"",
+    "link": "https://arstechnica.com/ai/2026/03/kagi-translates-ai-answers-the-question-what-would-horny-margaret-thatcher-say/",
+    "date": "2026-03-19"
+  },
+  {
+    "title": "Musk’s tactic of blaming users for Grok sex images may be foiled by EU law",
+    "link": "https://arstechnica.com/tech-policy/2026/03/eu-moves-to-ban-nudify-apps-after-grok-made-them-mainstream/",
+    "date": "2026-03-19"
+  },
+  {
+    "title": "Coal plant forced to stay open due to emergency order isn't even running",
+    "link": "https://arstechnica.com/science/2026/03/coal-plant-forced-to-stay-open-due-to-emergency-order-isnt-even-running/",
+    "date": "2026-03-19"
+  },
+  {
+    "title": "Never mind Band-Aids, Neanderthals had antiseptic birch tar",
+    "link": "https://arstechnica.com/science/2026/03/never-mind-band-aids-neanderthals-had-antiseptic-birch-tar/",
+    "date": "2026-03-19"
+  },
+  {
+    "title": "Cloudflare appeals Piracy Shield fine, hopes to kill Italy's site-blocking law",
+    "link": "https://arstechnica.com/tech-policy/2026/03/cloudflare-appeals-piracy-shield-fine-hopes-to-kill-italys-site-blocking-law/",
+    "date": "2026-03-19"
+  },
+  {
+    "title": "Mastercard keeps tabs on fraud with new foundation model",
+    "link": "https://www.artificialintelligence-news.com/news/mastercards-ltm-keeps-tabs-on-fraud-with-a-new-foundation-model/",
+    "date": "2026-03-19"
+  },
+  {
+    "title": "For effective AI, insurance needs to get its data house in order",
+    "link": "https://www.artificialintelligence-news.com/news/for-effective-ai-insurance-needs-a-better-data-layer-and-integration/",
+    "date": "2026-03-19"
   }
 ]
