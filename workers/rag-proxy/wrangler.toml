@@ -21,4 +21,4 @@ MAX_OUTPUT_TOKENS = "1024"
 
 [[kv_namespaces]]
 binding = "RATE_LIMIT"
-id = "REPLACE_WITH_YOUR_KV_NAMESPACE_ID"
+id = "e3c5a70e677d4dfe8f575c71b494ecab"

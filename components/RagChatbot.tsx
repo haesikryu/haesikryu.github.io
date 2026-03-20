@@ -410,14 +410,17 @@ export default function RagChatbot({ baseUrl = "", proxyUrl = "" }: Props) {
               블로그 검색 챗봇
             </h2>
             <div className="flex gap-1">
-              <button
-                type="button"
-                aria-label="설정"
-                onClick={() => setSettingsOpen(true)}
-                className="rounded-lg p-2 text-slate-600 hover:bg-slate-200 dark:text-slate-300 dark:hover:bg-slate-700"
-              >
-                <Settings className="h-5 w-5" />
-              </button>
+              {/* 직접 Gemini 모드에서만 API 키·모델 설정 필요. 프록시 모드는 Worker 시크릿만 사용 */}
+              {!useProxy && (
+                <button
+                  type="button"
+                  aria-label="Gemini API 키 및 모델 설정"
+                  onClick={() => setSettingsOpen(true)}
+                  className="rounded-lg p-2 text-slate-600 hover:bg-slate-200 dark:text-slate-300 dark:hover:bg-slate-700"
+                >
+                  <Settings className="h-5 w-5" />
+                </button>
+              )}
               <button
                 type="button"
                 aria-label="닫기"
