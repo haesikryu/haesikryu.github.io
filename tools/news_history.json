@@ -1,110 +1,5 @@
 [
   {
-    "title": "How to watch Jensen Huang’s Nvidia GTC 2026 keynote",
-    "link": "https://techcrunch.com/2026/03/12/how-to-watch-jensen-huangs-nvidia-gtc-2026-keynote/",
-    "date": "2026-03-13"
-  },
-  {
-    "title": "Sales automation startup Rox AI hits $1.2B valuation, sources say",
-    "link": "https://techcrunch.com/2026/03/12/sales-automation-startup-rox-ai-hits-1-2b-valuation-sources-say/",
-    "date": "2026-03-13"
-  },
-  {
-    "title": "Facebook Marketplace now lets Meta AI respond to buyers’ messages",
-    "link": "https://techcrunch.com/2026/03/12/facebook-marketplace-now-lets-meta-ai-respond-to-buyers-messages/",
-    "date": "2026-03-13"
-  },
-  {
-    "title": "Tinder tries to lure people back to online dating with IRL events, virtual speed dating",
-    "link": "https://techcrunch.com/2026/03/12/tinder-tries-to-lure-people-back-to-online-dating-with-irl-events-virtual-speed-dating/",
-    "date": "2026-03-13"
-  },
-  {
-    "title": "Atlassian follows Block’s footsteps and cuts staff in the name of AI",
-    "link": "https://techcrunch.com/2026/03/12/atlassian-follows-blocks-footsteps-and-cuts-staff-in-the-name-of-ai/",
-    "date": "2026-03-13"
-  },
-  {
-    "title": "A defense official reveals how AI chatbots could be used for targeting decisions",
-    "link": "https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/",
-    "date": "2026-03-13"
-  },
-  {
-    "title": "The Download: Early adopters cash in on China’s OpenClaw craze, and US batteries slump",
-    "link": "https://www.technologyreview.com/2026/03/12/1134207/the-download-china-openclaw-ai-craze-us-battery-industry-downturn/",
-    "date": "2026-03-13"
-  },
-  {
-    "title": "Pragmatic by design: Engineering AI for the real world",
-    "link": "https://www.technologyreview.com/2026/03/12/1133675/pragmatic-by-design-engineering-ai-for-the-real-world/",
-    "date": "2026-03-13"
-  },
-  {
-    "title": "Brutal times for the US battery industry",
-    "link": "https://www.technologyreview.com/2026/03/12/1134197/us-battery-industry/",
-    "date": "2026-03-13"
-  },
-  {
-    "title": "Build an Agent That Thinks Like a Data Scientist: How We Hit #1 on DABStep with Reusable Tool Generation",
-    "link": "https://huggingface.co/blog/nvidia/nemo-agent-toolkit-data-explorer-dabstep-1st-place",
-    "date": "2026-03-13"
-  },
-  {
-    "title": "The who, what, and why of the attack that has shut down Stryker's Windows network",
-    "link": "https://arstechnica.com/security/2026/03/whats-known-about-wiper-attack-on-stryker-a-major-supplier-of-lifesaving-devices/",
-    "date": "2026-03-13"
-  },
-  {
-    "title": "Live Nation director boasted of gouging ticket buyers, \"robbing them blind\"",
-    "link": "https://arstechnica.com/tech-policy/2026/03/live-nation-director-boasted-of-gouging-ticket-buyers-robbing-them-blind/",
-    "date": "2026-03-13"
-  },
-  {
-    "title": "HP has new incentive to stop blocking third-party ink in its printers",
-    "link": "https://arstechnica.com/gadgets/2026/03/hp-has-new-incentive-to-stop-blocking-third-party-ink-in-its-printers/",
-    "date": "2026-03-13"
-  },
-  {
-    "title": "Trump's DOJ is not falling for Sam Bankman-Fried's MAGA makeover on X",
-    "link": "https://arstechnica.com/tech-policy/2026/03/trumps-doj-is-not-falling-for-sam-bankman-frieds-maga-makeover-on-x/",
-    "date": "2026-03-13"
-  },
-  {
-    "title": "Lucid announces midsize EV platform, says profitability lies with SUVs",
-    "link": "https://arstechnica.com/cars/2026/03/lucid-announces-midsize-ev-platform-says-profitability-lies-with-suvs/",
-    "date": "2026-03-13"
-  },
-  {
-    "title": "How multi-agent AI economics influence business automation",
-    "link": "https://www.artificialintelligence-news.com/news/how-multi-agent-ai-economics-business-automation/",
-    "date": "2026-03-13"
-  },
-  {
-    "title": "FIFA is rebuilding world football operations on AI. The World Cup is just the first test",
-    "link": "https://www.artificialintelligence-news.com/news/fifa-ai-world-cup-2026-lenovo/",
-    "date": "2026-03-13"
-  },
-  {
-    "title": "Before quantum computing arrives, this startup wants enterprises already running on it",
-    "link": "https://techcrunch.com/2026/03/12/before-quantum-computing-arrives-this-startup-wants-enterprises-already-running-on-it/",
-    "date": "2026-03-13"
-  },
-  {
-    "title": "Truecaller now lets you hang up on scammers — on behalf of your family",
-    "link": "https://techcrunch.com/2026/03/12/truecallers-now-lets-you-hang-up-on-scammers-on-behalf-of-your-family/",
-    "date": "2026-03-13"
-  },
-  {
-    "title": "Ask a Techspert: How does AI understand my visual searches?",
-    "link": "https://blog.google/company-news/inside-google/googlers/how-google-ai-visual-search-works/",
-    "date": "2026-03-13"
-  },
-  {
-    "title": "The latest AI news we announced in February",
-    "link": "https://blog.google/innovation-and-ai/products/google-ai-updates-february-2026/",
-    "date": "2026-03-13"
-  },
-  {
     "title": "‘Not built right the first time’ — Musk’s xAI is starting over again, again",
     "link": "https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/",
     "date": "2026-03-14"
@@ -558,5 +453,155 @@
     "title": "How AI is helping improve heart health in rural Australia",
     "link": "https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/",
     "date": "2026-03-19"
+  },
+  {
+    "title": "Cursor, 자체 개발 AI 모델 Composer 2 출시 - 프런티어급 성능에 저렴한 가격",
+    "link": "https://news.hada.io/topic?id=27682",
+    "date": "2026-03-20"
+  },
+  {
+    "title": "4Chan, 영국 온라인 안전법 위반으로 52만 파운드 벌금 부과받자 AI 햄스터 이미지로 조롱",
+    "link": "https://news.hada.io/topic?id=27681",
+    "date": "2026-03-20"
+  },
+  {
+    "title": "GitHub - KittenML/KittenTTS: 25MB 이하의 최신 음성 합성(TTS) 모델",
+    "link": "https://news.hada.io/topic?id=27680",
+    "date": "2026-03-20"
+  },
+  {
+    "title": "젠슨 황: Nvidia의 미래와 물리적 AI, 에이전트의 부상 [유튜브]",
+    "link": "https://news.hada.io/topic?id=27679",
+    "date": "2026-03-20"
+  },
+  {
+    "title": "Adobe, 구독 해지 방해 혐의로 미국 법무부에 1억 5천만 달러(약 2,249억 원) 합의",
+    "link": "https://news.hada.io/topic?id=27678",
+    "date": "2026-03-20"
+  },
+  {
+    "title": "List 가 GeekLists 기능으로 확대 개편 되었습니다.",
+    "link": "https://news.hada.io/blog/GeekLists",
+    "date": "2026-03-20"
+  },
+  {
+    "title": "‘함께 보면 좋은 글’ 기능을 추가했습니다",
+    "link": "https://news.hada.io/blog/related-reads",
+    "date": "2026-03-20"
+  },
+  {
+    "title": "GeekNews를 편하게 구독하는 법",
+    "link": "https://news.hada.io/blog/subscribe_geeknews",
+    "date": "2026-03-20"
+  },
+  {
+    "title": "GeekNight 2024(긱뉴스 밋업)",
+    "link": "https://news.hada.io/blog/geeknight",
+    "date": "2026-03-20"
+  },
+  {
+    "title": "GN⁺ : AI가 요약한 최신 뉴스보기",
+    "link": "https://news.hada.io/blog/GN⁺",
+    "date": "2026-03-20"
+  },
+  {
+    "title": "The best AI investment might be in energy tech",
+    "link": "https://techcrunch.com/2026/03/20/the-best-ai-investment-might-be-in-energy-tech/",
+    "date": "2026-03-20"
+  },
+  {
+    "title": "These AI notetaking devices can help you record and transcribe your meetings",
+    "link": "https://techcrunch.com/2026/03/20/ai-notetaker-hardware-devices-pins-pendants-record-transcribe/",
+    "date": "2026-03-20"
+  },
+  {
+    "title": "Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI",
+    "link": "https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/",
+    "date": "2026-03-20"
+  },
+  {
+    "title": "Online bot traffic will exceed human traffic by 2027, Cloudflare CEO says",
+    "link": "https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/",
+    "date": "2026-03-20"
+  },
+  {
+    "title": "Meta rolls out new AI content enforcement systems while reducing reliance on third-party vendors",
+    "link": "https://techcrunch.com/2026/03/19/meta-rolls-out-new-ai-content-enforcement-systems-while-reducing-reliance-on-third-party-vendors/",
+    "date": "2026-03-20"
+  },
+  {
+    "title": "How we monitor internal coding agents for misalignment",
+    "link": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+    "date": "2026-03-20"
+  },
+  {
+    "title": "OpenAI to acquire Astral",
+    "link": "https://openai.com/index/openai-to-acquire-astral",
+    "date": "2026-03-20"
+  },
+  {
+    "title": "The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot",
+    "link": "https://www.technologyreview.com/2026/03/20/1134448/the-download-openai-building-fully-automated-researcher-psychedelic-drug-trial/",
+    "date": "2026-03-20"
+  },
+  {
+    "title": "OpenAI is throwing everything into building a fully automated researcher",
+    "link": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/",
+    "date": "2026-03-20"
+  },
+  {
+    "title": "Mind-altering substances are (still) falling short in clinical trials",
+    "link": "https://www.technologyreview.com/2026/03/20/1134419/psychedelics-overhyped-psilocybin-depression-placebo/",
+    "date": "2026-03-20"
+  },
+  {
+    "title": "The Download: Quantum computing for health, and why the world doesn’t recycle more nuclear waste",
+    "link": "https://www.technologyreview.com/2026/03/19/1134413/the-download-quantum-computing-health-recycling-nuclear-waste/",
+    "date": "2026-03-20"
+  },
+  {
+    "title": "Can quantum computers now solve health care problems? We’ll soon find out.",
+    "link": "https://www.technologyreview.com/2026/03/19/1134409/a-5-million-prize-awaits-proof-that-quantum-computers-can-solve-health-care-problems/",
+    "date": "2026-03-20"
+  },
+  {
+    "title": "**Introducing SPEED-Bench: A Unified and Diverse Benchmark for Speculative Decoding**",
+    "link": "https://huggingface.co/blog/nvidia/speed-bench",
+    "date": "2026-03-20"
+  },
+  {
+    "title": "Rocket Report: Canada makes a major move, US Space Force says actually, let's be hasty",
+    "link": "https://arstechnica.com/space/2026/03/rocket-report-canada-makes-a-major-move-us-space-force-says-actually-lets-be-hasty/",
+    "date": "2026-03-20"
+  },
+  {
+    "title": "Project Hail Mary is in theaters—but do the linguistics work?",
+    "link": "https://arstechnica.com/culture/2026/03/project-hail-mary-is-in-theaters-but-do-the-linguistics-work/",
+    "date": "2026-03-20"
+  },
+  {
+    "title": "RFK Jr. has destroyed over a quarter of health dept's expert panels",
+    "link": "https://arstechnica.com/health/2026/03/rfk-jr-s-war-on-scientific-expertise-destroyed-27-of-agencys-advisor-panels/",
+    "date": "2026-03-20"
+  },
+  {
+    "title": "Cloud service providers ask EU regulator to reinstate VMware partner program",
+    "link": "https://arstechnica.com/information-technology/2026/03/cloud-service-providers-ask-eu-regulator-to-reinstate-vmware-partner-program/",
+    "date": "2026-03-20"
+  },
+  {
+    "title": "Millions of iPhones can be hacked with a new tool found in the wild",
+    "link": "https://arstechnica.com/security/2026/03/hundreds-of-millions-of-iphones-can-be-hacked-with-a-new-tool-found-in-the-wild/",
+    "date": "2026-03-20"
+  },
+  {
+    "title": "Visa prepares payment systems for AI agent-initiated transactions",
+    "link": "https://www.artificialintelligence-news.com/news/visa-prepares-payment-systems-for-ai-agent-initiated-transactions/",
+    "date": "2026-03-20"
+  },
+  {
+    "title": "NVIDIA wants enterprise AI agents safer to deploy",
+    "link": "https://www.artificialintelligence-news.com/news/nvidia-agent-toolkit-enterprise-ai-agents/",
+    "date": "2026-03-20"
   }
 ]
