@@ -49,11 +49,12 @@ Your task is to:
 6. Use proper Markdown formatting. **Do NOT use tables.** Use blockquotes (>) or regular paragraphs.
 7. Make it easy to read but informative.
 8. If multiple sources cover the same topic, combine them into one strong entry.
+9. At the very end of your response, add exactly one line: TAGS: tag1, tag2, tag3, ... (list 3-20 relevant tags in English or Korean, comma-separated, related to the topics covered in the digest).
 
 Here is the news data:
 {news_data}
 
-Return only the Markdown content for the blog post (excluding front matter).
+Return only the Markdown content for the blog post (excluding front matter), then the TAGS line at the end.
 """
 
 # 본문에서 추출할 태그 개수 (대략)
@@ -182,20 +183,22 @@ def generate_blog_post(news_items):
     prompt = PROMPT_TEMPLATE.format(news_data=news_text)
 
     # Check for API Keys
-    gemini_key = os.environ.get("GEMINI_API_KEY")
-    openai_key = os.environ.get("OPENAI_API_KEY")
+    gemini_key = (os.environ.get("GEMINI_API_KEY") or "").strip()
+    openai_key = (os.environ.get("OPENAI_API_KEY") or "").strip()
 
     content = ""
 
     if gemini_key:
         print(f"Using Google Gemini... (Library Version: {genai.__version__})")
         genai.configure(api_key=gemini_key)
-        # Try models in order of preference
+        # Try models in order of preference (gemini-2.0-flash: RAG 챗봇과 동일)
         models_to_try = [
-            'gemini-flash-latest',
-            'gemini-pro-latest',
+            'gemini-2.0-flash',
+            'gemini-2.0-flash-001',
             'gemini-1.5-flash',
             'gemini-1.5-flash-latest',
+            'gemini-flash-latest',
+            'gemini-pro-latest',
             'gemini-1.5-pro',
             'gemini-1.0-pro',
             'gemini-pro'
@@ -234,7 +237,10 @@ def generate_blog_post(news_items):
         )
         content = response.choices[0].message.content
     else:
-        raise ValueError("No API Key found. Please set GEMINI_API_KEY or OPENAI_API_KEY.")
+        raise ValueError(
+            "No API Key found. Please set GEMINI_API_KEY or OPENAI_API_KEY.\n"
+            "GitHub Actions: Repo Settings > Secrets and variables > Actions > New repository secret"
+        )
 
     return content
 
@@ -948,6 +954,32 @@ def _count_articles_in_content(content):
     return len(matches)
 
 
+"""기본 태그 + LLM 생성 태그, 최대 20개"""
+MAX_TAGS = 20
+BASE_TAGS = ["daily-news", "automation", "ai"]
+
+
+def _extract_tags_from_content(content):
+    """콘텐츠 끝의 TAGS: tag1, tag2, ... 형식에서 태그 추출. 없으면 BASE_TAGS 반환."""
+    if not content or not isinstance(content, str):
+        return BASE_TAGS
+    m = re.search(r"\nTAGS:\s*(.+?)(?:\n|$)", content.strip(), re.IGNORECASE | re.DOTALL)
+    if not m:
+        return BASE_TAGS
+    raw = m.group(1).strip()
+    tags = [t.strip() for t in re.split(r"[,，]", raw) if t.strip()]
+    tags = list(dict.fromkeys(tags))[: MAX_TAGS - len(BASE_TAGS)]  # 중복 제거, LLM 태그만 최대 17개
+    combined = BASE_TAGS + [t for t in tags if t.lower() not in {b.lower() for b in BASE_TAGS}]
+    return combined[:MAX_TAGS]
+
+
+def _strip_tags_line_from_content(content):
+    """콘텐츠 끝의 TAGS: ... 줄 제거"""
+    if not content or not isinstance(content, str):
+        return content
+    return re.sub(r"\nTAGS:\s*.+$", "", content.strip(), flags=re.IGNORECASE).strip()
+
+
 def _inject_article_count_badge(content, count):
     """본문 상단에 'N개의 기사가 실렸습니다' 문구를 넣습니다. 인사말 바로 다음 줄에 삽입."""
     if count <= 0:
@@ -993,8 +1025,10 @@ def save_post(content):
         title_suffix = f" ({counter + 1})"
         counter += 1
 
-    # 본문에 기사 개수 배지 삽입
-    content_with_badge = _inject_article_count_badge(content, article_count)
+    # TAGS 줄 제거 후 본문에 기사 개수 배지 삽입
+    content_clean = _strip_tags_line_from_content(content)
+    tags = _extract_tags_from_content(content)
+    content_with_badge = _inject_article_count_badge(content_clean, article_count)
 
     # 본문에서 실제 등장 단어·구 기준으로 태그 약 TAGS_TARGET_COUNT개 생성
     post_tags = generate_tags_from_post_content(content_with_badge)

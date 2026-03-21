@@ -149,7 +149,8 @@ export default {
       return jsonErr(403, "허용되지 않은 출처(Origin)입니다.", corsHeadersForOrigin(null));
     }
 
-    if (!env.GEMINI_API_KEY) {
+    const apiKey = (env.GEMINI_API_KEY || "").trim();
+    if (!apiKey) {
       return jsonErr(500, "서버 설정 오류(GEMINI_API_KEY)", cors);
     }
 
@@ -208,7 +209,7 @@ export default {
       Math.max(256, parseInt(env.MAX_OUTPUT_TOKENS || "1024", 10))
     );
 
-    const geminiUrl = `https://generativelanguage.googleapis.com/v1beta/models/${encodeURIComponent(model)}:streamGenerateContent?alt=sse&key=${encodeURIComponent(env.GEMINI_API_KEY)}`;
+    const geminiUrl = `https://generativelanguage.googleapis.com/v1beta/models/${encodeURIComponent(model)}:streamGenerateContent?alt=sse&key=${encodeURIComponent(apiKey)}`;
 
     const upstream = await fetch(geminiUrl, {
       method: "POST",

@@ -230,7 +230,9 @@ exclude:
   - utils
   - components
   - rag-chat
+  - kg-graph
   - vite.config.ts
+  - vite.kg.config.ts
   - postcss.config.js
   - tailwind.config.js
   - workers

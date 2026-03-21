@@ -1,0 +1,7 @@
+/* Knowledge Graph 컨테이너 */
+.kg-graph-container {
+  background: var(--body-bg, #fff);
+}
+[data-mode="dark"] .kg-graph-container {
+  background: var(--body-bg);
+}

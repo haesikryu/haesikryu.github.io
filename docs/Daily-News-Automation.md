@@ -134,6 +134,17 @@ on:
 
 ## 5. 필요한 GitHub Secrets
 
+### 5.1 설정 방법
+
+1. 저장소 **Settings** → **Secrets and variables** → **Actions**
+2. **New repository secret** 클릭
+3. Name: `GEMINI_API_KEY`, Value: [Google AI Studio](https://aistudio.google.com/apikey)에서 발급한 API 키 입력
+4. 저장
+
+> ⚠️ **API Key not found / API_KEY_INVALID** 오류 시: 시크릿이 비어 있거나 잘못된 키입니다. Google AI Studio에서 새 키를 발급한 뒤 시크릿을 다시 설정하세요. 키에 **IP 제한**이나 **HTTP 리퍼러 제한**이 있으면 GitHub Actions에서 실패할 수 있으므로, 제한 없이 사용하거나 "None"으로 두세요.
+
+### 5.2 시크릿 목록
+
 Daily News 자동 등록만 사용할 때 필요한 시크릿은 아래와 같습니다.
 
 | Secret | 용도 |
@@ -171,7 +182,7 @@ python tools/daily_news.py
 | 현상 | 확인·조치 |
 |------|------------|
 | 포스트가 생성되지 않음 | RSS에서 새 기사가 없거나, 전부 히스토리에 있으면 “No new news items found”로 종료됩니다. 다른 날짜나 다른 피드를 추가해 볼 수 있습니다. |
-| LLM 오류 | `GEMINI_API_KEY` / `OPENAI_API_KEY`가 설정돼 있는지, 할당량·네트워크 문제는 없는지 Actions 로그를 확인합니다. |
+| LLM 오류 / API Key not found | GitHub **Settings > Secrets > GEMINI_API_KEY**가 설정돼 있는지 확인. [Google AI Studio](https://aistudio.google.com/apikey)에서 키 발급 후 시크릿에 추가. 키에 IP/리퍼러 제한이 있으면 해제. |
 | 커밋/푸시 실패 | `GH_PAT` 권한(repo) 및 만료 여부를 확인합니다. |
 | 같은 날 am/pm이 겹침 | 파일명에 `-am` / `-pm`이 붙고, 같은 am/pm 내에서만 `-1`, `-2`가 붙습니다. 스크립트가 정상이면 중복 파일명은 생성되지 않습니다. |
 

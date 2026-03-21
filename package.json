@@ -6,7 +6,9 @@
   "type": "module",
   "scripts": {
     "generate-embeddings": "node scripts/generate-vector-store.js",
-    "build:rag": "vite build"
+    "generate-graph": "node scripts/generate-graph-data.js",
+    "build:rag": "vite build",
+    "build:kg": "vite build --config vite.kg.config.ts"
   },
   "dependencies": {
     "@xenova/transformers": "^2.17.2",
@@ -14,7 +16,8 @@
     "lucide-react": "^0.460.0",
     "marked": "^15.0.0",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "force-graph": "^1.51.2"
   },
   "devDependencies": {
     "@types/node": "^22.10.0",

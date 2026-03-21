@@ -56,8 +56,14 @@ jobs:
           npm install
           npm run generate-embeddings
 
+      - name: Generate Knowledge Graph data
+        run: npm run generate-graph
+
       - name: Build RAG chat widget (Vite)
         run: npm run build:rag
+
+      - name: Build Knowledge Graph (Vite)
+        run: npm run build:kg
 
       - name: Build site
         run: bundle exec jekyll b -d "_site" --trace
