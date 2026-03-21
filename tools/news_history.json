@@ -1,95 +1,5 @@
 [
   {
-    "title": "‘Not built right the first time’ — Musk’s xAI is starting over again, again",
-    "link": "https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/",
-    "date": "2026-03-14"
-  },
-  {
-    "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
-    "link": "https://techcrunch.com/2026/03/13/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
-    "date": "2026-03-14"
-  },
-  {
-    "title": "Nyne, founded by a father-son duo, gives AI agents the human context they’re missing",
-    "link": "https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/",
-    "date": "2026-03-14"
-  },
-  {
-    "title": "Steven Spielberg says he’s ‘never used AI’ in any of his films",
-    "link": "https://techcrunch.com/2026/03/13/steven-spielberg-says-hes-never-used-ai-in-any-of-his-films/",
-    "date": "2026-03-14"
-  },
-  {
-    "title": "The biggest AI stories of the year (so far)",
-    "link": "https://techcrunch.com/2026/03/13/the-biggest-ai-stories-of-the-year-so-far/",
-    "date": "2026-03-14"
-  },
-  {
-    "title": "Why physical AI is becoming manufacturing’s next advantage",
-    "link": "https://www.technologyreview.com/2026/03/13/1134184/why-physical-ai-is-becoming-manufacturings-next-advantage/",
-    "date": "2026-03-14"
-  },
-  {
-    "title": "The Download: how AI is used for military targeting, and the Pentagon’s war on Claude",
-    "link": "https://www.technologyreview.com/2026/03/13/1134278/the-download-defense-official-ai-chatbots-targeting-pentagon-claude-pollute-military-supply-chain/",
-    "date": "2026-03-14"
-  },
-  {
-    "title": "Future AI chips could be built on glass",
-    "link": "https://www.technologyreview.com/2026/03/13/1134230/future-ai-chips-could-be-built-on-glass/",
-    "date": "2026-03-14"
-  },
-  {
-    "title": "Beyond Semantic Similarity: Introducing NVIDIA NeMo Retriever’s Generalizable Agentic Retrieval Pipeline",
-    "link": "https://huggingface.co/blog/nvidia/nemo-retriever-agentic-retrieval",
-    "date": "2026-03-14"
-  },
-  {
-    "title": "NASA officials sidestepped questions on Artemis II risks—there's a reason why",
-    "link": "https://arstechnica.com/space/2026/03/flying-to-the-moon-for-the-first-time-in-54-years-is-risky-but-how-risky/",
-    "date": "2026-03-14"
-  },
-  {
-    "title": "Woman sneezes out maggots after fly larvae get trapped in her deviated septum",
-    "link": "https://arstechnica.com/health/2026/03/woman-sneezes-out-maggots-after-fly-larvae-get-trapped-in-her-deviated-septum/",
-    "date": "2026-03-14"
-  },
-  {
-    "title": "Slay the Spire 2 is a bit too familiar for its own good",
-    "link": "https://arstechnica.com/gaming/2026/03/slay-the-spire-2-is-a-bit-too-familiar-for-its-own-good/",
-    "date": "2026-03-14"
-  },
-  {
-    "title": "Figuring out why AIs get flummoxed by some games",
-    "link": "https://arstechnica.com/ai/2026/03/figuring-out-why-ais-get-flummoxed-by-some-games/",
-    "date": "2026-03-14"
-  },
-  {
-    "title": "Google Fiber will be sold to private equity firm and merge with cable company",
-    "link": "https://arstechnica.com/tech-policy/2026/03/google-fiber-will-be-sold-to-private-equity-firm-and-merge-with-cable-company/",
-    "date": "2026-03-14"
-  },
-  {
-    "title": "E.SUN Bank and IBM build AI governance framework for banking",
-    "link": "https://www.artificialintelligence-news.com/news/e-sun-bank-and-ibm-build-ai-governance-framework-for-banking/",
-    "date": "2026-03-14"
-  },
-  {
-    "title": "BMW puts humanoid robots to work in Germany–and Europe’s factories are watching",
-    "link": "https://www.artificialintelligence-news.com/news/bmw-humanoid-robots-manufacturing-europe-leipzig/",
-    "date": "2026-03-14"
-  },
-  {
-    "title": "How our open-source AI model SpeciesNet is helping to promote wildlife conservation",
-    "link": "https://blog.google/company-news/outreach-and-initiatives/sustainability/speciesnet-open-source-ai-wildlife/",
-    "date": "2026-03-14"
-  },
-  {
-    "title": "Staff complain that xAI is flailing because of constant upheaval",
-    "link": "https://arstechnica.com/ai/2026/03/staff-complain-that-xai-is-flailing-because-of-constant-upheaval/",
-    "date": "2026-03-14"
-  },
-  {
     "title": "US Army announces contract with Anduril worth up to $20B",
     "link": "https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/",
     "date": "2026-03-15"
@@ -603,5 +513,90 @@
     "title": "NVIDIA wants enterprise AI agents safer to deploy",
     "link": "https://www.artificialintelligence-news.com/news/nvidia-agent-toolkit-enterprise-ai-agents/",
     "date": "2026-03-20"
+  },
+  {
+    "title": "Windows 품질에 대한 우리의 약속",
+    "link": "https://news.hada.io/topic?id=27692",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "Tabularis - 개발자용 크로스플랫폼 DB 관리 애플리케이션",
+    "link": "https://news.hada.io/topic?id=27691",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "Claude Code, 클라우드 기반 예약 작업 기능 추가",
+    "link": "https://news.hada.io/topic?id=27690",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "Apple, 인기 '바이브 코딩' 앱 업데이트를 조용히 차단",
+    "link": "https://news.hada.io/topic?id=27689",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "Rust WASM 파서를 TypeScript로 다시 작성했더니 3배 빨라졌다",
+    "link": "https://news.hada.io/topic?id=27688",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "Microsoft rolls back some of its Copilot AI bloat on Windows",
+    "link": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "What happened at Nvidia GTC: NemoClaw, Robot Olaf, and a $1 trillion bet",
+    "link": "https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "Nvidia has an OpenClaw strategy. Do you?",
+    "link": "https://techcrunch.com/podcast/nvidia-has-an-openclaw-strategy-do-you/",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "WordPress.com now lets AI agents write and publish posts, and more",
+    "link": "https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "Trump’s AI framework targets state laws, shifts child safety burden to parents",
+    "link": "https://techcrunch.com/2026/03/20/trumps-ai-framework-targets-state-laws-shifts-child-safety-burden-to-parents/",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "Build a Domain-Specific Embedding Model in Under a Day",
+    "link": "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "What's New in Mellea 0.4.0 + Granite Libraries Release",
+    "link": "https://huggingface.co/blog/ibm-granite/granite-libraries",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "Jury finds Musk owes damages to Twitter investors for his tweets",
+    "link": "https://arstechnica.com/tech-policy/2026/03/jury-agrees-that-musks-tweets-during-twitter-takeover-constituted-fraud/",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "You're likely already infected with a brain-eating virus you've never heard of",
+    "link": "https://arstechnica.com/health/2026/03/youre-likely-already-infected-with-a-brain-eating-virus-youve-never-heard-of/",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "Once again, ULA can't deliver when the US military needs a satellite in orbit",
+    "link": "https://arstechnica.com/space/2026/03/spacex-swipes-yet-another-military-contract-from-united-launch-alliance/",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "Microsoft keeps insisting that it's deeply committed to the quality of Windows 11",
+    "link": "https://arstechnica.com/gadgets/2026/03/microsoft-keeps-insisting-that-its-deeply-committed-to-the-quality-of-windows-11/",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "Writer denies it, but publisher pulls horror novel after multiple allegations of AI use",
+    "link": "https://arstechnica.com/ai/2026/03/hachette-pulls-shy-girl-horror-novel-after-concerns-about-ai-use/",
+    "date": "2026-03-21"
   }
 ]
