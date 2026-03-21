@@ -598,5 +598,40 @@
     "title": "Writer denies it, but publisher pulls horror novel after multiple allegations of AI use",
     "link": "https://arstechnica.com/ai/2026/03/hachette-pulls-shy-girl-horror-novel-after-concerns-about-ai-use/",
     "date": "2026-03-21"
+  },
+  {
+    "title": "Andrej Karpathy가 말하는 코드 에이전트, AutoResearch, 그리고 AI의 루피(Loopy) 시대 [유튜브]",
+    "link": "https://news.hada.io/topic?id=27706",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "MacBook M5 Pro와 Qwen3.5 기반 로컬 AI 보안 시스템",
+    "link": "https://news.hada.io/topic?id=27705",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "Noq: n0의 새로운 Rust 기반 QUIC 구현체",
+    "link": "https://news.hada.io/topic?id=27703",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "Cursor Composer 2는 Kimi K2.5에 RL을 적용한 모델로 확인",
+    "link": "https://news.hada.io/topic?id=27702",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "Show GN: Cluefin-Dure - 증권사/DART API를 활용한 국내주식 멀티 AI 에이전트",
+    "link": "https://news.hada.io/topic?id=27701",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput",
+    "link": "https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/",
+    "date": "2026-03-21"
+  },
+  {
+    "title": "How our open-source AI model SpeciesNet is helping to promote wildlife conservation",
+    "link": "https://blog.google/company-news/outreach-and-initiatives/sustainability/speciesnet-open-source-ai-wildlife/",
+    "date": "2026-03-21"
   }
 ]
