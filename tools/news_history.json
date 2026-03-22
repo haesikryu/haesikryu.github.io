@@ -1,20 +1,5 @@
 [
   {
-    "title": "US Army announces contract with Anduril worth up to $20B",
-    "link": "https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/",
-    "date": "2026-03-15"
-  },
-  {
-    "title": "Meta reportedly considering layoffs that could affect 20% of the company",
-    "link": "https://techcrunch.com/2026/03/14/meta-reportedly-considering-layoffs-that-could-affect-20-of-the-company/",
-    "date": "2026-03-15"
-  },
-  {
-    "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
-    "link": "https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/",
-    "date": "2026-03-15"
-  },
-  {
     "title": "Google, Accel India accelerator choses 5 startups and none are ‘AI wrappers’",
     "link": "https://techcrunch.com/2026/03/15/google-and-accel-cut-through-wrappers-in-4000-ai-startup-pitches-to-pick-five-tied-to-india/",
     "date": "2026-03-16"
@@ -633,5 +618,60 @@
     "title": "How our open-source AI model SpeciesNet is helping to promote wildlife conservation",
     "link": "https://blog.google/company-news/outreach-and-initiatives/sustainability/speciesnet-open-source-ai-wildlife/",
     "date": "2026-03-21"
+  },
+  {
+    "title": "Show GN: MonoPix - AI가 만든 가짜 픽셀아트를 진짜 픽셀아트로 복원",
+    "link": "https://news.hada.io/topic?id=27735",
+    "date": "2026-03-22"
+  },
+  {
+    "title": "Show GN: Thask – 프로젝트 의존성을 노드 그래프로 시각화하고 AI 에이전트가 조회/수정 가능",
+    "link": "https://news.hada.io/topic?id=27734",
+    "date": "2026-03-22"
+  },
+  {
+    "title": "404 Deno CEO not found",
+    "link": "https://news.hada.io/topic?id=27733",
+    "date": "2026-03-22"
+  },
+  {
+    "title": "SaaS의 미래는 Agentic",
+    "link": "https://news.hada.io/topic?id=27732",
+    "date": "2026-03-22"
+  },
+  {
+    "title": "메타의 1,600개 언어용 Omnilingual MT",
+    "link": "https://news.hada.io/topic?id=27731",
+    "date": "2026-03-22"
+  },
+  {
+    "title": "Are AI tokens the new signing bonus or just a cost of doing business?",
+    "link": "https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business/",
+    "date": "2026-03-22"
+  },
+  {
+    "title": "Publisher pulls horror novel ‘Shy Girl’ over AI concerns",
+    "link": "https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/",
+    "date": "2026-03-22"
+  },
+  {
+    "title": "Delve accused of misleading customers with ‘fake compliance’",
+    "link": "https://techcrunch.com/2026/03/21/delve-accused-of-misleading-customers-with-fake-compliance/",
+    "date": "2026-03-22"
+  },
+  {
+    "title": "Why Wall Street wasn’t won over by Nvidia’s big conference",
+    "link": "https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/",
+    "date": "2026-03-22"
+  },
+  {
+    "title": "We keep finding the raw material of DNA in asteroids—what's it telling us?",
+    "link": "https://arstechnica.com/science/2026/03/we-keep-finding-the-raw-material-of-dna-in-asteroids-whats-it-telling-us/",
+    "date": "2026-03-22"
+  },
+  {
+    "title": "DOGE goes nuclear: How Trump invited Silicon Valley into America’s nuclear power regulator",
+    "link": "https://arstechnica.com/science/2026/03/doge-goes-nuclear-how-trump-invited-silicon-valley-into-americas-nuclear-power-regulator/",
+    "date": "2026-03-22"
   }
 ]
