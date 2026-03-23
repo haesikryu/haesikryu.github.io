@@ -7,6 +7,7 @@ import "./kg-graph.css";
  * - 다크/라이트 모드 대응
  */
 
+import { forceCollide } from "d3-force";
 import ForceGraph from "force-graph";
 
 const root = document.getElementById("kg-graph-root");
@@ -22,13 +23,28 @@ if (!root) {
         .graphData(data)
         .nodeLabel((n: { name?: string }) => n.name || "")
         .nodeAutoColorBy("group")
-        .nodeVal((n: { val?: number }) => (n.val || 1) * 3)
+        .nodeVal((n: { val?: number }) => (n.val || 1) * 2)
         .linkColor(() => (document.documentElement.getAttribute("data-mode") === "dark" ? "#64748b" : "#94a3b8"))
         .onNodeClick((node: { id?: string }) => {
           if (node?.id) {
             window.location.href = baseUrl + node.id;
           }
         });
+
+      // 링크 거리·충돌·반발력 조정: 뭉침 방지
+      const linkForce = graph.d3Force("link" as "link");
+      if (linkForce && typeof (linkForce as { distance?: (v: number) => unknown }).distance === "function") {
+        (linkForce as { distance: (v: number) => unknown }).distance(50);
+      }
+      const chargeForce = graph.d3Force("charge" as "charge");
+      if (chargeForce && typeof (chargeForce as { strength?: (v: number) => unknown }).strength === "function") {
+        (chargeForce as { strength: (v: number) => unknown }).strength(-80);
+      }
+      graph.d3Force(
+        "collide",
+        forceCollide((node: { val?: number }) => 8 + (node.val || 1) * 2).iterations(3)
+      );
+      graph.d3ReheatSimulation();
 
       // ResizeObserver
       const ro = new ResizeObserver(() => graph.width(root.offsetWidth).height(root.offsetHeight));
