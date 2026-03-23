@@ -363,31 +363,31 @@
     {
       "id": "/posts/daily-ai-news-1/",
       "name": "구글 번역에 최첨단 제미나이(Gemini) 번역 기능 도입 등 5개 기사",
-      "group": "daily-news",
+      "group": "gemini",
       "val": 4
     },
     {
       "id": "/posts/daily-ai-news/",
       "name": "OpenAI, GPT-5.2 출시: 전문가급 추론 능력 확보 등 7개 기사",
-      "group": "daily-news",
+      "group": "openai",
       "val": 4
     },
     {
       "id": "/posts/daily-ai-news-am/",
-      "name": "펜타곤, 기밀 데이터를 활용한 특수 AI 모델 구축 계획 발표 등 5개 기사",
-      "group": "daily-news",
+      "name": "아마존의 비밀 병기 '트레이니움(Trainium)', 오픈AI와 애플까지 매료시키다 등 4개 기사",
+      "group": "trainium",
       "val": 4
     },
     {
       "id": "/posts/daily-ai-news-pm-1/",
       "name": "GPT-5.2, 수학 및 과학 분야에서 새로운 SOTA 달성 등 5개 기사",
-      "group": "daily-news",
+      "group": "gpt",
       "val": 4
     },
     {
       "id": "/posts/daily-ai-news-pm/",
-      "name": "라쿠텐, OpenAI Codex 도입으로 개발 속도 2배 향상 등 2개 기사",
-      "group": "daily-news",
+      "name": "\"코딩의 죽음은 과장되었다\" : Anthropic의 'Cowork' 출시와 개발의 미래 등 5개 기사",
+      "group": "anthropic",
       "val": 4
     },
     {
@@ -417,6 +417,10 @@
   ],
   "links": [
     {
+      "source": "/posts/daily-ai-news-pm-1/",
+      "target": "/posts/welcome/"
+    },
+    {
       "source": "/posts/ai_dev_tool_comparison_blog/",
       "target": "/posts/claude_dev_env_config_guide/"
     },
@@ -425,7 +429,31 @@
       "target": "/posts/dev_width_ai_blog/"
     },
     {
+      "source": "/posts/claude_dev_env_config_guide/",
+      "target": "/posts/dev_width_ai_blog/"
+    },
+    {
+      "source": "/posts/ai_development_guide_2025/",
+      "target": "/posts/dev_width_ai_blog/"
+    },
+    {
+      "source": "/posts/dev_width_ai_blog/",
+      "target": "/posts/exploring_power_of_ai_in_sw_blog/"
+    },
+    {
       "source": "/posts/ai-gen-developer-to-architect/",
+      "target": "/posts/dev_width_ai_blog/"
+    },
+    {
+      "source": "/posts/compare-gemini-chatcpt-clade-perplexity/",
+      "target": "/posts/dev_width_ai_blog/"
+    },
+    {
+      "source": "/posts/dev_width_ai_blog/",
+      "target": "/posts/weather-in-my-town/"
+    },
+    {
+      "source": "/posts/ai-code-review/",
       "target": "/posts/dev_width_ai_blog/"
     },
     {
@@ -433,8 +461,36 @@
       "target": "/posts/requirement_to_architecture_blog/"
     },
     {
+      "source": "/posts/architecture_trends_2025_infoq_blog/",
+      "target": "/posts/ddd_ai_platoform_strategy_blog/"
+    },
+    {
+      "source": "/posts/ddd_ai_platoform_strategy_blog/",
+      "target": "/posts/transform_monolith_to_msa_with_ddd_blog/"
+    },
+    {
+      "source": "/posts/ddd_ai_platoform_strategy_blog/",
+      "target": "/posts/ddd_microservices_blog/"
+    },
+    {
+      "source": "/posts/ddd_ai_platoform_strategy_blog/",
+      "target": "/posts/uber_biz_agility_using_msa_ddd_blog/"
+    },
+    {
+      "source": "/posts/ddd_ai_platoform_strategy_blog/",
+      "target": "/posts/microservices_advantages_design_strategy_2025_blog/"
+    },
+    {
       "source": "/posts/agentic_ai_architect_blog_post/",
       "target": "/posts/ddd_ai_platoform_strategy_blog/"
+    },
+    {
+      "source": "/posts/\u001dprogramming_architecture_trends_2025_future_of_sw_dev_blog/",
+      "target": "/posts/ddd_ai_platoform_strategy_blog/"
+    },
+    {
+      "source": "/posts/ddd_qcon_blog/",
+      "target": "/posts/requirement_to_architecture_blog/"
     },
     {
       "source": "/posts/requirement_to_architecture_blog/",
@@ -449,8 +505,80 @@
       "target": "/posts/uber_biz_agility_using_msa_ddd_blog/"
     },
     {
+      "source": "/posts/microservices_advantages_design_strategy_2025_blog/",
+      "target": "/posts/requirement_to_architecture_blog/"
+    },
+    {
+      "source": "/posts/agentic_ai_architect_blog_post/",
+      "target": "/posts/requirement_to_architecture_blog/"
+    },
+    {
       "source": "/posts/\u001dprogramming_architecture_trends_2025_future_of_sw_dev_blog/",
       "target": "/posts/requirement_to_architecture_blog/"
+    },
+    {
+      "source": "/posts/hyper_modular_microservices_blog/",
+      "target": "/posts/requirement_to_architecture_blog/"
+    },
+    {
+      "source": "/posts/ddd-microservices-book-review/",
+      "target": "/posts/requirement_to_architecture_blog/"
+    },
+    {
+      "source": "/posts/microservice_dev_using_ddd/",
+      "target": "/posts/requirement_to_architecture_blog/"
+    },
+    {
+      "source": "/posts/architecture_trends_2025_infoq_blog/",
+      "target": "/posts/ddd_qcon_blog/"
+    },
+    {
+      "source": "/posts/ddd_qcon_blog/",
+      "target": "/posts/transform_monolith_to_msa_with_ddd_blog/"
+    },
+    {
+      "source": "/posts/ddd_microservices_blog/",
+      "target": "/posts/ddd_qcon_blog/"
+    },
+    {
+      "source": "/posts/ddd_qcon_blog/",
+      "target": "/posts/hyper_modular_microservices_blog/"
+    },
+    {
+      "source": "/posts/ddd_qcon_blog/",
+      "target": "/posts/elon-musk-five-step-improvement-process/"
+    },
+    {
+      "source": "/posts/ddd-microservices-book-review/",
+      "target": "/posts/ddd_qcon_blog/"
+    },
+    {
+      "source": "/posts/ddd_qcon_blog/",
+      "target": "/posts/microservice_dev_using_ddd/"
+    },
+    {
+      "source": "/posts/ai_msa_architecture_blog/",
+      "target": "/posts/architecture_trends_2025_infoq_blog/"
+    },
+    {
+      "source": "/posts/agentic_ai_architect_blog_post/",
+      "target": "/posts/architecture_trends_2025_infoq_blog/"
+    },
+    {
+      "source": "/posts/architecture_trends_2025_infoq_blog/",
+      "target": "/posts/rag-architecture-comparison/"
+    },
+    {
+      "source": "/posts/architecture_trends_2025_infoq_blog/",
+      "target": "/posts/elon-musk-five-step-improvement-process/"
+    },
+    {
+      "source": "/posts/ai_msa_architecture_blog/",
+      "target": "/posts/uber_biz_agility_using_msa_ddd_blog/"
+    },
+    {
+      "source": "/posts/ai_msa_architecture_blog/",
+      "target": "/posts/microservice_dev_using_ddd/"
     },
     {
       "source": "/posts/ddd_microservices_blog/",
@@ -466,6 +594,10 @@
     },
     {
       "source": "/posts/\u001dprogramming_architecture_trends_2025_future_of_sw_dev_blog/",
+      "target": "/posts/transform_monolith_to_msa_with_ddd_blog/"
+    },
+    {
+      "source": "/posts/hyper_modular_microservices_blog/",
       "target": "/posts/transform_monolith_to_msa_with_ddd_blog/"
     },
     {
@@ -485,6 +617,14 @@
       "target": "/posts/microservices_advantages_design_strategy_2025_blog/"
     },
     {
+      "source": "/posts/\u001dprogramming_architecture_trends_2025_future_of_sw_dev_blog/",
+      "target": "/posts/ddd_microservices_blog/"
+    },
+    {
+      "source": "/posts/ddd_microservices_blog/",
+      "target": "/posts/hyper_modular_microservices_blog/"
+    },
+    {
       "source": "/posts/ddd-microservices-book-review/",
       "target": "/posts/ddd_microservices_blog/"
     },
@@ -501,12 +641,120 @@
       "target": "/posts/uber_biz_agility_using_msa_ddd_blog/"
     },
     {
+      "source": "/posts/ddd-microservices-book-review/",
+      "target": "/posts/uber_biz_agility_using_msa_ddd_blog/"
+    },
+    {
       "source": "/posts/microservice_dev_using_ddd/",
       "target": "/posts/uber_biz_agility_using_msa_ddd_blog/"
     },
     {
+      "source": "/posts/exploring_power_of_ai_in_sw_blog/",
+      "target": "/posts/microservices_advantages_design_strategy_2025_blog/"
+    },
+    {
+      "source": "/posts/\u001dprogramming_architecture_trends_2025_future_of_sw_dev_blog/",
+      "target": "/posts/microservices_advantages_design_strategy_2025_blog/"
+    },
+    {
+      "source": "/posts/ddd-microservices-book-review/",
+      "target": "/posts/microservices_advantages_design_strategy_2025_blog/"
+    },
+    {
+      "source": "/posts/microservice_dev_using_ddd/",
+      "target": "/posts/microservices_advantages_design_strategy_2025_blog/"
+    },
+    {
+      "source": "/posts/ai_development_guide_2025/",
+      "target": "/posts/exploring_power_of_ai_in_sw_blog/"
+    },
+    {
+      "source": "/posts/ai-gen-developer-to-architect/",
+      "target": "/posts/ai_development_guide_2025/"
+    },
+    {
+      "source": "/posts/ai_development_guide_2025/",
+      "target": "/posts/weather-in-my-town/"
+    },
+    {
+      "source": "/posts/ai-code-review/",
+      "target": "/posts/ai_development_guide_2025/"
+    },
+    {
+      "source": "/posts/\u001dprogramming_architecture_trends_2025_future_of_sw_dev_blog/",
+      "target": "/posts/agentic_ai_architect_blog_post/"
+    },
+    {
+      "source": "/posts/ai-gen-developer-to-architect/",
+      "target": "/posts/exploring_power_of_ai_in_sw_blog/"
+    },
+    {
+      "source": "/posts/exploring_power_of_ai_in_sw_blog/",
+      "target": "/posts/weather-in-my-town/"
+    },
+    {
+      "source": "/posts/ai-code-review/",
+      "target": "/posts/exploring_power_of_ai_in_sw_blog/"
+    },
+    {
+      "source": "/posts/\u001dprogramming_architecture_trends_2025_future_of_sw_dev_blog/",
+      "target": "/posts/ddd-microservices-book-review/"
+    },
+    {
+      "source": "/posts/\u001dprogramming_architecture_trends_2025_future_of_sw_dev_blog/",
+      "target": "/posts/microservice_dev_using_ddd/"
+    },
+    {
       "source": "/posts/claude_code_install_guide_blog/",
       "target": "/posts/hot_llm_ai_tools_2025_blog/"
+    },
+    {
+      "source": "/posts/hyper_modular_microservices_blog/",
+      "target": "/posts/package_structure_guide/"
+    },
+    {
+      "source": "/posts/ddd-microservices-book-review/",
+      "target": "/posts/hyper_modular_microservices_blog/"
+    },
+    {
+      "source": "/posts/hyper_modular_microservices_blog/",
+      "target": "/posts/microservice_dev_using_ddd/"
+    },
+    {
+      "source": "/posts/hyper_modular_microservices_blog/",
+      "target": "/posts/todo-app/"
+    },
+    {
+      "source": "/posts/gemini_code_assist_blog/",
+      "target": "/posts/kiro_ide_tech_blog/"
+    },
+    {
+      "source": "/posts/dev_container_guide/",
+      "target": "/posts/kiro_ide_tech_blog/"
+    },
+    {
+      "source": "/posts/cloud-native-webapp/",
+      "target": "/posts/kiro_ide_tech_blog/"
+    },
+    {
+      "source": "/posts/dev_container_guide/",
+      "target": "/posts/gemini_code_assist_blog/"
+    },
+    {
+      "source": "/posts/cursor_reverse_engineering_guide/",
+      "target": "/posts/daily-ai-news-am/"
+    },
+    {
+      "source": "/posts/ai-code-review/",
+      "target": "/posts/rag-architecture-comparison/"
+    },
+    {
+      "source": "/posts/domain-storytelling-1-intro/",
+      "target": "/posts/domain-storytelling-2-notation-workshop/"
+    },
+    {
+      "source": "/posts/domain-storytelling-1-intro/",
+      "target": "/posts/domain-storytelling-3-egonio/"
     },
     {
       "source": "/posts/domain-storytelling-1-intro/",
@@ -515,6 +763,118 @@
     {
       "source": "/posts/domain-storytelling-1-intro/",
       "target": "/posts/domain-storytelling-5-practical/"
+    },
+    {
+      "source": "/posts/ddd-coding-standard/",
+      "target": "/posts/domain-storytelling-1-intro/"
+    },
+    {
+      "source": "/posts/domain-storytelling-2-notation-workshop/",
+      "target": "/posts/domain-storytelling-3-egonio/"
+    },
+    {
+      "source": "/posts/domain-storytelling-2-notation-workshop/",
+      "target": "/posts/domain-storytelling-4-ddd/"
+    },
+    {
+      "source": "/posts/domain-storytelling-2-notation-workshop/",
+      "target": "/posts/domain-storytelling-5-practical/"
+    },
+    {
+      "source": "/posts/domain-storytelling-3-egonio/",
+      "target": "/posts/domain-storytelling-4-ddd/"
+    },
+    {
+      "source": "/posts/domain-storytelling-3-egonio/",
+      "target": "/posts/domain-storytelling-5-practical/"
+    },
+    {
+      "source": "/posts/daily-ai-news/",
+      "target": "/posts/domain-storytelling-3-egonio/"
+    },
+    {
+      "source": "/posts/domain-storytelling-4-ddd/",
+      "target": "/posts/domain-storytelling-5-practical/"
+    },
+    {
+      "source": "/posts/ddd-coding-standard/",
+      "target": "/posts/domain-storytelling-4-ddd/"
+    },
+    {
+      "source": "/posts/building-ai-native-team/",
+      "target": "/posts/domain-storytelling-5-practical/"
+    },
+    {
+      "source": "/posts/building-ai-native-team/",
+      "target": "/posts/why-donot-developer-study/"
+    },
+    {
+      "source": "/posts/ai-gen-developer-to-architect/",
+      "target": "/posts/compare-gemini-chatcpt-clade-perplexity/"
+    },
+    {
+      "source": "/posts/ai-gen-developer-to-architect/",
+      "target": "/posts/weather-in-my-town/"
+    },
+    {
+      "source": "/posts/ai-code-review/",
+      "target": "/posts/ai-gen-developer-to-architect/"
+    },
+    {
+      "source": "/posts/ai-report-1-risk/",
+      "target": "/posts/compare-gemini-chatcpt-clade-perplexity/"
+    },
+    {
+      "source": "/posts/compare-gemini-chatcpt-clade-perplexity/",
+      "target": "/posts/gpu-vs-tpu/"
+    },
+    {
+      "source": "/posts/compare-gemini-chatcpt-clade-perplexity/",
+      "target": "/posts/critical-thinking-in-ai-gen/"
+    },
+    {
+      "source": "/posts/compare-gemini-chatcpt-clade-perplexity/",
+      "target": "/posts/its-always-process-stuid/"
+    },
+    {
+      "source": "/posts/compare-gemini-chatcpt-clade-perplexity/",
+      "target": "/posts/the-aigile-methodology/"
+    },
+    {
+      "source": "/posts/compare-gemini-chatcpt-clade-perplexity/",
+      "target": "/posts/weather-in-my-town/"
+    },
+    {
+      "source": "/posts/compare-gemini-chatcpt-clade-perplexity/",
+      "target": "/posts/openai-cpt-52/"
+    },
+    {
+      "source": "/posts/compare-gemini-chatcpt-clade-perplexity/",
+      "target": "/posts/gemini3-google-services/"
+    },
+    {
+      "source": "/posts/compare-gemini-chatcpt-clade-perplexity/",
+      "target": "/posts/daily-ai-news-1/"
+    },
+    {
+      "source": "/posts/compare-gemini-chatcpt-clade-perplexity/",
+      "target": "/posts/daily-ai-news/"
+    },
+    {
+      "source": "/posts/compare-gemini-chatcpt-clade-perplexity/",
+      "target": "/posts/daily-ai-news-am/"
+    },
+    {
+      "source": "/posts/compare-gemini-chatcpt-clade-perplexity/",
+      "target": "/posts/daily-ai-news-pm-1/"
+    },
+    {
+      "source": "/posts/compare-gemini-chatcpt-clade-perplexity/",
+      "target": "/posts/daily-ai-news-pm/"
+    },
+    {
+      "source": "/posts/compare-gemini-chatcpt-clade-perplexity/",
+      "target": "/posts/todo-app/"
     },
     {
       "source": "/posts/ai-report-1-risk/",
@@ -533,6 +893,38 @@
       "target": "/posts/the-aigile-methodology/"
     },
     {
+      "source": "/posts/ai-report-1-risk/",
+      "target": "/posts/openai-cpt-52/"
+    },
+    {
+      "source": "/posts/ai-report-1-risk/",
+      "target": "/posts/gemini3-google-services/"
+    },
+    {
+      "source": "/posts/ai-report-1-risk/",
+      "target": "/posts/daily-ai-news-1/"
+    },
+    {
+      "source": "/posts/ai-report-1-risk/",
+      "target": "/posts/daily-ai-news/"
+    },
+    {
+      "source": "/posts/ai-report-1-risk/",
+      "target": "/posts/daily-ai-news-am/"
+    },
+    {
+      "source": "/posts/ai-report-1-risk/",
+      "target": "/posts/daily-ai-news-pm-1/"
+    },
+    {
+      "source": "/posts/ai-report-1-risk/",
+      "target": "/posts/daily-ai-news-pm/"
+    },
+    {
+      "source": "/posts/ai-report-1-risk/",
+      "target": "/posts/todo-app/"
+    },
+    {
       "source": "/posts/critical-thinking-in-ai-gen/",
       "target": "/posts/gpu-vs-tpu/"
     },
@@ -545,6 +937,38 @@
       "target": "/posts/the-aigile-methodology/"
     },
     {
+      "source": "/posts/gpu-vs-tpu/",
+      "target": "/posts/openai-cpt-52/"
+    },
+    {
+      "source": "/posts/gemini3-google-services/",
+      "target": "/posts/gpu-vs-tpu/"
+    },
+    {
+      "source": "/posts/daily-ai-news-1/",
+      "target": "/posts/gpu-vs-tpu/"
+    },
+    {
+      "source": "/posts/daily-ai-news/",
+      "target": "/posts/gpu-vs-tpu/"
+    },
+    {
+      "source": "/posts/daily-ai-news-am/",
+      "target": "/posts/gpu-vs-tpu/"
+    },
+    {
+      "source": "/posts/daily-ai-news-pm-1/",
+      "target": "/posts/gpu-vs-tpu/"
+    },
+    {
+      "source": "/posts/daily-ai-news-pm/",
+      "target": "/posts/gpu-vs-tpu/"
+    },
+    {
+      "source": "/posts/gpu-vs-tpu/",
+      "target": "/posts/todo-app/"
+    },
+    {
       "source": "/posts/critical-thinking-in-ai-gen/",
       "target": "/posts/its-always-process-stuid/"
     },
@@ -553,16 +977,204 @@
       "target": "/posts/the-aigile-methodology/"
     },
     {
+      "source": "/posts/critical-thinking-in-ai-gen/",
+      "target": "/posts/openai-cpt-52/"
+    },
+    {
+      "source": "/posts/critical-thinking-in-ai-gen/",
+      "target": "/posts/gemini3-google-services/"
+    },
+    {
+      "source": "/posts/critical-thinking-in-ai-gen/",
+      "target": "/posts/daily-ai-news-1/"
+    },
+    {
+      "source": "/posts/critical-thinking-in-ai-gen/",
+      "target": "/posts/daily-ai-news/"
+    },
+    {
+      "source": "/posts/critical-thinking-in-ai-gen/",
+      "target": "/posts/daily-ai-news-am/"
+    },
+    {
+      "source": "/posts/critical-thinking-in-ai-gen/",
+      "target": "/posts/daily-ai-news-pm-1/"
+    },
+    {
+      "source": "/posts/critical-thinking-in-ai-gen/",
+      "target": "/posts/daily-ai-news-pm/"
+    },
+    {
+      "source": "/posts/critical-thinking-in-ai-gen/",
+      "target": "/posts/todo-app/"
+    },
+    {
       "source": "/posts/its-always-process-stuid/",
       "target": "/posts/the-aigile-methodology/"
+    },
+    {
+      "source": "/posts/its-always-process-stuid/",
+      "target": "/posts/openai-cpt-52/"
+    },
+    {
+      "source": "/posts/gemini3-google-services/",
+      "target": "/posts/its-always-process-stuid/"
+    },
+    {
+      "source": "/posts/daily-ai-news-1/",
+      "target": "/posts/its-always-process-stuid/"
+    },
+    {
+      "source": "/posts/daily-ai-news/",
+      "target": "/posts/its-always-process-stuid/"
+    },
+    {
+      "source": "/posts/daily-ai-news-am/",
+      "target": "/posts/its-always-process-stuid/"
+    },
+    {
+      "source": "/posts/daily-ai-news-pm-1/",
+      "target": "/posts/its-always-process-stuid/"
+    },
+    {
+      "source": "/posts/daily-ai-news-pm/",
+      "target": "/posts/its-always-process-stuid/"
+    },
+    {
+      "source": "/posts/its-always-process-stuid/",
+      "target": "/posts/todo-app/"
+    },
+    {
+      "source": "/posts/openai-cpt-52/",
+      "target": "/posts/the-aigile-methodology/"
+    },
+    {
+      "source": "/posts/gemini3-google-services/",
+      "target": "/posts/the-aigile-methodology/"
+    },
+    {
+      "source": "/posts/daily-ai-news-1/",
+      "target": "/posts/the-aigile-methodology/"
+    },
+    {
+      "source": "/posts/daily-ai-news/",
+      "target": "/posts/the-aigile-methodology/"
+    },
+    {
+      "source": "/posts/daily-ai-news-am/",
+      "target": "/posts/the-aigile-methodology/"
+    },
+    {
+      "source": "/posts/daily-ai-news-pm-1/",
+      "target": "/posts/the-aigile-methodology/"
+    },
+    {
+      "source": "/posts/daily-ai-news-pm/",
+      "target": "/posts/the-aigile-methodology/"
+    },
+    {
+      "source": "/posts/the-aigile-methodology/",
+      "target": "/posts/todo-app/"
+    },
+    {
+      "source": "/posts/ai-code-review/",
+      "target": "/posts/weather-in-my-town/"
+    },
+    {
+      "source": "/posts/openai-cpt-52/",
+      "target": "/posts/youtube-shorts-automation/"
     },
     {
       "source": "/posts/gemini3-google-services/",
       "target": "/posts/youtube-shorts-automation/"
     },
     {
+      "source": "/posts/daily-ai-news-1/",
+      "target": "/posts/youtube-shorts-automation/"
+    },
+    {
+      "source": "/posts/daily-ai-news-pm-1/",
+      "target": "/posts/youtube-shorts-automation/"
+    },
+    {
       "source": "/posts/gemini3-google-services/",
       "target": "/posts/openai-cpt-52/"
+    },
+    {
+      "source": "/posts/daily-ai-news-1/",
+      "target": "/posts/openai-cpt-52/"
+    },
+    {
+      "source": "/posts/daily-ai-news/",
+      "target": "/posts/openai-cpt-52/"
+    },
+    {
+      "source": "/posts/daily-ai-news-am/",
+      "target": "/posts/openai-cpt-52/"
+    },
+    {
+      "source": "/posts/daily-ai-news-pm-1/",
+      "target": "/posts/openai-cpt-52/"
+    },
+    {
+      "source": "/posts/daily-ai-news-pm/",
+      "target": "/posts/openai-cpt-52/"
+    },
+    {
+      "source": "/posts/openai-cpt-52/",
+      "target": "/posts/todo-app/"
+    },
+    {
+      "source": "/posts/building-ai-native-team/",
+      "target": "/posts/gemini3-google-services/"
+    },
+    {
+      "source": "/posts/design-your-perspective/",
+      "target": "/posts/gemini3-google-services/"
+    },
+    {
+      "source": "/posts/daily-ai-news-1/",
+      "target": "/posts/gemini3-google-services/"
+    },
+    {
+      "source": "/posts/daily-ai-news/",
+      "target": "/posts/gemini3-google-services/"
+    },
+    {
+      "source": "/posts/daily-ai-news-am/",
+      "target": "/posts/gemini3-google-services/"
+    },
+    {
+      "source": "/posts/daily-ai-news-pm-1/",
+      "target": "/posts/gemini3-google-services/"
+    },
+    {
+      "source": "/posts/daily-ai-news-pm/",
+      "target": "/posts/gemini3-google-services/"
+    },
+    {
+      "source": "/posts/gemini3-google-services/",
+      "target": "/posts/todo-app/"
+    },
+    {
+      "source": "/posts/building-ai-native-team/",
+      "target": "/posts/design-your-perspective/"
+    },
+    {
+      "source": "/posts/building-ai-native-team/",
+      "target": "/posts/daily-ai-news/"
+    },
+    {
+      "source": "/posts/clean-code-review/",
+      "target": "/posts/ddd-microservices-book-review/"
+    },
+    {
+      "source": "/posts/clean-code-review/",
+      "target": "/posts/source-code-my-beginings-review/"
+    },
+    {
+      "source": "/posts/ddd-microservices-book-review/",
+      "target": "/posts/source-code-my-beginings-review/"
     },
     {
       "source": "/posts/ddd-microservices-book-review/",
@@ -585,6 +1197,10 @@
       "target": "/posts/daily-ai-news-pm/"
     },
     {
+      "source": "/posts/daily-ai-news-1/",
+      "target": "/posts/todo-app/"
+    },
+    {
       "source": "/posts/daily-ai-news-am/",
       "target": "/posts/daily-ai-news/"
     },
@@ -597,6 +1213,10 @@
       "target": "/posts/daily-ai-news/"
     },
     {
+      "source": "/posts/daily-ai-news/",
+      "target": "/posts/todo-app/"
+    },
+    {
       "source": "/posts/daily-ai-news-am/",
       "target": "/posts/daily-ai-news-pm-1/"
     },
@@ -605,8 +1225,24 @@
       "target": "/posts/daily-ai-news-pm/"
     },
     {
+      "source": "/posts/daily-ai-news-am/",
+      "target": "/posts/todo-app/"
+    },
+    {
       "source": "/posts/daily-ai-news-pm-1/",
       "target": "/posts/daily-ai-news-pm/"
+    },
+    {
+      "source": "/posts/daily-ai-news-pm-1/",
+      "target": "/posts/todo-app/"
+    },
+    {
+      "source": "/posts/daily-ai-news-pm/",
+      "target": "/posts/todo-app/"
+    },
+    {
+      "source": "/posts/cloud-native-webapp/",
+      "target": "/posts/microservice_dev_using_ddd/"
     }
   ]
 }

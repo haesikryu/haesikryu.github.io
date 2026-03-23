@@ -141,7 +141,7 @@ function main() {
     }
   }
 
-  // 공통 태그 2개 이상으로 연결
+  // 공통 태그 1개 이상으로 연결
   const slugList = [...nodeMap.keys()];
   for (let i = 0; i < slugList.length; i++) {
     for (let j = i + 1; j < slugList.length; j++) {
@@ -150,7 +150,7 @@ function main() {
       if (!a?.tags?.length || !b?.tags?.length) continue;
       const aSet = new Set(a.tags);
       const common = b.tags.filter((t) => aSet.has(t));
-      if (common.length >= 2) {
+      if (common.length >= 1) {
         const key = [slugList[i], slugList[j]].sort().join("|");
         linkSet.add(key);
       }
