@@ -5,9 +5,28 @@ categories:
 date: 2026-02-01 10:08:31 +0900
 layout: post
 tags:
-- daily-news
-- automation
 - ai
+- openai
+- 엔비디아
+- technica
+- nvidia
+- jensen
+- huang
+- nonsense
+- pushes
+- against
+- report
+- companys
+- investment
+- stalled
+- syncing
+- uncanny
+- valley
+- arstechnica
+- science
+- roundup
+- cool
+- stories
 title: "젠슨 황, 엔비디아의 1천억 달러 OpenAI 투자 지연 루머에 강력 반박 등 2개 기사"
 ---
 

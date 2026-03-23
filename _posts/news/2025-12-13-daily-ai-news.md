@@ -5,9 +5,27 @@ categories:
 date: 2025-12-13 09:48:34 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- openai
+- gpt
+- 전문가급
+- 구글
+- agent
 - ai
+- 행정명령
+- 불확실성
+- 글로벌
+- codex
+- 안드로이드
+- introducing
+- science
+- math
+- bbva
+- collaboration
+- expansion
+- shipping
+- sora
+- android
+- products
 title: "OpenAI, GPT-5.2 출시: 전문가급 추론 능력 확보 등 7개 기사"
 ---
 

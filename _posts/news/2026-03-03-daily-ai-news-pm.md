@@ -5,9 +5,27 @@ categories:
 date: 2026-03-03 16:30:33 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- cursor
 - ai
+- grok
+- agent
+- 본격적인
+- revenue
+- rate
+- github
+- surpassed
+- annualized
+- llm
+- gpt
+- elon
+- musk
+- says
+- released
+- operator
+- computer
+- artificial
+- intelligence
+- openai
 title: "Cursor, 연간 반복 매출(ARR) 20억 달러 돌파하며 'AI 코딩 시대' 증명 등 3개 기사"
 ---
 

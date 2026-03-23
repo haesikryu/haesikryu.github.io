@@ -5,9 +5,27 @@ categories:
 date: 2026-01-24 16:08:11 +0900
 layout: post
 tags:
-- daily-news
-- automation
 - ai
+- harvey
+- hexus
+- listen
+- labs
+- 헤드라인
+- legal
+- giant
+- acquires
+- competition
+- heats
+- raises
+- viral
+- billboard
+- hiring
+- stunt
+- scale
+- customer
+- interviews
+- sakshi
+- llm
 title: "법률 AI 시장 경쟁 심화: 거대 기업 Harvey, Hexus 인수 등 2개 기사"
 ---
 

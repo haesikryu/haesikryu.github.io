@@ -5,9 +5,28 @@ categories:
 date: 2026-02-14 16:22:53 +0900
 layout: post
 tags:
-- daily-news
-- automation
 - ai
+- 에어비앤비
+- openai
+- chatgpt
+- 구글
+- daily
+- digest
+- airbnb
+- plans
+- bake
+- features
+- search
+- discovery
+- support
+- blog
+- memory
+- controls
+- google
+- deepmind
+- introducing
+- gemini
+- llm
 title: "에어비앤비, 검색부터 고객 지원까지 'AI 퍼스트' 선언 등 3개 기사"
 ---
 

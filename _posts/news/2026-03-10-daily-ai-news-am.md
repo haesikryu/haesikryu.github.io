@@ -5,9 +5,28 @@ categories:
 date: 2026-03-10 09:55:50 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- anthropic
+- 이례적인
 - ai
+- promptfoo
+- 앤스로픽
+- code
+- 로보틱스
+- openai
+- google
+- employees
+- rush
+- defense
+- sues
+- department
+- acquires
+- secure
+- agents
+- acquire
+- review
+- tool
+- qualcomm
+- partnership
 title: "Anthropic과 미 국방부의 법적 공방, 그리고 이례적인 실리콘밸리의 결집 등 4개 기사"
 ---
 

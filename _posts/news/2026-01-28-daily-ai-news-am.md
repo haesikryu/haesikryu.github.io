@@ -5,9 +5,28 @@ categories:
 date: 2026-01-28 09:50:06 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- 앤트로픽
 - ai
+- 구글
+- openai
+- prism
+- 캘빈클라인
+- 타미힐피거
+- google
+- plus
+- science
+- anthropic
+- upped
+- latest
+- raise
+- affordable
+- plan
+- markets
+- including
+- available
+- everywhere
+- plans
+- introducing
 title: "앤트로픽, 역대급 규모 200억 달러 자금 조달 추진 등 4개 기사"
 ---
 

@@ -5,9 +5,27 @@ categories:
 date: 2026-03-14 16:24:05 +0900
 layout: post
 tags:
-- daily-news
-- automation
 - ai
+- speciesnet
+- 구글
+- 오픈소스
+- 논란
+- social
+- good
+- grok
+- blog
+- google
+- company
+- outreach
+- initiatives
+- sustainability
+- open
+- wildlife
+- anthropic
+- arstechnica
+- staff
+- complain
+- flailing
 title: "\uAD6C\uAE00, \uC57C\uC0DD \uB3D9\uBB3C \uBCF4\uD638\uB97C \uC704\uD55C \uC624\
   \uD508\uC18C\uC2A4 AI 'SpeciesNet' \uACF5\uAC1C \uB4F1 2\uAC1C \uAE30\uC0AC"
 ---

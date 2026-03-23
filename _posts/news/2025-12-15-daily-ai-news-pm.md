@@ -5,9 +5,28 @@ categories:
 date: 2025-12-15 16:12:33 +0900
 layout: post
 tags:
-- daily-news
-- automation
 - ai
+- 행정명령
+- live
+- 구글
+- 풍부해진
+- 링크드인
+- 알고리즘
+- 논란
+- 전문가들
+- llm
+- gemma
+- rulebook
+- trumps
+- executive
+- order
+- promises
+- startups
+- legal
+- limbo
+- instead
+- blog
+- google
 title: "트럼프 AI 행정명령 서명: '단일 규정집' 약속, 하지만 혼란 가중 우려 등 4개 기사"
 ---
 

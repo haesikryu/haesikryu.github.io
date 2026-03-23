@@ -5,9 +5,28 @@ categories:
 date: 2026-03-07 09:56:35 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- 앤스로픽
+- 미국
+- claude
 - ai
+- 파이어폭스
+- openai
+- codex
+- security
+- 에이전트
+- rowspace
+- 사모펀드
+- 정조준한
+- review
+- blog
+- anthropic
+- pentagon
+- chatgpt
+- claudes
+- consumer
+- growth
+- surge
+- continues
 title: "앤스로픽과 미국 국방부의 갈등, 그리고 클로드의 급성장 등 4개 기사"
 ---
 

@@ -5,9 +5,26 @@ categories:
 date: 2026-03-21 09:56:52 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- openclaw
+- 엔비디아
+- 마이크로소프트
+- 코파일럿
+- vibe
+- coding
+- 애플
+- 업데이트
+- 논란
+- claude-code
+- 앤스로픽
+- 클라우드
 - ai
+- 디제스트
+- 다이어트
+- happened
+- nvidia
+- strategy
+- microsoft
+- commitment
 title: "\uC5D4\uBE44\uB514\uC544 GTC: 1\uC870 \uB2EC\uB7EC \uB9E4\uCD9C\uC744 \uD5A5\
   \uD55C '\uC624\uD508\uD074\uB85C(OpenClaw)' \uC804\uB7B5 \uB4F1 4\uAC1C \uAE30\uC0AC"
 ---

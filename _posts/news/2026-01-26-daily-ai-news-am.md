@@ -5,9 +5,27 @@ categories:
 date: 2026-01-26 09:54:14 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- 애플
+- 구글
+- gpt
+- 그로키피디아
 - ai
+- humans
+- 다음
+- 프론티어
+- llm
+- gemini
+- siri
+- google
+- apple
+- unveil
+- assistant
+- february
+- grokipedia
+- chatgpt
+- pulling
+- answers
+- elon
 title: "애플, 구글 제미나이 탑재한 새로운 시리 2월 공개 예고 등 4개 기사"
 ---
 

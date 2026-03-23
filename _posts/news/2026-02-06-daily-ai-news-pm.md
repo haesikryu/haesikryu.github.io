@@ -5,9 +5,21 @@ categories:
 date: 2026-02-06 16:34:58 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- openai
+- gpt
+- codex
+- 끌어올린
 - ai
+- railway
+- aws
+- 네이티브
+- 클라우드
+- github
+- introducing
+- ventures
+- azure
+- infrastructure
+- cloud
 title: "OpenAI, 코딩 능력을 한 단계 끌어올린 'GPT-5.3-Codex' 공개 등 2개 기사"
 ---
 

@@ -5,9 +5,27 @@ categories:
 date: 2026-02-19 16:37:20 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- openai
+- tata
+- pine
+- labs
 - ai
+- 파인랩스
+- 구글
+- india
+- bharat
+- official
+- blog
+- google
+- taps
+- capacity
+- eyes
+- deepens
+- push
+- fintech
+- partnership
+- impact
+- summit
 title: "OpenAI, 인도 시장 본격 공략: 타타(Tata)와 손잡고 대규모 데이터 센터 구축 등 3개 기사"
 ---
 

@@ -5,9 +5,27 @@ categories:
 date: 2026-01-11 09:54:47 +0900
 layout: post
 tags:
-- daily-news
-- automation
 - ai
+- openai
+- 지식재산권
+- grok
+- 딥페이크
+- 인도네시아
+- 포르노세
+- 논란
+- asking
+- contractors
+- upload
+- real
+- work
+- past
+- jobs
+- guardrails
+- indonesia
+- blocks
+- consensual
+- sexualized
+- deepfakes
 title: "OpenAI, 계약자에게 '실제 과거 작업물' 요구하며 지식재산권(IP) 위험에 직면 등 3개 기사"
 ---
 

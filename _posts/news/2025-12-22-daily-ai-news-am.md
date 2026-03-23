@@ -5,9 +5,28 @@ categories:
 date: 2025-12-22 09:50:45 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- waymo
+- 샌프란시스코
+- openai
+- gpt
+- codex
 - ai
+- raise
+- 모니터링
+- 프레임워크
+- chatgpt
+- model
+- spec
+- 업데이트
+- gemini
+- 구글
+- code
+- 로보택시
+- suspends
+- service
+- francisco
+- robotaxis
+- stall
 title: "Waymo, 대규모 정전으로 샌프란시스코 서비스 일시 중단 등 7개 기사"
 ---
 

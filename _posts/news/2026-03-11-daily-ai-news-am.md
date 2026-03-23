@@ -5,9 +5,27 @@ categories:
 date: 2026-03-11 09:57:12 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- chatgpt
+- 인터랙티브
 - ai
+- 헬스케어
+- 기가와트
+- moltbook
+- 메타
+- agent
+- 네트워크
+- openai
+- technica
+- stem
+- create
+- interactive
+- visuals
+- help
+- understand
+- math
+- science
+- concepts
+- ways
 title: "ChatGPT, 이제 눈으로 보고 직접 만지는 '인터랙티브 시각화' 도입 등 5개 기사"
 ---
 

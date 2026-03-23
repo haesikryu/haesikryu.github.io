@@ -5,9 +5,27 @@ categories:
 date: 2026-01-03 09:45:44 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- grok
 - ai
+- openai
+- 하드웨어
+- 엔비디아
+- 스타트업
+- india
+- orders
+- musk
+- obscene
+- content
+- reorganizes
+- teams
+- build
+- audio
+- hardware
+- products
+- nvidia
+- empire
+- look
+- startup
 title: "인도의 'Grok AI' 음란 콘텐츠 생성에 대한 강력 경고 등 4개 기사"
 ---
 

@@ -5,9 +5,26 @@ categories:
 date: 2026-03-12 09:53:48 +0900
 layout: post
 tags:
-- daily-news
-- automation
 - ai
+- 넷플릭스
+- 스타트업
+- openai
+- agent
+- lovable
+- 자율주행
+- rakuten
+- wayfair
+- runtime
+- netflix
+- paid
+- afflecks
+- startup
+- codex
+- shell
+- equip
+- responses
+- api
+- computer
 title: "넷플릭스, 벤 애플렉의 AI 스타트업 6억 달러에 인수 추진 등 4개 기사"
 ---
 

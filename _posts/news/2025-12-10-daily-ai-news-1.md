@@ -5,9 +5,27 @@ categories:
 date: '2025-12-10 02:12:07 '
 layout: post
 tags:
-- daily-news
-- automation
+- openai
 - ai
+- 프로그램
+- 유럽
+- 글로벌
+- cashew
+- 스타트업
+- 뉴럴링크
+- neurips
+- 컨퍼런스
+- certificate
+- courses
+- deutsche
+- telekom
+- collaboration
+- column
+- certifications
+- foundations
+- chatgpt
+- capital
+- kabir
 title: "OpenAI, 공식 'AI 인증' 프로그램 출시로 인력 양성 시장 진출 등 6개 기사"
 ---
 

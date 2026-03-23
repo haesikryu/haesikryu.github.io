@@ -5,9 +5,28 @@ categories:
 date: 2026-01-01 16:10:54 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- openai
 - ai
+- chatgpt
+- atlas
+- 프롬프트
+- chain
+- thought
+- 모니터링
+- 프레임워크
+- 에너지부
+- digest
+- 에이전트
+- celebrating
+- customers
+- shaping
+- future
+- continuously
+- hardening
+- against
+- prompt
+- injection
+- evaluating
 title: "OpenAI, 유료 고객 100만 돌파: 기업 AI 도입 가속화 등 4개 기사"
 ---
 

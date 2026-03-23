@@ -5,9 +5,28 @@ categories:
 date: 2025-12-20 09:43:58 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- 스타트업
+- openai
+- gpt
+- codex
+- 가이드라인
+- 모니터링
+- 프레임워크
+- 미국
+- 에너지부
+- gemini
 - ai
+- 구글
+- graphite
+- cursor
+- code
+- yann
+- lecun
+- world
+- model
+- meta
+- startup
+- seeks
 title: "얀 르쿤, ‘월드 모델’ 스타트업 설립 공식 확인 (50억 달러 이상 가치 추구) 등 7개 기사"
 ---
 

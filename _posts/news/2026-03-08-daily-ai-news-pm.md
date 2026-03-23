@@ -5,9 +5,27 @@ categories:
 date: 2026-03-08 16:19:38 +0900
 layout: post
 tags:
-- daily-news
-- automation
 - ai
+- 앤스로픽
+- claude
+- gpt
+- roadmap
+- anyone
+- listen
+- anthropic
+- claims
+- beats
+- openai
+- fires
+- elon
+- musk
+- lawsuit
+- emails
+- human
+- declaration
+- llm
+- haiku
+- sonnet
 title: "'친인간 선언'과 AI 로드맵: 펜타곤-앤스로픽 대치 속의 새로운 이정표 등 3개 기사"
 ---
 

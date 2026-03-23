@@ -5,9 +5,28 @@ categories:
 date: 2026-01-10 09:48:04 +0900
 layout: post
 tags:
-- daily-news
-- automation
 - ai
+- openai
+- meta
+- 인프라
+- 기가와트급
+- physical
+- datadog
+- codex
+- code
+- softbank
+- group
+- partner
+- energy
+- signs
+- three
+- nuclear
+- companies
+- plus
+- power
+- about
+- robots
+- everything
 title: "AI 인프라 전쟁 가속화: OpenAI와 Meta의 기가와트급 전력 확보 경쟁 등 3개 기사"
 ---
 

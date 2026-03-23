@@ -5,9 +5,26 @@ categories:
 date: 2026-01-13 16:12:58 +0900
 layout: post
 tags:
-- daily-news
-- automation
 - ai
+- 구글
+- 엔터프라이즈
+- claude-code
+- 워크플로우
+- cosmos
+- reason
+- 엔비디아
+- agent
+- hupo
+- daily
+- 안정적인
+- 레디니스
+- 프라이버시
+- apple
+- chose
+- google
+- openai
+- creator
+- revealed
 title: "애플이 구글 제미나이를 선택한 이유: 엔터프라이즈 AI 구매자가 배워야 할 교훈 등 4개 기사"
 ---
 

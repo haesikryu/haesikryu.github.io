@@ -5,9 +5,28 @@ categories:
 date: 2026-02-12 10:02:36 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- openai
+- 얼라이먼트
+- 대대적인
+- 구축하겠다
+- siri
+- 애플
 - ai
+- 스타트업
+- 어시스턴트
+- quitgpt
+- disbands
+- mission
+- alignment
+- team
+- lays
+- interplanetary
+- ambitions
+- public
+- hands
+- apple
+- revamp
+- delayed
 title: "OpenAI, '미션 얼라이먼트' 팀 해체와 대대적인 조직 개편 등 5개 기사"
 ---
 

@@ -5,9 +5,26 @@ categories:
 date: 2026-03-09 16:38:30 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- anthropic
+- 앤스로픽
+- 일반인용
+- cowork
+- claude-code
+- ggml
 - ai
+- 허깅페이스
+- aws
+- railway
+- 네이티브
+- 클라우드
+- slackbot
+- 세일즈포스
+- agent
+- 슬랙봇
+- month
+- join
+- salesforce
+- infrastructure
 title: "앤스로픽(Anthropic)의 야심: 코딩 도구 '클로드 코드'와 일반인용 '코워크' 출시 등 4개 기사"
 ---
 

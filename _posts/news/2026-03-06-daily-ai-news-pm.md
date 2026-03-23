@@ -5,9 +5,28 @@ categories:
 date: 2026-03-06 16:27:18 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- anthropic
+- 미국
+- openai
 - ai
+- supply
+- chain
+- label
+- court
+- five
+- value
+- models
+- driving
+- business
+- reinvention
+- claude
+- risk
+- dario
+- amodei
+- dods
+- workforce
+- fluency
+- process
 title: "Anthropic, 미국 국방부의 '공급망 위험' 지정에 정면 돌파 선언 등 2개 기사"
 ---
 

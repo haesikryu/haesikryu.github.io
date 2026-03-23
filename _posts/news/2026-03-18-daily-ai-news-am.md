@@ -5,9 +5,26 @@ categories:
 date: 2026-03-18 10:05:40 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- openai
+- gpt
+- mini
+- nano
+- 극대화한
 - ai
+- anthropic
+- mistral
+- forge
+- 구글
+- 인텔리전스
+- 미국
+- tool
+- api
+- introducing
+- technologyreview
+- pentagon
+- planning
+- companies
+- train
 title: "OpenAI, \uD6A8\uC728\uC131 \uADF9\uB300\uD654\uD55C 'GPT-5.4 mini' \uBC0F\
   \ 'nano' \uACF5\uAC1C \uB4F1 4\uAC1C \uAE30\uC0AC"
 ---

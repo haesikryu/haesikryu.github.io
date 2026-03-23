@@ -5,9 +5,27 @@ categories:
 date: 2026-02-16 10:02:45 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- notebooklm
+- 구글
+- claude
+- 앤스로픽
+- 논란
 - ai
+- 인프라
+- openclaw
+- blackstone
+- backs
+- neysa
+- peak
+- morning
+- edition
+- david
+- greene
+- audio
+- digest
+- longtime
+- host
+- sues
 title: "\"내 목소리를 훔쳤다\" – 전 NPR 호스트, 구글 NotebookLM에 소송 제기 등 4개 기사"
 ---
 

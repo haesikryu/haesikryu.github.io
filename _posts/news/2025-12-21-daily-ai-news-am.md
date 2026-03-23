@@ -5,9 +5,27 @@ categories:
 date: 2025-12-21 09:51:33 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- openai
+- gpt
+- codex
 - ai
+- raise
+- 스타트업
+- 모니터링
+- chatgpt
+- resolve
+- 스플렁크
+- introducing
+- kathy
+- hochul
+- york
+- governor
+- signs
+- regulate
+- safety
+- meta
+- yann
+- lecun
 title: "OpenAI, 차세대 코딩 모델 'GPT-5.2-Codex' 공개 등 6개 기사"
 ---
 

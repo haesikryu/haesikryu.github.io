@@ -5,9 +5,27 @@ categories:
 date: 2026-01-17 16:07:03 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- openai
 - ai
+- agent
+- nvidia
+- nasa
+- gpts
+- api
+- actions
+- gpt
+- purpose
+- model
+- specialized
+- agents
+- dramatically
+- custom
+- improvements
+- google
+- microsoft
+- silicon
+- theinformation
+- accelerated
 title: "OpenAI, 맞춤형 AI 에이전트 구축 기능 대폭 강화 등 4개 기사"
 ---
 

@@ -5,9 +5,27 @@ categories:
 date: 2026-03-09 10:01:23 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- 앤스로픽
+- 논란
+- 스타트업
 - ai
+- 인프라
+- anthropic
+- equity
+- pentagons
+- controversy
+- scare
+- startups
+- away
+- defense
+- work
+- camps
+- owner
+- detention
+- facility
+- sees
+- opportunity
+- technica
 title: "펜타곤-앤스로픽 논란: 스타트업의 국방 사업 진출에 제동이 걸릴까? 등 3개 기사"
 ---
 

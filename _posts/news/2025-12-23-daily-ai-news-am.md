@@ -5,9 +5,27 @@ categories:
 date: 2025-12-23 09:47:42 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- openai
 - ai
+- 에이전트
+- 프롬프트
+- intersect
+- power
+- 데이터센터
+- 엔터프라이즈
+- chain
+- thought
+- 모니터링
+- 프레임워크
+- 업데이트
+- gemini
+- 구글
+- alphabet
+- bypass
+- energy
+- grid
+- bottlenecks
+- customers
 title: "OpenAI, AI 에이전트의 프롬프트 주입 공격은 '영원한 위험' 경고 등 6개 기사"
 ---
 

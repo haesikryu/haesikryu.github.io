@@ -5,9 +5,27 @@ categories:
 date: 2026-02-12 16:39:16 +0900
 layout: post
 tags:
-- daily-news
-- automation
 - ai
+- nvidia
+- nemotron
+- colembed
+- 멀티모달
+- spacex
+- 역사적인
+- vidore
+- visual
+- document
+- retrieval
+- huggingface
+- blog
+- starship
+- arstechnica
+- space
+- heres
+- americas
+- historic
+- launch
+- getting
 title: "NVIDIA Nemotron ColEmbed V2 공개: 멀티모달 검색의 새로운 기준 등 2개 기사"
 ---
 

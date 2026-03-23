@@ -5,9 +5,26 @@ categories:
 date: 2026-01-06 09:49:20 +0900
 layout: post
 tags:
-- daily-news
-- automation
 - ai
+- nvidia
+- jensen
+- huang
+- rubin
+- alpamayo
+- chain
+- thought
+- lock
+- wants
+- android
+- generalist
+- robotics
+- anthropic
+- boris
+- cherny
+- claude-code
+- creator
+- revealed
+- workflow
 title: "엔비디아, 컴퓨팅과 로봇 생태계를 장악하다: '루빈' 아키텍처 및 로보틱스 안드로이드 전략 발표 등 3개 기사"
 ---
 

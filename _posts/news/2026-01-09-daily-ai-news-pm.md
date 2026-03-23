@@ -5,9 +5,27 @@ categories:
 date: 2026-01-09 16:13:29 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- gpt
+- 모달리티
+- 아키텍처
+- tsmc
 - ai
+- 가속기용
+- 애플
+- 업데이트
+- 온디바이스
+- unified
+- architecture
+- bloomberg
+- accelerates
+- apple
+- leans
+- heavily
+- device
+- modality
+- merging
+- contextual
+- understanding
 title: "GPT-5, ‘모달리티 통합’ 아키텍처로 초지능 향한 움직임 포착 등 3개 기사"
 ---
 

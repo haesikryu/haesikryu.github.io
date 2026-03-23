@@ -5,9 +5,27 @@ categories:
 date: 2026-02-15 10:04:51 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- grok
+- 가드레일
+- 논란
+- seedance
 - ai
+- 할리우드
+- nasa
+- 아르테미스
+- 글로벌
+- unhinged
+- openai
+- safety
+- dead
+- hollywood
+- isnt
+- happy
+- about
+- video
+- generator
+- fund
+- funds
 title: "xAI의 ‘그록(Grok)’, 안전 가드레일 해제 논란 등 4개 기사"
 ---
 

@@ -5,9 +5,27 @@ categories:
 date: 2026-02-23 10:01:43 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- openai
+- paradigm
 - ai
+- evmbench
+- disrupt
+- 스타트업
+- 카운트다운
+- startup
+- battlefield
+- introducing
+- study
+- shows
+- rocket
+- pollute
+- atmosphere
+- days
+- left
+- lock
+- lowest
+- rates
+- technica
 title: "OpenAI와 Paradigm, AI 보안 성능 측정을 위한 'EVMbench' 공개 등 3개 기사"
 ---
 

@@ -5,9 +5,25 @@ categories:
 date: 2026-02-11 16:41:23 +0900
 layout: post
 tags:
-- daily-news
-- automation
 - ai
+- openai
+- 논란
+- 오픈소스
+- claude-code
+- 세일즈포스
+- 슬랙봇
+- catapult
+- spacex
+- founders
+- leaving
+- looming
+- elon
+- musk
+- turns
+- talk
+- moon
+- adult
+- mode
 title: "일론 머스크의 xAI, 달 위에 ‘AI 위성 공장’ 세우나 등 4개 기사"
 ---
 

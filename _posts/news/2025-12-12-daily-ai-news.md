@@ -5,9 +5,27 @@ categories:
 date: 2025-12-12 11:16:52 +0900
 layout: post
 tags:
-- daily-news
-- automation
 - ai
+- gpt
+- 구글
+- agent
+- sora
+- 엔터프라이즈
+- 휴머노이드
+- introducing
+- google
+- launched
+- deepest
+- openai
+- dropped
+- walt
+- disney
+- company
+- reach
+- landmark
+- agreement
+- bring
+- beloved
 title: "오픈AI, 추론 및 코딩 최강 모델 'GPT-5.2' 전격 출시 등 6개 기사"
 ---
 

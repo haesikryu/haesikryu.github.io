@@ -5,9 +5,27 @@ categories:
 date: 2026-03-03 10:01:57 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- openai
+- chatgpt
 - ai
+- 애플
+- 아이패드
+- 한국
+- 비밀번호
+- 가상화폐
+- review
+- technica
+- finastra
+- report
+- anthropic
+- claude
+- uninstalls
+- surged
+- deal
+- technologyreview
+- openais
+- compromise
+- pentagon
 title: "OpenAI의 미 국방부 계약 파문과 ChatGPT 삭제 대열 등 5개 기사"
 ---
 

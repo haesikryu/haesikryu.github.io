@@ -5,9 +5,28 @@ categories:
 date: 2026-03-05 10:00:40 +0900
 layout: post
 tags:
-- daily-news
-- automation
 - ai
+- anthropic
+- openai
+- 구글
+- 로보틱스
+- 제미나이
+- review
+- technica
+- dario
+- amodei
+- pentagon
+- claude
+- calls
+- openais
+- messaging
+- around
+- deal
+- straight
+- lies
+- report
+- says
+- technologyreview
 title: "AI 군사 계약을 둘러싼 Anthropic과 OpenAI의 진실 공방 등 5개 기사"
 ---
 

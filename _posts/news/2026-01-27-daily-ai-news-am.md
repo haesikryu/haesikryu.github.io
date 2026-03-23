@@ -5,9 +5,27 @@ categories:
 date: 2026-01-27 09:52:59 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- 앤트로픽
+- claude
 - ai
+- snap
+- 유튜버들
+- 무책임한
+- 논란
+- openai
+- llm
+- 거버넌스
+- anthropic
+- interactive
+- apps
+- including
+- slack
+- workplace
+- tools
+- youtubers
+- alleged
+- copyright
+- infringement
 title: "앤트로픽, 클로드 앱 출시로 직장 협업 도구 정면 승부 예고 등 4개 기사"
 ---
 

@@ -5,9 +5,27 @@ categories:
 date: 2025-12-14 09:57:05 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- openai
+- gpt
+- 프론티어
 - ai
+- 인프라
+- 위협하다
+- 불확실성
+- 구글
+- bbva
+- chatgpt
+- enterprise
+- codex
+- sora
+- 안드로이드
+- gpqa
+- diamond
+- frontiermath
+- sota
+- introducing
+- boom
+- could
 title: "OpenAI, 최강의 프론티어 모델 'GPT-5.2' 공식 공개 등 7개 기사"
 ---
 

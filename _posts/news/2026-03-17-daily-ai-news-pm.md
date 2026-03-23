@@ -5,9 +5,27 @@ categories:
 date: 2026-03-17 16:41:24 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- 엔비디아
 - ai
+- agent
+- 로보틱스
+- jensen
+- huang
+- trillion
+- projections
+- nvidia
+- enterprise
+- picsart
+- marketplace
+- nemoclaw
+- openai
+- frontier
+- saas
+- warren
+- presses
+- pentagon
+- sued
+- generated
 title: "\uC820\uC2A8 \uD669\uC758 \uC120\uC5B8, \"\uC5D4\uBE44\uB514\uC544 \uCE69\
   \ \uC8FC\uBB38\uB7C9 1\uC870 \uB2EC\uB7EC \uC2DC\uB300 \uC5F4\uB9B4 \uAC83\" \uB4F1\
   \ 4\uAC1C \uAE30\uC0AC"

@@ -5,9 +5,27 @@ categories:
 date: 2026-01-21 16:15:26 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- openai
+- 아프리카
+- 호라이즌
+- 앤트로픽
+- 엔비디아
 - ai
+- 세일즈포스
+- 슬랙봇
+- agent
+- 재탄생시키며
+- 엔터프라이즈
+- bill
+- melinda
+- gates
+- horizon
+- claude
+- anthropic
+- dario
+- amodei
+- nvidia
+- anthropics
 title: "OpenAI와 게이츠 재단, 아프리카 의료를 위한 '호라이즌 1000' 협력 발표 등 3개 기사"
 ---
 

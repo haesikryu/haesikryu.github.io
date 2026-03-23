@@ -5,9 +5,28 @@ categories:
 date: 2026-03-21 16:21:16 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- loopy
+- agent
+- cursor
+- composer
+- kimi
+- 강화학습
 - ai
+- 앤스로픽
+- gpt
+- hada
+- karpathy
+- code
+- agents
+- pentagon
+- anthropic
+- legal
+- dispute
+- macbook
+- local
+- openai
+- andrej
+- syntax
 title: "\uC548\uB4DC\uB808 \uCE74\uD30C\uC2DC\uAC00 \uC608\uACE0\uD55C '\uCF54\uB529\
   \ \uC81C\uB85C'\uC758 \uC2DC\uB300\uC640 \uB8E8\uD53C(Loopy) \uC5D0\uC774\uC804\uD2B8\
   \ \uB4F1 4\uAC1C \uAE30\uC0AC"

@@ -5,9 +5,28 @@ categories:
 date: 2026-01-05 09:54:35 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- french
+- malaysian
+- authorities
+- investigating
+- grok
+- generating
+- sexualized
+- deepfakes
+- doordash
+- says
+- banned
+- driver
+- seemingly
+- faked
+- delivery
+- using
 - ai
+- plaud
+- meeting
+- notetaker
+- llm
+- safety
 title: "Grok 딥페이크 생성 논란, 프랑스 및 말레이시아 당국 조사 착수 등 3개 기사"
 ---
 

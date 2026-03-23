@@ -5,9 +5,28 @@ categories:
 date: 2026-01-22 09:49:14 +0900
 layout: post
 tags:
-- daily-news
-- automation
 - ai
+- 애플
+- 변신시키고
+- 웨어러블
+- llm
+- radixark
+- 스타트업
+- 스핀아웃
+- openai
+- countries
+- 이니셔티브
+- inference
+- review
+- siri
+- apple
+- plans
+- make
+- chatbot
+- report
+- says
+- outdone
+- developing
 title: "애플, 시리를 챗봇으로 변신시키고 AI 웨어러블 개발 박차 등 3개 기사"
 ---
 

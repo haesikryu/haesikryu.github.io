@@ -5,9 +5,25 @@ categories:
 date: 2026-03-16 16:56:24 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- cowork
+- 앤스로픽
+- aws
 - ai
+- railway
+- 네이티브
+- 클라우드
+- 세일즈포스
+- agent
+- 슬랙봇
+- listen
+- labs
+- anthropic
+- claude-code
+- salesforce
+- slackbot
+- raises
+- viral
+- stunt
 title: "\uC564\uC2A4\uB85C\uD53D, \uCF54\uB529\uC744 \uB118\uC5B4 \uC77C\uC0C1 \uC5C5\
   \uBB34\uB85C: 'Cowork' \uCD9C\uC2DC\uC640 'Goose'\uC758 \uB3C4\uC804 \uB4F1 4\uAC1C\
   \ \uAE30\uC0AC"

@@ -5,9 +5,27 @@ categories:
 date: 2026-03-11 16:32:11 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- gemini
+- 구글
+- 글로벌
+- 브라우저
+- openai
+- searchgpt
+- apple
+- intelligence
 - ai
+- 애플
+- 인텔리전스
+- 온디바이스
+- omnibox
+- google
+- chrome
+- expands
+- india
+- canada
+- zealand
+- combined
+- industry
 title: "구글 제미나이(Gemini), 인도 등 글로벌 크롬 브라우저에 전격 통합 등 3개 기사"
 ---
 

@@ -5,9 +5,28 @@ categories:
 date: 2026-02-19 10:04:34 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- 구글
 - ai
+- 오토데스크
+- 딥마인드
+- 마이크로소프트
+- 스토리지
+- 제미나이
+- google
+- blog
+- review
+- technica
+- gemini
+- lyria
+- multimodal
+- suno
+- udio
+- innovation
+- products
+- adds
+- music
+- generation
+- capabilities
 title: "구글 제미나이, 이제 텍스트와 이미지를 음악으로 바꾼다 등 4개 기사"
 ---
 

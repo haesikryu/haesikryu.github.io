@@ -5,9 +5,27 @@ categories:
 date: 2026-03-19 10:05:00 +0900
 layout: post
 tags:
-- daily-news
-- automation
 - ai
+- 메타
+- agent
+- 스마트폰
+- 패트리온
+- 엔비디아
+- 네트워킹
+- pentagon
+- plans
+- nuclear
+- reactors
+- meta
+- having
+- trouble
+- rogue
+- agents
+- nothing
+- carl
+- says
+- smartphone
+- apps
 title: "\uD39C\uD0C0\uACE4, \uAE30\uBC00 \uB370\uC774\uD130\uB97C \uD65C\uC6A9\uD55C\
   \ \uD2B9\uC218 AI \uBAA8\uB378 \uAD6C\uCD95 \uACC4\uD68D \uBC1C\uD45C \uB4F1 5\uAC1C\
   \ \uAE30\uC0AC"

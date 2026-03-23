@@ -5,9 +5,27 @@ categories:
 date: 2026-02-06 09:57:18 +0900
 layout: post
 tags:
-- daily-news
-- automation
 - ai
+- openai
+- frontier
+- trusted
+- access
+- cyber
+- agentic
+- coding
+- model
+- minutes
+- anthropic
+- drops
+- gpt
+- lowers
+- cell
+- free
+- protein
+- synthesis
+- introducing
+- enterprise
+- push
 title: "코딩을 넘어 과학까지: GPT-5.3-Codex의 등장과 AI 에이전트의 진화 등 3개 기사"
 ---
 

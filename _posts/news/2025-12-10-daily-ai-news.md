@@ -5,9 +5,19 @@ categories:
 date: '2025-12-10 02:02:05 '
 layout: post
 tags:
-- daily-news
-- automation
 - ai
+- gemini
+- 구글
+- openai
+- agentic
+- 코어위브
+- gpt
+- google
+- genai
+- coreweave
+- agents
+- gpu
+- llm
 title: "Unconventional AI, 4억 7,500만 달러 규모의 초대형 시드 라운드 유치 확인 등 6개 기사"
 ---
 

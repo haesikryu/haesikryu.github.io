@@ -5,9 +5,28 @@ categories:
 date: 2026-02-10 10:12:03 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- gpt
+- 앤트로픽
+- openai
 - ai
+- agent
+- 밸류에이션
+- government
+- moltbook
+- spacemolt
+- chatgpt
+- anthropic
+- closes
+- workday
+- eschenbach
+- departs
+- aneel
+- bhusri
+- returning
+- bringing
+- humans
+- allowed
+- space
 title: "챗GPT, 수익 모델 전환 시도: 광고 테스트 시작 등 4개 기사"
 ---
 

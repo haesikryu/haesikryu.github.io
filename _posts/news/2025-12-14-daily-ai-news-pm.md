@@ -5,9 +5,27 @@ categories:
 date: 2025-12-14 16:06:53 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- gpt
 - ai
+- 데이터센터
+- 인프라
+- 행정명령
+- 불확실성
+- bbva
+- openai
+- chatgpt
+- enterprise
+- 구글
+- codex
+- sora
+- 안드로이드용
+- introducing
+- boom
+- could
+- infrastructure
+- projects
+- trump
+- executive
 title: "GPT-5.2 공개 및 과학/수학 혁신 예고 등 6개 기사"
 ---
 

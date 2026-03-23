@@ -5,9 +5,28 @@ categories:
 date: 2025-12-13 16:10:13 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- gemini
+- 구글
+- 링크드인
+- 알고리즘
+- 논란
+- 성차별적
+- gemma
+- 변화시키다
 - ai
+- 그레이디언트
+- chatgpt
+- 타임라인
+- 업데이트
+- 혁신하다
+- products
+- search
+- capabilities
+- translation
+- upgrades
+- whats
+- going
+- linkedins
 title: "구글 번역에 최첨단 제미나이(Gemini) 번역 기능 도입 등 5개 기사"
 ---
 

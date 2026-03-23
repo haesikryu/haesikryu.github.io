@@ -5,9 +5,28 @@ categories:
 date: 2026-01-15 16:12:41 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- openai
+- 스타트업
+- nous
+- llm
+- nouscoder
+- google
+- anthropic
 - ai
+- thinking
+- machines
+- claude-code
+- chatgpt
+- health
+- artificial
+- intelligence
+- cto
+- mira
+- murati
+- muratis
+- startup
+- losing
+- founders
 title: "OpenAI, 미라 무라티 스타트업 공동 창업자 영입하며 인재 전쟁 가속화 등 3개 기사"
 ---
 

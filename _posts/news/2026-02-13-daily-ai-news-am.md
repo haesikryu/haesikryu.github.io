@@ -5,9 +5,26 @@ categories:
 date: 2026-02-13 10:06:32 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- 앤스로픽
 - ai
+- gpt
+- codex
+- spark
+- 엔비디아
+- gemini
+- deep
+- think
+- 구글
+- 스페이스
+- 문베이스
+- anthropic
+- raises
+- billion
+- series
+- value
+- gpu
+- plate
+- sized
 title: "앤스로픽, 300억 달러 투자 유치하며 기업 가치 3,800억 달러 달성 등 5개 기사"
 ---
 

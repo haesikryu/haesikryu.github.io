@@ -5,9 +5,27 @@ categories:
 date: 2025-12-16 09:57:03 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- openai
+- gpt
+- schedmd
+- nemotron
+- 엔비디아
+- 오픈소스
+- bbva
+- chatgpt
+- 엔터프라이즈
+- eliza
 - ai
+- 에이전트
+- chai
+- discovery
+- 바이오테크
+- 구글
+- gpqa
+- diamond
+- sota
+- science
+- math
 title: "OpenAI, 과학 및 수학 특화 모델 'GPT-5.2' 공개 등 6개 기사"
 ---
 

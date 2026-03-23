@@ -5,9 +5,27 @@ categories:
 date: 2026-01-17 09:47:27 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- openai
+- chatgpt
+- 딥페이크
+- 캘리포니아
 - ai
+- lilly
+- 스타트업
+- 파트너십
+- reddit
+- runpod
+- 클라우드
+- gpt
+- chai
+- discovery
+- instant
+- approach
+- advertising
+- expanding
+- access
+- cease
+- desist
 title: "OpenAI, ChatGPT에 광고 도입 테스트 시작 및 저가형 'Go' 티어 출시 등 4개 기사"
 ---
 

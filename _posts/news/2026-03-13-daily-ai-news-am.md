@@ -5,9 +5,27 @@ categories:
 date: 2026-03-13 09:59:19 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- atlassian
 - ai
+- 아틀라시안
+- nvidia
+- 엔비디아
+- meta
+- 메타
+- 페이스북
+- 마켓플레이스
+- follows
+- blocks
+- footsteps
+- cuts
+- staff
+- name
+- human
+- loop
+- technologyreview
+- defense
+- official
+- chatbots
 title: "\uC544\uD2C0\uB77C\uC2DC\uC548(Atlassian), AI \uD22C\uC790 \uD655\uB300\uB97C\
   \ \uC704\uD55C \uB300\uADDC\uBAA8 \uC778\uB825 \uAC10\uCD95 \uB2E8\uD589 \uB4F1\
   \ 5\uAC1C \uAE30\uC0AC"

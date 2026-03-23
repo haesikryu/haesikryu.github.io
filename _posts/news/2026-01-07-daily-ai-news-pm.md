@@ -5,9 +5,27 @@ categories:
 date: 2026-01-07 16:13:07 +0900
 layout: post
 tags:
-- daily-news
-- automation
 - ai
+- meta
+- manus
+- razr
+- fold
+- 모토로라
+- mckinsey
+- catalyst
+- execs
+- learn
+- once
+- work
+- forever
+- getting
+- different
+- receptions
+- washington
+- beijing
+- motorola
+- reveals
+- book
 title: "AI 주도 시대: '한 번 배우면 평생 간다'는 신화의 종말 등 3개 기사"
 ---
 

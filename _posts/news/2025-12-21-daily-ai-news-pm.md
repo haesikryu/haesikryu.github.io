@@ -5,9 +5,27 @@ categories:
 date: 2025-12-21 16:06:42 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- openai
+- gpt
+- codex
+- yann
+- lecun
+- 스타트업
 - ai
+- raise
+- splunk
+- resolve
+- google
+- gemini
+- introducing
+- evaluating
+- chain
+- thought
+- monitorability
+- verify
+- videos
+- long
+- horizon
 title: "OpenAI, 가장 진보된 코딩 모델 'GPT-5.2-Codex' 공개 등 6개 기사"
 ---
 

@@ -5,9 +5,27 @@ categories:
 date: 2026-03-06 10:05:10 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- openai
+- gpt
+- anthropic
+- 앤스로픽
+- 미국
 - ai
+- luma
+- aws
+- agent
+- 전성시대
+- agents
+- amazon
+- connect
+- health
+- technica
+- computer
+- excel
+- introducing
+- arstechnica
+- introduces
+- knowledge
 title: "OpenAI, 차세대 모델 'GPT-5.4' 전격 공개: 전문가 업무의 혁신 등 4개 기사"
 ---
 

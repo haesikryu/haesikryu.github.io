@@ -5,9 +5,28 @@ categories:
 date: 2025-12-26 09:48:05 +0900
 layout: post
 tags:
-- daily-news
-- automation
 - ai
+- deepseek
+- 초고효율
+- 파운데이션
+- meta
+- 메타
+- 메타버스
+- 인프라
+- hyper
+- drive
+- technologyreview
+- wrapped
+- terms
+- couldnt
+- avoid
+- fine
+- tuning
+- openai
+- google
+- operational
+- efficiency
+- model
 title: "2025년을 장식한 14가지 필수 AI 용어 분석 등 3개 기사"
 ---
 

@@ -5,9 +5,28 @@ categories:
 date: 2025-12-16 16:11:35 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- gpt
+- nemotron
+- slurm
+- 엔비디아
+- 오픈소스
+- openai
+- chai
+- discovery
+- 바이오테크
+- bbva
+- gemini
+- google
+- 구글
 - ai
+- 엔터테인먼트
+- advancing
+- science
+- math
+- nvidia
+- bulks
+- open
+- offerings
 title: "GPT-5.2 공개: 수학 및 과학 분야에서 '최강' 모델 등극 등 6개 기사"
 ---
 

@@ -5,9 +5,27 @@ categories:
 date: 2026-01-15 09:47:42 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- openai
+- cerebras
+- grok
+- 캘리포니아
+- copilot
+- 마이크로소프트
 - ai
+- signs
+- deal
+- worth
+- compute
+- partners
+- musk
+- denies
+- awareness
+- sexual
+- underage
+- images
+- california
+- probe
+- single
 title: "OpenAI, Cerebras와 100억 달러 규모의 초대형 컴퓨팅 계약 체결 등 4개 기사"
 ---
 

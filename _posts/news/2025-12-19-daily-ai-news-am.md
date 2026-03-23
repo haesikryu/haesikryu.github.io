@@ -5,9 +5,27 @@ categories:
 date: 2025-12-19 09:47:57 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- gpt
+- codex
 - ai
+- 구글
+- 업데이트
+- 모니터링
+- 앱스토어
+- chatgpt
+- store
+- lets
+- developers
+- know
+- open
+- business
+- openai
+- introducing
+- chatgpts
+- mobile
+- hits
+- milestone
+- consumer
 title: "챗GPT, 개발자들을 위한 앱 스토어 전격 출시 등 7개 기사"
 ---
 

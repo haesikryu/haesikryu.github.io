@@ -5,9 +5,21 @@ categories:
 date: 2026-03-19 16:34:49 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- openai
+- codex
 - ai
+- 구글
+- rakuten
+- mttr
+- mean
+- time
+- recovery
+- google
+- blog
+- innovation
+- health
+- heart
+- australia
 title: "\uB77C\uCFE0\uD150, OpenAI Codex \uB3C4\uC785\uC73C\uB85C \uAC1C\uBC1C \uC18D\
   \uB3C4 2\uBC30 \uD5A5\uC0C1 \uB4F1 2\uAC1C \uAE30\uC0AC"
 ---

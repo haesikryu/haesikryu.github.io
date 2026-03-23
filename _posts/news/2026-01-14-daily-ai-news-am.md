@@ -5,9 +5,27 @@ categories:
 date: 2026-01-14 09:51:26 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- 데이터센터
 - ai
+- 세일즈포스
+- 새로워진
+- agent
+- 슬랙봇
+- 휴머노이드
+- 구글
+- 프로토콜
+- 인프라
+- microsoft
+- good
+- neighbor
+- environmental
+- footprint
+- announces
+- glut
+- centers
+- says
+- wont
+- electricity
 title: "MS의 대규모 데이터센터 투자와 '착한 이웃' 약속 등 4개 기사"
 ---
 

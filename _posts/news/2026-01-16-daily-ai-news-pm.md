@@ -5,9 +5,18 @@ categories:
 date: 2026-01-16 16:12:36 +0900
 layout: post
 tags:
-- daily-news
-- automation
 - ai
+- openai
+- microsoft
+- elon
+- musk
+- silicon
+- valleys
+- messiest
+- breakout
+- definitely
+- headed
+- court
 title: "머스크 대 OpenAI/MS 소송, 법원 문턱 넘다 등 1개 기사"
 ---
 

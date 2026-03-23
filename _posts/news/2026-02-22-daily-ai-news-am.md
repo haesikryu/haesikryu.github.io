@@ -5,9 +5,26 @@ categories:
 date: 2026-02-22 10:01:57 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- gpt
 - ai
+- 구글
+- 살아남지
+- slop
+- 마이크로소프트
+- 증명하다
+- 비약적인
+- preprint
+- gluon
+- amplitude
+- openai
+- result
+- theoretical
+- physics
+- llm
+- wrapper
+- aggregator
+- vertical
+- google
 title: "GPT-5.2, 이론 물리학에서 새로운 결과 도출 등 4개 기사"
 ---
 

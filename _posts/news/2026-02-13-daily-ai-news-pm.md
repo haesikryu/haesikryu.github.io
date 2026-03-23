@@ -5,9 +5,27 @@ categories:
 date: 2026-02-13 16:37:34 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- railway
+- aws
+- community
+- evals
+- 허깅페이스
+- 블랙박스
 - ai
+- 인터페이스
+- servicenow
+- sygra
+- studio
+- 헤드라인
+- 클라우드
+- natively
+- adaptive
+- interfaces
+- ventures
+- azure
+- google
+- infrastructure
+- cloud
 title: "Railway, 1억 달러 투자 유치로 AWS에 도전장 등 4개 기사"
 ---
 

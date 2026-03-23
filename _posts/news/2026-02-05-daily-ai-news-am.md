@@ -5,9 +5,27 @@ categories:
 date: 2026-02-05 09:59:30 +0900
 layout: post
 tags:
-- daily-news
-- automation
 - ai
+- 앤트로픽
+- gemini
+- 구글
+- alphabet
+- 애플
+- 파트너십
+- 에이전틱
+- 거버넌스
+- 가이드라인
+- technica
+- review
+- anthropic
+- claude
+- altman
+- exceptionally
+- testy
+- super
+- bowl
+- arstechnica
+- should
 title: "앤트로픽의 슈퍼볼 광고 도발, 샘 알트만 분노 폭발 (AI 경쟁 심화) 등 4개 기사"
 ---
 

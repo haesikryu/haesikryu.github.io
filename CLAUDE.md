@@ -63,6 +63,17 @@ JEKYLL_ENV=production bundle exec jekyll build
 bundle exec htmlproofer _site --disable-external --check-html --allow-hash-href=true
 ```
 
+### Daily IT news (`_posts/news/`)
+- Scheduled automation: `.github/workflows/daily_news.yml` runs `tools/daily_news.py`.
+- Tags are **noun-like only**, **Korean-only or English-only per tag** (no mixed scripts in one tag), **1–2 words per language**; prefer **single word**, else **hyphen** for two words (e.g. `Claude-Code`), no spaces in a tag.
+- **Re-apply tag policy to existing news posts** (only replaces the `tags:` block; title/date unchanged):
+
+```bash
+python3 -m venv .venv && .venv/bin/pip install -r tools/requirements.txt
+export GEMINI_API_KEY=...   # recommended for ~20 content-based tags
+.venv/bin/python tools/retag_news_posts.py
+```
+
 ## Content Creation Guidelines
 
 ### Blog Post Format

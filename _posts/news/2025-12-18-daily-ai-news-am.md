@@ -5,9 +5,26 @@ categories:
 date: 2025-12-18 09:43:11 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- 구글
+- chatgpt
+- 개발자들
+- openai
+- adobe
 - ai
+- aws
+- 드산티스
+- 아카데미
+- developers
+- submit
+- apps
+- images
+- academy
+- organizations
+- gemini
+- flash
+- search
+- google
+- makes
 title: "구글, 제미나이 3 플래시를 앱의 기본 모델로 설정 등 6개 기사"
 ---
 

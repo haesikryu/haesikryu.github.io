@@ -5,9 +5,27 @@ categories:
 date: 2026-03-12 16:34:37 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- nvidia
 - ai
+- deepresearch
+- 딥리서치
+- 벤치마크
+- deepseek
+- 글로벌
+- openai
+- operator
+- agent
+- 오퍼레이터
+- hugging
+- face
+- bench
+- agentic
+- workflows
+- gpu
+- huggingface
+- blog
+- meta
+- combined
 title: "NVIDIA AI-Q, 딥리서치(DeepResearch) 벤치마크 1위 석권 등 3개 기사"
 ---
 

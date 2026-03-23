@@ -5,9 +5,27 @@ categories:
 date: 2026-01-02 09:49:39 +0900
 layout: post
 tags:
-- daily-news
-- automation
 - ai
+- 유럽
+- openai
+- 인터페이스
+- model
+- spec
+- 업데이트
+- blog
+- office
+- european
+- banks
+- plan
+- jobs
+- takes
+- hold
+- bets
+- audio
+- silicon
+- valley
+- declares
+- screens
 title: "AI 도입으로 유럽 은행권 20만 명 일자리 감축 전망 등 3개 기사"
 ---
 

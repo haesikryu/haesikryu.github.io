@@ -5,9 +5,27 @@ categories:
 date: 2026-03-16 10:09:50 +0900
 layout: post
 tags:
-- daily-news
-- automation
 - ai
+- wrapper
+- 구글
+- 스타트업
+- 바이트댄스
+- 글로벌
+- 클라우드
+- atoms
+- accel
+- llm
+- wrappers
+- api
+- google
+- through
+- startup
+- pitches
+- pick
+- five
+- tied
+- india
+- bytedance
 title: "\uAD6C\uAE00\uACFC \uC561\uC140, \"AI \uB798\uD37C(Wrapper)\uB294 \uC774\uC81C\
   \ \uADF8\uB9CC\"\u2026 \uD601\uC2E0 \uC2A4\uD0C0\uD2B8\uC5C5 5\uACF3 \uC120\uC815\
   \ \uB4F1 4\uAC1C \uAE30\uC0AC"

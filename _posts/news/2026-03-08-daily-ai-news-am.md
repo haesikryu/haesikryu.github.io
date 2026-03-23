@@ -5,9 +5,28 @@ categories:
 date: 2026-03-08 10:01:13 +0900
 layout: post
 tags:
-- daily-news
-- automation
 - ai
+- openai
+- 로보틱스
+- gpt
+- 구글
+- 세계적인
+- caitlin
+- kalinowski
+- meta
+- pentagon
+- robotics
+- lead
+- quits
+- response
+- deal
+- adult
+- mode
+- delays
+- chatgpts
+- again
+- sundar
+- pichai
 title: "펜타곤 협력에 반발한 OpenAI 로보틱스 수장 사임 등 4개 기사"
 ---
 

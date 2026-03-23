@@ -5,9 +5,27 @@ categories:
 date: 2026-02-08 10:18:44 +0900
 layout: post
 tags:
-- daily-news
-- automation
 - ai
+- 인프라
+- 논란
+- listen
+- labs
+- 억만장자
+- 스타트업
+- 확보하다
+- york
+- lawmakers
+- propose
+- three
+- year
+- pause
+- centers
+- raises
+- viral
+- billboard
+- hiring
+- stunt
+- scale
 title: "뉴욕주, 데이터 센터 건설 3년 일시 중단 추진: AI 시대 인프라 논란 가열 등 2개 기사"
 ---
 

@@ -5,9 +5,25 @@ categories:
 date: 2026-02-21 16:19:52 +0900
 layout: post
 tags:
-- daily-news
-- automation
 - ai
+- 마이크로소프트
+- openai
+- ggml
+- 허깅페이스
+- hype
+- proof
+- xbox
+- phil
+- spencer
+- coreai
+- asha
+- sharma
+- arstechnica
+- gaming
+- microsoft
+- steps
+- down
+- years
 title: "마이크로소프트 게이밍의 수장 필 스펜서 퇴진, 후임은 AI 전문가 등 4개 기사"
 ---
 

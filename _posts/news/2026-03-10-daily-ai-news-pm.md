@@ -5,9 +5,27 @@ categories:
 date: 2026-03-10 16:28:47 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- labs
 - ai
+- 마스터카드
+- agent
+- meta
+- yann
+- lecun
+- llm
+- world
+- models
+- jepa
+- joint
+- embedding
+- predictive
+- architecture
+- lecuns
+- raises
+- billion
+- build
+- agentic
+- payments
 title: "얀 르쿤의 AMI Labs, '세계 모델' 구축을 위해 10억 달러 투자 유치 등 2개 기사"
 ---
 

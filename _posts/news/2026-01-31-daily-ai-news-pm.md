@@ -5,9 +5,27 @@ categories:
 date: 2026-01-31 16:16:31 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- listen
+- labs
+- 구글
+- 컨텍스트
+- 업데이트
+- 엔비디아
+- lost
+- middle
+- alfred
+- wahlforss
+- meta
+- raises
+- viral
+- billboard
+- hiring
+- stunt
+- scale
 - ai
+- gemini
+- context
+- window
 title: "$5000 빌보드 마케팅으로 800억 투자 유치에 성공한 Listen Labs 등 3개 기사"
 ---
 

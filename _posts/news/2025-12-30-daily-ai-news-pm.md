@@ -5,9 +5,21 @@ categories:
 date: 2025-12-30 16:10:21 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- meta
 - ai
+- manus
+- 스타트업
+- 다음
+- facebook
+- instagram
+- whatsapp
+- google
+- microsoft
+- bought
+- startup
+- everyone
+- talking
+- about
 title: "Meta, 모두가 탐내던 AI 스타트업 'Manus' 인수 확정 등 1개 기사"
 ---
 

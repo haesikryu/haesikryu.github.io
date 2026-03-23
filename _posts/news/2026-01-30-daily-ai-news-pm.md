@@ -5,9 +5,19 @@ categories:
 date: 2026-01-30 16:29:02 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- aws
 - ai
+- railway
+- 네이티브
+- 클라우드
+- ventures
+- amazon
+- services
+- llm
+- azure
+- gpu
+- infrastructure
+- cloud
 title: "AWS에 맞서는 AI 네이티브 클라우드: Railway, 1억 달러 투자 유치 등 1개 기사"
 ---
 

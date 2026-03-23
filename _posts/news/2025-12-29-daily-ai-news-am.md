@@ -5,9 +5,12 @@ categories:
 date: 2025-12-29 09:52:53 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- openai
 - ai
+- head
+- preparedness
+- team
+- looking
 title: "OpenAI, AI 리스크 관리를 위한 '위험 대비 책임자' 영입 추진 등 1개 기사"
 ---
 

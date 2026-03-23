@@ -5,9 +5,27 @@ categories:
 date: 2025-12-22 16:12:08 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- openai
+- gpt
+- codex
 - ai
+- raise
+- chain
+- thought
+- 모니터링
+- 프레임워크
+- resolve
+- series
+- waymo
+- 샌프란시스코
+- 로보택시
+- 미국
+- 에너지부
+- chatgpt
+- monitorability
+- introducing
+- evaluating
+- department
 title: "OpenAI, 가장 진보된 코딩 모델 GPT-5.2-Codex 공개 등 7개 기사"
 ---
 

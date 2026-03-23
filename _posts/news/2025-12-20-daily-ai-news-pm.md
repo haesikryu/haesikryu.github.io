@@ -5,9 +5,28 @@ categories:
 date: 2025-12-20 16:05:44 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- 스타트업
+- openai
+- gpt
+- codex
+- splunk
+- resolve
 - ai
+- 모니터링
+- chatgpt
+- 가이드라인
+- 업데이트
+- 미국
+- 에너지부
+- yann
+- lecun
+- world
+- model
+- meta
+- startup
+- seeks
+- valuation
+- long
 title: "얀 르쿤, '월드 모델' 스타트업 공식 인정 (목표 기업 가치 50억 달러 이상) 등 6개 기사"
 ---
 

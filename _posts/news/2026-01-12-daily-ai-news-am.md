@@ -5,9 +5,26 @@ categories:
 date: 2026-01-12 09:52:04 +0900
 layout: post
 tags:
-- daily-news
-- automation
 - ai
+- grok
+- google
+- guardian
+- hallucination
+- removes
+- certain
+- medical
+- queries
+- consensual
+- sexualized
+- deepfakes
+- indonesia
+- blocks
+- motional
+- puts
+- robotaxi
+- reboot
+- targets
+- driverless
 title: "Google, 부정확성 논란으로 특정 의료 쿼리에 대한 'AI Overviews' 기능 제거 등 4개 기사"
 ---
 

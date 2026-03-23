@@ -5,9 +5,26 @@ categories:
 date: 2026-03-23 16:50:19 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- anthropic
+- cowork
+- 과장되었다
 - ai
+- 핀터레스트
+- agent
+- 에코시스템
+- railway
+- aws
+- 클라우드
+- 세일즈포스
+- 슬랙봇
+- claude-code
+- siri
+- 베이비시터
+- pinterest
+- salesforce
+- slackbot
+- obsidian
+- vibe
 title: "\"\uCF54\uB529\uC758 \uC8FD\uC74C\uC740 \uACFC\uC7A5\uB418\uC5C8\uB2E4\" :\
   \ Anthropic\uC758 'Cowork' \uCD9C\uC2DC\uC640 \uAC1C\uBC1C\uC758 \uBBF8\uB798 \uB4F1\
   \ 5\uAC1C \uAE30\uC0AC"

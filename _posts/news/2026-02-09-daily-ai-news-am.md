@@ -5,9 +5,28 @@ categories:
 date: 2026-02-09 10:03:33 +0900
 layout: post
 tags:
-- daily-news
-- automation
 - ai
+- 장악하다
+- 암호화폐
+- 스타트업
+- 내세우다
+- mainstream
+- places
+- domain
+- ahead
+- super
+- bowl
+- svedka
+- anthropic
+- brands
+- make
+- bold
+- plays
+- okay
+- slightly
+- less
+- about
+- magnificent
 title: "7천만 달러의 승부수: Crypto.com, 'AI.com' 도메인 인수 등 3개 기사"
 ---
 

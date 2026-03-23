@@ -5,9 +5,28 @@ categories:
 date: 2025-12-30 09:48:02 +0900
 layout: post
 tags:
-- daily-news
-- automation
 - ai
+- 직시하다
+- chatgpt
+- spotify
+- uber
+- 실용적인
+- 형태학적
+- technica
+- vibe
+- check
+- safety
+- year
+- human
+- intervention
+- arstechnica
+- policy
+- china
+- drafts
+- worlds
+- strictest
+- rules
+- encouraged
 title: "2025년 AI, 거품이 꺼지고 현실을 직시하다: '바이브 체크'의 시대 등 4개 기사"
 ---
 

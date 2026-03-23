@@ -5,9 +5,28 @@ categories:
 date: 2026-01-16 09:50:14 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- merge
+- labs
+- higgsfield
+- imposes
+- tariff
+- nvidia
 - ai
+- headed
+- china
+- taiwan
+- invest
+- semiconductor
+- manufacturing
+- strengthening
+- supply
+- chain
+- through
+- domestic
+- investing
+- journalism
+- startup
+- signs
 title: "AI 칩 전쟁 격화: 엔비디아 관세와 대만의 대규모 對美 투자 등 4개 기사"
 ---
 

@@ -5,9 +5,18 @@ categories:
 date: 2026-02-20 16:36:06 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- catalyst
+- railway
 - ai
+- aws
+- 네이티브
+- 클라우드
+- commits
+- india
+- five
+- years
+- cloud
+- infrastructure
 title: "General Catalyst, 인도 시장에 50억 달러(약 7조 원) 투자 약속 등 2개 기사"
 ---
 

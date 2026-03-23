@@ -5,9 +5,26 @@ categories:
 date: 2026-02-15 16:27:06 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- listen
+- labs
+- nvidia
+- gpu
 - ai
+- 엔비디아
+- openai
+- corp
+- 파트너십
+- alfred
+- wahlforss
+- meta
+- raises
+- viral
+- billboard
+- hiring
+- stunt
+- scale
+- blackwell
+- inference
 title: "Listen Labs, '빌보드 채용 도발'로 6,900만 달러 투자 유치 성공 등 3개 기사"
 ---
 

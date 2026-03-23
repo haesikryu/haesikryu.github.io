@@ -5,9 +5,27 @@ categories:
 date: 2026-01-29 09:57:46 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- 메타
+- 인텔리전스
+- 테슬라
 - ai
+- agent
+- servicenow
+- anthropic
+- 엔터프라이즈
+- 파트너십
+- tesla
+- invested
+- elon
+- musks
+- deloitte
+- agentic
+- guidelines
+- published
+- inks
+- partnership
+- time
+- personal
 title: "메타 CEO, \"2026년은 개인 슈퍼 인텔리전스의 해\" 선언 등 4개 기사"
 ---
 

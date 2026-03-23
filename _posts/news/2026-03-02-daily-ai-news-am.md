@@ -5,9 +5,28 @@ categories:
 date: 2026-03-02 10:00:04 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- openai
+- 파트너십
 - ai
+- 앤스로픽
+- asml
+- high
+- agent
+- human
+- loop
+- blog
+- scaling
+- everyone
+- amazon
+- partnership
+- pentagon
+- technica
+- trump
+- moves
+- anthropic
+- tools
+- google
+- nano
 title: "OpenAI, 1,100억 달러 투자 유치와 아마존과의 전략적 파트너십 발표 등 5개 기사"
 ---
 

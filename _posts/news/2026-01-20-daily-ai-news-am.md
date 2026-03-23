@@ -5,9 +5,25 @@ categories:
 date: 2026-01-20 09:48:41 +0900
 layout: post
 tags:
-- daily-news
-- automation
 - ai
+- 스타트업
+- sovereign
+- agent
+- openai
+- 메타버스
+- review
+- artificial
+- intelligence
+- meta
+- startups
+- raised
+- goes
+- metaverse
+- fresenius
+- technologyreview
+- going
+- beyond
+- pilots
 title: "AI 투자 열풍 지속: 2025년 1억 달러 이상 투자 유치한 스타트업 55개 돌파 등 4개 기사"
 ---
 

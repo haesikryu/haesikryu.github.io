@@ -5,9 +5,28 @@ categories:
 date: 2026-01-07 09:49:49 +0900
 layout: post
 tags:
-- daily-news
-- automation
 - ai
+- 하드웨어
+- 캘리포니아
+- 어린이용
+- everything
+- revealed
+- says
+- raised
+- series
+- funding
+- california
+- lawmaker
+- proposes
+- four
+- year
+- chatbots
+- kids
+- toys
+- viral
+- reddit
+- post
+- alleging
 title: "CES 2026 마무리: AI 중심의 하드웨어와 괴짜 기술의 향연 등 4개 기사"
 ---
 

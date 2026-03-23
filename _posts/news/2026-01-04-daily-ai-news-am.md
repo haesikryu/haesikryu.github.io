@@ -5,9 +5,28 @@ categories:
 date: 2026-01-04 09:54:55 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- gpt
+- 구글
+- 멀티모달
+- 애플
+- 업데이트
 - ai
+- 유럽연합
+- 가이드라인
+- 글로벌
+- google
+- blog
+- apple
+- security
+- updates
+- european
+- commission
+- newsroom
+- llm
+- gemini
+- multimodal
+- release
+- ipados
 title: "구글, 멀티모달 추론 강화한 제미나이 2.5 프로 공개: GPT-4o에 정면 도전 등 3개 기사"
 ---
 

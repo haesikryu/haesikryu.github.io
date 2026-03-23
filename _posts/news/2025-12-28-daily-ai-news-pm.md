@@ -5,9 +5,28 @@ categories:
 date: 2025-12-28 16:08:35 +0900
 layout: post
 tags:
-- daily-news
-- automation
 - ai
+- 포지셔닝
+- 미스트랄
+- 진화하다
+- disney
+- embedding
+- generative
+- operating
+- model
+- future
+- edge
+- inside
+- china
+- push
+- apply
+- across
+- energy
+- system
+- tesco
+- signs
+- three
+- year
 title: "미디어 거인 디즈니, 운영 모델에 생성형 AI 통합 등 4개 기사"
 ---
 

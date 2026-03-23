@@ -5,9 +5,26 @@ categories:
 date: 2026-03-22 16:27:02 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- omnilingual
+- 메타
+- saas
+- agentic
+- 에이전틱
+- deno
 - ai
+- girl
+- 엄격해진
+- deploy
+- meta
+- machine
+- translation
+- nllb
+- language
+- left
+- corpus
+- hada
+- topic
+- service
 title: "\uBA54\uD0C0, 1,600\uAC1C \uC774\uC0C1\uC758 \uC5B8\uC5B4\uB97C \uC9C0\uC6D0\
   \uD558\uB294 'Omnilingual MT' \uACF5\uAC1C \uB4F1 4\uAC1C \uAE30\uC0AC"
 ---

@@ -5,9 +5,25 @@ categories:
 date: 2026-03-14 09:58:43 +0900
 layout: post
 tags:
-- daily-news
-- automation
 - ai
+- 휴머노이드
+- aeon
+- absolics
+- technologyreview
+- future
+- could
+- built
+- glass
+- cursor
+- github
+- copilot
+- right
+- time
+- musks
+- starting
+- again
+- physical
+- artificialintelligence
 title: "\"\uBC18\uB3C4\uCCB4\uC758 \uBBF8\uB798\uB294 \uC720\uB9AC\uC5D0 \uC788\uB2E4\
   \" \u2013 \uCC28\uC138\uB300 AI \uCE69\uC744 \uC704\uD55C \uC720\uB9AC \uAE30\uD310\
   \ \uD601\uBA85 \uB4F1 5\uAC1C \uAE30\uC0AC"

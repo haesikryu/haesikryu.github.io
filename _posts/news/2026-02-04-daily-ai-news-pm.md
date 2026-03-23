@@ -5,9 +5,25 @@ categories:
 date: 2026-02-04 16:33:23 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- google
 - ai
+- plus
+- copilot
+- claude-code
+- slackbot
+- availability
+- month
+- does
+- thing
+- free
+- salesforce
+- agent
+- microsoft
+- workplace
+- gemini
+- blog
+- products
+- platforms
 title: "구글, 'Google AI Plus' 서비스 대규모 확장: 미국 포함 35개국 추가 등 3개 기사"
 ---
 

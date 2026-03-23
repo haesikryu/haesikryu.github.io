@@ -5,9 +5,24 @@ categories:
 date: 2026-02-18 16:38:55 +0900
 layout: post
 tags:
-- daily-news
-- automation
 - ai
+- slackbot
+- agent
+- 슬랙봇
+- claude-code
+- 오픈소스
+- photos
+- 구글
+- salesforce
+- slack
+- copilot
+- microsoft
+- anthropic
+- infrastructure
+- month
+- does
+- thing
+- free
 title: "단순 알림은 옛말, 이제는 AI 에이전트로 거듭난 '슬랙봇(Slackbot)' 등 3개 기사"
 ---
 

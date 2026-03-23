@@ -5,9 +5,27 @@ categories:
 date: '2025-12-11 01:12:54 '
 layout: post
 tags:
-- daily-news
-- automation
 - ai
+- cto
+- 구글
+- 인프라
+- 미국
+- 환각
+- 엔비디아
+- 밀수
+- 논란
+- 소프트웨어
+- 프롬프트
+- 플레이리스트
+- openai
+- agentic
+- google
+- nvidia
+- spotify
+- infrastructure
+- hallucination
+- warn
+- microsoft
 title: "구글, AI 인프라 최고 기술 책임자(CTO) 신설 등 6개 기사"
 ---
 

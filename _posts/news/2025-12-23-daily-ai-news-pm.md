@@ -5,9 +5,27 @@ categories:
 date: 2025-12-23 16:11:33 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- gpt
+- wrapped
+- 스포티파이
+- openai
 - ai
+- 미국
+- 에너지부
+- atlas
+- 프롬프트
+- 구글
+- 에이전트
+- splat
+- chatgpt
+- year
+- review
+- like
+- spotify
+- department
+- energy
+- collaboration
+- hardening
 title: "챗GPT, 스포티파이처럼 '연말 결산(Wrapped)' 기능 출시 등 5개 기사"
 ---
 

@@ -5,9 +5,24 @@ categories:
 date: 2026-02-10 16:47:54 +0900
 layout: post
 tags:
-- daily-news
-- automation
 - ai
+- cowork
+- 앤스로픽
+- agent
+- 역설적인
+- 구글
+- claude-code
+- google
+- blog
+- anthropic
+- signs
+- burnout
+- coming
+- people
+- embrace
+- safer
+- internet
+- innovation
 title: "앤스로픽, 코딩 없이 파일 작업을 수행하는 AI 에이전트 'Cowork' 출시 등 3개 기사"
 ---
 

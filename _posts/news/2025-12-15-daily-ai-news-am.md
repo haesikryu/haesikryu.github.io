@@ -5,9 +5,27 @@ categories:
 date: 2025-12-15 09:50:12 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- openai
+- gpt
+- grok
+- 반복적인
 - ai
+- 인프라
+- bbva
+- google
+- gemini
+- codex
+- sora
+- 안드로이드
+- eliza
+- introducing
+- science
+- math
+- gets
+- facts
+- wrong
+- about
+- bondi
 title: "OpenAI, 차세대 선두 모델 GPT-5.2 공식 발표 등 6개 기사"
 ---
 

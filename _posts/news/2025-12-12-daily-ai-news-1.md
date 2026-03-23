@@ -5,9 +5,25 @@ categories:
 date: 2025-12-12 16:15:56 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- openai
+- gpt
+- 구글
 - ai
+- 변화시키나
+- gemma
+- 커뮤니티
+- gemini
+- fires
+- google
+- code
+- memo
+- gpqa
+- diamond
+- sota
+- science
+- math
+- years
+- blog
 title: "OpenAI, 구글에 맞서 GPT-5.2 전격 출시 등 5개 기사"
 ---
 

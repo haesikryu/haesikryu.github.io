@@ -5,9 +5,43 @@ categories:
 date: 2026-01-24 09:48:29 +0900
 layout: post
 tags:
-- daily-news
-- automation
 - ai
+- yann
+- lecun
+- labs
+- 스타트업
+- 변신하다
+- 미국
+- 메타
+- 움직인다
+- 글로벌
+- review
+- meta
+- llm
+- world
+- model
+- whos
+- lecuns
+- startup
+- salesforce
+- video
+- davos
+- turn
+
+
+  ## 1. AI 대부 얀 르쿤(Yann LeCun), ''월드 모델'' 스타트업 AMI Labs 설립'
+- TechCrunch 기사
+- MIT Technology Review 기사
+- Yann
+- LeCun
+- AMI
+- Labs
+- Meta
+- LLM
+- World
+- Model
+- AGI
+- TechCrunch
 title: "AI 대부 얀 르쿤(Yann LeCun), '월드 모델' 스타트업 AMI Labs 설립 등 4개 기사"
 ---
 

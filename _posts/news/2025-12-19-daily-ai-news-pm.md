@@ -5,9 +5,27 @@ categories:
 date: 2025-12-19 16:10:09 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- chatgpt
+- 앱스토어
+- openai
+- gpt
+- codex
 - ai
+- 모니터링
+- 미국
+- 에너지부
+- chatgpts
+- mobile
+- hits
+- milestone
+- consumer
+- spending
+- introducing
+- evaluating
+- chain
+- thought
+- monitorability
+- british
 title: "ChatGPT, 공식 앱스토어 출시 및 개발자 참여 독려 등 6개 기사"
 ---
 

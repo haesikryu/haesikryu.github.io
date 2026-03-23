@@ -5,9 +5,26 @@ categories:
 date: 2025-12-27 09:46:28 +0900
 layout: post
 tags:
-- daily-news
-- automation
 - ai
+- agent
+- 블록버스터
+- equity
+- agents
+- physical
+- podcast
+- equitys
+- predictions
+- blockbuster
+- ipos
+- future
+- radiative
+- cooling
+- technologyreview
+- paint
+- coating
+- chemicals
+- materials
+- conditioning
 title: "2026년 기술 예측: AI 에이전트, 블록버스터 IPO, VC의 미래 등 2개 기사"
 ---
 

@@ -5,9 +5,27 @@ categories:
 date: 2025-12-24 09:47:22 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- anthropic
 - ai
+- openai
+- 브라우저
+- 프롬프트
+- alexa
+- angi
+- expedia
+- square
+- yelp
+- 엔터프라이즈
+- gemini
+- 구글
+- 에너지부
+- john
+- carreyrou
+- llm
+- authors
+- bring
+- lawsuit
+- against
 title: "유명 작가들, Anthropic 합의 거부하고 AI 기업 6곳에 대규모 저작권 소송 제기 등 6개 기사"
 ---
 

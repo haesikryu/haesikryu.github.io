@@ -5,9 +5,28 @@ categories:
 date: 2026-01-23 16:13:14 +0900
 layout: post
 tags:
-- daily-news
-- automation
 - ai
+- blockit
+- 세쿼이아
+- 스타트업
+- 에이전트
+- 구글
+- open
+- responses
+- 이니셔티브
+- former
+- sequoia
+- partner
+- startup
+- uses
+- negotiate
+- calendar
+- learners
+- educators
+- super
+- users
+- need
+- know
 title: "전 세쿼이아 파트너의 신규 스타트업, AI 캘린더 협상 에이전트 'Blockit' 공개 등 3개 기사"
 ---
 

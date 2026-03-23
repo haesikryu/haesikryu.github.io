@@ -5,9 +5,28 @@ categories:
 date: 2026-02-18 10:04:37 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- 앤스로픽
+- claude
 - ai
+- 애플
+- 웨어러블
+- koyeb
+- 미스트랄
+- 클라우드
+- 인프라
+- qwen
+- 알리바바
+- mesh
+- memory
+- anthropic
+- sonnet
+- goldman
+- sachs
+- releases
+- artificialintelligence
+- deploys
+- systems
+- success
 title: "앤스로픽, '클로드 소네트 4.6' 출시 및 금융권 도입 가속화 등 5개 기사"
 ---
 

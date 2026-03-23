@@ -5,9 +5,26 @@ categories:
 date: 2026-01-20 16:15:29 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- anthropic
 - ai
+- cowork
+- 데스크톱
+- agent
+- claude-code
+- 워크플로우
+- nvidia
+- cosmos
+- reason
+- coding
+- required
+- creator
+- revealed
+- workflow
+- developers
+- losing
+- their
+- minds
+- brings
 title: "Anthropic, 비개발자를 위한 데스크톱 AI 에이전트 'Cowork' 출시 등 3개 기사"
 ---
 

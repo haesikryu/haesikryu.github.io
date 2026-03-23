@@ -5,9 +5,27 @@ categories:
 date: 2026-01-08 16:12:17 +0900
 layout: post
 tags:
-- daily-news
-- automation
 - ai
+- 구글
+- openai
+- chatgpt
+- atlas
+- 에이전트
+- 프롬프트
+- character
+- google
+- negotiate
+- major
+- settlements
+- teen
+- chatbot
+- death
+- cases
+- prompt
+- injection
+- reinforcement
+- learning
+- teaming
 title: "AI 책임 소재: 구글 및 Character.AI, 챗봇 사용자 사망 소송 첫 합의 등 3개 기사"
 ---
 

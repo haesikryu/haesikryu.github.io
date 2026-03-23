@@ -5,9 +5,28 @@ categories:
 date: 2026-02-02 10:01:47 +0900
 layout: post
 tags:
-- daily-news
-- automation
 - ai
+- 논란
+- 데이터센터
+- 파격적인
+- 제로세금
+- grok
+- 인도네시아
+- 스페이스
+- 테슬라
+- washing
+- layoffs
+- zero
+- taxes
+- india
+- offers
+- through
+- lure
+- global
+- workloads
+- indonesia
+- conditionally
+- lifts
 title: "AI 해고 vs. ‘AI 워싱’ 논란: 정리해고의 진짜 이유 등 4개 기사"
 ---
 

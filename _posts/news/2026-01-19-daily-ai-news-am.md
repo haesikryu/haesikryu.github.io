@@ -5,9 +5,27 @@ categories:
 date: 2026-01-19 09:53:29 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- moxie
+- marlinspike
 - ai
+- confer
+- openai
+- api
+- 프라이버시
+- 비즈니스
+- signal
+- private
+- llm
+- encryption
+- privacy
+- conscious
+- alternative
+- chatgpt
+- plus
+- commerce
+- business
+- scales
+- value
 title: "Moxie Marlinspike, 개인 정보 보호 AI 챗봇 'Confer' 출시 등 3개 기사"
 ---
 

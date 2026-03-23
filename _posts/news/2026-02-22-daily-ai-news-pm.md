@@ -5,9 +5,27 @@ categories:
 date: 2026-02-22 16:24:46 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- listen
+- labs
 - ai
+- 엔비디아
+- 시가총액
+- gemini
+- 구글
+- 아이폰용
+- agent
+- operator
+- raises
+- viral
+- billboard
+- hiring
+- stunt
+- scale
+- customer
+- interviews
+- nvidia
+- briefly
+- overtakes
 title: "빌보드 광고 한 장의 기적, '리슨 랩스(Listen Labs)' 690억 원 투자 유치 등 4개 기사"
 ---
 

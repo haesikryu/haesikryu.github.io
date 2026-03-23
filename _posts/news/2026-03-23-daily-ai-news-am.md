@@ -5,9 +5,26 @@ categories:
 date: 2026-03-23 10:05:48 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- trainium
 - ai
+- 트레이니움
+- 매료시키다
+- cursor
+- moonshot
+- 스페이스
+- 허용하나
+- dojo
+- aws
+- anthropic
+- gpu
+- exclusive
+- tour
+- amazons
+- thats
+- openai
+- even
+- apple
+- kimi
 title: "\uC544\uB9C8\uC874\uC758 \uBE44\uBC00 \uBCD1\uAE30 '\uD2B8\uB808\uC774\uB2C8\
   \uC6C0(Trainium)', \uC624\uD508AI\uC640 \uC560\uD50C\uAE4C\uC9C0 \uB9E4\uB8CC\uC2DC\
   \uD0A4\uB2E4 \uB4F1 4\uAC1C \uAE30\uC0AC"

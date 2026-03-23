@@ -5,9 +5,28 @@ categories:
 date: 2026-01-30 09:57:55 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- openai
+- 스페이스
+- 테슬라
 - ai
+- project
+- genie
+- 구글
+- 딥마인드
+- 상호작용
+- chatgpt
+- gpt
+- amazon
+- talks
+- invest
+- elon
+- musk
+- spacex
+- tesla
+- merge
+- according
+- reports
+- google
 title: "아마존, 경쟁사 OpenAI에 500억 달러 투자 논의설 등 4개 기사"
 ---
 

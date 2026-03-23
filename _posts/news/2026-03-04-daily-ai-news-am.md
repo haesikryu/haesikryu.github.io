@@ -5,9 +5,25 @@ categories:
 date: 2026-03-04 09:58:38 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- openai
+- gpt
+- 오글거림
+- 인스턴트
 - ai
+- 유럽
+- 구글
+- 프로젝트
+- 앤스로픽
+- claude-code
+- instant
+- smoother
+- useful
+- everyday
+- conversations
+- santander
+- mastercard
+- europe
+- executed
 title: "OpenAI, '오글거림' 뺀 GPT-5.3 인스턴트 모델 출시 등 4개 기사"
 ---
 

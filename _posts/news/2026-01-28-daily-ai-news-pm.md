@@ -5,9 +5,25 @@ categories:
 date: 2026-01-28 16:13:35 +0900
 layout: post
 tags:
-- daily-news
-- automation
 - ai
+- choice
+- 후루사토
+- claude-code
+- 논란
+- slackbot
+- 엔터프라이즈
+- agent
+- 세일즈포스
+- 슬랙봇
+- powering
+- donations
+- recommendations
+- month
+- does
+- thing
+- free
+- salesforce
+- microsoft
 title: "AI가 후루사토 납세(세금 기부)를 맞춤 추천한다: 일본의 ‘Choice AI’ 등장 등 3개 기사"
 ---
 

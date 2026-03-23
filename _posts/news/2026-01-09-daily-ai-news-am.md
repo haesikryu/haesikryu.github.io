@@ -5,9 +5,28 @@ categories:
 date: 2026-01-09 09:50:12 +0900
 layout: post
 tags:
-- daily-news
-- automation
 - ai
+- 지배하다
+- 딥페이크
+- openai
+- 공격적인
+- 인수합병
+- 엔터프라이즈
+- bosch
+- 논란
+- convogo
+- governments
+- grapple
+- flood
+- consensual
+- nudity
+- acquire
+- team
+- executive
+- coaching
+- tool
+- healthcare
+- billion
 title: "CES 2026 개막: 물리적 AI와 로봇이 쇼를 지배하다 등 4개 기사"
 ---
 

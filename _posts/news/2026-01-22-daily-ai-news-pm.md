@@ -5,9 +5,26 @@ categories:
 date: 2026-01-22 16:14:42 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- nous
+- nouscoder
+- 오픈소스
+- citi
 - ai
+- kaggle
+- 커뮤니티
+- 벤치마크
+- claude-code
+- researchs
+- open
+- coding
+- model
+- landing
+- right
+- artificialintelligence
+- quiet
+- work
+- person
+- internal
 title: "Nous Research, 오픈소스 코딩 모델 'NousCoder-14B' 출시 등 4개 기사"
 ---
 

@@ -5,9 +5,28 @@ categories:
 date: 2026-01-08 09:49:35 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- openai
+- chatgpt
+- health
+- 앤트로픽
 - ai
+- 효율적인
+- 블루크루즈
+- 미국
+- 자율적인
+- gpt
+- 헬스케어
+- unveils
+- introducing
+- anthropic
+- raising
+- valuation
+- ford
+- assistant
+- hands
+- free
+- bluecruise
+- getting
 title: "OpenAI, 건강 전용 공간 'ChatGPT Health' 공개 등 4개 기사"
 ---
 

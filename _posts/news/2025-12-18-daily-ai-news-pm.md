@@ -5,9 +5,27 @@ categories:
 date: 2025-12-18 16:10:28 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- gemini
+- flash
 - ai
+- 구글
+- openai
+- frontierscience
+- 벤치마크
+- gpt
+- vibe
+- coding
+- opal
+- live
+- 파이어폭스
+- 도입하되
+- google
+- makes
+- default
+- model
+- accelerating
+- biological
+- tool
 title: "구글, Gemini 3 Flash를 기본 모델로 지정 및 검색 AI 모델로 도입 등 6개 기사"
 ---
 

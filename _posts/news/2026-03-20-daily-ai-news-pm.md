@@ -5,9 +5,28 @@ categories:
 date: 2026-03-20 22:55:02 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- openai
+- astral
 - ai
+- cursor
+- composer
+- 엔비디아
+- agent
+- cursorbench
+- nvidia
+- toolkit
+- acquire
+- throwing
+- everything
+- building
+- fully
+- automated
+- researcher
+- wants
+- enterprise
+- agents
+- safer
+- deploy
 title: "OpenAI\uC758 \uC0C8\uB85C\uC6B4 \uB3C4\uC804: \uC2A4\uC2A4\uB85C \uC5F0\uAD6C\
   \uD558\uB294 '\uC790\uC728 \uC5F0\uAD6C\uC6D0' \uAC1C\uBC1C\uACFC Astral \uC778\uC218\
   \ \uB4F1 4\uAC1C \uAE30\uC0AC"

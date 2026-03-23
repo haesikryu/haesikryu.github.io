@@ -5,9 +5,27 @@ categories:
 date: 2025-12-14 21:16:29 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- gpt
+- sota
+- gemini
+- 구글
+- 유연하게
+- openai
 - ai
+- 에이전트
+- gemma
+- eliza
+- gpqa
+- frontiermath
+- science
+- math
+- live
+- blog
+- google
+- products
+- search
+- audio
+- model
 title: "GPT-5.2, 수학 및 과학 분야에서 새로운 SOTA 달성 등 5개 기사"
 ---
 

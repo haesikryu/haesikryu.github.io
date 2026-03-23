@@ -5,9 +5,28 @@ categories:
 date: 2026-03-13 16:32:48 +0900
 layout: post
 tags:
-- daily-news
-- automation
 - ai
+- 업데이트
+- qutwo
+- 스타트업
+- 끊어드립니다
+- 트루콜러
+- google
+- updates
+- february
+- visual
+- search
+- before
+- quantum
+- computing
+- arrives
+- startup
+- wants
+- enterprises
+- already
+- running
+- truecaller
+- lets
 title: "\uAD6C\uAE00\uC758 \uB300\uADDC\uBAA8 AI \uC5C5\uB370\uC774\uD2B8: \uC81C\uBBF8\
   \uB098\uC774 3.1 \uD504\uB85C\uC640 '\uB098\uB178 \uBC14\uB098\uB098 2' \uB4F1 3\uAC1C\
   \ \uAE30\uC0AC"

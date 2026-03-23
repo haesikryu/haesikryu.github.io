@@ -5,9 +5,27 @@ categories:
 date: 2026-01-13 09:44:23 +0900
 layout: post
 tags:
-- daily-news
-- automation
 - ai
+- 저커버그
+- 메타
+- 인프라
+- anthropic
+- cowork
+- 앤트로픽
+- 데스크톱
+- agent
+- openai
+- healthcare
+- 헬스케어
+- mark
+- zuckerberg
+- says
+- meta
+- launching
+- infrastructure
+- initiative
+- claude-code
+- like
 title: "마크 저커버그, 메타의 초대형 AI 인프라 구축 선언 등 3개 기사"
 ---
 

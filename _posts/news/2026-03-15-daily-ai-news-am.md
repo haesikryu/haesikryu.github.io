@@ -5,9 +5,27 @@ categories:
 date: 2026-03-15 10:09:26 +0900
 layout: post
 tags:
-- daily-news
-- automation
 - ai
+- 메타
+- 인프라
+- anduril
+- chatgpt
+- meta
+- year
+- efficiency
+- considering
+- layoffs
+- could
+- affect
+- company
+- lockheed
+- martin
+- army
+- announces
+- contract
+- worth
+- agent
+- integrations
 title: "\uBA54\uD0C0, AI \uC778\uD504\uB77C \uD655\uC7A5\uC744 \uC704\uD574 \uC9C1\
   \uC6D0 20% \uB300\uADDC\uBAA8 \uAC10\uC6D0 \uAC80\uD1A0 \uB4F1 3\uAC1C \uAE30\uC0AC"
 ---

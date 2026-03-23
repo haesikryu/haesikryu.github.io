@@ -5,9 +5,28 @@ categories:
 date: 2026-02-04 09:57:42 +0900
 layout: post
 tags:
-- daily-news
-- automation
 - ai
+- gpu
+- 엔비디아
+- xcode
+- 애플
+- agent
+- openai
+- sora
+- 긴장하라
+- codex
+- claude
+- intel
+- start
+- making
+- gpus
+- dominated
+- nvidia
+- moves
+- agentic
+- coding
+- deeper
+- anthropic
 title: "인텔, 엔비디아 독점 시장에 도전하며 자체 GPU 개발 본격화 등 4개 기사"
 ---
 

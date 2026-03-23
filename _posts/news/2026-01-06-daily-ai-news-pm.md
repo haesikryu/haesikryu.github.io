@@ -5,9 +5,27 @@ categories:
 date: 2026-01-06 16:13:46 +0900
 layout: post
 tags:
-- daily-news
-- automation
 - ai
+- 사용자용
+- 프로세서
+- core
+- ultra
+- series
+- cpu
+- ryzen
+- 리프레시
+- unveils
+- processors
+- gaming
+- intel
+- cpus
+- made
+- using
+- long
+- awaited
+- process
+- reheats
+- year
 title: "AMD, 게이밍 및 일반 사용자용 AI PC 프로세서 공개 등 3개 기사"
 ---
 

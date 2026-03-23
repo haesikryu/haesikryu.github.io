@@ -5,9 +5,28 @@ categories:
 date: 2026-02-20 09:59:09 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- 구글
+- 벤치마크
 - ai
+- 프로젝트
+- 결제합니다
+- 에이전틱
+- openai
+- alignment
+- gpt
+- 위대해질
+- 운명이야
+- 정신질환
+- 논란
+- project
+- meant
+- greatness
+- google
+- gemini
+- model
+- record
+- benchmark
+- scores
 title: "구글 제미나이 3.1 프로, 다시 한번 벤치마크 신기록 경신 등 5개 기사"
 ---
 

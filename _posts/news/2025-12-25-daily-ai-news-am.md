@@ -5,9 +5,28 @@ categories:
 date: 2025-12-25 09:48:02 +0900
 layout: post
 tags:
-- daily-news
-- automation
 - ai
+- groq
+- 엔비디아
+- 라이선스
+- waymo
+- google
+- gemini
+- 자율주행
+- openai
+- 에이전트
+- customer
+- scale
+- security
+- chatgpt
+- atlas
+- latency
+- language
+- processing
+- unit
+- gpu
+- inference
+- nvidia
 title: "엔비디아, AI 칩 경쟁자 Groq 기술 라이선스 및 CEO 영입 등 4개 기사"
 ---
 

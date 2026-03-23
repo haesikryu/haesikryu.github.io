@@ -22,6 +22,10 @@ package-lock.json
 !.vscode/extensions.json
 !.vscode/tasks.json
 
+# Python (로컬 일회성 venv)
+.venv-retag/
+.venv/
+
 # Misc
 _sass/vendors
 assets/js/dist

@@ -5,9 +5,24 @@ categories:
 date: 2026-03-02 16:37:36 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- anthropic
 - ai
+- cowork
+- 데스크톱
+- agent
+- salesforce
+- slackbot
+- 슬랙봇
+- railway
+- aws
+- claude-code
+- copilot
+- microsoft
+- azure
+- infrastructure
+- cloud
+- month
+- does
 title: "Anthropic, 비개발자를 위한 데스크톱 AI 에이전트 'Cowork' 출시 등 4개 기사"
 ---
 

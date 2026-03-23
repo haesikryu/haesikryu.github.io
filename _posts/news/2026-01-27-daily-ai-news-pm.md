@@ -5,9 +5,27 @@ categories:
 date: 2026-01-27 16:14:57 +0900
 layout: post
 tags:
-- daily-news
-- automation
 - ai
+- cowork
+- 앤트로픽
+- 사용자용
+- 데스크톱
+- agent
+- spotdraft
+- 온디바이스
+- 스타트업
+- 기업가치
+- claude-code
+- anthropic
+- coding
+- required
+- retailers
+- examine
+- options
+- retail
+- qualcomm
+- backs
+- scale
 title: "앤트로픽, 일반 사용자용 데스크톱 AI 에이전트 'Cowork' 출시 등 3개 기사"
 ---
 

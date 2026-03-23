@@ -5,9 +5,26 @@ categories:
 date: 2025-12-17 09:42:41 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- openai
+- gpt
+- image
+- bbva
+- chatgpt
+- 글로벌
+- 엔터프라이즈
+- meta
 - ai
+- 메타
+- 구글
+- 벤치마크
+- doordash
+- zesty
+- images
+- collaboration
+- expansion
+- metas
+- glasses
+- help
 title: "OpenAI, 이미지 생성 모델 'GPT Image 1.5' 출시 (4배속 돌파!) 등 6개 기사"
 ---
 

@@ -5,9 +5,28 @@ categories:
 date: 2026-01-23 09:50:39 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- openai
+- livekit
+- llm
+- 스타트업
 - ai
+- agent
+- aws
+- railway
+- 네이티브
+- 클라우드
+- autonomous
+- machine
+- intelligence
+- hits
+- valuation
+- yann
+- lecun
+- venture
+- agents
+- ready
+- workplace
+- enterprise
 title: "OpenAI, 기업 시장 공략 가속화 및 파트너 LiveKit 10억 달러 가치 달성 등 4개 기사"
 ---
 

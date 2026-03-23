@@ -5,9 +5,27 @@ categories:
 date: 2026-02-17 10:01:46 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- 애플
+- 아이패드
+- 리커시브
+- 인텔리전스
 - ai
+- 에이전틱
+- 바이트댄스
+- 논란
+- 할리우드
+- natwest
+- expansion
+- retail
+- agents
+- agentic
+- special
+- experience
+- ipad
+- technica
+- device
+- arstechnica
+- apple
 title: "애플, 3월 4일 '특별한 경험' 이벤트 예고: 신형 맥과 아이패드 공개 임박 등 5개 기사"
 ---
 

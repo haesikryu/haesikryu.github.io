@@ -5,9 +5,27 @@ categories:
 date: 2026-01-01 09:54:46 +0900
 layout: post
 tags:
-- daily-news
-- automation
 - ai
+- 돌아오다
+- 클라우드
+- prophet
+- product
+- came
+- down
+- earth
+- investors
+- predict
+- coming
+- labor
+- supply
+- chains
+- cloud
+- biggest
+- failures
+- success
+- llm
+- arstechnica
+- chain
 title: "'예언자'에서 '제품'으로: 2025년, AI가 현실로 돌아오다 등 3개 기사"
 ---
 

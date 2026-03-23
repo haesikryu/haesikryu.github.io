@@ -5,9 +5,27 @@ categories:
 date: 2026-02-07 16:19:55 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- sixteen
+- claude
 - ai
+- agents
+- created
+- compiler
+- maybe
+- lawyers
+- benchmark
+- raises
+- special
+- funds
+- double
+- down
+- cerebras
+- making
+- work
+- everyone
+- everywhere
+- approach
+- localization
 title: "💥 AI 에이전트, 스스로 C 컴파일러를 만들다 (feat. Anthropic Claude) 등 4개 기사"
 ---
 

@@ -5,9 +5,28 @@ categories:
 date: 2026-01-04 16:09:32 +0900
 layout: post
 tags:
-- daily-news
-- automation
 - ai
+- 내재화하다
+- 클라우드
+- 선도하다
+- disney
+- embedding
+- generative
+- operating
+- model
+- future
+- edge
+- rail
+- watching
+- predicting
+- learning
+- artificialintelligence
+- vince
+- jesaitis
+- gpu
+- nvidia
+- latency
+- predictive
 title: "디즈니, 운영 모델에 생성형 AI를 내재화하다 등 3개 기사"
 ---
 

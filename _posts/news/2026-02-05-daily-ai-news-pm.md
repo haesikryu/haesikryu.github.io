@@ -5,9 +5,18 @@ categories:
 date: 2026-02-05 16:37:57 +0900
 layout: post
 tags:
-- daily-news
-- automation
 - ai
+- experiential
+- scent
+- afterlife
+- immersive
+- sensory
+- arstechnica
+- science
+- museums
+- incorporate
+- egyptian
+- exhibits
 title: "박물관 테크: 고대 이집트 전시회에 '사후 세계의 향' 추가 등 1개 기사"
 ---
 

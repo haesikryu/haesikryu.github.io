@@ -5,9 +5,36 @@ categories:
 date: 2025-12-17 16:10:43 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- openai
+- gpt
+- image
+- google
 - ai
+- 프레임워크
+- codex
+- sora
+- 안드로이드
+- 플레이북
+- gemini
+- live
+- search
+- accelerating
+- biological
+- shipping
+- android
+- outreach
+- initiatives
+- sustainability
+- playbook
+
+
+  ## 1. OpenAI, 이미지 생성 모델 GPT Image 1.5 출시 (Google과의 경쟁 심화)'
+- Wet Lab
+- Live with Search
+- Google
+- OpenAI
+- GPT
+- Image
 title: "OpenAI, 이미지 생성 모델 GPT Image 1.5 출시 (Google과의 경쟁 심화) 등 6개 기사"
 ---
 

@@ -5,9 +5,27 @@ categories:
 date: 2026-02-14 09:59:32 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- gpt
+- openai
+- 실리콘밸리
 - ai
+- 에어비앤비
+- claude
+- 앤스로픽
+- 되찾아준
+- 루게릭병
+- 감동적인
+- opus
+- podcast
+- anthropic
+- review
+- preprint
+- gluon
+- amplitude
+- result
+- theoretical
+- physics
+- mission
 title: "GPT-5.2, 이론 물리학에서 새로운 공식 발견 등 5개 기사"
 ---
 

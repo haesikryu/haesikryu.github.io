@@ -5,9 +5,28 @@ categories:
 date: 2026-02-03 10:02:00 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- 스페이스
 - ai
+- openai
+- 엔터프라이즈
+- 파트너십
+- macos
+- codex
+- agent
+- technica
+- spacex
+- starlink
+- space
+- centers
+- grok
+- elon
+- musk
+- acquires
+- merger
+- arstechnica
+- plans
+- satellite
+- constellation
 title: "스페이스X, xAI 공식 인수하며 '우주 데이터 센터' 구축 시동 등 3개 기사"
 ---
 

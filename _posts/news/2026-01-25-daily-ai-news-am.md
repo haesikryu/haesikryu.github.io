@@ -5,9 +5,28 @@ categories:
 date: 2026-01-25 09:55:25 +0900
 layout: post
 tags:
-- daily-news
-- automation
 - ai
+- sparkli
+- 구글
+- 에너지망
+- 악성코드
+- ceos
+- boast
+- bicker
+- about
+- davos
+- former
+- googlers
+- seek
+- captivate
+- kids
+- learning
+- labs
+- even
+- trying
+- make
+- money
+- poland
 title: "다보스 세계 경제 포럼: AI 거물들의 치열한 경쟁 무대 등 4개 기사"
 ---
 

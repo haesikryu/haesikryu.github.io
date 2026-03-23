@@ -5,9 +5,28 @@ categories:
 date: 2026-01-31 09:55:12 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- 앤트로픽
+- cowork
+- agent
+- 플러그인
 - ai
+- 에이전트들
+- 자체적인
+- 네트워크
+- 구축하다
+- 딥페이크
+- physical
+- intelligence
+- 스트라이프
+- clawdbot
+- moltbot
+- openclaw
+- moltbook
+- anthropic
+- brings
+- agentic
+- plug
+- agents
 title: "앤트로픽, 기업용 '코워크'에 에이전트 플러그인 도입 등 4개 기사"
 ---
 

@@ -5,9 +5,27 @@ categories:
 date: 2026-02-11 10:10:15 +0900
 layout: post
 tags:
-- daily-news
-- automation
 - ai
+- 마켓플레이스
+- flapping
+- airplanes
+- 다이내믹스
+- 플레이터
+- daily
+- aws
+- amazon
+- launch
+- marketplace
+- where
+- media
+- sites
+- sell
+- their
+- content
+- companies
+- llm
+- podcast
+- sequoia
 title: "아마존, 미디어 콘텐츠와 AI 기업 잇는 '데이터 마켓플레이스' 추진 등 4개 기사"
 ---
 

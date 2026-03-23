@@ -5,9 +5,25 @@ categories:
 date: 2026-01-18 09:54:01 +0900
 layout: post
 tags:
-- daily-news
-- automation
 - ai
+- technica
+- openai
+- musk
+- wants
+- lawsuit
+- despite
+- fortune
+- meta
+- supernatural
+- quest
+- arstechnica
+- gadgets
+- metas
+- layoffs
+- leave
+- fitness
+- users
+- mourning
 title: "💰 머스크, OpenAI 소송에서 최대 1,340억 달러 요구 등 2개 기사"
 ---
 

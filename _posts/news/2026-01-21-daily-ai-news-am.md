@@ -5,9 +5,28 @@ categories:
 date: 2026-01-21 09:50:56 +0900
 layout: post
 tags:
-- daily-news
-- automation
+- openai
+- 미성년자
+- dojo
 - ai
+- 테슬라
+- anthropic
+- humans
+- 구글
+- cisco
+- servicenow
+- 엔터프라이즈
+- agent
+- codex
+- blog
+- self
+- reporting
+- effort
+- protect
+- young
+- users
+- chatgpt
+- predict
 title: "OpenAI, 미성년자 보호를 위한 ‘연령 예측’ 기능 도입 등 4개 기사"
 ---
 
