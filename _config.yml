@@ -172,6 +172,19 @@ kramdown:
       line_numbers: true
       start_line: 1
 
+# 사이드바 메뉴에 표시할 탭 순서 (tab_order가 없으면 theme 기본값 사용)
+tab_order:
+  - blog
+  - news
+  - knowledge-graph
+  - book-review
+  - portfolio
+  - categories
+  - tags
+  - archives
+  - qna
+  - about
+
 collections:
   tabs:
     output: true
