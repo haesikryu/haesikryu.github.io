@@ -1,110 +1,5 @@
 [
   {
-    "title": "Mistral bets on ‘build-your-own AI’ as it takes on OpenAI, Anthropic in the enterprise",
-    "link": "https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/",
-    "date": "2026-03-18"
-  },
-  {
-    "title": "Why Garry Tan’s Claude Code setup has gotten so much love, and hate",
-    "link": "https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/",
-    "date": "2026-03-18"
-  },
-  {
-    "title": "The Pentagon is developing alternatives to Anthropic, report says",
-    "link": "https://techcrunch.com/2026/03/17/the-pentagon-is-developing-alternatives-to-anthropic-report-says/",
-    "date": "2026-03-18"
-  },
-  {
-    "title": "BuzzFeed debuts AI slop apps in bid for new revenue",
-    "link": "https://techcrunch.com/2026/03/17/buzzfeed-ai-slop-apps-sxsw-bf-island-conjure/",
-    "date": "2026-03-18"
-  },
-  {
-    "title": "Google’s Personal Intelligence feature is expanding to all US users",
-    "link": "https://techcrunch.com/2026/03/17/googles-personal-intelligence-feature-is-expanding-to-all-us-users/",
-    "date": "2026-03-18"
-  },
-  {
-    "title": "Introducing GPT-5.4 mini and nano",
-    "link": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
-    "date": "2026-03-18"
-  },
-  {
-    "title": "Equipping workers with insights about compensation",
-    "link": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
-    "date": "2026-03-18"
-  },
-  {
-    "title": "Bringing the power of Personal Intelligence to more people",
-    "link": "https://blog.google/products-and-platforms/products/search/personal-intelligence-expansion/",
-    "date": "2026-03-18"
-  },
-  {
-    "title": "Our latest investment in open source security for the AI era",
-    "link": "https://blog.google/innovation-and-ai/technology/safety-security/ai-powered-open-source-security/",
-    "date": "2026-03-18"
-  },
-  {
-    "title": "The Pentagon is planning for AI companies to train on classified data, defense official says",
-    "link": "https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/",
-    "date": "2026-03-18"
-  },
-  {
-    "title": "The Download: OpenAI’s US military deal, and Grok’s CSAM lawsuit",
-    "link": "https://www.technologyreview.com/2026/03/17/1134322/the-download-openi-us-military-deal-grok-xai-csam-lawsuit/",
-    "date": "2026-03-18"
-  },
-  {
-    "title": "Nemotron 3 Nano 4B: A Compact Hybrid Model for Efficient Local AI",
-    "link": "https://huggingface.co/blog/nvidia/nemotron-3-nano-4b",
-    "date": "2026-03-18"
-  },
-  {
-    "title": "State of Open Source on Hugging Face: Spring 2026",
-    "link": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
-    "date": "2026-03-18"
-  },
-  {
-    "title": "Holotron-12B - High Throughput Computer Use Agent",
-    "link": "https://huggingface.co/blog/Hcompany/holotron-12b",
-    "date": "2026-03-18"
-  },
-  {
-    "title": "Apple can delist apps \"with or without cause,\" judge says in loss for Musi app",
-    "link": "https://arstechnica.com/tech-policy/2026/03/judge-upholds-apple-delisting-of-free-musi-app-that-streams-songs-from-youtube/",
-    "date": "2026-03-18"
-  },
-  {
-    "title": "How World ID wants to put a unique human identity on every AI agent",
-    "link": "https://arstechnica.com/ai/2026/03/world-id-wants-you-to-put-a-cryptographically-unique-human-identity-behind-your-ai-agents/",
-    "date": "2026-03-18"
-  },
-  {
-    "title": "Arizona indicts prediction market Kalshi for running illegal gambling operation",
-    "link": "https://arstechnica.com/tech-policy/2026/03/arizona-indicts-prediction-market-kalshi-for-running-illegal-gambling-operation/",
-    "date": "2026-03-18"
-  },
-  {
-    "title": "FDA links raw cheese to outbreak; Makers \"100% disagree,\" refuse recall",
-    "link": "https://arstechnica.com/health/2026/03/fda-links-raw-cheese-to-outbreak-makers-100-disagree-refuse-recall/",
-    "date": "2026-03-18"
-  },
-  {
-    "title": "Trump's plan to shut down weather and climate center triggers lawsuit",
-    "link": "https://arstechnica.com/science/2026/03/university-group-sues-trump-administration-over-shutdown-of-climate-center/",
-    "date": "2026-03-18"
-  },
-  {
-    "title": "Trustpilot partners with AI companies as traditional search declines",
-    "link": "https://www.artificialintelligence-news.com/news/ai-in-ecommerce-trustpilot-partnerships-integration-news-trad-search-declines/",
-    "date": "2026-03-18"
-  },
-  {
-    "title": "Goldman Sachs sees AI investment shift to data centres",
-    "link": "https://www.artificialintelligence-news.com/news/goldman-sachs-sees-ai-investment-shift-to-data-centres/",
-    "date": "2026-03-18"
-  },
-  {
     "title": "Meta is having trouble with rogue AI agents",
     "link": "https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/",
     "date": "2026-03-19"
@@ -768,5 +663,120 @@
     "title": "A New Framework for Evaluating Voice Agents (EVA)",
     "link": "https://huggingface.co/blog/ServiceNow-AI/eva",
     "date": "2026-03-24"
+  },
+  {
+    "title": "비밀 상자: 아파트 인터폰을 Apple Home과 연동한 은밀한 개조",
+    "link": "https://news.hada.io/topic?id=27818",
+    "date": "2026-03-25"
+  },
+  {
+    "title": "Claude Code로 생산성을 높이는 방법",
+    "link": "https://news.hada.io/topic?id=27817",
+    "date": "2026-03-25"
+  },
+  {
+    "title": "Windows 3.1 타일형 배경화면 BMP 아카이브",
+    "link": "https://news.hada.io/topic?id=27816",
+    "date": "2026-03-25"
+  },
+  {
+    "title": "럭셔리 자동차 정비소를 위한 AI 리셉셔니스트 구축기 - Part 1",
+    "link": "https://news.hada.io/topic?id=27815",
+    "date": "2026-03-25"
+  },
+  {
+    "title": "협업은 헛소리다",
+    "link": "https://news.hada.io/topic?id=27814",
+    "date": "2026-03-25"
+  },
+  {
+    "title": "With $3.5B in fresh capital, Kleiner Perkins is going all in on AI",
+    "link": "https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/",
+    "date": "2026-03-25"
+  },
+  {
+    "title": "OpenAI’s Sora was the creepiest app on your phone — now it’s shutting down",
+    "link": "https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-its-shutting-down/",
+    "date": "2026-03-25"
+  },
+  {
+    "title": "Kentucky woman rejects $26M offer to turn her farm into a data center",
+    "link": "https://techcrunch.com/2026/03/24/kentucky-woman-rejects-26-million-offer-to-turn-her-farm-into-a-data-center/",
+    "date": "2026-03-25"
+  },
+  {
+    "title": "Anthropic hands Claude Code more control, but keeps it on a leash",
+    "link": "https://techcrunch.com/2026/03/24/anthropic-hands-claude-code-more-control-but-keeps-it-on-a-leash/",
+    "date": "2026-03-25"
+  },
+  {
+    "title": "Spotify tests new tool to stop AI slop from being attributed to real artists",
+    "link": "https://techcrunch.com/2026/03/24/spotify-tests-new-tool-to-stop-ai-slop-from-being-attributed-to-real-artists/",
+    "date": "2026-03-25"
+  },
+  {
+    "title": "Helping developers build safer AI experiences for teens",
+    "link": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
+    "date": "2026-03-25"
+  },
+  {
+    "title": "Update on the OpenAI Foundation",
+    "link": "https://openai.com/index/update-on-the-openai-foundation",
+    "date": "2026-03-25"
+  },
+  {
+    "title": "Powering product discovery in ChatGPT",
+    "link": "https://openai.com/index/powering-product-discovery-in-chatgpt",
+    "date": "2026-03-25"
+  },
+  {
+    "title": "Exclusive eBook: Are we ready to hand AI agents the keys?",
+    "link": "https://www.technologyreview.com/2026/03/24/1134531/exclusive-ebook-are-we-ready-to-hand-ai-agents-the-keys/",
+    "date": "2026-03-25"
+  },
+  {
+    "title": "This scientist rewarmed and studied pieces of his friend’s cryopreserved brain",
+    "link": "https://www.technologyreview.com/2026/03/24/1134562/cryopreservation-brain-cryonics-organ-transplantation/",
+    "date": "2026-03-25"
+  },
+  {
+    "title": "The Download: tracing AI-fueled delusions, and OpenAI admits Microsoft risks",
+    "link": "https://www.technologyreview.com/2026/03/24/1134540/the-download-tracing-ai-fueled-delusions-openai-warns-microsoft-risks/",
+    "date": "2026-03-25"
+  },
+  {
+    "title": "Final analysis of 2025 Iberian blackout: Policies left Spain at risk",
+    "link": "https://arstechnica.com/science/2026/03/final-analysis-of-2025-iberian-blackout-policies-left-spain-at-risk/",
+    "date": "2026-03-25"
+  },
+  {
+    "title": "Newly purchased Vizio TVs now require Walmart accounts to use smart features",
+    "link": "https://arstechnica.com/gadgets/2026/03/newly-purchased-vizio-tvs-now-require-walmart-accounts-to-use-smart-features/",
+    "date": "2026-03-25"
+  },
+  {
+    "title": "Mozilla dev's \"Stack Overflow for agents\" targets a key weakness in coding AI",
+    "link": "https://arstechnica.com/ai/2026/03/mozilla-dev-introduces-cq-a-stack-overflow-for-agents/",
+    "date": "2026-03-25"
+  },
+  {
+    "title": "OpenAI announces plans to shut down its Sora video generator",
+    "link": "https://arstechnica.com/ai/2026/03/openai-plans-to-shut-down-sora-just-15-months-after-its-launch/",
+    "date": "2026-03-25"
+  },
+  {
+    "title": "Electronic Frontier Foundation to swap leaders as AI, ICE fights escalate",
+    "link": "https://arstechnica.com/tech-policy/2026/03/trump-made-opposing-government-spying-cool-again-effs-departing-chief-says/",
+    "date": "2026-03-25"
+  },
+  {
+    "title": "Automating complex finance workflows with multimodal AI",
+    "link": "https://www.artificialintelligence-news.com/news/automating-complex-finance-workflows-with-multimodal-ai/",
+    "date": "2026-03-25"
+  },
+  {
+    "title": "Securing AI systems under today’s and tomorrow’s conditions",
+    "link": "https://www.artificialintelligence-news.com/news/quantum-resilient-ai-needs-migration-and-hardware-protected-data-enclaves/",
+    "date": "2026-03-25"
   }
 ]
