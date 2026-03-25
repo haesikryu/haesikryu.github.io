@@ -4,415 +4,553 @@
       "id": "/posts/welcome/",
       "name": "기술 블로그를 시작하며",
       "group": "intro",
-      "val": 3
+      "val": 3,
+      "degree": 1,
+      "viewCount": 495
     },
     {
       "id": "/posts/ai_dev_tool_comparison_blog/",
       "name": "🚀 2025년 AI 개발 도구 3종 비교 분석(Claude Code vs GitHub Copilot vs Cursor)",
       "group": "AI Coding",
-      "val": 4
+      "val": 4,
+      "degree": 2,
+      "viewCount": 308
     },
     {
       "id": "/posts/claude_dev_env_config_guide/",
       "name": "Claude Code 설정 가이드 (터미널에서 AI와 함께 코딩하기)",
       "group": "AI Coding",
-      "val": 3
+      "val": 3,
+      "degree": 2,
+      "viewCount": 540
     },
     {
       "id": "/posts/dev_width_ai_blog/",
       "name": "AI 코딩 도구의 대중화 - AI와 함께 하는 개발",
       "group": "AI",
-      "val": 4
+      "val": 4,
+      "degree": 8,
+      "viewCount": 1097
     },
     {
       "id": "/posts/mcp_tech_standards_blog/",
       "name": "MCP 기술 표준 최신 동향 - AI 연결성의 새로운 패러다임",
       "group": "MCP",
-      "val": 4
+      "val": 4,
+      "degree": 0,
+      "viewCount": 206
     },
     {
       "id": "/posts/ddd_ai_platoform_strategy_blog/",
       "name": "Domain-Driven Design과 AI의 만남 - 플랫폼과 조직 전략의 진화",
       "group": "DomainDrivenDesign",
-      "val": 4
+      "val": 4,
+      "degree": 8,
+      "viewCount": 1104
     },
     {
       "id": "/posts/generative_ai_privacy_blog/",
       "name": "생성형 AI 시대, 개인정보 보호는 어디로 가고 있는가?",
       "group": "생성형AI",
-      "val": 4
+      "val": 4,
+      "degree": 0,
+      "viewCount": 389
     },
     {
       "id": "/posts/google_ai_mode_voice_blog/",
       "name": "구글, AI Mode에 음성 대화 기능 추가 – 음성 AI 시대 본격 개막",
       "group": "GoogleAI",
-      "val": 4
+      "val": 4,
+      "degree": 0,
+      "viewCount": 446
     },
     {
       "id": "/posts/requirement_to_architecture_blog/",
       "name": "요구사항에서 아키텍처까지 - AI가 소프트웨어 아키텍트의 파트너가 되는 시대",
       "group": "DDD",
-      "val": 4
+      "val": 4,
+      "degree": 11,
+      "viewCount": 1417
     },
     {
       "id": "/posts/ddd_qcon_blog/",
       "name": "QCon London 2025 - 대규모 도메인 주도 설계 적용 사례",
       "group": "DDD",
-      "val": 4
+      "val": 4,
+      "degree": 8,
+      "viewCount": 1158
     },
     {
       "id": "/posts/architecture_trends_2025_infoq_blog/",
       "name": "InfoQ 2025 아키텍처 트렌드 완전 해부 - AI, 자동화, 탄소, 그리고 분산형 조직",
       "group": "소프트웨어아키텍처",
-      "val": 4
+      "val": 4,
+      "degree": 6,
+      "viewCount": 844
     },
     {
       "id": "/posts/ai_msa_architecture_blog/",
       "name": "AI 시스템에 맞는 마이크로서비스 아키텍처(MSA), 이렇게 설계하라",
       "group": "MSA",
-      "val": 4
+      "val": 4,
+      "degree": 3,
+      "viewCount": 744
     },
     {
       "id": "/posts/transform_monolith_to_msa_with_ddd_blog/",
       "name": "모놀리스를 마이크로서비스로 - DDD 전략을 활용한 전환 방법",
       "group": "Microservices",
-      "val": 4
+      "val": 4,
+      "degree": 10,
+      "viewCount": 1100
     },
     {
       "id": "/posts/ddd_microservices_blog/",
       "name": "마이크로서비스에서의 도메인 주도 설계(DDD) - 실무 가이드",
       "group": "Microservices",
-      "val": 4
+      "val": 4,
+      "degree": 10,
+      "viewCount": 1148
     },
     {
       "id": "/posts/uber_biz_agility_using_msa_ddd_blog/",
       "name": "글로벌 모빌리티 서비스의 민첩성 확보 – MSA와 DDD 혁신 사례",
       "group": "Microservices",
-      "val": 4
+      "val": 4,
+      "degree": 9,
+      "viewCount": 1002
     },
     {
       "id": "/posts/microservices_advantages_design_strategy_2025_blog/",
       "name": "Microservices: Advantages, Design, and Strategy in 2025",
       "group": "Microservices",
-      "val": 4
+      "val": 4,
+      "degree": 9,
+      "viewCount": 1015
     },
     {
       "id": "/posts/ai_development_guide_2025/",
       "name": "2025 AI 소프트웨어 개발 완전 가이드 - 코드 생성의 혁신적 변화",
       "group": "AI",
-      "val": 4
+      "val": 4,
+      "degree": 5,
+      "viewCount": 922
     },
     {
       "id": "/posts/agentic_ai_architect_blog_post/",
       "name": "Agentic AI, 아키텍처를 다시 설계하다: 새로운 코파일럿의 등장",
       "group": "AgenticAI",
-      "val": 4
+      "val": 4,
+      "degree": 4,
+      "viewCount": 552
     },
     {
       "id": "/posts/exploring_power_of_ai_in_sw_blog/",
       "name": "Exploring the Power of AI in Software Development: 2025 전망과 그 너머",
       "group": "AI",
-      "val": 4
+      "val": 4,
+      "degree": 6,
+      "viewCount": 894
     },
     {
       "id": "/posts/\u001dprogramming_architecture_trends_2025_future_of_sw_dev_blog/",
       "name": "2025년 소프트웨어 아키텍처 트렌드: 전문가의 시선과 인사이트",
       "group": "SoftwareArchitecture",
-      "val": 4
+      "val": 4,
+      "degree": 9,
+      "viewCount": 1047
     },
     {
       "id": "/posts/how_to_connect_google_analytics_to_github_blog/",
       "name": "GitHub Pages에에 Google Analytics 연동하는 방법 (GA4 기준)",
       "group": "GitHubPages",
-      "val": 4
+      "val": 4,
+      "degree": 0,
+      "viewCount": 350
     },
     {
       "id": "/posts/claude_code_install_guide_blog/",
       "name": "Claude Code 단게별 설치 방법",
       "group": "LLM기반AI도구",
-      "val": 4
+      "val": 4,
+      "degree": 1,
+      "viewCount": 428
     },
     {
       "id": "/posts/hot_llm_ai_tools_2025_blog/",
       "name": "2025년 Hot한 LLM 기반 AI 도구 분석",
       "group": "LLM기반AI도구",
-      "val": 4
+      "val": 4,
+      "degree": 1,
+      "viewCount": 559
     },
     {
       "id": "/posts/jekyll_multilingual_guide_blog/",
       "name": "Jekyll 다국어 블로그 구성 가이드",
       "group": "Jekyll다국어블로그",
-      "val": 4
+      "val": 4,
+      "degree": 0,
+      "viewCount": 177
     },
     {
       "id": "/posts/hyper_modular_microservices_blog/",
       "name": "하이퍼 모듈러 마이크로서비스: 2025년 아키텍처의 진화",
       "group": "microservices",
-      "val": 4
+      "val": 4,
+      "degree": 8,
+      "viewCount": 993
     },
     {
       "id": "/posts/kiro_ide_tech_blog/",
       "name": "Kiro IDE: 프로토타입에서 프로덕션까지, 차세대 AI 개발환경",
       "group": "KiroIDE",
-      "val": 4
+      "val": 4,
+      "degree": 3,
+      "viewCount": 640
     },
     {
       "id": "/posts/package_structure_guide/",
       "name": "애플리케이션 패키지 구조 설계 접근법과 설계 원칙 알아보기",
       "group": "inner-architecture",
-      "val": 4
+      "val": 4,
+      "degree": 1,
+      "viewCount": 410
     },
     {
       "id": "/posts/gemini_code_assist_blog/",
       "name": "Gemini Code Assist: Google의 AI 코딩 어시스턴트 가이드",
       "group": "gemini-code-assist",
-      "val": 4
+      "val": 4,
+      "degree": 2,
+      "viewCount": 439
     },
     {
       "id": "/posts/cursor_reverse_engineering_guide/",
       "name": "Cursor를 활용한 코드 리버스 엔지니어링: Class Diagram & Sequence Diagram 생성",
       "group": "cursor",
-      "val": 4
+      "val": 4,
+      "degree": 1,
+      "viewCount": 442
     },
     {
       "id": "/posts/rag-architecture-comparison/",
       "name": " RAG 데이터 적재 방안 비교: 전량 적재 vs 하이브리드 온디맨드 방식",
       "group": "RAG",
-      "val": 4
+      "val": 4,
+      "degree": 2,
+      "viewCount": 589
     },
     {
       "id": "/posts/dev_container_guide/",
       "name": "VS Code에 Dev Container 적용하기",
       "group": "DevContainer",
-      "val": 4
+      "val": 4,
+      "degree": 2,
+      "viewCount": 310
     },
     {
       "id": "/posts/elon-musk-five-step-improvement-process/",
       "name": "일론 머스크의 5단계 개선 프로세스 (Elon Musk's five-step improvement process)",
       "group": "소프트웨어아키텍처",
-      "val": 4
+      "val": 4,
+      "degree": 2,
+      "viewCount": 380
     },
     {
       "id": "/posts/domain-storytelling-1-intro/",
       "name": "[Domain Storytelling #1] 도메인 전문가와 개발자의 대화법 - Domain Storytelling 소개",
       "group": "domain-storytelling",
-      "val": 4
+      "val": 4,
+      "degree": 5,
+      "viewCount": 600
     },
     {
       "id": "/posts/domain-storytelling-2-notation-workshop/",
       "name": "[Domain Storytelling #2] 표기법과 워크샵 가이드 - 실제로 어떻게 그리고 진행하는가",
       "group": "domain-storytelling",
-      "val": 4
+      "val": 4,
+      "degree": 4,
+      "viewCount": 610
     },
     {
       "id": "/posts/domain-storytelling-3-egonio/",
       "name": "[Domain Storytelling #3] Egon.io 도구 활용 - 디지털 도구로 효율적으로 작업하기",
       "group": "domain-storytelling",
-      "val": 4
+      "val": 4,
+      "degree": 5,
+      "viewCount": 876
     },
     {
       "id": "/posts/domain-storytelling-4-ddd/",
       "name": "[Domain Storytelling #4] DDD와의 통합 - Bounded Context와 Ubiquitous Language 식별하기",
       "group": "domain-storytelling",
-      "val": 4
+      "val": 4,
+      "degree": 5,
+      "viewCount": 914
     },
     {
       "id": "/posts/domain-storytelling-5-practical/",
       "name": "[Domain Storytelling #5] 실전 적용 전략 - 다른 기법들과 함께 사용하기",
       "group": "domain-storytelling",
-      "val": 4
+      "val": 4,
+      "degree": 5,
+      "viewCount": 949
     },
     {
       "id": "/posts/sds-real-summit-2025-fin-code.mig/",
       "name": "[SDS REAL Summit 2025] 금융 코드 전환, 이제는 Software Engineering Agent가 합니다!",
       "group": "financial-code-conversion",
-      "val": 4
+      "val": 4,
+      "degree": 0,
+      "viewCount": 440
     },
     {
       "id": "/posts/why-donot-developer-study/",
       "name": "소프트웨어 장인정신: 소프트웨어 개발자, 왜 더 이상 공부하지 않는가?",
       "group": "engineering-culture",
-      "val": 4
+      "val": 4,
+      "degree": 1,
+      "viewCount": 493
     },
     {
       "id": "/posts/ai-gen-developer-to-architect/",
       "name": "AI 시대, 개발자의 생존을 넘어 진화로: 개발자에서 아키텍트로",
       "group": "AI",
-      "val": 4
+      "val": 4,
+      "degree": 6,
+      "viewCount": 1031
     },
     {
       "id": "/posts/ddd-coding-standard/",
       "name": "DDD, Hexagonal Architecture를 활용한 Backend 구조 표준",
       "group": "ddd",
-      "val": 4
+      "val": 4,
+      "degree": 2,
+      "viewCount": 637
     },
     {
       "id": "/posts/compare-gemini-chatcpt-clade-perplexity/",
       "name": "Gemini, ChatGPT, Claude, Perplexity 비교",
       "group": "Gemini",
-      "val": 4
+      "val": 4,
+      "degree": 16,
+      "viewCount": 2073
     },
     {
       "id": "/posts/kafka-vs-rabbitmq/",
       "name": "카프카 (Kafka)와 래빗MQ (RabbitMQ)을 비교해서 알아보기",
       "group": "kafka",
-      "val": 4
+      "val": 4,
+      "degree": 0,
+      "viewCount": 496
     },
     {
       "id": "/posts/ai-report-1-risk/",
       "name": "[AI 리포트] 너무 똑똑해진 AI, 우리와 잘 지낼 수 있을까요?",
       "group": "ai",
-      "val": 4
+      "val": 4,
+      "degree": 13,
+      "viewCount": 1782
     },
     {
       "id": "/posts/gpu-vs-tpu/",
       "name": "엔비디아의 GPU와 구글의 TPU의 기술적 차이점 비교",
       "group": "gpu",
-      "val": 4
+      "val": 4,
+      "degree": 13,
+      "viewCount": 1763
     },
     {
       "id": "/posts/critical-thinking-in-ai-gen/",
       "name": "AI 시대의 소프트웨어 엔지니어를 위한 크리티컬 싱킹",
       "group": "ai",
-      "val": 4
+      "val": 4,
+      "degree": 13,
+      "viewCount": 1691
     },
     {
       "id": "/posts/its-always-process-stuid/",
       "name": "IT 시스템 구축 프로젝트에서 시스템을 만드는 것보다 프로세스가 먼저다",
       "group": "ai",
-      "val": 4
+      "val": 4,
+      "degree": 13,
+      "viewCount": 1447
     },
     {
       "id": "/posts/the-aigile-methodology/",
       "name": "The Aigile Methodology",
       "group": "ai",
-      "val": 4
+      "val": 4,
+      "degree": 13,
+      "viewCount": 1690
     },
     {
       "id": "/posts/weather-in-my-town/",
       "name": "Gemini 3 으로 나만의 '3D 미니어처 날씨 카드' 만들기",
       "group": "AI",
-      "val": 4
+      "val": 4,
+      "degree": 6,
+      "viewCount": 1060
     },
     {
       "id": "/posts/github-page-reaction-comments/",
       "name": "Github Page에 댓글 기능 추가하기",
       "group": "Github",
-      "val": 4
+      "val": 4,
+      "degree": 0,
+      "viewCount": 359
     },
     {
       "id": "/posts/youtube-shorts-automation/",
       "name": "유튜브 쇼츠 자동 생성 & 업로드 가이드 (전액 무료)",
       "group": "youtube",
-      "val": 4
+      "val": 4,
+      "degree": 4,
+      "viewCount": 620
     },
     {
       "id": "/posts/openai-cpt-52/",
       "name": "OpenAI GPT-5.2: 엔터프라이즈급 성능 최적화 버전",
       "group": "openai",
-      "val": 4
+      "val": 4,
+      "degree": 14,
+      "viewCount": 1736
     },
     {
       "id": "/posts/gemini3-google-services/",
       "name": "Gemini 3로 생산성 2배: Google 서비스 연동",
       "group": "google",
-      "val": 4
+      "val": 4,
+      "degree": 16,
+      "viewCount": 1880
     },
     {
       "id": "/posts/optimize-github-pages-seo/",
       "name": "GitHub Pages 블로그 SEO 최적화하기 (검색 엔진 노출 높이기)",
       "group": "github-pages",
-      "val": 4
+      "val": 4,
+      "degree": 0,
+      "viewCount": 308
     },
     {
       "id": "/posts/building-ai-native-team/",
       "name": "AI-Native 엔지니어링 팀 구축하기: 코딩 에이전트와 함께하는 SDLC의 진화",
       "group": "ai-native",
-      "val": 4
+      "val": 4,
+      "degree": 5,
+      "viewCount": 874
     },
     {
       "id": "/posts/towards-science-of-scaling-agent-systems/",
       "name": "Multi-Agent 시스템의 과학적 스케일링 원칙: 논문 심층 분석",
       "group": "multi-agent-systems",
-      "val": 4
+      "val": 4,
+      "degree": 0,
+      "viewCount": 345
     },
     {
       "id": "/posts/clean-code-review/",
       "name": "클린 코드 - 로버트 C. 마틴",
       "group": "Book",
-      "val": 4
+      "val": 4,
+      "degree": 2,
+      "viewCount": 350
     },
     {
       "id": "/posts/ddd-microservices-book-review/",
       "name": "도메인 주도 설계로 시작하는 마이크로서비스 개발",
       "group": "Book",
-      "val": 4
+      "val": 4,
+      "degree": 11,
+      "viewCount": 1568
     },
     {
       "id": "/posts/source-code-my-beginings-review/",
       "name": "Source Code: My Beginnings",
       "group": "Book",
-      "val": 4
+      "val": 4,
+      "degree": 2,
+      "viewCount": 485
     },
     {
       "id": "/posts/design-your-perspective/",
       "name": "관점을 디자인하라 (박용우)",
       "group": "design-your-perspective",
-      "val": 4
+      "val": 4,
+      "degree": 2,
+      "viewCount": 336
     },
     {
       "id": "/posts/daily-ai-news-1/",
       "name": "구글 번역에 최첨단 제미나이(Gemini) 번역 기능 도입 등 5개 기사",
       "group": "gemini",
-      "val": 4
+      "val": 4,
+      "degree": 14,
+      "viewCount": 1654
     },
     {
       "id": "/posts/daily-ai-news/",
       "name": "OpenAI, GPT-5.2 출시: 전문가급 추론 능력 확보 등 7개 기사",
       "group": "openai",
-      "val": 4
+      "val": 4,
+      "degree": 15,
+      "viewCount": 1915
     },
     {
       "id": "/posts/daily-ai-news-am/",
       "name": "아마존의 비밀 병기 '트레이니움(Trainium)', 오픈AI와 애플까지 매료시키다 등 4개 기사",
       "group": "trainium",
-      "val": 4
+      "val": 4,
+      "degree": 14,
+      "viewCount": 1739
     },
     {
       "id": "/posts/daily-ai-news-pm-1/",
       "name": "GPT-5.2, 수학 및 과학 분야에서 새로운 SOTA 달성 등 5개 기사",
       "group": "gpt",
-      "val": 4
+      "val": 4,
+      "degree": 15,
+      "viewCount": 1663
     },
     {
       "id": "/posts/daily-ai-news-pm/",
       "name": "\"코딩의 죽음은 과장되었다\" : Anthropic의 'Cowork' 출시와 개발의 미래 등 5개 기사",
       "group": "anthropic",
-      "val": 4
+      "val": 4,
+      "degree": 13,
+      "viewCount": 1770
     },
     {
       "id": "/posts/microservice_dev_using_ddd/",
       "name": "도메인 주도 설계로 시작하는 마이크로서비스 개발 출간",
       "group": "Cloud",
-      "val": 4
+      "val": 4,
+      "degree": 11,
+      "viewCount": 1379
     },
     {
       "id": "/posts/cloud-native-webapp/",
       "name": "클라우드 네이티브 웹 애플리케이션",
       "group": "Cloud",
-      "val": 4
+      "val": 4,
+      "degree": 2,
+      "viewCount": 473
     },
     {
       "id": "/posts/todo-app/",
       "name": "Todo App",
       "group": "fullstack",
-      "val": 4
+      "val": 4,
+      "degree": 14,
+      "viewCount": 1695
     },
     {
       "id": "/posts/ai-code-review/",
       "name": "AI 기반 코드 리뷰 시스템",
       "group": "AI",
-      "val": 4
+      "val": 4,
+      "degree": 6,
+      "viewCount": 878
     }
   ],
   "links": [

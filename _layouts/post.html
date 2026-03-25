@@ -1,8 +1,11 @@
 ---
+# 본문 레이아웃. 추천: 본문 직후 `recommendation-inline.html`, 사이드는 `default` 패널의 `recommendation-sidebar.html`.
 layout: default
 ---
 
 {{ content }}
+
+{% include recommendation-inline.html %}
 
 {% if site.comments.provider == 'giscus' %}
   <div class="post-comments">

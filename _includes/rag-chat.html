@@ -1,7 +1,9 @@
 {% comment %}
   RAG 챗봇 위젯 (Vite 빌드: npm run build:rag → embed.js, rag-chat.css)
+  react-islands-root: RecommendationProvider 등 공통 루트 — createPortal로 rag-chat·추천 패널 마운트
 {% endcomment %}
 <link rel="stylesheet" href="{{ '/assets/js/rag/rag-chat.css' | relative_url }}" />
+<div id="react-islands-root" hidden></div>
 <div
   id="rag-chat-root"
   data-baseurl="{{ site.baseurl | default: '' }}"

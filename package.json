@@ -7,6 +7,8 @@
   "scripts": {
     "generate-embeddings": "node scripts/generate-vector-store.js",
     "generate-graph": "node scripts/generate-graph-data.js",
+    "update-stats": "node scripts/update-graph-stats.js",
+    "dev": "vite",
     "build:rag": "vite build",
     "build:kg": "vite build --config vite.kg.config.ts"
   },
@@ -17,6 +19,7 @@
     "marked": "^15.0.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "swr": "^2.3.3",
     "d3-force": "^3.0.0",
     "force-graph": "^1.51.2"
   },

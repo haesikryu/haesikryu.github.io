@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>RAG · 추천 위젯 로컬 미리보기</title>
+  </head>
+  <body class="min-h-screen bg-zinc-100 p-4 text-zinc-900 antialiased">
+    <div id="react-islands-root" hidden></div>
+    <div id="rag-chat-root" data-baseurl="" data-proxy-url=""></div>
+
+    <div class="mx-auto max-w-5xl">
+      <p class="mb-4 text-sm text-zinc-600">
+        로컬 전용 미리보기입니다. 프로덕션은 Jekyll이 동일한 <code class="rounded bg-zinc-200 px-1">id</code>를 넣습니다.
+        <code class="ml-1 rounded bg-zinc-200 px-1">npm run build:rag</code> 후 사이트에 배포하세요.
+      </p>
+
+      <div class="flex flex-col gap-8 lg:flex-row">
+        <div class="min-w-0 flex-1 rounded-xl border border-zinc-200 bg-white p-4 shadow-sm">
+          <h1 class="mb-2 text-base font-semibold">본문 하단 (inline)</h1>
+          <p class="mb-3 text-xs text-zinc-500">
+            <code>data-current-url</code>을 바꾸면 시드·추천이 달라집니다. 링크로 다른 포스트를 열면 읽기 이력이 쌓입니다.
+          </p>
+          <div
+            id="recommendation-inline-root"
+            data-baseurl=""
+            data-current-url="/posts/welcome/"
+          ></div>
+        </div>
+
+        <aside class="w-full min-w-0 shrink-0 lg:w-80">
+          <h2 class="mb-2 text-xs font-semibold uppercase tracking-wide text-zinc-500">사이드바</h2>
+          <div
+            id="recommendation-sidebar-root"
+            class="rounded-xl border border-zinc-200 bg-white p-3 shadow-sm"
+            data-baseurl=""
+            data-current-url="/posts/welcome/"
+          ></div>
+        </aside>
+      </div>
+    </div>
+
+    <script type="module" src="/main.tsx"></script>
+  </body>
+</html>

@@ -39,6 +39,7 @@ tail_includes:
             <div class="access">
               {% include_cached update-list.html lang=lang %}
               {% include_cached trending-tags.html lang=lang %}
+              {% include recommendation-sidebar.html %}
             </div>
 
             {% for _include in layout.panel_includes %}

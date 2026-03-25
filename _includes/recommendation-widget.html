@@ -1,0 +1,8 @@
+{% comment %}
+  (선택) 사이드 패널용 마운트 지점. 기본은 본문 하단 `recommendation-inline.html`만 사용합니다.
+{% endcomment %}
+<div
+  id="recommendation-widget-root"
+  data-baseurl="{{ site.baseurl | default: '' }}"
+  data-current-url="{{ page.url }}"
+></div>

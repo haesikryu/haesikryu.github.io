@@ -2,6 +2,21 @@
 @tailwind components;
 @tailwind utilities;
 
+/* 사이드바 추천: 3초 주기 갱신 시 짧은 하이라이트 */
+@keyframes sidebar-rec-refresh {
+  from {
+    opacity: 0.88;
+    transform: translateY(4px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.sidebar-rec-refresh {
+  animation: sidebar-rec-refresh 0.45s ease-out;
+}
+
 /* Chirpy 본문과 겹칠 때 최소 보장 */
 .rag-fab,
 .rag-panel {

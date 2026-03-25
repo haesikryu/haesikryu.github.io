@@ -1,0 +1,9 @@
+{% comment %}
+  포스트 본문 하단 — embed.js가 RecommendationProvider 하위에서 포털 마운트 (Step 5)
+{% endcomment %}
+<div
+  id="recommendation-inline-root"
+  class="recommendation-inline-root my-5"
+  data-baseurl="{{ site.baseurl | default: '' }}"
+  data-current-url="{{ page.url }}"
+></div>

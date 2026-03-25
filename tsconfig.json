@@ -17,6 +17,15 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["types/**/*.ts", "utils/**/*.ts", "components/**/*.tsx", "scripts/**/*.ts"],
+  "include": [
+    "types/**/*.ts",
+    "utils/**/*.ts",
+    "components/**/*.tsx",
+    "scripts/**/*.ts",
+    "hooks/**/*.ts",
+    "constants/**/*.ts",
+    "contexts/**/*.tsx",
+    "rag-chat/**/*.tsx"
+  ],
   "exclude": ["node_modules", "_site", "vendor"]
 }
