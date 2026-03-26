@@ -1,105 +1,5 @@
 [
   {
-    "title": "Meta is having trouble with rogue AI agents",
-    "link": "https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/",
-    "date": "2026-03-19"
-  },
-  {
-    "title": "Sam Altman’s thank-you to coders draws the memes",
-    "link": "https://techcrunch.com/2026/03/18/sam-altmans-thank-you-to-coders-draws-the-memes/",
-    "date": "2026-03-19"
-  },
-  {
-    "title": "Nothing CEO Carl Pei says smartphone apps will disappear as AI agents take their place",
-    "link": "https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/",
-    "date": "2026-03-19"
-  },
-  {
-    "title": "Nvidia is quietly building a multibillion-dollar behemoth to rival its chips business",
-    "link": "https://techcrunch.com/2026/03/18/nvidia-networking-division-building-a-multibillion-dollar-behemoth-to-rival-its-chips-business/",
-    "date": "2026-03-19"
-  },
-  {
-    "title": "Patreon CEO calls AI companies’ fair use argument ‘bogus,’ says creators should be paid",
-    "link": "https://techcrunch.com/2026/03/18/patreon-ceo-calls-ai-companies-fair-use-argument-bogus-says-creators-should-be-paid/",
-    "date": "2026-03-19"
-  },
-  {
-    "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
-    "link": "https://openai.com/index/japan-teen-safety-blueprint",
-    "date": "2026-03-19"
-  },
-  {
-    "title": "Gemini in Google Sheets just achieved state-of-the-art performance.",
-    "link": "https://blog.google/products-and-platforms/products/workspace/gemini-google-sheets-state-of-the-art/",
-    "date": "2026-03-19"
-  },
-  {
-    "title": "The Download: The Pentagon’s new AI plans, and next-gen nuclear reactors",
-    "link": "https://www.technologyreview.com/2026/03/18/1134371/the-download-the-pentagons-new-ai-plans-and-next-gen-nuclear-reactors/",
-    "date": "2026-03-19"
-  },
-  {
-    "title": "What do new nuclear reactors mean for waste?",
-    "link": "https://www.technologyreview.com/2026/03/18/1134345/advanced-nuclear-reactors-waste/",
-    "date": "2026-03-19"
-  },
-  {
-    "title": "Introducing Storage Buckets on the Hugging Face Hub",
-    "link": "https://huggingface.co/blog/storage-buckets",
-    "date": "2026-03-19"
-  },
-  {
-    "title": "Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries",
-    "link": "https://huggingface.co/blog/async-rl-training-landscape",
-    "date": "2026-03-19"
-  },
-  {
-    "title": "Kagi Translate's AI answers the question \"What would horny Margaret Thatcher say?\"",
-    "link": "https://arstechnica.com/ai/2026/03/kagi-translates-ai-answers-the-question-what-would-horny-margaret-thatcher-say/",
-    "date": "2026-03-19"
-  },
-  {
-    "title": "Musk’s tactic of blaming users for Grok sex images may be foiled by EU law",
-    "link": "https://arstechnica.com/tech-policy/2026/03/eu-moves-to-ban-nudify-apps-after-grok-made-them-mainstream/",
-    "date": "2026-03-19"
-  },
-  {
-    "title": "Coal plant forced to stay open due to emergency order isn't even running",
-    "link": "https://arstechnica.com/science/2026/03/coal-plant-forced-to-stay-open-due-to-emergency-order-isnt-even-running/",
-    "date": "2026-03-19"
-  },
-  {
-    "title": "Never mind Band-Aids, Neanderthals had antiseptic birch tar",
-    "link": "https://arstechnica.com/science/2026/03/never-mind-band-aids-neanderthals-had-antiseptic-birch-tar/",
-    "date": "2026-03-19"
-  },
-  {
-    "title": "Cloudflare appeals Piracy Shield fine, hopes to kill Italy's site-blocking law",
-    "link": "https://arstechnica.com/tech-policy/2026/03/cloudflare-appeals-piracy-shield-fine-hopes-to-kill-italys-site-blocking-law/",
-    "date": "2026-03-19"
-  },
-  {
-    "title": "Mastercard keeps tabs on fraud with new foundation model",
-    "link": "https://www.artificialintelligence-news.com/news/mastercards-ltm-keeps-tabs-on-fraud-with-a-new-foundation-model/",
-    "date": "2026-03-19"
-  },
-  {
-    "title": "For effective AI, insurance needs to get its data house in order",
-    "link": "https://www.artificialintelligence-news.com/news/for-effective-ai-insurance-needs-a-better-data-layer-and-integration/",
-    "date": "2026-03-19"
-  },
-  {
-    "title": "Rakuten fixes issues twice as fast with Codex",
-    "link": "https://openai.com/index/rakuten",
-    "date": "2026-03-19"
-  },
-  {
-    "title": "How AI is helping improve heart health in rural Australia",
-    "link": "https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/",
-    "date": "2026-03-19"
-  },
-  {
     "title": "Cursor, 자체 개발 AI 모델 Composer 2 출시 - 프런티어급 성능에 저렴한 가격",
     "link": "https://news.hada.io/topic?id=27682",
     "date": "2026-03-20"
@@ -828,5 +728,135 @@
     "title": "\"The last straw\"—RFK Jr.'s anti-vaccine ally angrily quits CDC panel after spat",
     "link": "https://arstechnica.com/health/2026/03/rfk-jr-anti-vaccine-ally-dramatically-quits-cdc-panel-complaining-of-drama/",
     "date": "2026-03-25"
+  },
+  {
+    "title": "TurboQuant: 극단적 압축으로 AI 효율성을 재정의",
+    "link": "https://news.hada.io/topic?id=27868",
+    "date": "2026-03-26"
+  },
+  {
+    "title": "구글 TurboQuant: 극한 압축으로 AI 효율성을 재정의하다",
+    "link": "https://news.hada.io/topic?id=27867",
+    "date": "2026-03-26"
+  },
+  {
+    "title": "슬로베니아 당국, 이스라엘 기업 Black Cube의 선거 조작 시도 혐의 제기",
+    "link": "https://news.hada.io/topic?id=27866",
+    "date": "2026-03-26"
+  },
+  {
+    "title": "Expect - 에이전트가 실제 브라우저에서 코드를 테스트하는 도구",
+    "link": "https://news.hada.io/topic?id=27865",
+    "date": "2026-03-26"
+  },
+  {
+    "title": "Flighty Airports - 전 세계 공항의 실시간 운항 지연 현황 지도",
+    "link": "https://news.hada.io/topic?id=27864",
+    "date": "2026-03-26"
+  },
+  {
+    "title": "Mercor competitor Deccan AI raises $25M, sources experts from India",
+    "link": "https://techcrunch.com/2026/03/25/deccan-ai-raises-25m-as-ai-training-push-relies-on-india-based-workforce/",
+    "date": "2026-03-26"
+  },
+  {
+    "title": "The AI skills gap is here, says AI company, and power users are pulling ahead",
+    "link": "https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/",
+    "date": "2026-03-26"
+  },
+  {
+    "title": "Google unveils TurboQuant, a new AI memory compression algorithm — and yes, the internet is calling it ‘Pied Piper’",
+    "link": "https://techcrunch.com/2026/03/25/google-turboquant-ai-memory-compression-silicon-valley-pied-piper/",
+    "date": "2026-03-26"
+  },
+  {
+    "title": "Melania Trump wants a robot to homeschool your child",
+    "link": "https://techcrunch.com/2026/03/25/melania-trump-wants-a-robot-to-homeschool-your-child/",
+    "date": "2026-03-26"
+  },
+  {
+    "title": "Bernie Sanders and AOC propose a ban on data center construction",
+    "link": "https://techcrunch.com/2026/03/25/bernie-sanders-and-aoc-propose-a-ban-on-data-center-construction/",
+    "date": "2026-03-26"
+  },
+  {
+    "title": "Inside our approach to the Model Spec",
+    "link": "https://openai.com/index/our-approach-to-the-model-spec",
+    "date": "2026-03-26"
+  },
+  {
+    "title": "Introducing the OpenAI Safety Bug Bounty program",
+    "link": "https://openai.com/index/safety-bug-bounty",
+    "date": "2026-03-26"
+  },
+  {
+    "title": "Build with Lyria 3, our newest music generation model",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/lyria-3-developers/",
+    "date": "2026-03-26"
+  },
+  {
+    "title": "Lyria 3 Pro: Create longer tracks in more Google products",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/lyria-3-pro/",
+    "date": "2026-03-26"
+  },
+  {
+    "title": "Roundtables: The Next Era of Space Exploration",
+    "link": "https://www.technologyreview.com/2026/03/25/1134664/roundtables-the-next-era-of-space-exploration/",
+    "date": "2026-03-26"
+  },
+  {
+    "title": "Why this battery company is pivoting to AI",
+    "link": "https://www.technologyreview.com/2026/03/25/1134657/battery-company-ai-pivot-ses/",
+    "date": "2026-03-26"
+  },
+  {
+    "title": "This startup wants to change how mathematicians do math",
+    "link": "https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/",
+    "date": "2026-03-26"
+  },
+  {
+    "title": "The Download: reawakening frozen brains, and the AI Hype Index returns",
+    "link": "https://www.technologyreview.com/2026/03/25/1134636/the-download-reawakening-frozen-brains-and-the-ai-hype-index-returns/",
+    "date": "2026-03-26"
+  },
+  {
+    "title": "Agentic commerce runs on truth and context",
+    "link": "https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/",
+    "date": "2026-03-26"
+  },
+  {
+    "title": "BRINC's new police drone uses Starlink, carries Narcan, chases vehicles at 60mph",
+    "link": "https://arstechnica.com/gadgets/2026/03/brincs-new-police-drone-uses-starlink-carries-narcan-chases-vehicles-at-60mph/",
+    "date": "2026-03-26"
+  },
+  {
+    "title": "Here is NASA's plan for nuking Gateway and sending it to Mars",
+    "link": "https://arstechnica.com/space/2026/03/here-is-nasas-plan-for-nuking-gateway-and-sending-it-to-mars/",
+    "date": "2026-03-26"
+  },
+  {
+    "title": "Reddit will require \"fishy\" accounts to verify they are run by a human",
+    "link": "https://arstechnica.com/gadgets/2026/03/reddit-will-require-fishy-accounts-to-verify-they-are-run-by-a-human/",
+    "date": "2026-03-26"
+  },
+  {
+    "title": "We got an audience with the \"Lunar Viceroy\" to talk how NASA will build a Moon base",
+    "link": "https://arstechnica.com/space/2026/03/we-got-an-audience-with-the-lunar-viceroy-to-talk-how-nasa-will-build-a-moon-base/",
+    "date": "2026-03-26"
+  },
+  {
+    "title": "Meta, YouTube must pay $3M to woman who got hooked on apps as a child",
+    "link": "https://arstechnica.com/tech-policy/2026/03/meta-youtube-must-pay-3m-to-woman-who-got-hooked-on-apps-as-a-child/",
+    "date": "2026-03-26"
+  },
+  {
+    "title": "Ocorian: Family offices turn to AI for financial data insights",
+    "link": "https://www.artificialintelligence-news.com/news/ocorian-family-offices-ai-for-financial-data-insights/",
+    "date": "2026-03-26"
+  },
+  {
+    "title": "AI agents enter banking roles at Bank of America",
+    "link": "https://www.artificialintelligence-news.com/news/ai-agents-enter-banking-roles-at-bank-of-america/",
+    "date": "2026-03-26"
   }
 ]
