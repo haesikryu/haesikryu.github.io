@@ -1,155 +1,5 @@
 [
   {
-    "title": "Cursor, 자체 개발 AI 모델 Composer 2 출시 - 프런티어급 성능에 저렴한 가격",
-    "link": "https://news.hada.io/topic?id=27682",
-    "date": "2026-03-20"
-  },
-  {
-    "title": "4Chan, 영국 온라인 안전법 위반으로 52만 파운드 벌금 부과받자 AI 햄스터 이미지로 조롱",
-    "link": "https://news.hada.io/topic?id=27681",
-    "date": "2026-03-20"
-  },
-  {
-    "title": "GitHub - KittenML/KittenTTS: 25MB 이하의 최신 음성 합성(TTS) 모델",
-    "link": "https://news.hada.io/topic?id=27680",
-    "date": "2026-03-20"
-  },
-  {
-    "title": "젠슨 황: Nvidia의 미래와 물리적 AI, 에이전트의 부상 [유튜브]",
-    "link": "https://news.hada.io/topic?id=27679",
-    "date": "2026-03-20"
-  },
-  {
-    "title": "Adobe, 구독 해지 방해 혐의로 미국 법무부에 1억 5천만 달러(약 2,249억 원) 합의",
-    "link": "https://news.hada.io/topic?id=27678",
-    "date": "2026-03-20"
-  },
-  {
-    "title": "List 가 GeekLists 기능으로 확대 개편 되었습니다.",
-    "link": "https://news.hada.io/blog/GeekLists",
-    "date": "2026-03-20"
-  },
-  {
-    "title": "‘함께 보면 좋은 글’ 기능을 추가했습니다",
-    "link": "https://news.hada.io/blog/related-reads",
-    "date": "2026-03-20"
-  },
-  {
-    "title": "GeekNews를 편하게 구독하는 법",
-    "link": "https://news.hada.io/blog/subscribe_geeknews",
-    "date": "2026-03-20"
-  },
-  {
-    "title": "GeekNight 2024(긱뉴스 밋업)",
-    "link": "https://news.hada.io/blog/geeknight",
-    "date": "2026-03-20"
-  },
-  {
-    "title": "GN⁺ : AI가 요약한 최신 뉴스보기",
-    "link": "https://news.hada.io/blog/GN⁺",
-    "date": "2026-03-20"
-  },
-  {
-    "title": "The best AI investment might be in energy tech",
-    "link": "https://techcrunch.com/2026/03/20/the-best-ai-investment-might-be-in-energy-tech/",
-    "date": "2026-03-20"
-  },
-  {
-    "title": "These AI notetaking devices can help you record and transcribe your meetings",
-    "link": "https://techcrunch.com/2026/03/20/ai-notetaker-hardware-devices-pins-pendants-record-transcribe/",
-    "date": "2026-03-20"
-  },
-  {
-    "title": "Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI",
-    "link": "https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/",
-    "date": "2026-03-20"
-  },
-  {
-    "title": "Online bot traffic will exceed human traffic by 2027, Cloudflare CEO says",
-    "link": "https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/",
-    "date": "2026-03-20"
-  },
-  {
-    "title": "Meta rolls out new AI content enforcement systems while reducing reliance on third-party vendors",
-    "link": "https://techcrunch.com/2026/03/19/meta-rolls-out-new-ai-content-enforcement-systems-while-reducing-reliance-on-third-party-vendors/",
-    "date": "2026-03-20"
-  },
-  {
-    "title": "How we monitor internal coding agents for misalignment",
-    "link": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-    "date": "2026-03-20"
-  },
-  {
-    "title": "OpenAI to acquire Astral",
-    "link": "https://openai.com/index/openai-to-acquire-astral",
-    "date": "2026-03-20"
-  },
-  {
-    "title": "The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot",
-    "link": "https://www.technologyreview.com/2026/03/20/1134448/the-download-openai-building-fully-automated-researcher-psychedelic-drug-trial/",
-    "date": "2026-03-20"
-  },
-  {
-    "title": "OpenAI is throwing everything into building a fully automated researcher",
-    "link": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/",
-    "date": "2026-03-20"
-  },
-  {
-    "title": "Mind-altering substances are (still) falling short in clinical trials",
-    "link": "https://www.technologyreview.com/2026/03/20/1134419/psychedelics-overhyped-psilocybin-depression-placebo/",
-    "date": "2026-03-20"
-  },
-  {
-    "title": "The Download: Quantum computing for health, and why the world doesn’t recycle more nuclear waste",
-    "link": "https://www.technologyreview.com/2026/03/19/1134413/the-download-quantum-computing-health-recycling-nuclear-waste/",
-    "date": "2026-03-20"
-  },
-  {
-    "title": "Can quantum computers now solve health care problems? We’ll soon find out.",
-    "link": "https://www.technologyreview.com/2026/03/19/1134409/a-5-million-prize-awaits-proof-that-quantum-computers-can-solve-health-care-problems/",
-    "date": "2026-03-20"
-  },
-  {
-    "title": "**Introducing SPEED-Bench: A Unified and Diverse Benchmark for Speculative Decoding**",
-    "link": "https://huggingface.co/blog/nvidia/speed-bench",
-    "date": "2026-03-20"
-  },
-  {
-    "title": "Rocket Report: Canada makes a major move, US Space Force says actually, let's be hasty",
-    "link": "https://arstechnica.com/space/2026/03/rocket-report-canada-makes-a-major-move-us-space-force-says-actually-lets-be-hasty/",
-    "date": "2026-03-20"
-  },
-  {
-    "title": "Project Hail Mary is in theaters—but do the linguistics work?",
-    "link": "https://arstechnica.com/culture/2026/03/project-hail-mary-is-in-theaters-but-do-the-linguistics-work/",
-    "date": "2026-03-20"
-  },
-  {
-    "title": "RFK Jr. has destroyed over a quarter of health dept's expert panels",
-    "link": "https://arstechnica.com/health/2026/03/rfk-jr-s-war-on-scientific-expertise-destroyed-27-of-agencys-advisor-panels/",
-    "date": "2026-03-20"
-  },
-  {
-    "title": "Cloud service providers ask EU regulator to reinstate VMware partner program",
-    "link": "https://arstechnica.com/information-technology/2026/03/cloud-service-providers-ask-eu-regulator-to-reinstate-vmware-partner-program/",
-    "date": "2026-03-20"
-  },
-  {
-    "title": "Millions of iPhones can be hacked with a new tool found in the wild",
-    "link": "https://arstechnica.com/security/2026/03/hundreds-of-millions-of-iphones-can-be-hacked-with-a-new-tool-found-in-the-wild/",
-    "date": "2026-03-20"
-  },
-  {
-    "title": "Visa prepares payment systems for AI agent-initiated transactions",
-    "link": "https://www.artificialintelligence-news.com/news/visa-prepares-payment-systems-for-ai-agent-initiated-transactions/",
-    "date": "2026-03-20"
-  },
-  {
-    "title": "NVIDIA wants enterprise AI agents safer to deploy",
-    "link": "https://www.artificialintelligence-news.com/news/nvidia-agent-toolkit-enterprise-ai-agents/",
-    "date": "2026-03-20"
-  },
-  {
     "title": "Windows 품질에 대한 우리의 약속",
     "link": "https://news.hada.io/topic?id=27692",
     "date": "2026-03-21"
@@ -893,5 +743,115 @@
     "title": "How AI is helping improve heart health in rural Australia",
     "link": "https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/",
     "date": "2026-03-26"
+  },
+  {
+    "title": "온보딩은 거래(Transaction)다",
+    "link": "https://news.hada.io/topic?id=27897",
+    "date": "2026-03-27"
+  },
+  {
+    "title": "반물질이 처음으로 운송됨",
+    "link": "https://news.hada.io/topic?id=27896",
+    "date": "2026-03-27"
+  },
+  {
+    "title": "Meta, 아동 안전 문제로 사용자 오도 혐의에 3억7500만 달러 배상 명령",
+    "link": "https://news.hada.io/topic?id=27895",
+    "date": "2026-03-27"
+  },
+  {
+    "title": "왜 많은 제어실이 Seafoam Green으로 칠해졌는가 (2025)",
+    "link": "https://news.hada.io/topic?id=27894",
+    "date": "2026-03-27"
+  },
+  {
+    "title": "배심원단, 자사 플랫폼에서의 아동 성착취 사건에 대해 Meta의 책임 인정",
+    "link": "https://news.hada.io/topic?id=27893",
+    "date": "2026-03-27"
+  },
+  {
+    "title": "You can now transfer your chats and personal information from other chatbots directly into Gemini",
+    "link": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/",
+    "date": "2026-03-27"
+  },
+  {
+    "title": "Wikipedia cracks down on the use of AI in article writing",
+    "link": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/",
+    "date": "2026-03-27"
+  },
+  {
+    "title": "OpenAI abandons yet another side quest: ChatGPT’s erotic mode",
+    "link": "https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/",
+    "date": "2026-03-27"
+  },
+  {
+    "title": "Data centers get ready — the Senate wants to see your power bills",
+    "link": "https://techcrunch.com/2026/03/26/data-centers-get-ready-the-senate-wants-to-see-your-power-bills/",
+    "date": "2026-03-27"
+  },
+  {
+    "title": "ByteDance’s new AI video generation model, Dreamina Seedance 2.0, comes to CapCut",
+    "link": "https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/",
+    "date": "2026-03-27"
+  },
+  {
+    "title": "Watch James Manyika talk AI and creativity with LL COOL J.",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/ll-cool-j-dialogues/",
+    "date": "2026-03-27"
+  },
+  {
+    "title": "Transform your headphones into a live personal translator on iOS.",
+    "link": "https://blog.google/products-and-platforms/products/translate/live-translate-with-headphones/",
+    "date": "2026-03-27"
+  },
+  {
+    "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/",
+    "date": "2026-03-27"
+  },
+  {
+    "title": "Search Live is expanding globally",
+    "link": "https://blog.google/products-and-platforms/products/search/search-live-global-expansion/",
+    "date": "2026-03-27"
+  },
+  {
+    "title": "The Download: a battery pivot to AI, and rewriting math",
+    "link": "https://www.technologyreview.com/2026/03/26/1134697/the-download-battery-ai-pivot-new-ai-tool-math/",
+    "date": "2026-03-27"
+  },
+  {
+    "title": "The snow gods: How a couple of ski bums built the internet’s best weather app",
+    "link": "https://www.technologyreview.com/2026/03/26/1134470/the-snow-gods-how-a-couple-of-ski-bums-built-the-internets-best-weather-app/",
+    "date": "2026-03-27"
+  },
+  {
+    "title": "Are high gas prices good news for EVs? It’s complicated.",
+    "link": "https://www.technologyreview.com/2026/03/26/1134677/gas-prices-electric-vehicles/",
+    "date": "2026-03-27"
+  },
+  {
+    "title": "Elon Musk loses big in court; X boycott perfectly legal",
+    "link": "https://arstechnica.com/tech-policy/2026/03/elon-musk-loses-big-in-court-x-boycott-perfectly-legal/",
+    "date": "2026-03-27"
+  },
+  {
+    "title": "Spotify seeks $300M from Anna's Archive, which ignores all court proceedings",
+    "link": "https://arstechnica.com/tech-policy/2026/03/spotify-lawsuit-tries-to-kick-annas-archive-off-the-web-without-much-success/",
+    "date": "2026-03-27"
+  },
+  {
+    "title": "Internet Yiff Machine: We hacked 93GB of \"anonymous\" crime tips",
+    "link": "https://arstechnica.com/security/2026/03/internet-yiff-machine-we-hacked-93gb-of-anonymous-crime-tips/",
+    "date": "2026-03-27"
+  },
+  {
+    "title": "As RFK Jr.’s anti-vaccine ways turn toxic to GOP, CDC director is hard to find",
+    "link": "https://arstechnica.com/health/2026/03/as-rfk-jr-s-anti-vaccine-ways-turn-toxic-to-gop-cdc-director-is-hard-to-find/",
+    "date": "2026-03-27"
+  },
+  {
+    "title": "Netflix raises prices for every subscription tier by up to 12.5 percent",
+    "link": "https://arstechnica.com/gadgets/2026/03/netflix-increases-prices-for-all-plans-by-up-to-2-per-month/",
+    "date": "2026-03-27"
   }
 ]
