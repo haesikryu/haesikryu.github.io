@@ -1,125 +1,5 @@
 [
   {
-    "title": "Windows 품질에 대한 우리의 약속",
-    "link": "https://news.hada.io/topic?id=27692",
-    "date": "2026-03-21"
-  },
-  {
-    "title": "Tabularis - 개발자용 크로스플랫폼 DB 관리 애플리케이션",
-    "link": "https://news.hada.io/topic?id=27691",
-    "date": "2026-03-21"
-  },
-  {
-    "title": "Claude Code, 클라우드 기반 예약 작업 기능 추가",
-    "link": "https://news.hada.io/topic?id=27690",
-    "date": "2026-03-21"
-  },
-  {
-    "title": "Apple, 인기 '바이브 코딩' 앱 업데이트를 조용히 차단",
-    "link": "https://news.hada.io/topic?id=27689",
-    "date": "2026-03-21"
-  },
-  {
-    "title": "Rust WASM 파서를 TypeScript로 다시 작성했더니 3배 빨라졌다",
-    "link": "https://news.hada.io/topic?id=27688",
-    "date": "2026-03-21"
-  },
-  {
-    "title": "Microsoft rolls back some of its Copilot AI bloat on Windows",
-    "link": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
-    "date": "2026-03-21"
-  },
-  {
-    "title": "What happened at Nvidia GTC: NemoClaw, Robot Olaf, and a $1 trillion bet",
-    "link": "https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/",
-    "date": "2026-03-21"
-  },
-  {
-    "title": "Nvidia has an OpenClaw strategy. Do you?",
-    "link": "https://techcrunch.com/podcast/nvidia-has-an-openclaw-strategy-do-you/",
-    "date": "2026-03-21"
-  },
-  {
-    "title": "WordPress.com now lets AI agents write and publish posts, and more",
-    "link": "https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/",
-    "date": "2026-03-21"
-  },
-  {
-    "title": "Trump’s AI framework targets state laws, shifts child safety burden to parents",
-    "link": "https://techcrunch.com/2026/03/20/trumps-ai-framework-targets-state-laws-shifts-child-safety-burden-to-parents/",
-    "date": "2026-03-21"
-  },
-  {
-    "title": "Build a Domain-Specific Embedding Model in Under a Day",
-    "link": "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune",
-    "date": "2026-03-21"
-  },
-  {
-    "title": "What's New in Mellea 0.4.0 + Granite Libraries Release",
-    "link": "https://huggingface.co/blog/ibm-granite/granite-libraries",
-    "date": "2026-03-21"
-  },
-  {
-    "title": "Jury finds Musk owes damages to Twitter investors for his tweets",
-    "link": "https://arstechnica.com/tech-policy/2026/03/jury-agrees-that-musks-tweets-during-twitter-takeover-constituted-fraud/",
-    "date": "2026-03-21"
-  },
-  {
-    "title": "You're likely already infected with a brain-eating virus you've never heard of",
-    "link": "https://arstechnica.com/health/2026/03/youre-likely-already-infected-with-a-brain-eating-virus-youve-never-heard-of/",
-    "date": "2026-03-21"
-  },
-  {
-    "title": "Once again, ULA can't deliver when the US military needs a satellite in orbit",
-    "link": "https://arstechnica.com/space/2026/03/spacex-swipes-yet-another-military-contract-from-united-launch-alliance/",
-    "date": "2026-03-21"
-  },
-  {
-    "title": "Microsoft keeps insisting that it's deeply committed to the quality of Windows 11",
-    "link": "https://arstechnica.com/gadgets/2026/03/microsoft-keeps-insisting-that-its-deeply-committed-to-the-quality-of-windows-11/",
-    "date": "2026-03-21"
-  },
-  {
-    "title": "Writer denies it, but publisher pulls horror novel after multiple allegations of AI use",
-    "link": "https://arstechnica.com/ai/2026/03/hachette-pulls-shy-girl-horror-novel-after-concerns-about-ai-use/",
-    "date": "2026-03-21"
-  },
-  {
-    "title": "Andrej Karpathy가 말하는 코드 에이전트, AutoResearch, 그리고 AI의 루피(Loopy) 시대 [유튜브]",
-    "link": "https://news.hada.io/topic?id=27706",
-    "date": "2026-03-21"
-  },
-  {
-    "title": "MacBook M5 Pro와 Qwen3.5 기반 로컬 AI 보안 시스템",
-    "link": "https://news.hada.io/topic?id=27705",
-    "date": "2026-03-21"
-  },
-  {
-    "title": "Noq: n0의 새로운 Rust 기반 QUIC 구현체",
-    "link": "https://news.hada.io/topic?id=27703",
-    "date": "2026-03-21"
-  },
-  {
-    "title": "Cursor Composer 2는 Kimi K2.5에 RL을 적용한 모델로 확인",
-    "link": "https://news.hada.io/topic?id=27702",
-    "date": "2026-03-21"
-  },
-  {
-    "title": "Show GN: Cluefin-Dure - 증권사/DART API를 활용한 국내주식 멀티 AI 에이전트",
-    "link": "https://news.hada.io/topic?id=27701",
-    "date": "2026-03-21"
-  },
-  {
-    "title": "New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput",
-    "link": "https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/",
-    "date": "2026-03-21"
-  },
-  {
-    "title": "How our open-source AI model SpeciesNet is helping to promote wildlife conservation",
-    "link": "https://blog.google/company-news/outreach-and-initiatives/sustainability/speciesnet-open-source-ai-wildlife/",
-    "date": "2026-03-21"
-  },
-  {
     "title": "Show GN: MonoPix - AI가 만든 가짜 픽셀아트를 진짜 픽셀아트로 복원",
     "link": "https://news.hada.io/topic?id=27735",
     "date": "2026-03-22"
@@ -913,5 +793,95 @@
     "title": "RPA matters, but AI changes how automation works",
     "link": "https://www.artificialintelligence-news.com/news/rpa-still-matters-but-ai-is-changing-how-automation-works/",
     "date": "2026-03-27"
+  },
+  {
+    "title": "추정은 왜 실패하는가 (그리고 왜 여전히 필요한가)",
+    "link": "https://news.hada.io/topic?id=27932",
+    "date": "2026-03-28"
+  },
+  {
+    "title": "인스타그램과 유튜브가 아동 중독을 유발하도록 설계되었다는 로스앤젤레스 배심원단의 판결",
+    "link": "https://news.hada.io/topic?id=27931",
+    "date": "2026-03-28"
+  },
+  {
+    "title": "뉴욕시 병원들, 논란의 AI 기업 Palantir과의 계약 종료…영국에서는 확장 지속",
+    "link": "https://news.hada.io/topic?id=27930",
+    "date": "2026-03-28"
+  },
+  {
+    "title": "AI 에이전트를 $7/월 VPS에 배치하고 IRC를 전송 계층으로 사용한 디지털 도어맨 구축",
+    "link": "https://news.hada.io/topic?id=27929",
+    "date": "2026-03-28"
+  },
+  {
+    "title": "Swift 6.3 릴리즈",
+    "link": "https://news.hada.io/topic?id=27928",
+    "date": "2026-03-28"
+  },
+  {
+    "title": "Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO",
+    "link": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/",
+    "date": "2026-03-28"
+  },
+  {
+    "title": "Memory chip giant SK hynix could help end ‘RAMmageddon’ with blockbuster US IPO",
+    "link": "https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/",
+    "date": "2026-03-28"
+  },
+  {
+    "title": "VCs are betting billions on AI’s next wave, so why is OpenAI killing Sora?",
+    "link": "https://techcrunch.com/podcast/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/",
+    "date": "2026-03-28"
+  },
+  {
+    "title": "OpenAI shuts down Sora while Meta gets shut out in court",
+    "link": "https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/",
+    "date": "2026-03-28"
+  },
+  {
+    "title": "David Sacks is done as AI czar — here’s what he’s doing instead",
+    "link": "https://techcrunch.com/2026/03/26/david-sacks-is-done-as-ai-czar-heres-what-hes-doing-instead/",
+    "date": "2026-03-28"
+  },
+  {
+    "title": "STADLER reshapes knowledge work at a 230-year-old company",
+    "link": "https://openai.com/index/stadler",
+    "date": "2026-03-28"
+  },
+  {
+    "title": "The Download: the internet’s best weather app, and why people freeze their brains",
+    "link": "https://www.technologyreview.com/2026/03/27/1134755/the-download-best-weather-forecasting-app-why-people-freeze-brains/",
+    "date": "2026-03-28"
+  },
+  {
+    "title": "Here’s why some people choose cryonics to store their bodies and brains after death",
+    "link": "https://www.technologyreview.com/2026/03/27/1134705/cryonics-store-bodies-brains-after-death/",
+    "date": "2026-03-28"
+  },
+  {
+    "title": "Playing Wolfenstein 3D with one hand in 2026",
+    "link": "https://arstechnica.com/gaming/2026/03/playing-wolfenstein-3d-with-one-hand-in-2026/",
+    "date": "2026-03-28"
+  },
+  {
+    "title": "With new plugins feature, OpenAI officially takes Codex beyond coding",
+    "link": "https://arstechnica.com/ai/2026/03/openai-brings-plugins-to-codex-closing-some-of-the-gap-with-claude-code/",
+    "date": "2026-03-28"
+  },
+  {
+    "title": "Outbreak linked to raw cheese grows; 9 cases total, one with kidney failure",
+    "link": "https://arstechnica.com/health/2026/03/kidney-failure-case-reported-in-raw-cheese-outbreak-maker-still-denies-link/",
+    "date": "2026-03-28"
+  },
+  {
+    "title": "Judge irate as defendant joins by Zoom while driving—then lies about it",
+    "link": "https://arstechnica.com/tech-policy/2026/03/judge-irate-as-defendant-joins-by-zoom-while-driving-then-lies-about-it/",
+    "date": "2026-03-28"
+  },
+  {
+    "title": "AV1’s open, royalty-free promise in question as Dolby sues Snapchat over codec",
+    "link": "https://arstechnica.com/gadgets/2026/03/av1s-open-royalty-free-promise-in-question-as-dolby-sues-snapchat-over-codec/",
+    "date": "2026-03-28"
   }
 ]
