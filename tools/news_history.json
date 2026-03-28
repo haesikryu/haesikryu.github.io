@@ -883,5 +883,40 @@
     "title": "AV1’s open, royalty-free promise in question as Dolby sues Snapchat over codec",
     "link": "https://arstechnica.com/gadgets/2026/03/av1s-open-royalty-free-promise-in-question-as-dolby-sues-snapchat-over-codec/",
     "date": "2026-03-28"
+  },
+  {
+    "title": "Show GN: Ghostmeet - 셀프호스팅 AI 미팅 비서  (실시간 자막 + 요약, Chrome 확장)",
+    "link": "https://news.hada.io/topic?id=27947",
+    "date": "2026-03-28"
+  },
+  {
+    "title": "Show GN: 31개의 LLM을 교차검증 체계로 엮은 100% 자율 주식 매매 시스템",
+    "link": "https://news.hada.io/topic?id=27946",
+    "date": "2026-03-28"
+  },
+  {
+    "title": "고양이와 함께 재택근무하는 사람을 위한 책상",
+    "link": "https://news.hada.io/topic?id=27945",
+    "date": "2026-03-28"
+  },
+  {
+    "title": "Z.AI Coding Plan, GLM-5.1 모델 지원 — Claude Code·OpenClaw에서 전환 방법",
+    "link": "https://news.hada.io/topic?id=27943",
+    "date": "2026-03-28"
+  },
+  {
+    "title": "Codex 플러그인 출시 — Slack, Figma, Notion, Gmail 등 주요 도구와 즉시 연동",
+    "link": "https://news.hada.io/topic?id=27942",
+    "date": "2026-03-28"
+  },
+  {
+    "title": "Build a Domain-Specific Embedding Model in Under a Day",
+    "link": "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune",
+    "date": "2026-03-28"
+  },
+  {
+    "title": "What's New in Mellea 0.4.0 + Granite Libraries Release",
+    "link": "https://huggingface.co/blog/ibm-granite/granite-libraries",
+    "date": "2026-03-28"
   }
 ]
