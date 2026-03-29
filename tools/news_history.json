@@ -1,60 +1,5 @@
 [
   {
-    "title": "Show GN: MonoPix - AI가 만든 가짜 픽셀아트를 진짜 픽셀아트로 복원",
-    "link": "https://news.hada.io/topic?id=27735",
-    "date": "2026-03-22"
-  },
-  {
-    "title": "Show GN: Thask – 프로젝트 의존성을 노드 그래프로 시각화하고 AI 에이전트가 조회/수정 가능",
-    "link": "https://news.hada.io/topic?id=27734",
-    "date": "2026-03-22"
-  },
-  {
-    "title": "404 Deno CEO not found",
-    "link": "https://news.hada.io/topic?id=27733",
-    "date": "2026-03-22"
-  },
-  {
-    "title": "SaaS의 미래는 Agentic",
-    "link": "https://news.hada.io/topic?id=27732",
-    "date": "2026-03-22"
-  },
-  {
-    "title": "메타의 1,600개 언어용 Omnilingual MT",
-    "link": "https://news.hada.io/topic?id=27731",
-    "date": "2026-03-22"
-  },
-  {
-    "title": "Are AI tokens the new signing bonus or just a cost of doing business?",
-    "link": "https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business/",
-    "date": "2026-03-22"
-  },
-  {
-    "title": "Publisher pulls horror novel ‘Shy Girl’ over AI concerns",
-    "link": "https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/",
-    "date": "2026-03-22"
-  },
-  {
-    "title": "Delve accused of misleading customers with ‘fake compliance’",
-    "link": "https://techcrunch.com/2026/03/21/delve-accused-of-misleading-customers-with-fake-compliance/",
-    "date": "2026-03-22"
-  },
-  {
-    "title": "Why Wall Street wasn’t won over by Nvidia’s big conference",
-    "link": "https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/",
-    "date": "2026-03-22"
-  },
-  {
-    "title": "We keep finding the raw material of DNA in asteroids—what's it telling us?",
-    "link": "https://arstechnica.com/science/2026/03/we-keep-finding-the-raw-material-of-dna-in-asteroids-whats-it-telling-us/",
-    "date": "2026-03-22"
-  },
-  {
-    "title": "DOGE goes nuclear: How Trump invited Silicon Valley into America’s nuclear power regulator",
-    "link": "https://arstechnica.com/science/2026/03/doge-goes-nuclear-how-trump-invited-silicon-valley-into-americas-nuclear-power-regulator/",
-    "date": "2026-03-22"
-  },
-  {
     "title": "헤드폰 사용 거부 승객, 이제 United 항공편에서 퇴출 가능",
     "link": "https://news.hada.io/topic?id=27749",
     "date": "2026-03-23"
@@ -918,5 +863,75 @@
     "title": "What's New in Mellea 0.4.0 + Granite Libraries Release",
     "link": "https://huggingface.co/blog/ibm-granite/granite-libraries",
     "date": "2026-03-28"
+  },
+  {
+    "title": "영국, 재생에너지로 전력의 90% 이상 생산",
+    "link": "https://news.hada.io/topic?id=27965",
+    "date": "2026-03-29"
+  },
+  {
+    "title": "AI가 개인적 조언 요청에 과도하게 동의하는 경향",
+    "link": "https://news.hada.io/topic?id=27964",
+    "date": "2026-03-29"
+  },
+  {
+    "title": "크롬 v145 부터 버티컬 탭 지원 시작",
+    "link": "https://news.hada.io/topic?id=27963",
+    "date": "2026-03-29"
+  },
+  {
+    "title": "jai - AI 에이전트를 위한 손쉬운 격리 도구",
+    "link": "https://news.hada.io/topic?id=27962",
+    "date": "2026-03-29"
+  },
+  {
+    "title": "GitLab 공동창업자, 파운더 모드로 직접 자신의 암 치료를 설계하다",
+    "link": "https://news.hada.io/topic?id=27961",
+    "date": "2026-03-29"
+  },
+  {
+    "title": "Bluesky leans into AI with Attie, an app for building custom feeds",
+    "link": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
+    "date": "2026-03-29"
+  },
+  {
+    "title": "Stanford study outlines dangers of asking AI chatbots for personal advice",
+    "link": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
+    "date": "2026-03-29"
+  },
+  {
+    "title": "Elon Musk’s last co-founder reportedly leaves xAI",
+    "link": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
+    "date": "2026-03-29"
+  },
+  {
+    "title": "Anthropic’s Claude popularity with paying consumers is skyrocketing",
+    "link": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
+    "date": "2026-03-29"
+  },
+  {
+    "title": "A woman’s uterus has been kept alive outside the body for the first time",
+    "link": "https://www.technologyreview.com/2026/03/28/1134766/womans-uterus-kept-alive-outside-the-body-first/",
+    "date": "2026-03-29"
+  },
+  {
+    "title": "Liberate your OpenClaw",
+    "link": "https://huggingface.co/blog/liberate-your-openclaw",
+    "date": "2026-03-29"
+  },
+  {
+    "title": "Explanation for why we don't see two-foot-long dragonflies anymore fails",
+    "link": "https://arstechnica.com/science/2026/03/leading-explanation-for-ancient-giant-flying-insects-gets-squashed/",
+    "date": "2026-03-29"
+  },
+  {
+    "title": "Causality optional? Testing the \"indefinite causal order\" superposition",
+    "link": "https://arstechnica.com/science/2026/03/getting-formal-about-quantum-mechanics-lack-of-causality/",
+    "date": "2026-03-29"
+  },
+  {
+    "title": "How new fishing tech can reduce bycatch of turtles and other creatures",
+    "link": "https://arstechnica.com/science/2026/03/how-new-fishing-tech-can-reduce-bycatch-of-turtles-and-other-creatures/",
+    "date": "2026-03-29"
   }
 ]
