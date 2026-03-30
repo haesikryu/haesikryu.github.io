@@ -883,5 +883,65 @@
     "title": "Polygraphs have major flaws. Are there better options?",
     "link": "https://arstechnica.com/science/2026/03/polygraphs-have-major-flaws-are-there-better-options/",
     "date": "2026-03-30"
+  },
+  {
+    "title": "Show GN: 한국 이커머스 스킨 개발용 정적 보일러플레이트 (HTMX + Vite + TypeScript)",
+    "link": "https://news.hada.io/topic?id=28008",
+    "date": "2026-03-30"
+  },
+  {
+    "title": "인지적 암흑의 숲",
+    "link": "https://news.hada.io/topic?id=28007",
+    "date": "2026-03-30"
+  },
+  {
+    "title": "Show GN: travel plan - 링크로 저장되는 여행지도 (그리고 MCP를 곁들인)",
+    "link": "https://news.hada.io/topic?id=28006",
+    "date": "2026-03-30"
+  },
+  {
+    "title": "AI 판사 도입시 디지털 변론주의의 확립: 프롬프트 합의 및 메타데이터 중립성 확보 방안",
+    "link": "https://news.hada.io/topic?id=28005",
+    "date": "2026-03-30"
+  },
+  {
+    "title": "Show GN: 안드로이드에서 원격 서버의 Claude Code / Codex CLI에 이미지 보내기 불편해서 redTerm을 만들었습니다",
+    "link": "https://news.hada.io/topic?id=28004",
+    "date": "2026-03-30"
+  },
+  {
+    "title": "Why OpenAI really shut down Sora",
+    "link": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/",
+    "date": "2026-03-30"
+  },
+  {
+    "title": "Helping disaster response teams turn AI into action across Asia",
+    "link": "https://openai.com/index/helping-disaster-response-teams-asia",
+    "date": "2026-03-30"
+  },
+  {
+    "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+    "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+    "date": "2026-03-30"
+  },
+  {
+    "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+    "link": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+    "date": "2026-03-30"
+  },
+  {
+    "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+    "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+    "date": "2026-03-30"
+  },
+  {
+    "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+    "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+    "date": "2026-03-30"
+  },
+  {
+    "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
+    "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+    "date": "2026-03-30"
   }
 ]
