@@ -1,115 +1,5 @@
 [
   {
-    "title": "헤드폰 사용 거부 승객, 이제 United 항공편에서 퇴출 가능",
-    "link": "https://news.hada.io/topic?id=27749",
-    "date": "2026-03-23"
-  },
-  {
-    "title": "서구 자동차 제조사의 전기차 후퇴, 산업적 퇴보로 이어질 위험",
-    "link": "https://news.hada.io/topic?id=27748",
-    "date": "2026-03-23"
-  },
-  {
-    "title": "대규모 연구, 대마초가 불안·우울·외상후스트레스장애(PTSD)에 효과 없음 확인",
-    "link": "https://news.hada.io/topic?id=27747",
-    "date": "2026-03-23"
-  },
-  {
-    "title": "FFmpeg 101 (2024)",
-    "link": "https://news.hada.io/topic?id=27746",
-    "date": "2026-03-23"
-  },
-  {
-    "title": "Grafeo – Rust로 구축된 빠르고 경량의 임베디드 그래프 데이터베이스",
-    "link": "https://news.hada.io/topic?id=27745",
-    "date": "2026-03-23"
-  },
-  {
-    "title": "Do you want to build a robot snowman?",
-    "link": "https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/",
-    "date": "2026-03-23"
-  },
-  {
-    "title": "Cursor admits its new coding model was built on top of Moonshot AI’s Kimi",
-    "link": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/",
-    "date": "2026-03-23"
-  },
-  {
-    "title": "Elon Musk unveils chip manufacturing plans for SpaceX and Tesla",
-    "link": "https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/",
-    "date": "2026-03-23"
-  },
-  {
-    "title": "Delve accused of misleading customers with ‘fake compliance’",
-    "link": "https://techcrunch.com/2026/03/22/delve-accused-of-misleading-customers-with-fake-compliance/",
-    "date": "2026-03-23"
-  },
-  {
-    "title": "An exclusive tour of Amazon’s Trainium lab, the chip that’s won over Anthropic, OpenAI, even Apple",
-    "link": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/",
-    "date": "2026-03-23"
-  },
-  {
-    "title": "There can (still) be only one: Highlander is 40",
-    "link": "https://arstechnica.com/culture/2026/03/there-can-still-be-only-one-highlander-is-40/",
-    "date": "2026-03-23"
-  },
-  {
-    "title": "Mining the deep ocean",
-    "link": "https://arstechnica.com/science/2026/03/mining-the-deep-ocean/",
-    "date": "2026-03-23"
-  },
-  {
-    "title": "GrapheneOS는 개인 정보 없이 누구나 계속 사용할 수 있음",
-    "link": "https://news.hada.io/topic?id=27777",
-    "date": "2026-03-23"
-  },
-  {
-    "title": "코드의 죽음은 과장된 주장임",
-    "link": "https://news.hada.io/topic?id=27776",
-    "date": "2026-03-23"
-  },
-  {
-    "title": "Pinterest가 AI에이전트를 위한 프로덕션 MCP 에코시스템을 구축한 방법",
-    "link": "https://news.hada.io/topic?id=27775",
-    "date": "2026-03-23"
-  },
-  {
-    "title": "Siri + Claude Code + Obsidian 으로 만든 AI 베이비시터",
-    "link": "https://news.hada.io/topic?id=27774",
-    "date": "2026-03-23"
-  },
-  {
-    "title": "코드의 죽음은 과장되었다",
-    "link": "https://news.hada.io/topic?id=27772",
-    "date": "2026-03-23"
-  },
-  {
-    "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-    "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-    "date": "2026-03-23"
-  },
-  {
-    "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-    "link": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-    "date": "2026-03-23"
-  },
-  {
-    "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-    "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
-    "date": "2026-03-23"
-  },
-  {
-    "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-    "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-    "date": "2026-03-23"
-  },
-  {
-    "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
-    "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
-    "date": "2026-03-23"
-  },
-  {
     "title": "GitHub, 99.9% 가용성 유지에도 어려움 겪는 중",
     "link": "https://news.hada.io/topic?id=27793",
     "date": "2026-03-24"
@@ -953,5 +843,45 @@
     "title": "한국에서 AI 프로젝트가 망하는 이유",
     "link": "https://news.hada.io/topic?id=27967",
     "date": "2026-03-29"
+  },
+  {
+    "title": "리눅스는 인터프리터다",
+    "link": "https://news.hada.io/topic?id=27988",
+    "date": "2026-03-30"
+  },
+  {
+    "title": "Knuth의 ‘Claude Cycles’ 문제에서 인간·AI·증명 보조기의 협업 진전",
+    "link": "https://news.hada.io/topic?id=27987",
+    "date": "2026-03-30"
+  },
+  {
+    "title": "미 법무부, FBI 국장 카쉬 파텔의 개인 이메일 해킹 확인",
+    "link": "https://news.hada.io/topic?id=27986",
+    "date": "2026-03-30"
+  },
+  {
+    "title": "AI가 항상 사용자를 옳다고 말해줄 때 생기는 위험",
+    "link": "https://news.hada.io/topic?id=27985",
+    "date": "2026-03-30"
+  },
+  {
+    "title": "AMD Ryzen 9 9950X3D2 Dual Edition, 단일 칩에 208MB 캐시 탑재",
+    "link": "https://news.hada.io/topic?id=27984",
+    "date": "2026-03-30"
+  },
+  {
+    "title": "Sora’s shutdown could be a reality check moment for AI video",
+    "link": "https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/",
+    "date": "2026-03-30"
+  },
+  {
+    "title": "Pints meet prop bets: Polymarket’s “Situation Room” pop-up bar in DC",
+    "link": "https://arstechnica.com/culture/2026/03/pints-meet-prop-bets-polymarkets-situation-room-pop-up-bar-in-dc/",
+    "date": "2026-03-30"
+  },
+  {
+    "title": "Polygraphs have major flaws. Are there better options?",
+    "link": "https://arstechnica.com/science/2026/03/polygraphs-have-major-flaws-are-there-better-options/",
+    "date": "2026-03-30"
   }
 ]
