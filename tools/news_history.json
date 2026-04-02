@@ -1,170 +1,5 @@
 [
   {
-    "title": "TurboQuant: 극단적 압축으로 AI 효율성을 재정의",
-    "link": "https://news.hada.io/topic?id=27868",
-    "date": "2026-03-26"
-  },
-  {
-    "title": "구글 TurboQuant: 극한 압축으로 AI 효율성을 재정의하다",
-    "link": "https://news.hada.io/topic?id=27867",
-    "date": "2026-03-26"
-  },
-  {
-    "title": "슬로베니아 당국, 이스라엘 기업 Black Cube의 선거 조작 시도 혐의 제기",
-    "link": "https://news.hada.io/topic?id=27866",
-    "date": "2026-03-26"
-  },
-  {
-    "title": "Expect - 에이전트가 실제 브라우저에서 코드를 테스트하는 도구",
-    "link": "https://news.hada.io/topic?id=27865",
-    "date": "2026-03-26"
-  },
-  {
-    "title": "Flighty Airports - 전 세계 공항의 실시간 운항 지연 현황 지도",
-    "link": "https://news.hada.io/topic?id=27864",
-    "date": "2026-03-26"
-  },
-  {
-    "title": "Mercor competitor Deccan AI raises $25M, sources experts from India",
-    "link": "https://techcrunch.com/2026/03/25/deccan-ai-raises-25m-as-ai-training-push-relies-on-india-based-workforce/",
-    "date": "2026-03-26"
-  },
-  {
-    "title": "The AI skills gap is here, says AI company, and power users are pulling ahead",
-    "link": "https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/",
-    "date": "2026-03-26"
-  },
-  {
-    "title": "Google unveils TurboQuant, a new AI memory compression algorithm — and yes, the internet is calling it ‘Pied Piper’",
-    "link": "https://techcrunch.com/2026/03/25/google-turboquant-ai-memory-compression-silicon-valley-pied-piper/",
-    "date": "2026-03-26"
-  },
-  {
-    "title": "Melania Trump wants a robot to homeschool your child",
-    "link": "https://techcrunch.com/2026/03/25/melania-trump-wants-a-robot-to-homeschool-your-child/",
-    "date": "2026-03-26"
-  },
-  {
-    "title": "Bernie Sanders and AOC propose a ban on data center construction",
-    "link": "https://techcrunch.com/2026/03/25/bernie-sanders-and-aoc-propose-a-ban-on-data-center-construction/",
-    "date": "2026-03-26"
-  },
-  {
-    "title": "Inside our approach to the Model Spec",
-    "link": "https://openai.com/index/our-approach-to-the-model-spec",
-    "date": "2026-03-26"
-  },
-  {
-    "title": "Introducing the OpenAI Safety Bug Bounty program",
-    "link": "https://openai.com/index/safety-bug-bounty",
-    "date": "2026-03-26"
-  },
-  {
-    "title": "Build with Lyria 3, our newest music generation model",
-    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/lyria-3-developers/",
-    "date": "2026-03-26"
-  },
-  {
-    "title": "Lyria 3 Pro: Create longer tracks in more Google products",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/lyria-3-pro/",
-    "date": "2026-03-26"
-  },
-  {
-    "title": "Roundtables: The Next Era of Space Exploration",
-    "link": "https://www.technologyreview.com/2026/03/25/1134664/roundtables-the-next-era-of-space-exploration/",
-    "date": "2026-03-26"
-  },
-  {
-    "title": "Why this battery company is pivoting to AI",
-    "link": "https://www.technologyreview.com/2026/03/25/1134657/battery-company-ai-pivot-ses/",
-    "date": "2026-03-26"
-  },
-  {
-    "title": "This startup wants to change how mathematicians do math",
-    "link": "https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/",
-    "date": "2026-03-26"
-  },
-  {
-    "title": "The Download: reawakening frozen brains, and the AI Hype Index returns",
-    "link": "https://www.technologyreview.com/2026/03/25/1134636/the-download-reawakening-frozen-brains-and-the-ai-hype-index-returns/",
-    "date": "2026-03-26"
-  },
-  {
-    "title": "Agentic commerce runs on truth and context",
-    "link": "https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/",
-    "date": "2026-03-26"
-  },
-  {
-    "title": "BRINC's new police drone uses Starlink, carries Narcan, chases vehicles at 60mph",
-    "link": "https://arstechnica.com/gadgets/2026/03/brincs-new-police-drone-uses-starlink-carries-narcan-chases-vehicles-at-60mph/",
-    "date": "2026-03-26"
-  },
-  {
-    "title": "Here is NASA's plan for nuking Gateway and sending it to Mars",
-    "link": "https://arstechnica.com/space/2026/03/here-is-nasas-plan-for-nuking-gateway-and-sending-it-to-mars/",
-    "date": "2026-03-26"
-  },
-  {
-    "title": "Reddit will require \"fishy\" accounts to verify they are run by a human",
-    "link": "https://arstechnica.com/gadgets/2026/03/reddit-will-require-fishy-accounts-to-verify-they-are-run-by-a-human/",
-    "date": "2026-03-26"
-  },
-  {
-    "title": "We got an audience with the \"Lunar Viceroy\" to talk how NASA will build a Moon base",
-    "link": "https://arstechnica.com/space/2026/03/we-got-an-audience-with-the-lunar-viceroy-to-talk-how-nasa-will-build-a-moon-base/",
-    "date": "2026-03-26"
-  },
-  {
-    "title": "Meta, YouTube must pay $3M to woman who got hooked on apps as a child",
-    "link": "https://arstechnica.com/tech-policy/2026/03/meta-youtube-must-pay-3m-to-woman-who-got-hooked-on-apps-as-a-child/",
-    "date": "2026-03-26"
-  },
-  {
-    "title": "Ocorian: Family offices turn to AI for financial data insights",
-    "link": "https://www.artificialintelligence-news.com/news/ocorian-family-offices-ai-for-financial-data-insights/",
-    "date": "2026-03-26"
-  },
-  {
-    "title": "AI agents enter banking roles at Bank of America",
-    "link": "https://www.artificialintelligence-news.com/news/ai-agents-enter-banking-roles-at-bank-of-america/",
-    "date": "2026-03-26"
-  },
-  {
-    "title": "Show GN: 전국 새마을금고 금리와 경영평가등급/BIS등을 한눈에 비교하는 웹 앱",
-    "link": "https://news.hada.io/topic?id=27879",
-    "date": "2026-03-26"
-  },
-  {
-    "title": "테슬라 Model 3 컴퓨터를 사고 차량 부품으로 책상 위에서 구동하기",
-    "link": "https://news.hada.io/topic?id=27877",
-    "date": "2026-03-26"
-  },
-  {
-    "title": "Show GN: aicasebook.dev | AI 개발 환경 사례집 (볼만한 정보를 지향)",
-    "link": "https://news.hada.io/topic?id=27876",
-    "date": "2026-03-26"
-  },
-  {
-    "title": "Show GN: LogXide — 12.5배 빠른 Rust 기반 Python 로깅 프레임워크",
-    "link": "https://news.hada.io/topic?id=27875",
-    "date": "2026-03-26"
-  },
-  {
-    "title": "이란 전쟁: 전략 부재가 초래한 미국의 자충수",
-    "link": "https://news.hada.io/topic?id=27874",
-    "date": "2026-03-26"
-  },
-  {
-    "title": "The least surprising chapter of the Manus story is what’s happening right now",
-    "link": "https://techcrunch.com/2026/03/25/the-least-surprising-chapter-of-the-manus-story-is-whats-happening-right-now/",
-    "date": "2026-03-26"
-  },
-  {
-    "title": "How AI is helping improve heart health in rural Australia",
-    "link": "https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/",
-    "date": "2026-03-26"
-  },
-  {
     "title": "온보딩은 거래(Transaction)다",
     "link": "https://news.hada.io/topic?id=27897",
     "date": "2026-03-27"
@@ -838,5 +673,120 @@
     "title": "NASA is leading the way to the Moon, but the military won't be far behind",
     "link": "https://arstechnica.com/space/2026/03/nasa-is-leading-the-way-to-the-moon-but-the-military-wont-be-far-behind/",
     "date": "2026-04-01"
+  },
+  {
+    "title": "Show GN: 반품랩탑 - AI가 다나와 데이터와 오픈마켓 반품 특가를 매핑해 진짜 가성비 반품 노트북을 찾아주는 서...",
+    "link": "https://news.hada.io/topic?id=28099",
+    "date": "2026-04-02"
+  },
+  {
+    "title": "미 해군이 이란을 공격해 호르무즈 해협을 ‘개방’하지 않는 이유",
+    "link": "https://news.hada.io/topic?id=28098",
+    "date": "2026-04-02"
+  },
+  {
+    "title": "Show GN: AI와 대화하며 &quot;나&quot; 를 인터뷰 하는 서비스 - SelfView",
+    "link": "https://news.hada.io/topic?id=28097",
+    "date": "2026-04-02"
+  },
+  {
+    "title": "하루 한 점으로 혼잡을 없애는 부품 관리법",
+    "link": "https://news.hada.io/topic?id=28095",
+    "date": "2026-04-02"
+  },
+  {
+    "title": "Claude Code Unpacked : 비쥬얼 가이드",
+    "link": "https://news.hada.io/topic?id=28094",
+    "date": "2026-04-02"
+  },
+  {
+    "title": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident",
+    "link": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
+    "date": "2026-04-02"
+  },
+  {
+    "title": "Meta’s natural gas binge could power South Dakota",
+    "link": "https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/",
+    "date": "2026-04-02"
+  },
+  {
+    "title": "Cognichip wants AI to design the chips that power AI, and just raised $60M to try",
+    "link": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/",
+    "date": "2026-04-02"
+  },
+  {
+    "title": "Less than a month: StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together",
+    "link": "https://techcrunch.com/2026/04/01/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/",
+    "date": "2026-04-02"
+  },
+  {
+    "title": "Gradient Labs gives every bank customer an AI account manager",
+    "link": "https://openai.com/index/gradient-labs",
+    "date": "2026-04-02"
+  },
+  {
+    "title": "We’re creating a new satellite imagery map to help protect Brazil’s forests.",
+    "link": "https://blog.google/products-and-platforms/products/earth/satellite-imagery-brazilian-deforestation/",
+    "date": "2026-04-02"
+  },
+  {
+    "title": "The latest AI news we announced in March 2026",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/",
+    "date": "2026-04-02"
+  },
+  {
+    "title": "The Download: gig workers training humanoids, and better AI benchmarks",
+    "link": "https://www.technologyreview.com/2026/04/01/1134993/the-download-gig-workers-training-humanoids-better-ai-benchmarks/",
+    "date": "2026-04-02"
+  },
+  {
+    "title": "The gig workers who are training humanoid robots at home",
+    "link": "https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/",
+    "date": "2026-04-02"
+  },
+  {
+    "title": "Holo3: Breaking the Computer Use Frontier",
+    "link": "https://huggingface.co/blog/Hcompany/holo3",
+    "date": "2026-04-02"
+  },
+  {
+    "title": "Artemis II, NASA's boldest mission in generations, launches crew to the Moon",
+    "link": "https://arstechnica.com/space/2026/04/four-astronauts-depart-for-the-moon-with-a-fiery-send-off-from-cape-canaveral/",
+    "date": "2026-04-02"
+  },
+  {
+    "title": "Nvidia rolls out its fix for PC gaming's \"compiling shaders\" wait times",
+    "link": "https://arstechnica.com/gaming/2026/04/nvidias-new-app-lets-you-precompile-gaming-shaders-during-machine-idle-time/",
+    "date": "2026-04-02"
+  },
+  {
+    "title": "Here's what that Claude Code source leak reveals about Anthropic's plans",
+    "link": "https://arstechnica.com/ai/2026/04/heres-what-that-claude-code-source-leak-reveals-about-anthropics-plans/",
+    "date": "2026-04-02"
+  },
+  {
+    "title": "Research roundup: 7 cool science stories we almost missed",
+    "link": "https://arstechnica.com/science/2026/04/research-roundup-7-cool-science-stories-we-almost-missed-3/",
+    "date": "2026-04-02"
+  },
+  {
+    "title": "Did Nazis escape on a UFO? Dev who asked the question just built the official White House app.",
+    "link": "https://arstechnica.com/tech-policy/2026/04/official-white-house-app-developer-also-a-ufo-conspiracy-theorist/",
+    "date": "2026-04-02"
+  },
+  {
+    "title": "KPMG: Inside the AI agent playbook driving enterprise margin gains",
+    "link": "https://www.artificialintelligence-news.com/news/kpmg-inside-ai-agent-playbook-enterprise-margin-gains/",
+    "date": "2026-04-02"
+  },
+  {
+    "title": "DeepL’s Borderless Business report reveals 83% of enterprises are still behind on language AI",
+    "link": "https://www.artificialintelligence-news.com/news/deepls-borderless-business-report-reveals-83-of-enterprises-are-still-behind-on-language-ai/",
+    "date": "2026-04-02"
+  },
+  {
+    "title": "Hershey applies AI across its supply chain operations",
+    "link": "https://www.artificialintelligence-news.com/news/hershey-applies-ai-across-its-supply-chain-operations/",
+    "date": "2026-04-02"
   }
 ]
