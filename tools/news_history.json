@@ -1,175 +1,5 @@
 [
   {
-    "title": "온보딩은 거래(Transaction)다",
-    "link": "https://news.hada.io/topic?id=27897",
-    "date": "2026-03-27"
-  },
-  {
-    "title": "반물질이 처음으로 운송됨",
-    "link": "https://news.hada.io/topic?id=27896",
-    "date": "2026-03-27"
-  },
-  {
-    "title": "Meta, 아동 안전 문제로 사용자 오도 혐의에 3억7500만 달러 배상 명령",
-    "link": "https://news.hada.io/topic?id=27895",
-    "date": "2026-03-27"
-  },
-  {
-    "title": "왜 많은 제어실이 Seafoam Green으로 칠해졌는가 (2025)",
-    "link": "https://news.hada.io/topic?id=27894",
-    "date": "2026-03-27"
-  },
-  {
-    "title": "배심원단, 자사 플랫폼에서의 아동 성착취 사건에 대해 Meta의 책임 인정",
-    "link": "https://news.hada.io/topic?id=27893",
-    "date": "2026-03-27"
-  },
-  {
-    "title": "You can now transfer your chats and personal information from other chatbots directly into Gemini",
-    "link": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/",
-    "date": "2026-03-27"
-  },
-  {
-    "title": "Wikipedia cracks down on the use of AI in article writing",
-    "link": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/",
-    "date": "2026-03-27"
-  },
-  {
-    "title": "OpenAI abandons yet another side quest: ChatGPT’s erotic mode",
-    "link": "https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/",
-    "date": "2026-03-27"
-  },
-  {
-    "title": "Data centers get ready — the Senate wants to see your power bills",
-    "link": "https://techcrunch.com/2026/03/26/data-centers-get-ready-the-senate-wants-to-see-your-power-bills/",
-    "date": "2026-03-27"
-  },
-  {
-    "title": "ByteDance’s new AI video generation model, Dreamina Seedance 2.0, comes to CapCut",
-    "link": "https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/",
-    "date": "2026-03-27"
-  },
-  {
-    "title": "Watch James Manyika talk AI and creativity with LL COOL J.",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/ll-cool-j-dialogues/",
-    "date": "2026-03-27"
-  },
-  {
-    "title": "Transform your headphones into a live personal translator on iOS.",
-    "link": "https://blog.google/products-and-platforms/products/translate/live-translate-with-headphones/",
-    "date": "2026-03-27"
-  },
-  {
-    "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
-    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/",
-    "date": "2026-03-27"
-  },
-  {
-    "title": "Search Live is expanding globally",
-    "link": "https://blog.google/products-and-platforms/products/search/search-live-global-expansion/",
-    "date": "2026-03-27"
-  },
-  {
-    "title": "The Download: a battery pivot to AI, and rewriting math",
-    "link": "https://www.technologyreview.com/2026/03/26/1134697/the-download-battery-ai-pivot-new-ai-tool-math/",
-    "date": "2026-03-27"
-  },
-  {
-    "title": "The snow gods: How a couple of ski bums built the internet’s best weather app",
-    "link": "https://www.technologyreview.com/2026/03/26/1134470/the-snow-gods-how-a-couple-of-ski-bums-built-the-internets-best-weather-app/",
-    "date": "2026-03-27"
-  },
-  {
-    "title": "Are high gas prices good news for EVs? It’s complicated.",
-    "link": "https://www.technologyreview.com/2026/03/26/1134677/gas-prices-electric-vehicles/",
-    "date": "2026-03-27"
-  },
-  {
-    "title": "Elon Musk loses big in court; X boycott perfectly legal",
-    "link": "https://arstechnica.com/tech-policy/2026/03/elon-musk-loses-big-in-court-x-boycott-perfectly-legal/",
-    "date": "2026-03-27"
-  },
-  {
-    "title": "Spotify seeks $300M from Anna's Archive, which ignores all court proceedings",
-    "link": "https://arstechnica.com/tech-policy/2026/03/spotify-lawsuit-tries-to-kick-annas-archive-off-the-web-without-much-success/",
-    "date": "2026-03-27"
-  },
-  {
-    "title": "Internet Yiff Machine: We hacked 93GB of \"anonymous\" crime tips",
-    "link": "https://arstechnica.com/security/2026/03/internet-yiff-machine-we-hacked-93gb-of-anonymous-crime-tips/",
-    "date": "2026-03-27"
-  },
-  {
-    "title": "As RFK Jr.’s anti-vaccine ways turn toxic to GOP, CDC director is hard to find",
-    "link": "https://arstechnica.com/health/2026/03/as-rfk-jr-s-anti-vaccine-ways-turn-toxic-to-gop-cdc-director-is-hard-to-find/",
-    "date": "2026-03-27"
-  },
-  {
-    "title": "Netflix raises prices for every subscription tier by up to 12.5 percent",
-    "link": "https://arstechnica.com/gadgets/2026/03/netflix-increases-prices-for-all-plans-by-up-to-2-per-month/",
-    "date": "2026-03-27"
-  },
-  {
-    "title": "Anthropic, 차세대 모델 “Claude Mythos” 유출로 존재 확인 — “역대 가장 강력한 모델”",
-    "link": "https://news.hada.io/topic?id=27911",
-    "date": "2026-03-27"
-  },
-  {
-    "title": "깃허브 정책 변화 / 4월 24일 이후 별도의 설정없을 경우 AI 데이터로 학습",
-    "link": "https://news.hada.io/topic?id=27909",
-    "date": "2026-03-27"
-  },
-  {
-    "title": "Show GN: 기온별 옷차림 | 오늘 뭐 입지?",
-    "link": "https://news.hada.io/topic?id=27908",
-    "date": "2026-03-27"
-  },
-  {
-    "title": "하루에 코딩은 4시간이 한계인 이유",
-    "link": "https://news.hada.io/topic?id=27906",
-    "date": "2026-03-27"
-  },
-  {
-    "title": "소프트웨어에 남은 길은 두 가지뿐",
-    "link": "https://news.hada.io/topic?id=27905",
-    "date": "2026-03-27"
-  },
-  {
-    "title": "List 가 GeekLists 기능으로 확대 개편 되었습니다.",
-    "link": "https://news.hada.io/blog/GeekLists",
-    "date": "2026-03-27"
-  },
-  {
-    "title": "‘함께 보면 좋은 글’ 기능을 추가했습니다",
-    "link": "https://news.hada.io/blog/related-reads",
-    "date": "2026-03-27"
-  },
-  {
-    "title": "GeekNews를 편하게 구독하는 법",
-    "link": "https://news.hada.io/blog/subscribe_geeknews",
-    "date": "2026-03-27"
-  },
-  {
-    "title": "GeekNight 2024(긱뉴스 밋업)",
-    "link": "https://news.hada.io/blog/geeknight",
-    "date": "2026-03-27"
-  },
-  {
-    "title": "GN⁺ : AI가 요약한 최신 뉴스보기",
-    "link": "https://news.hada.io/blog/GN⁺",
-    "date": "2026-03-27"
-  },
-  {
-    "title": "Anthropic wins injunction against Trump administration over Defense Department saga",
-    "link": "https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/",
-    "date": "2026-03-27"
-  },
-  {
-    "title": "RPA matters, but AI changes how automation works",
-    "link": "https://www.artificialintelligence-news.com/news/rpa-still-matters-but-ai-is-changing-how-automation-works/",
-    "date": "2026-03-27"
-  },
-  {
     "title": "추정은 왜 실패하는가 (그리고 왜 여전히 필요한가)",
     "link": "https://news.hada.io/topic?id=27932",
     "date": "2026-03-28"
@@ -788,5 +618,130 @@
     "title": "Hershey applies AI across its supply chain operations",
     "link": "https://www.artificialintelligence-news.com/news/hershey-applies-ai-across-its-supply-chain-operations/",
     "date": "2026-04-02"
+  },
+  {
+    "title": "Google Gemma 4 공개: 경량 오픈 모델의 새로운 기준, 이제 스마트폰까지",
+    "link": "https://news.hada.io/topic?id=28160",
+    "date": "2026-04-03"
+  },
+  {
+    "title": "marmonitor - tmux 상태바에서 AI 코딩 에이전트 세션을 실시간 추적",
+    "link": "https://news.hada.io/topic?id=28159",
+    "date": "2026-04-03"
+  },
+  {
+    "title": "Claude Dispatch와 인터페이스의 힘 | Ethan Mollick",
+    "link": "https://news.hada.io/topic?id=28158",
+    "date": "2026-04-03"
+  },
+  {
+    "title": "r/programming, LLM 프로그래밍 관련 모든 논의 금지",
+    "link": "https://news.hada.io/topic?id=28156",
+    "date": "2026-04-03"
+  },
+  {
+    "title": "Claude Code 유출 사건",
+    "link": "https://news.hada.io/topic?id=28155",
+    "date": "2026-04-03"
+  },
+  {
+    "title": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
+    "link": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
+    "date": "2026-04-03"
+  },
+  {
+    "title": "Microsoft takes on AI rivals with three new foundational models",
+    "link": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
+    "date": "2026-04-03"
+  },
+  {
+    "title": "Google now lets you direct avatars through prompts in its Vids app",
+    "link": "https://techcrunch.com/2026/04/02/google-now-lets-you-direct-avatars-through-prompts-in-its-vids-app/",
+    "date": "2026-04-03"
+  },
+  {
+    "title": "OpenAI acquires TBPN",
+    "link": "https://openai.com/index/openai-acquires-tbpn",
+    "date": "2026-04-03"
+  },
+  {
+    "title": "Codex now offers more flexible pricing for teams",
+    "link": "https://openai.com/index/codex-flexible-pricing-for-teams",
+    "date": "2026-04-03"
+  },
+  {
+    "title": "New ways to balance cost and reliability in the Gemini API",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/",
+    "date": "2026-04-03"
+  },
+  {
+    "title": "Create, edit and share videos at no cost in Google Vids",
+    "link": "https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/",
+    "date": "2026-04-03"
+  },
+  {
+    "title": "The Download: plastic’s problem with fuel prices, and SpaceX’s blockbuster IPO",
+    "link": "https://www.technologyreview.com/2026/04/02/1135049/the-download-plastic-problem-fuel-prices-spacex-ipo/",
+    "date": "2026-04-03"
+  },
+  {
+    "title": "Fuel prices are soaring. Plastic could be next.",
+    "link": "https://www.technologyreview.com/2026/04/02/1135045/plastic-economic-effects/",
+    "date": "2026-04-03"
+  },
+  {
+    "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
+    "link": "https://huggingface.co/blog/gemma4",
+    "date": "2026-04-03"
+  },
+  {
+    "title": "Four astronauts are now inexorably bound for the Moon",
+    "link": "https://arstechnica.com/space/2026/04/four-astronauts-are-now-inexorably-bound-for-the-moon/",
+    "date": "2026-04-03"
+  },
+  {
+    "title": "Perplexity's \"Incognito Mode\" is a \"sham,\" lawsuit says",
+    "link": "https://arstechnica.com/tech-policy/2026/04/perplexitys-incognito-mode-is-a-sham-lawsuit-says/",
+    "date": "2026-04-03"
+  },
+  {
+    "title": "SpaceX tries to convince FCC that Amazon put satellites into wrong altitude",
+    "link": "https://arstechnica.com/tech-policy/2026/04/spacex-claims-amazon-leo-launches-could-crash-into-starlink-satellites/",
+    "date": "2026-04-03"
+  },
+  {
+    "title": "Google Vids gets AI upgrade with Veo and Lyria models, directable AI avatars",
+    "link": "https://arstechnica.com/ai/2026/04/google-vids-gets-ai-upgrade-with-veo-and-lyria-models-directable-ai-avatars/",
+    "date": "2026-04-03"
+  },
+  {
+    "title": "Male octopuses guided through mating by female hormones",
+    "link": "https://arstechnica.com/science/2026/04/male-octopuses-guided-through-mating-by-female-hormones/",
+    "date": "2026-04-03"
+  },
+  {
+    "title": "KiloClaw targets shadow AI with autonomous agent governance",
+    "link": "https://www.artificialintelligence-news.com/news/kiloclaw-targets-shadow-ai-autonomous-agent-governance/",
+    "date": "2026-04-03"
+  },
+  {
+    "title": "5 best practices to secure AI systems",
+    "link": "https://www.artificialintelligence-news.com/news/5-best-practices-to-secure-ai-systems/",
+    "date": "2026-04-03"
+  },
+  {
+    "title": "China’s Five-Year Plan details the targets for AI deployment",
+    "link": "https://www.artificialintelligence-news.com/news/chinas-five-year-plan-details-the-targets-for-ai-deployment/",
+    "date": "2026-04-03"
+  },
+  {
+    "title": "Autonomous AI systems depend on data governance",
+    "link": "https://www.artificialintelligence-news.com/news/autonomous-ai-systems-depend-on-data-governance/",
+    "date": "2026-04-03"
+  },
+  {
+    "title": "Experian uncovers fraud paradox in financial services’ AI adoption",
+    "link": "https://www.artificialintelligence-news.com/news/experian-ai-fraud-detection-financial-services-2026/",
+    "date": "2026-04-03"
   }
 ]
