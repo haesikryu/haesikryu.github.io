@@ -1,130 +1,5 @@
 [
   {
-    "title": "추정은 왜 실패하는가 (그리고 왜 여전히 필요한가)",
-    "link": "https://news.hada.io/topic?id=27932",
-    "date": "2026-03-28"
-  },
-  {
-    "title": "인스타그램과 유튜브가 아동 중독을 유발하도록 설계되었다는 로스앤젤레스 배심원단의 판결",
-    "link": "https://news.hada.io/topic?id=27931",
-    "date": "2026-03-28"
-  },
-  {
-    "title": "뉴욕시 병원들, 논란의 AI 기업 Palantir과의 계약 종료…영국에서는 확장 지속",
-    "link": "https://news.hada.io/topic?id=27930",
-    "date": "2026-03-28"
-  },
-  {
-    "title": "AI 에이전트를 $7/월 VPS에 배치하고 IRC를 전송 계층으로 사용한 디지털 도어맨 구축",
-    "link": "https://news.hada.io/topic?id=27929",
-    "date": "2026-03-28"
-  },
-  {
-    "title": "Swift 6.3 릴리즈",
-    "link": "https://news.hada.io/topic?id=27928",
-    "date": "2026-03-28"
-  },
-  {
-    "title": "Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO",
-    "link": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/",
-    "date": "2026-03-28"
-  },
-  {
-    "title": "Memory chip giant SK hynix could help end ‘RAMmageddon’ with blockbuster US IPO",
-    "link": "https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/",
-    "date": "2026-03-28"
-  },
-  {
-    "title": "VCs are betting billions on AI’s next wave, so why is OpenAI killing Sora?",
-    "link": "https://techcrunch.com/podcast/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/",
-    "date": "2026-03-28"
-  },
-  {
-    "title": "OpenAI shuts down Sora while Meta gets shut out in court",
-    "link": "https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/",
-    "date": "2026-03-28"
-  },
-  {
-    "title": "David Sacks is done as AI czar — here’s what he’s doing instead",
-    "link": "https://techcrunch.com/2026/03/26/david-sacks-is-done-as-ai-czar-heres-what-hes-doing-instead/",
-    "date": "2026-03-28"
-  },
-  {
-    "title": "STADLER reshapes knowledge work at a 230-year-old company",
-    "link": "https://openai.com/index/stadler",
-    "date": "2026-03-28"
-  },
-  {
-    "title": "The Download: the internet’s best weather app, and why people freeze their brains",
-    "link": "https://www.technologyreview.com/2026/03/27/1134755/the-download-best-weather-forecasting-app-why-people-freeze-brains/",
-    "date": "2026-03-28"
-  },
-  {
-    "title": "Here’s why some people choose cryonics to store their bodies and brains after death",
-    "link": "https://www.technologyreview.com/2026/03/27/1134705/cryonics-store-bodies-brains-after-death/",
-    "date": "2026-03-28"
-  },
-  {
-    "title": "Playing Wolfenstein 3D with one hand in 2026",
-    "link": "https://arstechnica.com/gaming/2026/03/playing-wolfenstein-3d-with-one-hand-in-2026/",
-    "date": "2026-03-28"
-  },
-  {
-    "title": "With new plugins feature, OpenAI officially takes Codex beyond coding",
-    "link": "https://arstechnica.com/ai/2026/03/openai-brings-plugins-to-codex-closing-some-of-the-gap-with-claude-code/",
-    "date": "2026-03-28"
-  },
-  {
-    "title": "Outbreak linked to raw cheese grows; 9 cases total, one with kidney failure",
-    "link": "https://arstechnica.com/health/2026/03/kidney-failure-case-reported-in-raw-cheese-outbreak-maker-still-denies-link/",
-    "date": "2026-03-28"
-  },
-  {
-    "title": "Judge irate as defendant joins by Zoom while driving—then lies about it",
-    "link": "https://arstechnica.com/tech-policy/2026/03/judge-irate-as-defendant-joins-by-zoom-while-driving-then-lies-about-it/",
-    "date": "2026-03-28"
-  },
-  {
-    "title": "AV1’s open, royalty-free promise in question as Dolby sues Snapchat over codec",
-    "link": "https://arstechnica.com/gadgets/2026/03/av1s-open-royalty-free-promise-in-question-as-dolby-sues-snapchat-over-codec/",
-    "date": "2026-03-28"
-  },
-  {
-    "title": "Show GN: Ghostmeet - 셀프호스팅 AI 미팅 비서  (실시간 자막 + 요약, Chrome 확장)",
-    "link": "https://news.hada.io/topic?id=27947",
-    "date": "2026-03-28"
-  },
-  {
-    "title": "Show GN: 31개의 LLM을 교차검증 체계로 엮은 100% 자율 주식 매매 시스템",
-    "link": "https://news.hada.io/topic?id=27946",
-    "date": "2026-03-28"
-  },
-  {
-    "title": "고양이와 함께 재택근무하는 사람을 위한 책상",
-    "link": "https://news.hada.io/topic?id=27945",
-    "date": "2026-03-28"
-  },
-  {
-    "title": "Z.AI Coding Plan, GLM-5.1 모델 지원 — Claude Code·OpenClaw에서 전환 방법",
-    "link": "https://news.hada.io/topic?id=27943",
-    "date": "2026-03-28"
-  },
-  {
-    "title": "Codex 플러그인 출시 — Slack, Figma, Notion, Gmail 등 주요 도구와 즉시 연동",
-    "link": "https://news.hada.io/topic?id=27942",
-    "date": "2026-03-28"
-  },
-  {
-    "title": "Build a Domain-Specific Embedding Model in Under a Day",
-    "link": "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune",
-    "date": "2026-03-28"
-  },
-  {
-    "title": "What's New in Mellea 0.4.0 + Granite Libraries Release",
-    "link": "https://huggingface.co/blog/ibm-granite/granite-libraries",
-    "date": "2026-03-28"
-  },
-  {
     "title": "영국, 재생에너지로 전력의 90% 이상 생산",
     "link": "https://news.hada.io/topic?id=27965",
     "date": "2026-03-29"
@@ -743,5 +618,110 @@
     "title": "Experian uncovers fraud paradox in financial services’ AI adoption",
     "link": "https://www.artificialintelligence-news.com/news/experian-ai-fraud-detection-financial-services-2026/",
     "date": "2026-04-03"
+  },
+  {
+    "title": "Optio - AI 코딩 에이전트를 위한 워크플로 오케스트레이터",
+    "link": "https://news.hada.io/topic?id=28183",
+    "date": "2026-04-04"
+  },
+  {
+    "title": "Marc Andreessen은 자기성찰에 대해 잘못 이해하고 있다",
+    "link": "https://news.hada.io/topic?id=28182",
+    "date": "2026-04-04"
+  },
+  {
+    "title": "Artemis II 승무원이 촬영한 지구의 ‘장관’ 이미지",
+    "link": "https://news.hada.io/topic?id=28181",
+    "date": "2026-04-04"
+  },
+  {
+    "title": "개인 블로그를 위한 프론트페이지 Blogosphere",
+    "link": "https://news.hada.io/topic?id=28180",
+    "date": "2026-04-04"
+  },
+  {
+    "title": "체화된(Embodied) 로봇 지능의 산업화",
+    "link": "https://news.hada.io/topic?id=28179",
+    "date": "2026-04-04"
+  },
+  {
+    "title": "List 가 GeekLists 기능으로 확대 개편 되었습니다.",
+    "link": "https://news.hada.io/blog/GeekLists",
+    "date": "2026-04-04"
+  },
+  {
+    "title": "‘함께 보면 좋은 글’ 기능을 추가했습니다",
+    "link": "https://news.hada.io/blog/related-reads",
+    "date": "2026-04-04"
+  },
+  {
+    "title": "GeekNews를 편하게 구독하는 법",
+    "link": "https://news.hada.io/blog/subscribe_geeknews",
+    "date": "2026-04-04"
+  },
+  {
+    "title": "GeekNight 2024(긱뉴스 밋업)",
+    "link": "https://news.hada.io/blog/geeknight",
+    "date": "2026-04-04"
+  },
+  {
+    "title": "GN⁺ : AI가 요약한 최신 뉴스보기",
+    "link": "https://news.hada.io/blog/GN⁺",
+    "date": "2026-04-04"
+  },
+  {
+    "title": "OpenAI executive shuffle includes new role for COO Brad Lightcap to lead ‘special projects’",
+    "link": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
+    "date": "2026-04-04"
+  },
+  {
+    "title": "Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports",
+    "link": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
+    "date": "2026-04-04"
+  },
+  {
+    "title": "Anthropic ramps up its political activities with a new PAC",
+    "link": "https://techcrunch.com/2026/04/03/anthropic-ramps-up-its-political-activities-with-a-new-pac/",
+    "date": "2026-04-04"
+  },
+  {
+    "title": "AI companies are building huge natural gas plants to power data centers. What could go wrong?",
+    "link": "https://techcrunch.com/2026/04/03/ai-companies-are-building-huge-natural-gas-plants-to-power-data-centers-what-could-go-wrong/",
+    "date": "2026-04-04"
+  },
+  {
+    "title": "People would rather have an Amazon warehouse in their backyard than a data center",
+    "link": "https://techcrunch.com/2026/04/03/people-would-rather-have-an-amazon-warehouse-in-their-backyard-than-a-data-center/",
+    "date": "2026-04-04"
+  },
+  {
+    "title": "Four things we’d need to put data centers in space",
+    "link": "https://www.technologyreview.com/2026/04/03/1135073/four-things-wed-need-to-put-data-centers-in-space/",
+    "date": "2026-04-04"
+  },
+  {
+    "title": "Trump proposes steep cut to NASA budget as astronauts head for the Moon",
+    "link": "https://arstechnica.com/space/2026/04/trump-proposes-steep-cut-to-nasa-budget-as-astronauts-head-for-the-moon/",
+    "date": "2026-04-04"
+  },
+  {
+    "title": "Ice Age dice show early Native Americans may have understood probability",
+    "link": "https://arstechnica.com/science/2026/04/ice-age-dice-show-early-native-americans-may-have-understood-probability/",
+    "date": "2026-04-04"
+  },
+  {
+    "title": "As Artemis II zooms to the Moon, everything seems to be going swimmingly",
+    "link": "https://arstechnica.com/space/2026/04/as-artemis-ii-zooms-to-the-moon-everything-seems-to-be-going-swimmingly/",
+    "date": "2026-04-04"
+  },
+  {
+    "title": "Elon Musk insists banks working on SpaceX IPO must buy Grok subscriptions",
+    "link": "https://arstechnica.com/tech-policy/2026/04/elon-musk-insists-banks-working-on-spacex-ipo-must-buy-grok-subscriptions/",
+    "date": "2026-04-04"
+  },
+  {
+    "title": "\"Cognitive surrender\" leads AI users to abandon logical thinking, research finds",
+    "link": "https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/",
+    "date": "2026-04-04"
   }
 ]
