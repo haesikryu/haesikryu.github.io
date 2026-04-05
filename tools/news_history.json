@@ -1,95 +1,5 @@
 [
   {
-    "title": "영국, 재생에너지로 전력의 90% 이상 생산",
-    "link": "https://news.hada.io/topic?id=27965",
-    "date": "2026-03-29"
-  },
-  {
-    "title": "AI가 개인적 조언 요청에 과도하게 동의하는 경향",
-    "link": "https://news.hada.io/topic?id=27964",
-    "date": "2026-03-29"
-  },
-  {
-    "title": "크롬 v145 부터 버티컬 탭 지원 시작",
-    "link": "https://news.hada.io/topic?id=27963",
-    "date": "2026-03-29"
-  },
-  {
-    "title": "jai - AI 에이전트를 위한 손쉬운 격리 도구",
-    "link": "https://news.hada.io/topic?id=27962",
-    "date": "2026-03-29"
-  },
-  {
-    "title": "GitLab 공동창업자, 파운더 모드로 직접 자신의 암 치료를 설계하다",
-    "link": "https://news.hada.io/topic?id=27961",
-    "date": "2026-03-29"
-  },
-  {
-    "title": "Bluesky leans into AI with Attie, an app for building custom feeds",
-    "link": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
-    "date": "2026-03-29"
-  },
-  {
-    "title": "Stanford study outlines dangers of asking AI chatbots for personal advice",
-    "link": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
-    "date": "2026-03-29"
-  },
-  {
-    "title": "Elon Musk’s last co-founder reportedly leaves xAI",
-    "link": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
-    "date": "2026-03-29"
-  },
-  {
-    "title": "Anthropic’s Claude popularity with paying consumers is skyrocketing",
-    "link": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
-    "date": "2026-03-29"
-  },
-  {
-    "title": "A woman’s uterus has been kept alive outside the body for the first time",
-    "link": "https://www.technologyreview.com/2026/03/28/1134766/womans-uterus-kept-alive-outside-the-body-first/",
-    "date": "2026-03-29"
-  },
-  {
-    "title": "Liberate your OpenClaw",
-    "link": "https://huggingface.co/blog/liberate-your-openclaw",
-    "date": "2026-03-29"
-  },
-  {
-    "title": "Explanation for why we don't see two-foot-long dragonflies anymore fails",
-    "link": "https://arstechnica.com/science/2026/03/leading-explanation-for-ancient-giant-flying-insects-gets-squashed/",
-    "date": "2026-03-29"
-  },
-  {
-    "title": "Causality optional? Testing the \"indefinite causal order\" superposition",
-    "link": "https://arstechnica.com/science/2026/03/getting-formal-about-quantum-mechanics-lack-of-causality/",
-    "date": "2026-03-29"
-  },
-  {
-    "title": "How new fishing tech can reduce bycatch of turtles and other creatures",
-    "link": "https://arstechnica.com/science/2026/03/how-new-fishing-tech-can-reduce-bycatch-of-turtles-and-other-creatures/",
-    "date": "2026-03-29"
-  },
-  {
-    "title": "2027년 봇이 인터넷 점령한다, 웹의 주도권이 바뀌고 있다",
-    "link": "https://news.hada.io/topic?id=27970",
-    "date": "2026-03-29"
-  },
-  {
-    "title": "Harness — Claude Code 에이전트 팀 &amp; 스킬 아키텍트 플러그인",
-    "link": "https://news.hada.io/topic?id=27969",
-    "date": "2026-03-29"
-  },
-  {
-    "title": "백악관 공식 앱 디컴파일 결과 드러난 추적 및 외부 코드 구조",
-    "link": "https://news.hada.io/topic?id=27968",
-    "date": "2026-03-29"
-  },
-  {
-    "title": "한국에서 AI 프로젝트가 망하는 이유",
-    "link": "https://news.hada.io/topic?id=27967",
-    "date": "2026-03-29"
-  },
-  {
     "title": "리눅스는 인터프리터다",
     "link": "https://news.hada.io/topic?id=27988",
     "date": "2026-03-30"
@@ -753,5 +663,45 @@
     "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
     "link": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
     "date": "2026-04-04"
+  },
+  {
+    "title": "GPU를 직접 설계하며 배우는 인터랙티브 게임 ‘Mvidia’",
+    "link": "https://news.hada.io/topic?id=28214",
+    "date": "2026-04-05"
+  },
+  {
+    "title": "Delve가 Y Combinator 목록에서 삭제됨",
+    "link": "https://news.hada.io/topic?id=28213",
+    "date": "2026-04-05"
+  },
+  {
+    "title": "SaaS 종말론(SaaSpocalypse)에 대한 반론",
+    "link": "https://news.hada.io/topic?id=28212",
+    "date": "2026-04-05"
+  },
+  {
+    "title": "코드 생성 성능을 향상시키는 놀라울 만큼 단순한 자기 증류 기법",
+    "link": "https://news.hada.io/topic?id=28211",
+    "date": "2026-04-05"
+  },
+  {
+    "title": "Meta 비판 저서 ‘Careless People’ 출간 후 저자에게 부과된 발언 금지 명령",
+    "link": "https://news.hada.io/topic?id=28210",
+    "date": "2026-04-05"
+  },
+  {
+    "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
+    "link": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
+    "date": "2026-04-05"
+  },
+  {
+    "title": "Artemis II is going so well that we're left to talk about frozen urine",
+    "link": "https://arstechnica.com/space/2026/04/artemis-ii-is-going-so-well-that-were-left-to-talk-about-frozen-urine/",
+    "date": "2026-04-05"
+  },
+  {
+    "title": "Tech companies are trying to neuter Colorado’s landmark right-to-repair law",
+    "link": "https://arstechnica.com/tech-policy/2026/04/tech-companies-are-trying-to-neuter-colorados-landmark-right-to-repair-law/",
+    "date": "2026-04-05"
   }
 ]
