@@ -1,195 +1,5 @@
 [
   {
-    "title": "Microsoft: Copilot은 오락용으로만 제공됨",
-    "link": "https://news.hada.io/topic?id=28078",
-    "date": "2026-04-01"
-  },
-  {
-    "title": "Universal Claude.md – Claude 출력 토큰 절감",
-    "link": "https://news.hada.io/topic?id=28077",
-    "date": "2026-04-01"
-  },
-  {
-    "title": "GitHub, 반발 이후 Copilot의 Pull Request 광고 기능 중단",
-    "link": "https://news.hada.io/topic?id=28076",
-    "date": "2026-04-01"
-  },
-  {
-    "title": "Claude Code 소스 유출: 가짜 도구, 욕설 감지 정규식, 은폐 모드 등 내부 구조 드러남",
-    "link": "https://news.hada.io/topic?id=28074",
-    "date": "2026-04-01"
-  },
-  {
-    "title": "아르테미스 II는 비행하기에 안전하지 않다",
-    "link": "https://news.hada.io/topic?id=28073",
-    "date": "2026-04-01"
-  },
-  {
-    "title": "Anthropic is having a month",
-    "link": "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/",
-    "date": "2026-04-01"
-  },
-  {
-    "title": "Salesforce announces an AI-heavy makeover for Slack, with 30 new features",
-    "link": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
-    "date": "2026-04-01"
-  },
-  {
-    "title": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
-    "link": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
-    "date": "2026-04-01"
-  },
-  {
-    "title": "Yupp shuts down after raising $33M from a16z crypto’s Chris Dixon",
-    "link": "https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/",
-    "date": "2026-04-01"
-  },
-  {
-    "title": "Alexa+ gets new food ordering experiences with Uber Eats and Grubhub",
-    "link": "https://techcrunch.com/2026/03/31/alexa-plus-new-food-ordering-experiences-with-uber-eats-and-grubhub/",
-    "date": "2026-04-01"
-  },
-  {
-    "title": "Accelerating the next phase of AI",
-    "link": "https://openai.com/index/accelerating-the-next-phase-ai",
-    "date": "2026-04-01"
-  },
-  {
-    "title": "Build with Veo 3.1 Lite, our most cost-effective video generation model",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/",
-    "date": "2026-04-01"
-  },
-  {
-    "title": "Shifting to AI model customization is an architectural imperative",
-    "link": "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/",
-    "date": "2026-04-01"
-  },
-  {
-    "title": "The Download: AI health tools and the Pentagon’s Anthropic culture war",
-    "link": "https://www.technologyreview.com/2026/03/31/1134934/the-download-testing-ai-health-tools-pentagon-anthropic-culture-war-backfires/",
-    "date": "2026-04-01"
-  },
-  {
-    "title": "AI benchmarks are broken. Here’s what we need instead.",
-    "link": "https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/",
-    "date": "2026-04-01"
-  },
-  {
-    "title": "There are more AI health tools than ever—but how well do they work?",
-    "link": "https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/",
-    "date": "2026-04-01"
-  },
-  {
-    "title": "The Pentagon’s culture war tactic against Anthropic has backfired",
-    "link": "https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/",
-    "date": "2026-04-01"
-  },
-  {
-    "title": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
-    "link": "https://huggingface.co/blog/ibm-granite/granite-4-vision",
-    "date": "2026-04-01"
-  },
-  {
-    "title": "TRL v1.0: Post-Training Library Built to Move with the Field",
-    "link": "https://huggingface.co/blog/trl-v1",
-    "date": "2026-04-01"
-  },
-  {
-    "title": "Running local models on Macs gets faster with Ollama's MLX support",
-    "link": "https://arstechnica.com/apple/2026/03/running-local-models-on-macs-gets-faster-with-ollamas-mlx-support/",
-    "date": "2026-04-01"
-  },
-  {
-    "title": "RFK Jr. wants Americans to use peptides that were banned over safety risks",
-    "link": "https://arstechnica.com/health/2026/03/rfk-jr-s-fda-expected-to-lift-restrictions-on-risky-unproven-peptides/",
-    "date": "2026-04-01"
-  },
-  {
-    "title": "Starlink satellite breaks apart into \"tens of objects\"; SpaceX confirms \"anomaly\"",
-    "link": "https://arstechnica.com/tech-policy/2026/03/starlink-satellite-breaks-apart-into-tens-of-objects-spacex-confirms-anomaly/",
-    "date": "2026-04-01"
-  },
-  {
-    "title": "He-Man gets an origin story in Masters of the Universe trailer",
-    "link": "https://arstechnica.com/culture/2026/03/he-man-gets-an-origin-story-in-masters-of-the-universe-trailer/",
-    "date": "2026-04-01"
-  },
-  {
-    "title": "Sweaty, glassy-eyed Tiger Woods blames cell phone use for his car crash",
-    "link": "https://arstechnica.com/tech-policy/2026/03/sweaty-glassy-eyed-tiger-woods-blames-cell-phone-use-for-his-car-crash/",
-    "date": "2026-04-01"
-  },
-  {
-    "title": "SAP and ANYbotics drive industrial adoption of physical AI",
-    "link": "https://www.artificialintelligence-news.com/news/sap-and-anybotics-drive-industrial-adoption-physical-ai/",
-    "date": "2026-04-01"
-  },
-  {
-    "title": "Secure governance accelerates financial AI revenue growth",
-    "link": "https://www.artificialintelligence-news.com/news/secure-governance-accelerates-financial-ai-revenue-growth/",
-    "date": "2026-04-01"
-  },
-  {
-    "title": "Glia wins Excellence Award for safer AI in banking",
-    "link": "https://www.artificialintelligence-news.com/news/glia-wins-excellence-award-for-safer-ai-in-banking/",
-    "date": "2026-04-01"
-  },
-  {
-    "title": "How AEO vs GEO reshapes AI-driven brand discovery in 2026",
-    "link": "https://www.artificialintelligence-news.com/news/how-aeo-vs-geo-reshapes-ai-driven-brand-discovery-in-2026/",
-    "date": "2026-04-01"
-  },
-  {
-    "title": "Assessing AI powered price forecasting tools in currency markets",
-    "link": "https://www.artificialintelligence-news.com/news/assessing-ai-powered-price-forecasting-tools-in-currency-markets/",
-    "date": "2026-04-01"
-  },
-  {
-    "title": "OkCupid가 얼굴 인식 기업에 300만 장의 데이팅 앱 사진을 제공했다고 FTC가 발표",
-    "link": "https://news.hada.io/topic?id=28085",
-    "date": "2026-04-01"
-  },
-  {
-    "title": "Function Calling Harness, turning success rate from 6.75% to 100%",
-    "link": "https://news.hada.io/topic?id=28084",
-    "date": "2026-04-01"
-  },
-  {
-    "title": "Google, Gmail 계정의 사용자명 변경 기능 공식 출시",
-    "link": "https://news.hada.io/topic?id=28083",
-    "date": "2026-04-01"
-  },
-  {
-    "title": "Show GN: 제발 claude code나 gemini-cli가 내가 원하는 순서대로 작업하기를 원해서 만든 workflow-tool",
-    "link": "https://news.hada.io/topic?id=28082",
-    "date": "2026-04-01"
-  },
-  {
-    "title": "GitHub의 과거 가동 시간",
-    "link": "https://news.hada.io/topic?id=28081",
-    "date": "2026-04-01"
-  },
-  {
-    "title": "Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project",
-    "link": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
-    "date": "2026-04-01"
-  },
-  {
-    "title": "Falcon Perception",
-    "link": "https://huggingface.co/blog/tiiuae/falcon-perception",
-    "date": "2026-04-01"
-  },
-  {
-    "title": "A New Framework for Evaluating Voice Agents (EVA)",
-    "link": "https://huggingface.co/blog/ServiceNow-AI/eva",
-    "date": "2026-04-01"
-  },
-  {
-    "title": "NASA is leading the way to the Moon, but the military won't be far behind",
-    "link": "https://arstechnica.com/space/2026/03/nasa-is-leading-the-way-to-the-moon-but-the-military-wont-be-far-behind/",
-    "date": "2026-04-01"
-  },
-  {
     "title": "Show GN: 반품랩탑 - AI가 다나와 데이터와 오픈마켓 반품 특가를 매핑해 진짜 가성비 반품 노트북을 찾아주는 서...",
     "link": "https://news.hada.io/topic?id=28099",
     "date": "2026-04-02"
@@ -863,5 +673,110 @@
     "title": "Astronauts set distance record, revealing the Moon as a place to be explored",
     "link": "https://arstechnica.com/space/2026/04/astronauts-set-distance-record-revealing-the-moon-as-a-place-to-be-explored/",
     "date": "2026-04-07"
+  },
+  {
+    "title": "YouTube 고급 검색 - Playlists.at",
+    "link": "https://news.hada.io/topic?id=28292",
+    "date": "2026-04-08"
+  },
+  {
+    "title": "독일 경찰, GandCrab·REvil 랜섬웨어 조직의 러시아인 수장 실명 공개",
+    "link": "https://news.hada.io/topic?id=28291",
+    "date": "2026-04-08"
+  },
+  {
+    "title": "Adobe가 Creative Cloud 설치 여부를 감지하기 위해 hosts 파일을 수정함",
+    "link": "https://news.hada.io/topic?id=28290",
+    "date": "2026-04-08"
+  },
+  {
+    "title": "81세 다저스 팬, 스마트폰이 없어 더 이상 티켓을 구매할 수 없음",
+    "link": "https://news.hada.io/topic?id=28289",
+    "date": "2026-04-08"
+  },
+  {
+    "title": "AI 챗봇에 가짜 질병을 물어봤더니… &quot;실제 병입니다&quot;라고 답했다",
+    "link": "https://news.hada.io/topic?id=28288",
+    "date": "2026-04-08"
+  },
+  {
+    "title": "I can’t help rooting for tiny open source AI model maker Arcee",
+    "link": "https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/",
+    "date": "2026-04-08"
+  },
+  {
+    "title": "Firmus, the ‘Southgate’ AI data center builder backed by Nvidia, hits $5.5B valuation",
+    "link": "https://techcrunch.com/2026/04/07/firmus-the-southgate-ai-datacenter-builder-backed-by-nvidia-hits-5-5b-valuation/",
+    "date": "2026-04-08"
+  },
+  {
+    "title": "Intel signs on to Elon Musk’s Terafab chips project",
+    "link": "https://techcrunch.com/2026/04/07/intel-signs-on-to-elon-musks-terafab-chips-project/",
+    "date": "2026-04-08"
+  },
+  {
+    "title": "Anthropic debuts preview of powerful new AI model Mythos in new cybersecurity initiative",
+    "link": "https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/",
+    "date": "2026-04-08"
+  },
+  {
+    "title": "Uber is the latest to be won over by Amazon’s AI chips",
+    "link": "https://techcrunch.com/2026/04/07/uber-is-the-latest-to-be-won-over-by-amazons-ai-chips/",
+    "date": "2026-04-08"
+  },
+  {
+    "title": "Desalination plants in the Middle East are increasingly vulnerable",
+    "link": "https://www.technologyreview.com/2026/04/07/1135235/desalination-technology-water/",
+    "date": "2026-04-08"
+  },
+  {
+    "title": "Enabling agent-first process redesign",
+    "link": "https://www.technologyreview.com/2026/04/07/1134966/enabling-agent-first-process-redesign/",
+    "date": "2026-04-08"
+  },
+  {
+    "title": "The Download: AI’s impact on jobs, and data centres in space",
+    "link": "https://www.technologyreview.com/2026/04/07/1135208/the-download-ai-impact-jobs-data-centres-space/",
+    "date": "2026-04-08"
+  },
+  {
+    "title": "Valve brings native Steam Link app to Apple's Vision Pro",
+    "link": "https://arstechnica.com/gaming/2026/04/valve-brings-native-steam-link-app-to-apples-vision-pro/",
+    "date": "2026-04-08"
+  },
+  {
+    "title": "Apple and Lenovo have the least repairable laptops, analysis finds",
+    "link": "https://arstechnica.com/gadgets/2026/04/apple-has-the-lowest-grades-in-laptop-phone-repairability-analysis/",
+    "date": "2026-04-08"
+  },
+  {
+    "title": "What the heck is wrong with our AI overlords?",
+    "link": "https://arstechnica.com/tech-policy/2026/04/what-the-heck-is-wrong-with-our-ai-overlords/",
+    "date": "2026-04-08"
+  },
+  {
+    "title": "Bluesky users are mastering the fine art of blaming everything on \"vibe coding\"",
+    "link": "https://arstechnica.com/ai/2026/04/bluesky-users-are-mastering-the-fine-art-of-blaming-everything-on-vibe-coding/",
+    "date": "2026-04-08"
+  },
+  {
+    "title": "SCOTUS overturns 5th Circuit ruling that told ISP to kick pirates off Internet",
+    "link": "https://arstechnica.com/tech-policy/2026/04/scotus-overturns-5th-circuit-ruling-that-told-isp-to-kick-pirates-off-internet/",
+    "date": "2026-04-08"
+  },
+  {
+    "title": "Asylon and Thrive Logic bring physical AI to enterprise perimeter security",
+    "link": "https://www.artificialintelligence-news.com/news/physical-ai-security-at-the-enterprise-perimeter-takes-a-step-closer/",
+    "date": "2026-04-08"
+  },
+  {
+    "title": "Boomi calls it “data activation” and says it’s the missing step in every AI deployment",
+    "link": "https://www.artificialintelligence-news.com/news/boomi-agentic-ai-data-activation-missing-step/",
+    "date": "2026-04-08"
+  },
+  {
+    "title": "Anthropic’s refusal to arm AI is exactly why the UK wants it",
+    "link": "https://www.artificialintelligence-news.com/news/anthropic-uk-expansion-london-pentagon/",
+    "date": "2026-04-08"
   }
 ]
