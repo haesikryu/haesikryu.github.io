@@ -778,5 +778,50 @@
     "title": "Anthropic’s refusal to arm AI is exactly why the UK wants it",
     "link": "https://www.artificialintelligence-news.com/news/anthropic-uk-expansion-london-pentagon/",
     "date": "2026-04-08"
+  },
+  {
+    "title": "macOS에 숨어있던 49일짜리 시한폭탄 — TCP 네트워킹이 완전히 멈추는 커널 버그 전말",
+    "link": "https://news.hada.io/topic?id=28312",
+    "date": "2026-04-08"
+  },
+  {
+    "title": "GoClaw: OpenClaw를 Go로 재구성한 멀티 에이전트 게이트웨이 (보안·성능 중심 재설계)",
+    "link": "https://news.hada.io/topic?id=28310",
+    "date": "2026-04-08"
+  },
+  {
+    "title": "Amazon S3 Files 출시 – S3 버킷을 파일 시스템처럼 접근 가능",
+    "link": "https://news.hada.io/topic?id=28309",
+    "date": "2026-04-08"
+  },
+  {
+    "title": "아폴로 11 유도 컴퓨터 코드에서 발견된 문서화되지 않은 버그",
+    "link": "https://news.hada.io/topic?id=28308",
+    "date": "2026-04-08"
+  },
+  {
+    "title": "Google, 실험적 에이전트 오케스트레이션 테스트베드 Scion 오픈소스 공개",
+    "link": "https://news.hada.io/topic?id=28307",
+    "date": "2026-04-08"
+  },
+  {
+    "title": "Google quietly launched an AI dictation app that works offline",
+    "link": "https://techcrunch.com/2026/04/07/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
+    "date": "2026-04-08"
+  },
+  {
+    "title": "Build with Veo 3.1 Lite, our most cost-effective video generation model",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/",
+    "date": "2026-04-08"
+  },
+  {
+    "title": "Falcon Perception",
+    "link": "https://huggingface.co/blog/tiiuae/falcon-perception",
+    "date": "2026-04-08"
+  },
+  {
+    "title": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
+    "link": "https://huggingface.co/blog/ibm-granite/granite-4-vision",
+    "date": "2026-04-08"
   }
 ]
