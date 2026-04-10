@@ -1,130 +1,5 @@
 [
   {
-    "title": "Google Gemma 4 공개: 경량 오픈 모델의 새로운 기준, 이제 스마트폰까지",
-    "link": "https://news.hada.io/topic?id=28160",
-    "date": "2026-04-03"
-  },
-  {
-    "title": "marmonitor - tmux 상태바에서 AI 코딩 에이전트 세션을 실시간 추적",
-    "link": "https://news.hada.io/topic?id=28159",
-    "date": "2026-04-03"
-  },
-  {
-    "title": "Claude Dispatch와 인터페이스의 힘 | Ethan Mollick",
-    "link": "https://news.hada.io/topic?id=28158",
-    "date": "2026-04-03"
-  },
-  {
-    "title": "r/programming, LLM 프로그래밍 관련 모든 논의 금지",
-    "link": "https://news.hada.io/topic?id=28156",
-    "date": "2026-04-03"
-  },
-  {
-    "title": "Claude Code 유출 사건",
-    "link": "https://news.hada.io/topic?id=28155",
-    "date": "2026-04-03"
-  },
-  {
-    "title": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
-    "link": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
-    "date": "2026-04-03"
-  },
-  {
-    "title": "Microsoft takes on AI rivals with three new foundational models",
-    "link": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
-    "date": "2026-04-03"
-  },
-  {
-    "title": "Google now lets you direct avatars through prompts in its Vids app",
-    "link": "https://techcrunch.com/2026/04/02/google-now-lets-you-direct-avatars-through-prompts-in-its-vids-app/",
-    "date": "2026-04-03"
-  },
-  {
-    "title": "OpenAI acquires TBPN",
-    "link": "https://openai.com/index/openai-acquires-tbpn",
-    "date": "2026-04-03"
-  },
-  {
-    "title": "Codex now offers more flexible pricing for teams",
-    "link": "https://openai.com/index/codex-flexible-pricing-for-teams",
-    "date": "2026-04-03"
-  },
-  {
-    "title": "New ways to balance cost and reliability in the Gemini API",
-    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/",
-    "date": "2026-04-03"
-  },
-  {
-    "title": "Create, edit and share videos at no cost in Google Vids",
-    "link": "https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/",
-    "date": "2026-04-03"
-  },
-  {
-    "title": "The Download: plastic’s problem with fuel prices, and SpaceX’s blockbuster IPO",
-    "link": "https://www.technologyreview.com/2026/04/02/1135049/the-download-plastic-problem-fuel-prices-spacex-ipo/",
-    "date": "2026-04-03"
-  },
-  {
-    "title": "Fuel prices are soaring. Plastic could be next.",
-    "link": "https://www.technologyreview.com/2026/04/02/1135045/plastic-economic-effects/",
-    "date": "2026-04-03"
-  },
-  {
-    "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
-    "link": "https://huggingface.co/blog/gemma4",
-    "date": "2026-04-03"
-  },
-  {
-    "title": "Four astronauts are now inexorably bound for the Moon",
-    "link": "https://arstechnica.com/space/2026/04/four-astronauts-are-now-inexorably-bound-for-the-moon/",
-    "date": "2026-04-03"
-  },
-  {
-    "title": "Perplexity's \"Incognito Mode\" is a \"sham,\" lawsuit says",
-    "link": "https://arstechnica.com/tech-policy/2026/04/perplexitys-incognito-mode-is-a-sham-lawsuit-says/",
-    "date": "2026-04-03"
-  },
-  {
-    "title": "SpaceX tries to convince FCC that Amazon put satellites into wrong altitude",
-    "link": "https://arstechnica.com/tech-policy/2026/04/spacex-claims-amazon-leo-launches-could-crash-into-starlink-satellites/",
-    "date": "2026-04-03"
-  },
-  {
-    "title": "Google Vids gets AI upgrade with Veo and Lyria models, directable AI avatars",
-    "link": "https://arstechnica.com/ai/2026/04/google-vids-gets-ai-upgrade-with-veo-and-lyria-models-directable-ai-avatars/",
-    "date": "2026-04-03"
-  },
-  {
-    "title": "Male octopuses guided through mating by female hormones",
-    "link": "https://arstechnica.com/science/2026/04/male-octopuses-guided-through-mating-by-female-hormones/",
-    "date": "2026-04-03"
-  },
-  {
-    "title": "KiloClaw targets shadow AI with autonomous agent governance",
-    "link": "https://www.artificialintelligence-news.com/news/kiloclaw-targets-shadow-ai-autonomous-agent-governance/",
-    "date": "2026-04-03"
-  },
-  {
-    "title": "5 best practices to secure AI systems",
-    "link": "https://www.artificialintelligence-news.com/news/5-best-practices-to-secure-ai-systems/",
-    "date": "2026-04-03"
-  },
-  {
-    "title": "China’s Five-Year Plan details the targets for AI deployment",
-    "link": "https://www.artificialintelligence-news.com/news/chinas-five-year-plan-details-the-targets-for-ai-deployment/",
-    "date": "2026-04-03"
-  },
-  {
-    "title": "Autonomous AI systems depend on data governance",
-    "link": "https://www.artificialintelligence-news.com/news/autonomous-ai-systems-depend-on-data-governance/",
-    "date": "2026-04-03"
-  },
-  {
-    "title": "Experian uncovers fraud paradox in financial services’ AI adoption",
-    "link": "https://www.artificialintelligence-news.com/news/experian-ai-fraud-detection-financial-services-2026/",
-    "date": "2026-04-03"
-  },
-  {
     "title": "Optio - AI 코딩 에이전트를 위한 워크플로 오케스트레이터",
     "link": "https://news.hada.io/topic?id=28183",
     "date": "2026-04-04"
@@ -868,5 +743,125 @@
     "title": "The Moon is already on Google Maps—did Artemis II really tell us anything new?",
     "link": "https://arstechnica.com/space/2026/04/the-moon-is-already-on-google-maps-did-artemis-ii-really-tell-us-anything-new/",
     "date": "2026-04-09"
+  },
+  {
+    "title": "Show GN: 'Blank.' 업데이트 - Gemma 4 전환, 중복 정답 버그 수정, 오답 품질 개선",
+    "link": "https://news.hada.io/topic?id=28363",
+    "date": "2026-04-10"
+  },
+  {
+    "title": "Show GN: set-prompt git레포 기반 프롬프트 저장소 AI에이전트 연결",
+    "link": "https://news.hada.io/topic?id=28362",
+    "date": "2026-04-10"
+  },
+  {
+    "title": "OpenAI, 새 언어 모델 GPT-2를 위험성 이유로 전체 공개 보류 (2019)",
+    "link": "https://news.hada.io/topic?id=28361",
+    "date": "2026-04-10"
+  },
+  {
+    "title": "Anthropic의 청구 오류와 한 달 넘게 답변이 없는 지원 문제",
+    "link": "https://news.hada.io/topic?id=28360",
+    "date": "2026-04-10"
+  },
+  {
+    "title": "간단한 레이더 예시로 이해하는 칼만 필터",
+    "link": "https://news.hada.io/topic?id=28359",
+    "date": "2026-04-10"
+  },
+  {
+    "title": "ChatGPT finally offers $100/month Pro plan",
+    "link": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
+    "date": "2026-04-10"
+  },
+  {
+    "title": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
+    "link": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
+    "date": "2026-04-10"
+  },
+  {
+    "title": "After data breach, $10B-valued startup Mercor is having a month",
+    "link": "https://techcrunch.com/2026/04/09/after-data-breach-10b-valued-startup-mercor-is-having-a-month/",
+    "date": "2026-04-10"
+  },
+  {
+    "title": "Meta AI app climbs to No. 5 on the App Store after Muse Spark launch",
+    "link": "https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/",
+    "date": "2026-04-10"
+  },
+  {
+    "title": "Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?",
+    "link": "https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/",
+    "date": "2026-04-10"
+  },
+  {
+    "title": "CyberAgent moves faster with ChatGPT Enterprise and Codex",
+    "link": "https://openai.com/index/cyberagent",
+    "date": "2026-04-10"
+  },
+  {
+    "title": "OpenAI Full Fan Mode Contest: Terms & Conditions",
+    "link": "https://openai.com/index/full-fan-mode-contest-terms-conditions",
+    "date": "2026-04-10"
+  },
+  {
+    "title": "The Download: AstroTurf wars and exponential AI growth",
+    "link": "https://www.technologyreview.com/2026/04/09/1135514/the-download-astroturf-wars-exponential-ai-growth-desalination-numbers/",
+    "date": "2026-04-10"
+  },
+  {
+    "title": "Is fake grass a bad idea? The AstroTurf wars are far from over.",
+    "link": "https://www.technologyreview.com/2026/04/09/1135092/astroturf-fake-grass-artificial-heated-debates/",
+    "date": "2026-04-10"
+  },
+  {
+    "title": "Desalination technology, by the numbers",
+    "link": "https://www.technologyreview.com/2026/04/09/1135495/desalination-technology-numbers/",
+    "date": "2026-04-10"
+  },
+  {
+    "title": "Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs",
+    "link": "https://huggingface.co/blog/waypoint-1-5",
+    "date": "2026-04-10"
+  },
+  {
+    "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
+    "link": "https://huggingface.co/blog/multimodal-sentence-transformers",
+    "date": "2026-04-10"
+  },
+  {
+    "title": "Orion helium leak no threat to Artemis II reentry, but will require redesign",
+    "link": "https://arstechnica.com/space/2026/04/nasa-homes-in-on-likely-redesign-to-fix-orion-spacecrafts-leaky-valves/",
+    "date": "2026-04-10"
+  },
+  {
+    "title": "RFK Jr. rewrites CDC panel's charter, opening door to anti-vaccine quacks",
+    "link": "https://arstechnica.com/health/2026/04/rfk-jr-rewrites-cdc-panels-charter-opening-door-to-anti-vaccine-quacks/",
+    "date": "2026-04-10"
+  },
+  {
+    "title": "AI on the couch: Anthropic gives Claude 20 hours of psychiatry",
+    "link": "https://arstechnica.com/ai/2026/04/why-anthropic-sent-its-claude-ai-to-an-actual-psychiatrist/",
+    "date": "2026-04-10"
+  },
+  {
+    "title": "Clinical trial shows gene editing works for β-Thalassaemia, too",
+    "link": "https://arstechnica.com/science/2026/04/clinical-trial-shows-gene-editing-works-for-%ce%b2-thalassaemia-too/",
+    "date": "2026-04-10"
+  },
+  {
+    "title": "“Negative” views of Broadcom driving thousands of VMware migrations, rival says",
+    "link": "https://arstechnica.com/information-technology/2026/04/nutanix-claims-it-has-poached-30000-vmware-customers/",
+    "date": "2026-04-10"
+  },
+  {
+    "title": "Agentic AI’s governance challenges under the EU AI Act in 2026",
+    "link": "https://www.artificialintelligence-news.com/news/agentic-ais-governance-challenges-under-the-eu-ai-act-in-2026/",
+    "date": "2026-04-10"
+  },
+  {
+    "title": "Anthropic keeps new AI model private after it finds thousands of external vulnerabilities",
+    "link": "https://www.artificialintelligence-news.com/news/anthropic-keeps-new-ai-model-private-after-it-finds-thousands-of-external-vulnerabilities/",
+    "date": "2026-04-10"
   }
 ]
