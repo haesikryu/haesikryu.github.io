@@ -1,65 +1,5 @@
 [
   {
-    "title": "GPU를 직접 설계하며 배우는 인터랙티브 게임 ‘Mvidia’",
-    "link": "https://news.hada.io/topic?id=28214",
-    "date": "2026-04-05"
-  },
-  {
-    "title": "Delve가 Y Combinator 목록에서 삭제됨",
-    "link": "https://news.hada.io/topic?id=28213",
-    "date": "2026-04-05"
-  },
-  {
-    "title": "SaaS 종말론(SaaSpocalypse)에 대한 반론",
-    "link": "https://news.hada.io/topic?id=28212",
-    "date": "2026-04-05"
-  },
-  {
-    "title": "코드 생성 성능을 향상시키는 놀라울 만큼 단순한 자기 증류 기법",
-    "link": "https://news.hada.io/topic?id=28211",
-    "date": "2026-04-05"
-  },
-  {
-    "title": "Meta 비판 저서 ‘Careless People’ 출간 후 저자에게 부과된 발언 금지 명령",
-    "link": "https://news.hada.io/topic?id=28210",
-    "date": "2026-04-05"
-  },
-  {
-    "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
-    "link": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
-    "date": "2026-04-05"
-  },
-  {
-    "title": "Artemis II is going so well that we're left to talk about frozen urine",
-    "link": "https://arstechnica.com/space/2026/04/artemis-ii-is-going-so-well-that-were-left-to-talk-about-frozen-urine/",
-    "date": "2026-04-05"
-  },
-  {
-    "title": "Tech companies are trying to neuter Colorado’s landmark right-to-repair law",
-    "link": "https://arstechnica.com/tech-policy/2026/04/tech-companies-are-trying-to-neuter-colorados-landmark-right-to-repair-law/",
-    "date": "2026-04-05"
-  },
-  {
-    "title": "Apple, Arm Mac에서 Nvidia eGPU 사용을 허용하는 드라이버 승인",
-    "link": "https://news.hada.io/topic?id=28219",
-    "date": "2026-04-05"
-  },
-  {
-    "title": "감정적 표현이 AI 성능을 바꿀까? — 프롬프트 감정 프레이밍의 실제 효과",
-    "link": "https://news.hada.io/topic?id=28217",
-    "date": "2026-04-05"
-  },
-  {
-    "title": "Microsoft의 ‘Copilot’ 이름을 사용하는 제품은 몇 개인가",
-    "link": "https://news.hada.io/topic?id=28216",
-    "date": "2026-04-05"
-  },
-  {
-    "title": "AgentNews — 에이전트를 위한 해커뉴스",
-    "link": "https://news.hada.io/topic?id=28215",
-    "date": "2026-04-05"
-  },
-  {
     "title": "Show GN: 모두를 위한 투자 - 흩어진 정보를 한 곳에, 근데 AI 분석을 곁들인",
     "link": "https://news.hada.io/topic?id=28235",
     "date": "2026-04-06"
@@ -963,5 +903,60 @@
     "title": "Why companies like Apple are building AI agents with limits",
     "link": "https://www.artificialintelligence-news.com/news/why-companies-like-apple-are-building-ai-agents-with-limits/",
     "date": "2026-04-11"
+  },
+  {
+    "title": "AI 사이버보안의 새로운 경계: Mythos 이후의 현실",
+    "link": "https://news.hada.io/topic?id=28428",
+    "date": "2026-04-12"
+  },
+  {
+    "title": "Managed Agents 확장하기: 두뇌와 손을 분리하기",
+    "link": "https://news.hada.io/topic?id=28427",
+    "date": "2026-04-12"
+  },
+  {
+    "title": "아르테미스 II, 역사적 달 임무 후 샌디에이고 인근 해상에 안전 착수",
+    "link": "https://news.hada.io/topic?id=28426",
+    "date": "2026-04-12"
+  },
+  {
+    "title": "Arcmark - macOS용 브라우저 사이드북마크 관리자",
+    "link": "https://news.hada.io/topic?id=28425",
+    "date": "2026-04-12"
+  },
+  {
+    "title": "Microsoft, 주요 오픈소스 프로젝트 개발자 계정 정지",
+    "link": "https://news.hada.io/topic?id=28424",
+    "date": "2026-04-12"
+  },
+  {
+    "title": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
+    "link": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
+    "date": "2026-04-12"
+  },
+  {
+    "title": "Healthcare",
+    "link": "https://openai.com/academy/healthcare",
+    "date": "2026-04-12"
+  },
+  {
+    "title": "Using skills",
+    "link": "https://openai.com/academy/skills",
+    "date": "2026-04-12"
+  },
+  {
+    "title": "Writing with ChatGPT",
+    "link": "https://openai.com/academy/writing",
+    "date": "2026-04-12"
+  },
+  {
+    "title": "ChatGPT for marketing teams",
+    "link": "https://openai.com/academy/marketing",
+    "date": "2026-04-12"
+  },
+  {
+    "title": "AI models are terrible at betting on soccer—especially xAI Grok",
+    "link": "https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at-betting-on-soccer-especially-xai-grok/",
+    "date": "2026-04-12"
   }
 ]
