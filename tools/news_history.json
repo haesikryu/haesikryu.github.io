@@ -958,5 +958,40 @@
     "title": "AI models are terrible at betting on soccer—especially xAI Grok",
     "link": "https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at-betting-on-soccer-especially-xai-grok/",
     "date": "2026-04-12"
+  },
+  {
+    "title": "프랑스 정부, 미국 기술 의존을 전략적 위험으로 보고 Windows에서 Linux로 전환",
+    "link": "https://news.hada.io/topic?id=28434",
+    "date": "2026-04-12"
+  },
+  {
+    "title": "AWS에서의 20년과 결코 내 일이 아니었던 적이 없던 시간",
+    "link": "https://news.hada.io/topic?id=28433",
+    "date": "2026-04-12"
+  },
+  {
+    "title": "Show GN: OCR 번역기 - VLM 기반 윈도우용 rust/slint 앱",
+    "link": "https://news.hada.io/topic?id=28431",
+    "date": "2026-04-12"
+  },
+  {
+    "title": "Meta의 HyperAgents — 에이전트가 스스로 자신의 하네스를 설계할 때",
+    "link": "https://news.hada.io/topic?id=28430",
+    "date": "2026-04-12"
+  },
+  {
+    "title": "HyperAgents: Meta AI의 자기 개선 에이전트 프레임워크",
+    "link": "https://news.hada.io/topic?id=28429",
+    "date": "2026-04-12"
+  },
+  {
+    "title": "Using projects in ChatGPT",
+    "link": "https://openai.com/academy/projects",
+    "date": "2026-04-12"
+  },
+  {
+    "title": "Our response to the Axios developer tool compromise",
+    "link": "https://openai.com/index/axios-developer-tool-compromise",
+    "date": "2026-04-12"
   }
 ]
