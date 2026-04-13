@@ -1,105 +1,5 @@
 [
   {
-    "title": "Show GN: 모두를 위한 투자 - 흩어진 정보를 한 곳에, 근데 AI 분석을 곁들인",
-    "link": "https://news.hada.io/topic?id=28235",
-    "date": "2026-04-06"
-  },
-  {
-    "title": "금이 미 국채를 제치고 세계 최대 외환보유자산으로 부상",
-    "link": "https://news.hada.io/topic?id=28234",
-    "date": "2026-04-06"
-  },
-  {
-    "title": "코딩 에이전트의 구성 요소",
-    "link": "https://news.hada.io/topic?id=28232",
-    "date": "2026-04-06"
-  },
-  {
-    "title": "특이한 나무들",
-    "link": "https://news.hada.io/topic?id=28231",
-    "date": "2026-04-06"
-  },
-  {
-    "title": "독일 남성 18~45세, 해외 장기 체류 시 군 허가 필요",
-    "link": "https://news.hada.io/topic?id=28230",
-    "date": "2026-04-06"
-  },
-  {
-    "title": "Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use",
-    "link": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
-    "date": "2026-04-06"
-  },
-  {
-    "title": "Can orbital data centers help justify a massive valuation for SpaceX?",
-    "link": "https://techcrunch.com/2026/04/05/can-orbital-data-centers-help-justify-a-massive-valuation-for-spacex/",
-    "date": "2026-04-06"
-  },
-  {
-    "title": "In Japan, the robot isn’t coming for your job; it’s filling the one nobody wants",
-    "link": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
-    "date": "2026-04-06"
-  },
-  {
-    "title": "CBP facility codes sure seem to have leaked via online flashcards",
-    "link": "https://arstechnica.com/security/2026/04/cbp-facility-codes-sure-seem-to-have-leaked-via-online-flashcards/",
-    "date": "2026-04-06"
-  },
-  {
-    "title": "Show GN: ROACH PI – AI 코딩 에이전트에 엔지니어링 규율을 씌우는 오픈소스 확장",
-    "link": "https://news.hada.io/topic?id=28257",
-    "date": "2026-04-06"
-  },
-  {
-    "title": "왜 스위스에는 25Gbps 인터넷이 있고 미국에는 없는가",
-    "link": "https://news.hada.io/topic?id=28256",
-    "date": "2026-04-06"
-  },
-  {
-    "title": "Show GN: Claude Code랑 같이 쓰려고 만든 터미널 Sticker",
-    "link": "https://news.hada.io/topic?id=28255",
-    "date": "2026-04-06"
-  },
-  {
-    "title": "Show GN: RHWP - Rust로 만든 오픈소스 HWP/HWPX 파서 및 웹 에디터",
-    "link": "https://news.hada.io/topic?id=28254",
-    "date": "2026-04-06"
-  },
-  {
-    "title": "Ubuntu의 RAM 요구사항이 Windows 11보다 높아짐",
-    "link": "https://news.hada.io/topic?id=28253",
-    "date": "2026-04-06"
-  },
-  {
-    "title": "Helping disaster response teams turn AI into action across Asia",
-    "link": "https://openai.com/index/helping-disaster-response-teams-asia",
-    "date": "2026-04-06"
-  },
-  {
-    "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-    "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-    "date": "2026-04-06"
-  },
-  {
-    "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-    "link": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-    "date": "2026-04-06"
-  },
-  {
-    "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-    "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
-    "date": "2026-04-06"
-  },
-  {
-    "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-    "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-    "date": "2026-04-06"
-  },
-  {
-    "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
-    "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
-    "date": "2026-04-06"
-  },
-  {
     "title": "InsForge - AI 코딩 에이전트를 위한 에이전틱 백엔드 플랫폼",
     "link": "https://news.hada.io/topic?id=28269",
     "date": "2026-04-07"
@@ -993,5 +893,90 @@
     "title": "Our response to the Axios developer tool compromise",
     "link": "https://openai.com/index/axios-developer-tool-compromise",
     "date": "2026-04-12"
+  },
+  {
+    "title": "GitButler — GitHub 공동창업자가 만든 AI 시대를 위한 Git 재설계, a16z $1,700만 Series A 투자 유치",
+    "link": "https://news.hada.io/topic?id=28488",
+    "date": "2026-04-13"
+  },
+  {
+    "title": "macOS용 작업 표시줄 스타일 Dock 대체 도구 boringBar",
+    "link": "https://news.hada.io/topic?id=28485",
+    "date": "2026-04-13"
+  },
+  {
+    "title": "취약점 없이도 뚫린다 — 오픈소스 개발자를 노린 '신뢰 기반' 공격의 실체",
+    "link": "https://news.hada.io/topic?id=28484",
+    "date": "2026-04-13"
+  },
+  {
+    "title": "DIY 소프트드링크",
+    "link": "https://news.hada.io/topic?id=28483",
+    "date": "2026-04-13"
+  },
+  {
+    "title": "Vibe coding 이후 오픈소스 커뮤니티에 대한 고민",
+    "link": "https://news.hada.io/topic?id=28482",
+    "date": "2026-04-13"
+  },
+  {
+    "title": "The largest orbital compute cluster is open for business",
+    "link": "https://techcrunch.com/2026/04/13/the-largest-orbital-compute-cluster-is-open-for-business/",
+    "date": "2026-04-13"
+  },
+  {
+    "title": "Trump officials may be encouraging banks to test Anthropic’s Mythos model",
+    "link": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
+    "date": "2026-04-13"
+  },
+  {
+    "title": "Apple reportedly testing four designs for upcoming smart glasses",
+    "link": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/",
+    "date": "2026-04-13"
+  },
+  {
+    "title": "From LLMs to hallucinations, here’s a simple guide to common AI terms",
+    "link": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "date": "2026-04-13"
+  },
+  {
+    "title": "At the HumanX conference, everyone was talking about Claude",
+    "link": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/",
+    "date": "2026-04-13"
+  },
+  {
+    "title": "ChatGPT for finance teams",
+    "link": "https://openai.com/academy/finance",
+    "date": "2026-04-13"
+  },
+  {
+    "title": "ChatGPT for research",
+    "link": "https://openai.com/academy/research",
+    "date": "2026-04-13"
+  },
+  {
+    "title": "Financial services",
+    "link": "https://openai.com/academy/financial-services",
+    "date": "2026-04-13"
+  },
+  {
+    "title": "Responsible and safe use of AI",
+    "link": "https://openai.com/academy/responsible-and-safe-use",
+    "date": "2026-04-13"
+  },
+  {
+    "title": "Job titles of the future: Wildlife first responder",
+    "link": "https://www.technologyreview.com/2026/04/13/1135156/job-titles-wildlife-first-responder-wesley-sarmento/",
+    "date": "2026-04-13"
+  },
+  {
+    "title": "You have no choice in reading this article—maybe",
+    "link": "https://www.technologyreview.com/2026/04/13/1135162/uri-maoz-does-free-will-exist/",
+    "date": "2026-04-13"
+  },
+  {
+    "title": "Shock from Iran war has Trump's vision for US energy dominance flailing",
+    "link": "https://arstechnica.com/science/2026/04/shock-from-iran-war-has-trumps-vision-for-us-energy-dominance-flailing/",
+    "date": "2026-04-13"
   }
 ]
