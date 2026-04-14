@@ -1,145 +1,5 @@
 [
   {
-    "title": "InsForge - AI 코딩 에이전트를 위한 에이전틱 백엔드 플랫폼",
-    "link": "https://news.hada.io/topic?id=28269",
-    "date": "2026-04-07"
-  },
-  {
-    "title": "Lisette — Rust 문법 기반으로 Go 런타임에 컴파일되는 소형 언어",
-    "link": "https://news.hada.io/topic?id=28268",
-    "date": "2026-04-07"
-  },
-  {
-    "title": "Show GN: seCall 터미널에이전트 대화 로그를 옵시디언에 정리하고 기억으로 사용해보세요",
-    "link": "https://news.hada.io/topic?id=28267",
-    "date": "2026-04-07"
-  },
-  {
-    "title": "프로그래밍을 위한 음악",
-    "link": "https://news.hada.io/topic?id=28266",
-    "date": "2026-04-07"
-  },
-  {
-    "title": "LM Studio Headless CLI와 Claude Code로 로컬에서 Google Gemma 4 실행하기",
-    "link": "https://news.hada.io/topic?id=28265",
-    "date": "2026-04-07"
-  },
-  {
-    "title": "OpenAI alums have been quietly investing from a new, potentially $100M fund",
-    "link": "https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/",
-    "date": "2026-04-07"
-  },
-  {
-    "title": "Google quietly launched an AI dictation app that works offline",
-    "link": "https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
-    "date": "2026-04-07"
-  },
-  {
-    "title": "Iran threatens ‘Stargate’ AI data centers",
-    "link": "https://techcrunch.com/2026/04/06/iran-threatens-stargate-ai-data-centers/",
-    "date": "2026-04-07"
-  },
-  {
-    "title": "OpenAI’s vision for the AI economy: public wealth funds, robot taxes, and a four-day workweek",
-    "link": "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/",
-    "date": "2026-04-07"
-  },
-  {
-    "title": "Startup Battlefield 200 applications open: a chance for VC access, TechCrunch coverage, and $100K",
-    "link": "https://techcrunch.com/2026/04/06/startup-battlefield-200-applications-open-get-vc-access-techcrunch-coverage-and-100k/",
-    "date": "2026-04-07"
-  },
-  {
-    "title": "Announcing the OpenAI Safety Fellowship",
-    "link": "https://openai.com/index/introducing-openai-safety-fellowship",
-    "date": "2026-04-07"
-  },
-  {
-    "title": "Industrial policy for the Intelligence Age",
-    "link": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
-    "date": "2026-04-07"
-  },
-  {
-    "title": "The one piece of data that could actually shed light on your job and AI",
-    "link": "https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/",
-    "date": "2026-04-07"
-  },
-  {
-    "title": "AI is changing how small online sellers decide what to make",
-    "link": "https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/",
-    "date": "2026-04-07"
-  },
-  {
-    "title": "Any Custom Frontend with Gradio's Backend",
-    "link": "https://huggingface.co/blog/introducing-gradio-server",
-    "date": "2026-04-07"
-  },
-  {
-    "title": "After court loss, RFK Jr. gives himself more power over CDC vaccine panel",
-    "link": "https://arstechnica.com/health/2026/04/after-court-loss-rfk-jr-gives-himself-more-power-over-cdc-vaccine-panel/",
-    "date": "2026-04-07"
-  },
-  {
-    "title": "From folding boxes to fixing vacuums, GEN-1 robotics model hits 99% reliability",
-    "link": "https://arstechnica.com/ai/2026/04/generalists-new-physical-robotics-ai-brings-production-level-success-rates/",
-    "date": "2026-04-07"
-  },
-  {
-    "title": "Sports bets on prediction markets ruled to be \"swaps,\" exempt from state laws",
-    "link": "https://arstechnica.com/tech-policy/2026/04/sports-bets-on-prediction-markets-ruled-to-be-swaps-exempt-from-state-laws/",
-    "date": "2026-04-07"
-  },
-  {
-    "title": "Trump's next budget once again calls for massive cuts to science",
-    "link": "https://arstechnica.com/science/2026/04/trumps-next-budget-once-again-calls-for-massive-cuts-to-science/",
-    "date": "2026-04-07"
-  },
-  {
-    "title": "“The problem is Sam Altman”: OpenAI Insiders don’t trust CEO",
-    "link": "https://arstechnica.com/tech-policy/2026/04/the-problem-is-sam-altman-openai-insiders-dont-trust-ceo/",
-    "date": "2026-04-07"
-  },
-  {
-    "title": "As AI agents take on more tasks, governance becomes a priority",
-    "link": "https://www.artificialintelligence-news.com/news/as-ai-agents-take-on-more-tasks-governance-becomes-a-priority/",
-    "date": "2026-04-07"
-  },
-  {
-    "title": "멀티 에이전트 오케스트레이션은 왜 잘 안 되는가?",
-    "link": "https://news.hada.io/topic?id=28283",
-    "date": "2026-04-07"
-  },
-  {
-    "title": "구글에서 공개한 iOS 전용 Gemma4 온디바이스 구동 최적화 앱",
-    "link": "https://news.hada.io/topic?id=28282",
-    "date": "2026-04-07"
-  },
-  {
-    "title": "Show GN: StyleSeed – AI 코딩 도구에 디자인 감각을 심어주는 오픈소스 (2,200줄 디자인 규칙)",
-    "link": "https://news.hada.io/topic?id=28281",
-    "date": "2026-04-07"
-  },
-  {
-    "title": "크롬 제로데이 취약점 CVE-2026-5281이 활발히 공격받고 있습니다",
-    "link": "https://news.hada.io/topic?id=28280",
-    "date": "2026-04-07"
-  },
-  {
-    "title": "Bluesky, Claude 기반 AI 앱 Attie 공개",
-    "link": "https://news.hada.io/topic?id=28278",
-    "date": "2026-04-07"
-  },
-  {
-    "title": "AI startup Rocket offers vibe McKinsey-style reports at a fraction of the cost",
-    "link": "https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/",
-    "date": "2026-04-07"
-  },
-  {
-    "title": "Astronauts set distance record, revealing the Moon as a place to be explored",
-    "link": "https://arstechnica.com/space/2026/04/astronauts-set-distance-record-revealing-the-moon-as-a-place-to-be-explored/",
-    "date": "2026-04-07"
-  },
-  {
     "title": "YouTube 고급 검색 - Playlists.at",
     "link": "https://news.hada.io/topic?id=28292",
     "date": "2026-04-08"
@@ -978,5 +838,140 @@
     "title": "Shock from Iran war has Trump's vision for US energy dominance flailing",
     "link": "https://arstechnica.com/science/2026/04/shock-from-iran-war-has-trumps-vision-for-us-energy-dominance-flailing/",
     "date": "2026-04-13"
+  },
+  {
+    "title": "Axios 라이브러리의 헤더 주입(CRLF)을 악용한 클라우드 서버 권한 탈취 취약점",
+    "link": "https://news.hada.io/topic?id=28503",
+    "date": "2026-04-14"
+  },
+  {
+    "title": "소프트웨어 팀의 경제학: 대부분의 엔지니어링 조직이 재무적으로 ‘눈을 가린’ 이유",
+    "link": "https://news.hada.io/topic?id=28502",
+    "date": "2026-04-14"
+  },
+  {
+    "title": "Apple의 우연한 해자: ‘AI 패배자’가 승자가 될 수 있는 이유",
+    "link": "https://news.hada.io/topic?id=28501",
+    "date": "2026-04-14"
+  },
+  {
+    "title": "Happy - Codex 및 Claude Code용 모바일/웹 클라이언트",
+    "link": "https://news.hada.io/topic?id=28500",
+    "date": "2026-04-14"
+  },
+  {
+    "title": "Servo가 crates.io에서 이용 가능해짐",
+    "link": "https://news.hada.io/topic?id=28499",
+    "date": "2026-04-14"
+  },
+  {
+    "title": "OpenAI has bought AI personal finance startup Hiro",
+    "link": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
+    "date": "2026-04-14"
+  },
+  {
+    "title": "Microsoft is working on yet another OpenClaw-like agent",
+    "link": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/",
+    "date": "2026-04-14"
+  },
+  {
+    "title": "Stanford report highlights growing disconnect between AI insiders and everyone else",
+    "link": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
+    "date": "2026-04-14"
+  },
+  {
+    "title": "Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge",
+    "link": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/",
+    "date": "2026-04-14"
+  },
+  {
+    "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
+    "link": "https://openai.com/index/cloudflare-openai-agent-cloud",
+    "date": "2026-04-14"
+  },
+  {
+    "title": "ChatGPT for operations teams",
+    "link": "https://openai.com/academy/operations",
+    "date": "2026-04-14"
+  },
+  {
+    "title": "Brainstorming with ChatGPT",
+    "link": "https://openai.com/academy/brainstorming",
+    "date": "2026-04-14"
+  },
+  {
+    "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+    "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+    "date": "2026-04-14"
+  },
+  {
+    "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+    "link": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+    "date": "2026-04-14"
+  },
+  {
+    "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+    "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+    "date": "2026-04-14"
+  },
+  {
+    "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+    "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+    "date": "2026-04-14"
+  },
+  {
+    "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
+    "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+    "date": "2026-04-14"
+  },
+  {
+    "title": "Why opinion on AI is so divided",
+    "link": "https://www.technologyreview.com/2026/04/13/1135720/why-opinion-on-ai-is-so-divided/",
+    "date": "2026-04-14"
+  },
+  {
+    "title": "Want to understand the current state of AI? Check out these charts.",
+    "link": "https://www.technologyreview.com/2026/04/13/1135675/want-to-understand-the-current-state-of-ai-check-out-these-charts/",
+    "date": "2026-04-14"
+  },
+  {
+    "title": "The Download: how humans make decisions, and Moderna’s “vaccine” word games",
+    "link": "https://www.technologyreview.com/2026/04/13/1135707/the-download-how-humans-make-decisions-and-modernas-vaccine-word-games/",
+    "date": "2026-04-14"
+  },
+  {
+    "title": "Retro Rewind re-creates the glorious drudgery of working a '90s video store",
+    "link": "https://arstechnica.com/gaming/2026/04/retro-rewind-re-creates-the-glorious-drudgery-of-working-a-90s-video-store/",
+    "date": "2026-04-14"
+  },
+  {
+    "title": "Measles takes a plane to Idaho, which has worst vaccination rate in US",
+    "link": "https://arstechnica.com/health/2026/04/airport-measles-case-reported-in-idaho-state-with-lowest-vaccination-rate/",
+    "date": "2026-04-14"
+  },
+  {
+    "title": "Google shoehorned Rust into Pixel 10 modem to make legacy code safer",
+    "link": "https://arstechnica.com/gadgets/2026/04/google-shoehorned-rust-into-pixel-10-modem-to-make-legacy-code-safer/",
+    "date": "2026-04-14"
+  },
+  {
+    "title": "NZXT agrees to let customers keep their rental PCs in class-action settlement",
+    "link": "https://arstechnica.com/gadgets/2026/04/nzxt-agrees-to-3-45-million-settlement-over-controversial-rental-pc-program/",
+    "date": "2026-04-14"
+  },
+  {
+    "title": "Your tech support company runs scams. Stop—or disguise with more fraud?",
+    "link": "https://arstechnica.com/tech-policy/2026/04/your-tech-support-company-runs-scams-stop-or-disguise-with-more-fraud/",
+    "date": "2026-04-14"
+  },
+  {
+    "title": "Strengthening enterprise governance for rising edge AI workloads",
+    "link": "https://www.artificialintelligence-news.com/news/strengthening-enterprise-governance-for-rising-edge-ai-workloads/",
+    "date": "2026-04-14"
+  },
+  {
+    "title": "Companies expand AI adoption while keeping control",
+    "link": "https://www.artificialintelligence-news.com/news/companies-expand-ai-adoption-while-keeping-control/",
+    "date": "2026-04-14"
   }
 ]
