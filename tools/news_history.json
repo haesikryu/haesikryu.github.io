@@ -1,155 +1,5 @@
 [
   {
-    "title": "YouTube 고급 검색 - Playlists.at",
-    "link": "https://news.hada.io/topic?id=28292",
-    "date": "2026-04-08"
-  },
-  {
-    "title": "독일 경찰, GandCrab·REvil 랜섬웨어 조직의 러시아인 수장 실명 공개",
-    "link": "https://news.hada.io/topic?id=28291",
-    "date": "2026-04-08"
-  },
-  {
-    "title": "Adobe가 Creative Cloud 설치 여부를 감지하기 위해 hosts 파일을 수정함",
-    "link": "https://news.hada.io/topic?id=28290",
-    "date": "2026-04-08"
-  },
-  {
-    "title": "81세 다저스 팬, 스마트폰이 없어 더 이상 티켓을 구매할 수 없음",
-    "link": "https://news.hada.io/topic?id=28289",
-    "date": "2026-04-08"
-  },
-  {
-    "title": "AI 챗봇에 가짜 질병을 물어봤더니… &quot;실제 병입니다&quot;라고 답했다",
-    "link": "https://news.hada.io/topic?id=28288",
-    "date": "2026-04-08"
-  },
-  {
-    "title": "I can’t help rooting for tiny open source AI model maker Arcee",
-    "link": "https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/",
-    "date": "2026-04-08"
-  },
-  {
-    "title": "Firmus, the ‘Southgate’ AI data center builder backed by Nvidia, hits $5.5B valuation",
-    "link": "https://techcrunch.com/2026/04/07/firmus-the-southgate-ai-datacenter-builder-backed-by-nvidia-hits-5-5b-valuation/",
-    "date": "2026-04-08"
-  },
-  {
-    "title": "Intel signs on to Elon Musk’s Terafab chips project",
-    "link": "https://techcrunch.com/2026/04/07/intel-signs-on-to-elon-musks-terafab-chips-project/",
-    "date": "2026-04-08"
-  },
-  {
-    "title": "Anthropic debuts preview of powerful new AI model Mythos in new cybersecurity initiative",
-    "link": "https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/",
-    "date": "2026-04-08"
-  },
-  {
-    "title": "Uber is the latest to be won over by Amazon’s AI chips",
-    "link": "https://techcrunch.com/2026/04/07/uber-is-the-latest-to-be-won-over-by-amazons-ai-chips/",
-    "date": "2026-04-08"
-  },
-  {
-    "title": "Desalination plants in the Middle East are increasingly vulnerable",
-    "link": "https://www.technologyreview.com/2026/04/07/1135235/desalination-technology-water/",
-    "date": "2026-04-08"
-  },
-  {
-    "title": "Enabling agent-first process redesign",
-    "link": "https://www.technologyreview.com/2026/04/07/1134966/enabling-agent-first-process-redesign/",
-    "date": "2026-04-08"
-  },
-  {
-    "title": "The Download: AI’s impact on jobs, and data centres in space",
-    "link": "https://www.technologyreview.com/2026/04/07/1135208/the-download-ai-impact-jobs-data-centres-space/",
-    "date": "2026-04-08"
-  },
-  {
-    "title": "Valve brings native Steam Link app to Apple's Vision Pro",
-    "link": "https://arstechnica.com/gaming/2026/04/valve-brings-native-steam-link-app-to-apples-vision-pro/",
-    "date": "2026-04-08"
-  },
-  {
-    "title": "Apple and Lenovo have the least repairable laptops, analysis finds",
-    "link": "https://arstechnica.com/gadgets/2026/04/apple-has-the-lowest-grades-in-laptop-phone-repairability-analysis/",
-    "date": "2026-04-08"
-  },
-  {
-    "title": "What the heck is wrong with our AI overlords?",
-    "link": "https://arstechnica.com/tech-policy/2026/04/what-the-heck-is-wrong-with-our-ai-overlords/",
-    "date": "2026-04-08"
-  },
-  {
-    "title": "Bluesky users are mastering the fine art of blaming everything on \"vibe coding\"",
-    "link": "https://arstechnica.com/ai/2026/04/bluesky-users-are-mastering-the-fine-art-of-blaming-everything-on-vibe-coding/",
-    "date": "2026-04-08"
-  },
-  {
-    "title": "SCOTUS overturns 5th Circuit ruling that told ISP to kick pirates off Internet",
-    "link": "https://arstechnica.com/tech-policy/2026/04/scotus-overturns-5th-circuit-ruling-that-told-isp-to-kick-pirates-off-internet/",
-    "date": "2026-04-08"
-  },
-  {
-    "title": "Asylon and Thrive Logic bring physical AI to enterprise perimeter security",
-    "link": "https://www.artificialintelligence-news.com/news/physical-ai-security-at-the-enterprise-perimeter-takes-a-step-closer/",
-    "date": "2026-04-08"
-  },
-  {
-    "title": "Boomi calls it “data activation” and says it’s the missing step in every AI deployment",
-    "link": "https://www.artificialintelligence-news.com/news/boomi-agentic-ai-data-activation-missing-step/",
-    "date": "2026-04-08"
-  },
-  {
-    "title": "Anthropic’s refusal to arm AI is exactly why the UK wants it",
-    "link": "https://www.artificialintelligence-news.com/news/anthropic-uk-expansion-london-pentagon/",
-    "date": "2026-04-08"
-  },
-  {
-    "title": "macOS에 숨어있던 49일짜리 시한폭탄 — TCP 네트워킹이 완전히 멈추는 커널 버그 전말",
-    "link": "https://news.hada.io/topic?id=28312",
-    "date": "2026-04-08"
-  },
-  {
-    "title": "GoClaw: OpenClaw를 Go로 재구성한 멀티 에이전트 게이트웨이 (보안·성능 중심 재설계)",
-    "link": "https://news.hada.io/topic?id=28310",
-    "date": "2026-04-08"
-  },
-  {
-    "title": "Amazon S3 Files 출시 – S3 버킷을 파일 시스템처럼 접근 가능",
-    "link": "https://news.hada.io/topic?id=28309",
-    "date": "2026-04-08"
-  },
-  {
-    "title": "아폴로 11 유도 컴퓨터 코드에서 발견된 문서화되지 않은 버그",
-    "link": "https://news.hada.io/topic?id=28308",
-    "date": "2026-04-08"
-  },
-  {
-    "title": "Google, 실험적 에이전트 오케스트레이션 테스트베드 Scion 오픈소스 공개",
-    "link": "https://news.hada.io/topic?id=28307",
-    "date": "2026-04-08"
-  },
-  {
-    "title": "Google quietly launched an AI dictation app that works offline",
-    "link": "https://techcrunch.com/2026/04/07/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
-    "date": "2026-04-08"
-  },
-  {
-    "title": "Build with Veo 3.1 Lite, our most cost-effective video generation model",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/",
-    "date": "2026-04-08"
-  },
-  {
-    "title": "Falcon Perception",
-    "link": "https://huggingface.co/blog/tiiuae/falcon-perception",
-    "date": "2026-04-08"
-  },
-  {
-    "title": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
-    "link": "https://huggingface.co/blog/ibm-granite/granite-4-vision",
-    "date": "2026-04-08"
-  },
-  {
     "title": "12,000톤의 오렌지 껍질이 예상치 못한 숲을 만든 이야기",
     "link": "https://news.hada.io/topic?id=28322",
     "date": "2026-04-09"
@@ -998,5 +848,140 @@
     "title": "홈랩 2026 현황: 셀프호스팅 취미의 진화",
     "link": "https://news.hada.io/topic?id=28509",
     "date": "2026-04-14"
+  },
+  {
+    "title": "CUDA에 도전하는 ROCm: ‘한 걸음씩 나아가기’",
+    "link": "https://news.hada.io/topic?id=28524",
+    "date": "2026-04-15"
+  },
+  {
+    "title": "모든 것의 미래는 거짓인가: 안전",
+    "link": "https://news.hada.io/topic?id=28523",
+    "date": "2026-04-15"
+  },
+  {
+    "title": "Cloudflare 전 제품을 아우르는 통합 CLI 구축",
+    "link": "https://news.hada.io/topic?id=28522",
+    "date": "2026-04-15"
+  },
+  {
+    "title": "올해의 해킹 타임라인은 미쳤다",
+    "link": "https://news.hada.io/topic?id=28521",
+    "date": "2026-04-15"
+  },
+  {
+    "title": "기존 KV 압축 기법 대비 최대 25% 추가 절감, 성능은 오히려 개선 — CASK",
+    "link": "https://news.hada.io/topic?id=28520",
+    "date": "2026-04-15"
+  },
+  {
+    "title": "Anthropic co-founder confirms the company briefed the Trump administration on Mythos",
+    "link": "https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos/",
+    "date": "2026-04-15"
+  },
+  {
+    "title": "Max Hodak’s Science Corp. is preparing to place its first sensor in a human brain",
+    "link": "https://techcrunch.com/2026/04/14/max-hodaks-science-corp-is-preparing-to-place-its-first-sensor-in-a-human-brain/",
+    "date": "2026-04-15"
+  },
+  {
+    "title": "Google adds AI Skills to Chrome to help you save favorite workflows",
+    "link": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/",
+    "date": "2026-04-15"
+  },
+  {
+    "title": "In just a couple weeks, StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together",
+    "link": "https://techcrunch.com/2026/04/14/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/",
+    "date": "2026-04-15"
+  },
+  {
+    "title": "Google brings its Gemini Personal Intelligence feature to India",
+    "link": "https://techcrunch.com/2026/04/14/google-brings-its-gemini-personal-intelligence-feature-to-india/",
+    "date": "2026-04-15"
+  },
+  {
+    "title": "Trusted access for the next era of cyber defense",
+    "link": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
+    "date": "2026-04-15"
+  },
+  {
+    "title": "Getting started with ChatGPT",
+    "link": "https://openai.com/academy/getting-started",
+    "date": "2026-04-15"
+  },
+  {
+    "title": "Turn your best AI prompts into one-click tools in Chrome",
+    "link": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
+    "date": "2026-04-15"
+  },
+  {
+    "title": "Bringing people together at AI for the Economy Forum",
+    "link": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/ai-economy-forum/",
+    "date": "2026-04-15"
+  },
+  {
+    "title": "Redefining the future of software engineering",
+    "link": "https://www.technologyreview.com/2026/04/14/1134397/redefining-the-future-of-software-engineering/",
+    "date": "2026-04-15"
+  },
+  {
+    "title": "The Download: the state of AI, and protecting bears with drones",
+    "link": "https://www.technologyreview.com/2026/04/14/1135847/the-download-state-of-ai-drones-protecting-bears/",
+    "date": "2026-04-15"
+  },
+  {
+    "title": "NASA is building the first nuclear reactor-powered interplanetary spacecraft. How will it work?",
+    "link": "https://www.technologyreview.com/2026/04/14/1135848/nasa-nuclear-powered-spacecraft/",
+    "date": "2026-04-15"
+  },
+  {
+    "title": "Coming soon: 10 Things That Matter in AI Right Now",
+    "link": "https://www.technologyreview.com/2026/04/14/1135298/coming-soon-10-things-that-matter-in-ai-right-now/",
+    "date": "2026-04-15"
+  },
+  {
+    "title": "The problem with thinking you’re part Neanderthal",
+    "link": "https://www.technologyreview.com/2026/04/14/1135169/problem-thinking-part-neanderthal-human-evolution/",
+    "date": "2026-04-15"
+  },
+  {
+    "title": "Ukraine’s military robot surge aims to offset drone risks to humans",
+    "link": "https://arstechnica.com/ai/2026/04/ukraines-military-robot-surge-aims-to-offset-drone-risks-to-humans/",
+    "date": "2026-04-15"
+  },
+  {
+    "title": "Sony killing features for antenna, set-top box users of Bravia smart TVs in May",
+    "link": "https://arstechnica.com/gadgets/2026/04/sony-killing-features-for-antenna-set-top-box-users-of-bravia-smart-tvs-in-may/",
+    "date": "2026-04-15"
+  },
+  {
+    "title": "Americans ask AI for health care. Hospitals think the answer is more chatbots.",
+    "link": "https://arstechnica.com/health/2026/04/americans-ask-ai-for-health-care-hospitals-think-the-answer-is-more-chatbots/",
+    "date": "2026-04-15"
+  },
+  {
+    "title": "Two-year-old Surface PCs get $300 price hikes as sub-$1,000 models go away",
+    "link": "https://arstechnica.com/gadgets/2026/04/two-year-old-surface-pcs-get-300-price-hikes-as-sub-1000-models-go-away/",
+    "date": "2026-04-15"
+  },
+  {
+    "title": "Apple chooses Amazon satellites for iPhone, years after rejecting Starlink offer",
+    "link": "https://arstechnica.com/tech-policy/2026/04/amazon-to-merge-with-globalstar-become-iphones-primary-satellite-provider/",
+    "date": "2026-04-15"
+  },
+  {
+    "title": "SAP brings agentic AI to human capital management",
+    "link": "https://www.artificialintelligence-news.com/news/sap-brings-agentic-ai-human-capital-management/",
+    "date": "2026-04-15"
+  },
+  {
+    "title": "Canada’s Scotiabank preps for its AI future",
+    "link": "https://www.artificialintelligence-news.com/news/canadas-scotiabank-preps-for-its-ai-future/",
+    "date": "2026-04-15"
+  },
+  {
+    "title": "Hyundai expands into robotics and physical AI systems",
+    "link": "https://www.artificialintelligence-news.com/news/hyundai-expands-into-robotics-and-physical-ai-systems/",
+    "date": "2026-04-15"
   }
 ]
