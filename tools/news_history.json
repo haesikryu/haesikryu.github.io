@@ -1,165 +1,5 @@
 [
   {
-    "title": "12,000톤의 오렌지 껍질이 예상치 못한 숲을 만든 이야기",
-    "link": "https://news.hada.io/topic?id=28322",
-    "date": "2026-04-09"
-  },
-  {
-    "title": "macOS에서 49.7일 후 TCP 네트워킹이 중단되는 버그 발견",
-    "link": "https://news.hada.io/topic?id=28321",
-    "date": "2026-04-09"
-  },
-  {
-    "title": "Claude Mythos Preview의 사이버보안 능력 평가",
-    "link": "https://news.hada.io/topic?id=28320",
-    "date": "2026-04-09"
-  },
-  {
-    "title": "모든 시대를 바꾼 GPU의 30년 연대기",
-    "link": "https://news.hada.io/topic?id=28319",
-    "date": "2026-04-09"
-  },
-  {
-    "title": "Cloudflare에서 Bunny.net으로 전환",
-    "link": "https://news.hada.io/topic?id=28318",
-    "date": "2026-04-09"
-  },
-  {
-    "title": "AI agent Poke makes setting up automations as easy as sending a text",
-    "link": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/",
-    "date": "2026-04-09"
-  },
-  {
-    "title": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict",
-    "link": "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/",
-    "date": "2026-04-09"
-  },
-  {
-    "title": "Tubi is the first streamer to launch a native app within ChatGPT",
-    "link": "https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/",
-    "date": "2026-04-09"
-  },
-  {
-    "title": "Astropad’s Workbench reimagines remote desktop for AI agents, not IT support",
-    "link": "https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/",
-    "date": "2026-04-09"
-  },
-  {
-    "title": "OpenAI releases a new safety blueprint to address the rise in child sexual exploitation",
-    "link": "https://techcrunch.com/2026/04/08/openai-releases-a-new-safety-blueprint-to-address-the-rise-in-child-sexual-exploitation/",
-    "date": "2026-04-09"
-  },
-  {
-    "title": "The next phase of enterprise AI",
-    "link": "https://openai.com/index/next-phase-of-enterprise-ai",
-    "date": "2026-04-09"
-  },
-  {
-    "title": "Introducing the Child Safety Blueprint",
-    "link": "https://openai.com/index/introducing-child-safety-blueprint",
-    "date": "2026-04-09"
-  },
-  {
-    "title": "Mustafa Suleyman: AI development won’t hit a wall anytime soon—here’s why",
-    "link": "https://www.technologyreview.com/2026/04/08/1135398/mustafa-suleyman-ai-future/",
-    "date": "2026-04-09"
-  },
-  {
-    "title": "The Download: water threats in Iran and AI’s impact on what entrepreneurs make",
-    "link": "https://www.technologyreview.com/2026/04/08/1135405/the-download-water-threats-iran-ais-impact-on-entrepreneurs-make/",
-    "date": "2026-04-09"
-  },
-  {
-    "title": "ALTK‑Evolve: On‑the‑Job Learning for AI Agents",
-    "link": "https://huggingface.co/blog/ibm-research/altk-evolve",
-    "date": "2026-04-09"
-  },
-  {
-    "title": "Safetensors is Joining the PyTorch Foundation",
-    "link": "https://huggingface.co/blog/safetensors-joins-pytorch-foundation",
-    "date": "2026-04-09"
-  },
-  {
-    "title": "Trump admin makes sweeping request for medical records of federal workers",
-    "link": "https://arstechnica.com/health/2026/04/trump-admin-seeks-medical-records-of-federal-workers-for-vague-reasons/",
-    "date": "2026-04-09"
-  },
-  {
-    "title": "LinkedIn scanning users' browser extensions sparks controversy and two lawsuits",
-    "link": "https://arstechnica.com/tech-policy/2026/04/linkedin-scanning-users-browser-extensions-sparks-controversy-and-two-lawsuits/",
-    "date": "2026-04-09"
-  },
-  {
-    "title": "Iran-linked hackers disrupt operations at US critical infrastructure sites",
-    "link": "https://arstechnica.com/security/2026/04/iran-linked-hackers-disrupt-operations-at-us-critical-infrastructure-sites/",
-    "date": "2026-04-09"
-  },
-  {
-    "title": "Meta's Superintelligence Lab unveils its first public model, Muse Spark",
-    "link": "https://arstechnica.com/ai/2026/04/metas-superintelligence-lab-unveils-its-first-public-model-muse-spark/",
-    "date": "2026-04-09"
-  },
-  {
-    "title": "How our digital devices are putting our right to privacy at risk",
-    "link": "https://arstechnica.com/culture/2026/04/how-our-digital-devices-are-putting-our-right-to-privacy-at-risk/",
-    "date": "2026-04-09"
-  },
-  {
-    "title": "AI’s software development success and central management needs",
-    "link": "https://www.artificialintelligence-news.com/news/ai-workflows-developer-success-and-central-project-management-needs/",
-    "date": "2026-04-09"
-  },
-  {
-    "title": "Microsoft open-source toolkit secures AI agents at runtime",
-    "link": "https://www.artificialintelligence-news.com/news/microsoft-open-source-toolkit-secures-ai-agents-at-runtime/",
-    "date": "2026-04-09"
-  },
-  {
-    "title": "Meta, 새 AI 모델 오픈소스 공개 예고",
-    "link": "https://news.hada.io/topic?id=28347",
-    "date": "2026-04-09"
-  },
-  {
-    "title": "Show GN: , AI-SLOP Detector 3.1.1 - AI 에이전트가 만든 스파게티 코드를 잡는 분석 도구",
-    "link": "https://news.hada.io/topic?id=28346",
-    "date": "2026-04-09"
-  },
-  {
-    "title": "Show GN: Android arm64에서 proot 병목을 줄이기 위해 ptrace 없는 proroot를 만들어봤습니다",
-    "link": "https://news.hada.io/topic?id=28342",
-    "date": "2026-04-09"
-  },
-  {
-    "title": "AX팀을 만드는 순간, 당신의 조직은 AX에 실패한다",
-    "link": "https://news.hada.io/topic?id=28341",
-    "date": "2026-04-09"
-  },
-  {
-    "title": "Ruff·uv 만든 Astral이 공개한 오픈소스 보안 전략 전모",
-    "link": "https://news.hada.io/topic?id=28340",
-    "date": "2026-04-09"
-  },
-  {
-    "title": "We’re creating a new satellite imagery map to help protect Brazil’s forests.",
-    "link": "https://blog.google/products-and-platforms/products/earth/satellite-imagery-brazilian-deforestation/",
-    "date": "2026-04-09"
-  },
-  {
-    "title": "The latest AI news we announced in March 2026",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/",
-    "date": "2026-04-09"
-  },
-  {
-    "title": "Holo3: Breaking the Computer Use Frontier",
-    "link": "https://huggingface.co/blog/Hcompany/holo3",
-    "date": "2026-04-09"
-  },
-  {
-    "title": "The Moon is already on Google Maps—did Artemis II really tell us anything new?",
-    "link": "https://arstechnica.com/space/2026/04/the-moon-is-already-on-google-maps-did-artemis-ii-really-tell-us-anything-new/",
-    "date": "2026-04-09"
-  },
-  {
     "title": "Show GN: 'Blank.' 업데이트 - Gemma 4 전환, 중복 정답 버그 수정, 오답 품질 개선",
     "link": "https://news.hada.io/topic?id=28363",
     "date": "2026-04-10"
@@ -983,5 +823,140 @@
     "title": "Hyundai expands into robotics and physical AI systems",
     "link": "https://www.artificialintelligence-news.com/news/hyundai-expands-into-robotics-and-physical-ai-systems/",
     "date": "2026-04-15"
+  },
+  {
+    "title": "Show GN: Lazyagent - 여러 코딩 에이전트 작업을 한곳에서 추적하는 TUI",
+    "link": "https://news.hada.io/topic?id=28574",
+    "date": "2026-04-16"
+  },
+  {
+    "title": "백팩이 의도적으로 나빠진 이유",
+    "link": "https://news.hada.io/topic?id=28573",
+    "date": "2026-04-16"
+  },
+  {
+    "title": "신은 광물 속에서 잠든다",
+    "link": "https://news.hada.io/topic?id=28572",
+    "date": "2026-04-16"
+  },
+  {
+    "title": "컴파일러를 만들고 싶은가? 이 두 편의 논문만 읽으면 된다 (2008)",
+    "link": "https://news.hada.io/topic?id=28571",
+    "date": "2026-04-16"
+  },
+  {
+    "title": "Google이 약속을 어겼고 이제 ICE가 내 데이터를 가지고 있다",
+    "link": "https://news.hada.io/topic?id=28570",
+    "date": "2026-04-16"
+  },
+  {
+    "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
+    "link": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
+    "date": "2026-04-16"
+  },
+  {
+    "title": "Hightouch reaches $100M ARR fueled by marketing tools powered by AI",
+    "link": "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/",
+    "date": "2026-04-16"
+  },
+  {
+    "title": "LinkedIn data shows AI isn’t to blame for hiring decline… yet",
+    "link": "https://techcrunch.com/2026/04/15/linkedin-data-shows-ai-isnt-to-blame-for-hiring-decline-yet/",
+    "date": "2026-04-16"
+  },
+  {
+    "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
+    "link": "https://techcrunch.com/2026/04/15/ai-learning-app-gizmo-levels-up-with-13m-users-and-a-22m-investment/",
+    "date": "2026-04-16"
+  },
+  {
+    "title": "Can AI judge journalism? A Thiel-backed startup says yes, even if it risks chilling whistleblowers",
+    "link": "https://techcrunch.com/2026/04/15/can-ai-judge-journalism-a-thiel-backed-startup-says-yes-even-if-it-risks-chilling-whistleblowers/",
+    "date": "2026-04-16"
+  },
+  {
+    "title": "The next evolution of the Agents SDK",
+    "link": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
+    "date": "2026-04-16"
+  },
+  {
+    "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/",
+    "date": "2026-04-16"
+  },
+  {
+    "title": "The Download: NASA’s nuclear spacecraft and unveiling our AI 10",
+    "link": "https://www.technologyreview.com/2026/04/15/1135904/the-download-nasa-nuclear-powered-spacecraft-10-things-that-matter-in-ai-right-now/",
+    "date": "2026-04-16"
+  },
+  {
+    "title": "Cyberscammers are bypassing banks’ security with illicit tools sold on Telegram",
+    "link": "https://www.technologyreview.com/2026/04/15/1135898/cyberscammers-bypassing-bank-telegram/",
+    "date": "2026-04-16"
+  },
+  {
+    "title": "No one’s sure if synthetic mirror life will kill us all",
+    "link": "https://www.technologyreview.com/2026/04/15/1135197/synthetic-mirror-life-microbes-kill-us-all/",
+    "date": "2026-04-16"
+  },
+  {
+    "title": "Building trust in the AI era with privacy-led UX",
+    "link": "https://www.technologyreview.com/2026/04/15/1135530/building-trust-in-the-ai-era-with-privacy-led-ux/",
+    "date": "2026-04-16"
+  },
+  {
+    "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
+    "link": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
+    "date": "2026-04-16"
+  },
+  {
+    "title": "Meet HoloTab by HCompany. Your AI browser companion.",
+    "link": "https://huggingface.co/blog/Hcompany/holotab",
+    "date": "2026-04-16"
+  },
+  {
+    "title": "Florida surgeon charged with killing man after removing liver instead of spleen",
+    "link": "https://arstechnica.com/health/2026/04/florida-surgeon-charged-with-killing-man-after-removing-liver-instead-of-spleen/",
+    "date": "2026-04-16"
+  },
+  {
+    "title": "Jury finds Live Nation/Ticketmaster is illegal monopoly that overcharged fans",
+    "link": "https://arstechnica.com/tech-policy/2026/04/jury-finds-live-nation-ticketmaster-is-illegal-monopoly-that-overcharged-fans/",
+    "date": "2026-04-16"
+  },
+  {
+    "title": "\"TotalRecall Reloaded\" tool finds a side entrance to Windows 11's Recall database",
+    "link": "https://arstechnica.com/gadgets/2026/04/totalrecall-reloaded-tool-finds-a-side-entrance-to-windows-11s-recall-database/",
+    "date": "2026-04-16"
+  },
+  {
+    "title": "Google releases new apps for Windows and MacOS",
+    "link": "https://arstechnica.com/gadgets/2026/04/google-launches-search-app-for-windows-gemini-app-for-mac/",
+    "date": "2026-04-16"
+  },
+  {
+    "title": "Boston Dynamics’ robot dog now reads gauges and thermometers with Google's AI",
+    "link": "https://arstechnica.com/ai/2026/04/robot-dogs-now-read-gauges-and-thermometers-using-google-gemini/",
+    "date": "2026-04-16"
+  },
+  {
+    "title": "Commvault launches a ‘Ctrl-Z’ for cloud AI workloads",
+    "link": "https://www.artificialintelligence-news.com/news/commvault-launches-ctrl-z-for-cloud-ai-workloads/",
+    "date": "2026-04-16"
+  },
+  {
+    "title": "Citizen developers now have their own Wingman",
+    "link": "https://www.artificialintelligence-news.com/news/citizen-developers-now-have-their-own-wingman/",
+    "date": "2026-04-16"
+  },
+  {
+    "title": "Drones get smarter for large farm holdings",
+    "link": "https://www.artificialintelligence-news.com/news/agricultural-drones-get-smarter-for-large-farm-holdings/",
+    "date": "2026-04-16"
+  },
+  {
+    "title": "The US-China AI gap closed. The responsible AI gap didn’t",
+    "link": "https://www.artificialintelligence-news.com/news/ai-safety-benchmarks-stanford-hai-2026-report/",
+    "date": "2026-04-16"
   }
 ]
