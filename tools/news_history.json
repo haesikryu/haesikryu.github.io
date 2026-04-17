@@ -1,170 +1,5 @@
 [
   {
-    "title": "Show GN: 'Blank.' 업데이트 - Gemma 4 전환, 중복 정답 버그 수정, 오답 품질 개선",
-    "link": "https://news.hada.io/topic?id=28363",
-    "date": "2026-04-10"
-  },
-  {
-    "title": "Show GN: set-prompt git레포 기반 프롬프트 저장소 AI에이전트 연결",
-    "link": "https://news.hada.io/topic?id=28362",
-    "date": "2026-04-10"
-  },
-  {
-    "title": "OpenAI, 새 언어 모델 GPT-2를 위험성 이유로 전체 공개 보류 (2019)",
-    "link": "https://news.hada.io/topic?id=28361",
-    "date": "2026-04-10"
-  },
-  {
-    "title": "Anthropic의 청구 오류와 한 달 넘게 답변이 없는 지원 문제",
-    "link": "https://news.hada.io/topic?id=28360",
-    "date": "2026-04-10"
-  },
-  {
-    "title": "간단한 레이더 예시로 이해하는 칼만 필터",
-    "link": "https://news.hada.io/topic?id=28359",
-    "date": "2026-04-10"
-  },
-  {
-    "title": "ChatGPT finally offers $100/month Pro plan",
-    "link": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
-    "date": "2026-04-10"
-  },
-  {
-    "title": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
-    "link": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
-    "date": "2026-04-10"
-  },
-  {
-    "title": "After data breach, $10B-valued startup Mercor is having a month",
-    "link": "https://techcrunch.com/2026/04/09/after-data-breach-10b-valued-startup-mercor-is-having-a-month/",
-    "date": "2026-04-10"
-  },
-  {
-    "title": "Meta AI app climbs to No. 5 on the App Store after Muse Spark launch",
-    "link": "https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/",
-    "date": "2026-04-10"
-  },
-  {
-    "title": "Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?",
-    "link": "https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/",
-    "date": "2026-04-10"
-  },
-  {
-    "title": "CyberAgent moves faster with ChatGPT Enterprise and Codex",
-    "link": "https://openai.com/index/cyberagent",
-    "date": "2026-04-10"
-  },
-  {
-    "title": "OpenAI Full Fan Mode Contest: Terms & Conditions",
-    "link": "https://openai.com/index/full-fan-mode-contest-terms-conditions",
-    "date": "2026-04-10"
-  },
-  {
-    "title": "The Download: AstroTurf wars and exponential AI growth",
-    "link": "https://www.technologyreview.com/2026/04/09/1135514/the-download-astroturf-wars-exponential-ai-growth-desalination-numbers/",
-    "date": "2026-04-10"
-  },
-  {
-    "title": "Is fake grass a bad idea? The AstroTurf wars are far from over.",
-    "link": "https://www.technologyreview.com/2026/04/09/1135092/astroturf-fake-grass-artificial-heated-debates/",
-    "date": "2026-04-10"
-  },
-  {
-    "title": "Desalination technology, by the numbers",
-    "link": "https://www.technologyreview.com/2026/04/09/1135495/desalination-technology-numbers/",
-    "date": "2026-04-10"
-  },
-  {
-    "title": "Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs",
-    "link": "https://huggingface.co/blog/waypoint-1-5",
-    "date": "2026-04-10"
-  },
-  {
-    "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
-    "link": "https://huggingface.co/blog/multimodal-sentence-transformers",
-    "date": "2026-04-10"
-  },
-  {
-    "title": "Orion helium leak no threat to Artemis II reentry, but will require redesign",
-    "link": "https://arstechnica.com/space/2026/04/nasa-homes-in-on-likely-redesign-to-fix-orion-spacecrafts-leaky-valves/",
-    "date": "2026-04-10"
-  },
-  {
-    "title": "RFK Jr. rewrites CDC panel's charter, opening door to anti-vaccine quacks",
-    "link": "https://arstechnica.com/health/2026/04/rfk-jr-rewrites-cdc-panels-charter-opening-door-to-anti-vaccine-quacks/",
-    "date": "2026-04-10"
-  },
-  {
-    "title": "AI on the couch: Anthropic gives Claude 20 hours of psychiatry",
-    "link": "https://arstechnica.com/ai/2026/04/why-anthropic-sent-its-claude-ai-to-an-actual-psychiatrist/",
-    "date": "2026-04-10"
-  },
-  {
-    "title": "Clinical trial shows gene editing works for β-Thalassaemia, too",
-    "link": "https://arstechnica.com/science/2026/04/clinical-trial-shows-gene-editing-works-for-%ce%b2-thalassaemia-too/",
-    "date": "2026-04-10"
-  },
-  {
-    "title": "“Negative” views of Broadcom driving thousands of VMware migrations, rival says",
-    "link": "https://arstechnica.com/information-technology/2026/04/nutanix-claims-it-has-poached-30000-vmware-customers/",
-    "date": "2026-04-10"
-  },
-  {
-    "title": "Agentic AI’s governance challenges under the EU AI Act in 2026",
-    "link": "https://www.artificialintelligence-news.com/news/agentic-ais-governance-challenges-under-the-eu-ai-act-in-2026/",
-    "date": "2026-04-10"
-  },
-  {
-    "title": "Anthropic keeps new AI model private after it finds thousands of external vulnerabilities",
-    "link": "https://www.artificialintelligence-news.com/news/anthropic-keeps-new-ai-model-private-after-it-finds-thousands-of-external-vulnerabilities/",
-    "date": "2026-04-10"
-  },
-  {
-    "title": "Show GN: SyncWatcher 맥 전용 백업 프로그램",
-    "link": "https://news.hada.io/topic?id=28382",
-    "date": "2026-04-10"
-  },
-  {
-    "title": "macOS에서 네이티브 즉시 공간 전환 구현",
-    "link": "https://news.hada.io/topic?id=28381",
-    "date": "2026-04-10"
-  },
-  {
-    "title": "Show GN: 지식 검증과 캐릭터 성장을 결합한 새로운 집단지성 커뮤니티 Crowdians를 소개합니다.",
-    "link": "https://news.hada.io/topic?id=28380",
-    "date": "2026-04-10"
-  },
-  {
-    "title": "Shopify AI Toolkit - 클로드 코드/코덱스로 스토어를 관리하세요",
-    "link": "https://news.hada.io/topic?id=28378",
-    "date": "2026-04-10"
-  },
-  {
-    "title": "SQLite로 실제 쇼핑몰을 운영하며 배운 것들",
-    "link": "https://news.hada.io/topic?id=28377",
-    "date": "2026-04-10"
-  },
-  {
-    "title": "New ways to balance cost and reliability in the Gemini API",
-    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/",
-    "date": "2026-04-10"
-  },
-  {
-    "title": "Create, edit and share videos at no cost in Google Vids",
-    "link": "https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/",
-    "date": "2026-04-10"
-  },
-  {
-    "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
-    "link": "https://huggingface.co/blog/gemma4",
-    "date": "2026-04-10"
-  },
-  {
-    "title": "Meta has a competitive AI model but loses its open-source identity",
-    "link": "https://www.artificialintelligence-news.com/news/meta-muse-spark-ai-model-open-source/",
-    "date": "2026-04-10"
-  },
-  {
     "title": "메인주, 대형 신규 데이터센터 건설 금지 추진",
     "link": "https://news.hada.io/topic?id=28398",
     "date": "2026-04-11"
@@ -958,5 +793,155 @@
     "title": "The US-China AI gap closed. The responsible AI gap didn’t",
     "link": "https://www.artificialintelligence-news.com/news/ai-safety-benchmarks-stanford-hai-2026-report/",
     "date": "2026-04-16"
+  },
+  {
+    "title": "Zerobox - OpenAI Codex 런타임 기반의 경량 크로스 플랫폼 프로세스 샌드박싱 도구",
+    "link": "https://news.hada.io/topic?id=28620",
+    "date": "2026-04-17"
+  },
+  {
+    "title": "Mozilla Thunderbolt — 사용자가 완전히 제어하는 오픈소스 AI 클라이언트",
+    "link": "https://news.hada.io/topic?id=28619",
+    "date": "2026-04-17"
+  },
+  {
+    "title": "Cloudflare Email Service 공개 베타 — 에이전트를 위한 양방향 이메일 플랫폼",
+    "link": "https://news.hada.io/topic?id=28618",
+    "date": "2026-04-17"
+  },
+  {
+    "title": "Codex가 삼성 TV를 해킹함",
+    "link": "https://news.hada.io/topic?id=28617",
+    "date": "2026-04-17"
+  },
+  {
+    "title": "Cloudflare의 AI 플랫폼: 에이전트를 위한 추론 계층",
+    "link": "https://news.hada.io/topic?id=28616",
+    "date": "2026-04-17"
+  },
+  {
+    "title": "Factory hits $1.5B valuation to build AI coding for enterprises",
+    "link": "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/",
+    "date": "2026-04-17"
+  },
+  {
+    "title": "Luma launches AI-powered production studio with faith-focused Wonder Project",
+    "link": "https://techcrunch.com/2026/04/16/luma-launches-ai-powered-production-studio-with-faith-focused-wonder-project/",
+    "date": "2026-04-17"
+  },
+  {
+    "title": "Upscale AI in talks to raise at $2B valuation, says report",
+    "link": "https://techcrunch.com/2026/04/16/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report/",
+    "date": "2026-04-17"
+  },
+  {
+    "title": "Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught",
+    "link": "https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/",
+    "date": "2026-04-17"
+  },
+  {
+    "title": "OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop",
+    "link": "https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/",
+    "date": "2026-04-17"
+  },
+  {
+    "title": "Codex for (almost) everything",
+    "link": "https://openai.com/index/codex-for-almost-everything",
+    "date": "2026-04-17"
+  },
+  {
+    "title": "Introducing GPT-Rosalind for life sciences research",
+    "link": "https://openai.com/index/introducing-gpt-rosalind",
+    "date": "2026-04-17"
+  },
+  {
+    "title": "Accelerating the cyber defense ecosystem that protects us all",
+    "link": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
+    "date": "2026-04-17"
+  },
+  {
+    "title": "A new way to explore the web with AI Mode in Chrome",
+    "link": "https://blog.google/products-and-platforms/products/search/ai-mode-chrome/",
+    "date": "2026-04-17"
+  },
+  {
+    "title": "New ways to create personalized images in the Gemini app",
+    "link": "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/",
+    "date": "2026-04-17"
+  },
+  {
+    "title": "Making AI operational in constrained public sector environments",
+    "link": "https://www.technologyreview.com/2026/04/16/1135216/making-ai-operational-in-constrained-public-sector-environments/",
+    "date": "2026-04-17"
+  },
+  {
+    "title": "Treating enterprise AI as an operating layer",
+    "link": "https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/",
+    "date": "2026-04-17"
+  },
+  {
+    "title": "The Download: cyberscammers’ banking bypasses, and carbon removal troubles",
+    "link": "https://www.technologyreview.com/2026/04/16/1136034/the-download-cyberscammers-banking-bypasses-microsoft-carbon-removal-troubles/",
+    "date": "2026-04-17"
+  },
+  {
+    "title": "Why having “humans in the loop” in an AI war is an illusion",
+    "link": "https://www.technologyreview.com/2026/04/16/1136029/humans-in-the-loop-ai-war-illusion/",
+    "date": "2026-04-17"
+  },
+  {
+    "title": "The noise we make is hurting animals. Can we learn to shut up?",
+    "link": "https://www.technologyreview.com/2026/04/16/1135179/anthropogenic-noise-hurting-animals/",
+    "date": "2026-04-17"
+  },
+  {
+    "title": "The PR you would have opened yourself",
+    "link": "https://huggingface.co/blog/transformers-to-mlx",
+    "date": "2026-04-17"
+  },
+  {
+    "title": "Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers",
+    "link": "https://huggingface.co/blog/train-multimodal-sentence-transformers",
+    "date": "2026-04-17"
+  },
+  {
+    "title": "Lucasfilm drops The Mandalorian and Grogu final trailer at CinemaCon",
+    "link": "https://arstechnica.com/culture/2026/04/lucasfilm-drops-mandalorian-and-grogu-final-trailer-at-cinemacon/",
+    "date": "2026-04-17"
+  },
+  {
+    "title": "Intel refreshes non-Ultra Core CPUs with new silicon for the first time",
+    "link": "https://arstechnica.com/gadgets/2026/04/intels-non-ultra-core-cpus-are-new-silicon-this-year-for-a-change/",
+    "date": "2026-04-17"
+  },
+  {
+    "title": "OpenAI starts offering a biology-tuned LLM",
+    "link": "https://arstechnica.com/science/2026/04/openai-starts-offering-a-biology-tuned-llm/",
+    "date": "2026-04-17"
+  },
+  {
+    "title": "As they got close to the Moon, Artemis II astronauts were eager to land",
+    "link": "https://arstechnica.com/space/2026/04/artemis-ii-astronauts-say-landing-on-the-moon-is-absolutely-doable-soon/",
+    "date": "2026-04-17"
+  },
+  {
+    "title": "Mozilla launches Thunderbolt AI client with focus on self-hosted infrastructure",
+    "link": "https://arstechnica.com/ai/2026/04/mozilla-launches-thunderbolt-ai-client-with-focus-on-self-hosted-infrastructure/",
+    "date": "2026-04-17"
+  },
+  {
+    "title": "5 top cloud migration software for Infrastructure as Code (IaC)",
+    "link": "https://www.artificialintelligence-news.com/news/5-top-cloud-migration-software-for-infrastructure-as-code-iac/",
+    "date": "2026-04-17"
+  },
+  {
+    "title": "OpenAI Agents SDK improves governance with sandbox execution",
+    "link": "https://www.artificialintelligence-news.com/news/openai-agents-sdk-improves-governance-sandbox-execution/",
+    "date": "2026-04-17"
+  },
+  {
+    "title": "Cadence expands AI and robotic partnerships with Nvidia, Google Cloud",
+    "link": "https://www.artificialintelligence-news.com/news/cadence-expands-ai-and-robotics-partnerships-with-nvidia-google-cloud/",
+    "date": "2026-04-17"
   }
 ]
