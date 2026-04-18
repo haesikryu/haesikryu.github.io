@@ -1,195 +1,5 @@
 [
   {
-    "title": "메인주, 대형 신규 데이터센터 건설 금지 추진",
-    "link": "https://news.hada.io/topic?id=28398",
-    "date": "2026-04-11"
-  },
-  {
-    "title": "Charcuterie – 시각적 유사성 기반 Unicode 탐색기",
-    "link": "https://news.hada.io/topic?id=28397",
-    "date": "2026-04-11"
-  },
-  {
-    "title": "월 100달러 Claude Code 예산을 Zed와 OpenRouter로 재배분하기",
-    "link": "https://news.hada.io/topic?id=28396",
-    "date": "2026-04-11"
-  },
-  {
-    "title": "Astral의 오픈소스 보안 전략",
-    "link": "https://news.hada.io/topic?id=28395",
-    "date": "2026-04-11"
-  },
-  {
-    "title": "CoLaptop - 개인 노트북을 저비용 전용 서버로 전환하는 서비스",
-    "link": "https://news.hada.io/topic?id=28394",
-    "date": "2026-04-11"
-  },
-  {
-    "title": "Anthropic temporarily banned OpenClaw’s creator from accessing Claude",
-    "link": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
-    "date": "2026-04-11"
-  },
-  {
-    "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings",
-    "link": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
-    "date": "2026-04-11"
-  },
-  {
-    "title": "TechCrunch is heading to Tokyo — and bringing the Startup Battlefield with it",
-    "link": "https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/",
-    "date": "2026-04-11"
-  },
-  {
-    "title": "Last 24 hours: Save up to $500 on your TechCrunch Disrupt 2026 pass",
-    "link": "https://techcrunch.com/2026/04/10/final-24-hours-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/",
-    "date": "2026-04-11"
-  },
-  {
-    "title": "Research with ChatGPT",
-    "link": "https://openai.com/academy/search-and-deep-research",
-    "date": "2026-04-11"
-  },
-  {
-    "title": "Working with files in ChatGPT",
-    "link": "https://openai.com/academy/working-with-files",
-    "date": "2026-04-11"
-  },
-  {
-    "title": "Using custom GPTs",
-    "link": "https://openai.com/academy/custom-gpts",
-    "date": "2026-04-11"
-  },
-  {
-    "title": "Analyzing data with ChatGPT",
-    "link": "https://openai.com/academy/data-analysis",
-    "date": "2026-04-11"
-  },
-  {
-    "title": "Prompting fundamentals",
-    "link": "https://openai.com/academy/prompting",
-    "date": "2026-04-11"
-  },
-  {
-    "title": "What’s in a name? Moderna’s “vaccine” vs. “therapy” dilemma",
-    "link": "https://www.technologyreview.com/2026/04/10/1135631/whats-in-a-name-modernas-vaccine-vs-therapy-dilemma/",
-    "date": "2026-04-11"
-  },
-  {
-    "title": "The Download: an exclusive Jeff VanderMeer story and AI models too scary to release",
-    "link": "https://www.technologyreview.com/2026/04/10/1135618/the-download-jeff-vandermeer-short-story-and-ai-models-too-danger-to-release/",
-    "date": "2026-04-11"
-  },
-  {
-    "title": "Constellations",
-    "link": "https://www.technologyreview.com/2026/04/10/1135106/jeff-vandermeer-constellations-science-fiction/",
-    "date": "2026-04-11"
-  },
-  {
-    "title": "Californians sue over AI tool that records doctor visits",
-    "link": "https://arstechnica.com/tech-policy/2026/04/californians-sue-over-ai-tool-that-records-doctor-visits/",
-    "date": "2026-04-11"
-  },
-  {
-    "title": "New paper argues history, not mantle plume, powers Yellowstone",
-    "link": "https://arstechnica.com/science/2026/04/new-paper-argues-history-not-mantle-plume-powers-yellowstone/",
-    "date": "2026-04-11"
-  },
-  {
-    "title": "F1 moves a step closer to fixing its 2026 hybrid problem",
-    "link": "https://arstechnica.com/cars/2026/04/f1-moves-a-step-closer-to-fixing-its-2026-hybrid-problem/",
-    "date": "2026-04-11"
-  },
-  {
-    "title": "Report: US demands Reddit unmask ICE critic, summons firm to grand jury",
-    "link": "https://arstechnica.com/tech-policy/2026/04/trump-admin-hounds-reddit-to-reveal-identity-of-user-who-criticized-ice/",
-    "date": "2026-04-11"
-  },
-  {
-    "title": "Microsoft's \"commitment to Windows quality\" starts with overhaul of beta program",
-    "link": "https://arstechnica.com/gadgets/2026/04/microsoft-makes-it-easier-for-windows-insider-testers-to-actually-get-new-features/",
-    "date": "2026-04-11"
-  },
-  {
-    "title": "MacBook 모서리를 갈아낸 경험",
-    "link": "https://news.hada.io/topic?id=28411",
-    "date": "2026-04-11"
-  },
-  {
-    "title": "Claude Code /Ultraplan : 클라우드 기반 계획 수립 도구",
-    "link": "https://news.hada.io/topic?id=28410",
-    "date": "2026-04-11"
-  },
-  {
-    "title": "WireGuard, Microsoft 서명 문제 해결 후 새 Windows 버전 공개",
-    "link": "https://news.hada.io/topic?id=28408",
-    "date": "2026-04-11"
-  },
-  {
-    "title": "일리노이주 AI 책임 제한 법안에 대한 OpenAI의 지지",
-    "link": "https://news.hada.io/topic?id=28406",
-    "date": "2026-04-11"
-  },
-  {
-    "title": "macOS의 Privacy &amp; Security 설정을 신뢰할 수 없는 이유",
-    "link": "https://news.hada.io/topic?id=28405",
-    "date": "2026-04-11"
-  },
-  {
-    "title": "List 가 GeekLists 기능으로 확대 개편 되었습니다.",
-    "link": "https://news.hada.io/blog/GeekLists",
-    "date": "2026-04-11"
-  },
-  {
-    "title": "‘함께 보면 좋은 글’ 기능을 추가했습니다",
-    "link": "https://news.hada.io/blog/related-reads",
-    "date": "2026-04-11"
-  },
-  {
-    "title": "GeekNews를 편하게 구독하는 법",
-    "link": "https://news.hada.io/blog/subscribe_geeknews",
-    "date": "2026-04-11"
-  },
-  {
-    "title": "GeekNight 2024(긱뉴스 밋업)",
-    "link": "https://news.hada.io/blog/geeknight",
-    "date": "2026-04-11"
-  },
-  {
-    "title": "GN⁺ : AI가 요약한 최신 뉴스보기",
-    "link": "https://news.hada.io/blog/GN⁺",
-    "date": "2026-04-11"
-  },
-  {
-    "title": "ChatGPT for customer success teams",
-    "link": "https://openai.com/academy/customer-success",
-    "date": "2026-04-11"
-  },
-  {
-    "title": "Applications of AI at OpenAI",
-    "link": "https://openai.com/academy/applications-of-ai",
-    "date": "2026-04-11"
-  },
-  {
-    "title": "The Artemis II mission has ended. Where does NASA go from here?",
-    "link": "https://arstechnica.com/space/2026/04/the-artemis-ii-mission-has-ended-where-does-nasa-go-from-here/",
-    "date": "2026-04-11"
-  },
-  {
-    "title": "Four astronauts are back home after a daring ride around the Moon",
-    "link": "https://arstechnica.com/space/2026/04/four-astronauts-are-back-home-after-a-daring-ride-around-the-moon/",
-    "date": "2026-04-11"
-  },
-  {
-    "title": "IBM: How robust AI governance protects enterprise margins",
-    "link": "https://www.artificialintelligence-news.com/news/ibm-how-robust-ai-governance-protects-enterprise-margins/",
-    "date": "2026-04-11"
-  },
-  {
-    "title": "Why companies like Apple are building AI agents with limits",
-    "link": "https://www.artificialintelligence-news.com/news/why-companies-like-apple-are-building-ai-agents-with-limits/",
-    "date": "2026-04-11"
-  },
-  {
     "title": "AI 사이버보안의 새로운 경계: Mythos 이후의 현실",
     "link": "https://news.hada.io/topic?id=28428",
     "date": "2026-04-12"
@@ -943,5 +753,115 @@
     "title": "Cadence expands AI and robotic partnerships with Nvidia, Google Cloud",
     "link": "https://www.artificialintelligence-news.com/news/cadence-expands-ai-and-robotics-partnerships-with-nvidia-google-cloud/",
     "date": "2026-04-17"
+  },
+  {
+    "title": "Postgres 큐를 건강하게 유지하기",
+    "link": "https://news.hada.io/topic?id=28644",
+    "date": "2026-04-18"
+  },
+  {
+    "title": "Ada, 그 설계와 언어를 만든 언어",
+    "link": "https://news.hada.io/topic?id=28643",
+    "date": "2026-04-18"
+  },
+  {
+    "title": "우리가 좋아하는 모든 것은 심리전(psyop)인가?",
+    "link": "https://news.hada.io/topic?id=28642",
+    "date": "2026-04-18"
+  },
+  {
+    "title": "Claude 4.7 토크나이저 비용 측정 결과",
+    "link": "https://news.hada.io/topic?id=28641",
+    "date": "2026-04-18"
+  },
+  {
+    "title": "Anthropic, Claude Design 공개",
+    "link": "https://news.hada.io/topic?id=28640",
+    "date": "2026-04-18"
+  },
+  {
+    "title": "Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.",
+    "link": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
+    "date": "2026-04-18"
+  },
+  {
+    "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
+    "link": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
+    "date": "2026-04-18"
+  },
+  {
+    "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
+    "link": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
+    "date": "2026-04-18"
+  },
+  {
+    "title": "‘Tokenmaxxing’ is making developers less productive than they think",
+    "link": "https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/",
+    "date": "2026-04-18"
+  },
+  {
+    "title": "Tokenmaxxing, OpenAI’s shopping spree, and the AI Anxiety Gap",
+    "link": "https://techcrunch.com/podcast/tokenmaxxing-openais-shopping-spree-and-the-ai-anxiety-gap/",
+    "date": "2026-04-18"
+  },
+  {
+    "title": "7 ways to travel smarter this summer, with help from Google",
+    "link": "https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai/",
+    "date": "2026-04-18"
+  },
+  {
+    "title": "Pie Day 2026",
+    "link": "https://www.technologyreview.com/2026/04/17/1136121/pie-day-links/",
+    "date": "2026-04-18"
+  },
+  {
+    "title": "The Download: bad news for inner Neanderthals, and AI warfare’s human illusion",
+    "link": "https://www.technologyreview.com/2026/04/17/1136112/the-download-inner-neanderthal-ai-war-human-in-the-loop/",
+    "date": "2026-04-18"
+  },
+  {
+    "title": "The case for fixing everything",
+    "link": "https://www.technologyreview.com/2026/04/17/1135408/book-review-stewart-brand-fixing-everything-maintenance/",
+    "date": "2026-04-18"
+  },
+  {
+    "title": "How robots learn: A brief, contemporary history",
+    "link": "https://www.technologyreview.com/2026/04/17/1135416/how-robots-learn-brief-contemporary-history/",
+    "date": "2026-04-18"
+  },
+  {
+    "title": "Building a Fast Multilingual OCR Model with Synthetic Data",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-ocr-v2",
+    "date": "2026-04-18"
+  },
+  {
+    "title": "Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents",
+    "link": "https://huggingface.co/blog/ecom-rlve",
+    "date": "2026-04-18"
+  },
+  {
+    "title": "US-sanctioned currency exchange says $15 million heist done by \"unfriendly states\"",
+    "link": "https://arstechnica.com/security/2026/04/russia-friendly-exchange-says-western-special-service-behind-15-million-cyberattack/",
+    "date": "2026-04-18"
+  },
+  {
+    "title": "Man with @ihackedthegovernment Instagram account tells judge, “I made a mistake\"",
+    "link": "https://arstechnica.com/tech-policy/2026/04/man-with-ihackedthegovernment-instagram-account-tells-judge-i-made-a-mistake/",
+    "date": "2026-04-18"
+  },
+  {
+    "title": "Trump picks qualified, normal health leader to head CDC; experts still cautious",
+    "link": "https://arstechnica.com/health/2026/04/trump-picks-qualified-normal-health-leader-to-head-cdc-experts-still-cautious/",
+    "date": "2026-04-18"
+  },
+  {
+    "title": "$25,000 buys plenty of used EVs: Here are some options",
+    "link": "https://arstechnica.com/cars/2026/04/25000-buys-plenty-of-used-evs-here-are-some-options/",
+    "date": "2026-04-18"
+  },
+  {
+    "title": "Satellite and drone images reveal big delays in US data center construction",
+    "link": "https://arstechnica.com/ai/2026/04/construction-delays-hit-40-of-us-data-centers-planned-for-2026/",
+    "date": "2026-04-18"
   }
 ]
