@@ -1,95 +1,5 @@
 [
   {
-    "title": "AI 사이버보안의 새로운 경계: Mythos 이후의 현실",
-    "link": "https://news.hada.io/topic?id=28428",
-    "date": "2026-04-12"
-  },
-  {
-    "title": "Managed Agents 확장하기: 두뇌와 손을 분리하기",
-    "link": "https://news.hada.io/topic?id=28427",
-    "date": "2026-04-12"
-  },
-  {
-    "title": "아르테미스 II, 역사적 달 임무 후 샌디에이고 인근 해상에 안전 착수",
-    "link": "https://news.hada.io/topic?id=28426",
-    "date": "2026-04-12"
-  },
-  {
-    "title": "Arcmark - macOS용 브라우저 사이드북마크 관리자",
-    "link": "https://news.hada.io/topic?id=28425",
-    "date": "2026-04-12"
-  },
-  {
-    "title": "Microsoft, 주요 오픈소스 프로젝트 개발자 계정 정지",
-    "link": "https://news.hada.io/topic?id=28424",
-    "date": "2026-04-12"
-  },
-  {
-    "title": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
-    "link": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
-    "date": "2026-04-12"
-  },
-  {
-    "title": "Healthcare",
-    "link": "https://openai.com/academy/healthcare",
-    "date": "2026-04-12"
-  },
-  {
-    "title": "Using skills",
-    "link": "https://openai.com/academy/skills",
-    "date": "2026-04-12"
-  },
-  {
-    "title": "Writing with ChatGPT",
-    "link": "https://openai.com/academy/writing",
-    "date": "2026-04-12"
-  },
-  {
-    "title": "ChatGPT for marketing teams",
-    "link": "https://openai.com/academy/marketing",
-    "date": "2026-04-12"
-  },
-  {
-    "title": "AI models are terrible at betting on soccer—especially xAI Grok",
-    "link": "https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at-betting-on-soccer-especially-xai-grok/",
-    "date": "2026-04-12"
-  },
-  {
-    "title": "프랑스 정부, 미국 기술 의존을 전략적 위험으로 보고 Windows에서 Linux로 전환",
-    "link": "https://news.hada.io/topic?id=28434",
-    "date": "2026-04-12"
-  },
-  {
-    "title": "AWS에서의 20년과 결코 내 일이 아니었던 적이 없던 시간",
-    "link": "https://news.hada.io/topic?id=28433",
-    "date": "2026-04-12"
-  },
-  {
-    "title": "Show GN: OCR 번역기 - VLM 기반 윈도우용 rust/slint 앱",
-    "link": "https://news.hada.io/topic?id=28431",
-    "date": "2026-04-12"
-  },
-  {
-    "title": "Meta의 HyperAgents — 에이전트가 스스로 자신의 하네스를 설계할 때",
-    "link": "https://news.hada.io/topic?id=28430",
-    "date": "2026-04-12"
-  },
-  {
-    "title": "HyperAgents: Meta AI의 자기 개선 에이전트 프레임워크",
-    "link": "https://news.hada.io/topic?id=28429",
-    "date": "2026-04-12"
-  },
-  {
-    "title": "Using projects in ChatGPT",
-    "link": "https://openai.com/academy/projects",
-    "date": "2026-04-12"
-  },
-  {
-    "title": "Our response to the Axios developer tool compromise",
-    "link": "https://openai.com/index/axios-developer-tool-compromise",
-    "date": "2026-04-12"
-  },
-  {
     "title": "GitButler — GitHub 공동창업자가 만든 AI 시대를 위한 Git 재설계, a16z $1,700만 Series A 투자 유치",
     "link": "https://news.hada.io/topic?id=28488",
     "date": "2026-04-13"
@@ -913,5 +823,55 @@
     "title": "GN⁺ : AI가 요약한 최신 뉴스보기",
     "link": "https://news.hada.io/blog/GN⁺",
     "date": "2026-04-18"
+  },
+  {
+    "title": "Show GN: SPAR-Framework - 물리·수학 모델 결과의 ‘정당한 해석 가능성’을 검토하는 프레임워크",
+    "link": "https://news.hada.io/topic?id=28679",
+    "date": "2026-04-19"
+  },
+  {
+    "title": "&quot;AI에게 무례할수록 성능이 좋다?&quot; 최신 연구가 경고하는 PM의 소통 위기",
+    "link": "https://news.hada.io/topic?id=28678",
+    "date": "2026-04-19"
+  },
+  {
+    "title": "B-52 폭격기 스타 트래커 내부의 전기기계식 각도 컴퓨터",
+    "link": "https://news.hada.io/topic?id=28677",
+    "date": "2026-04-19"
+  },
+  {
+    "title": "Show GN: Paperclip + Gastown에서 영감을 받은, “영구기관” 컨셉의 오픈소스 AI 에이전트 프레임워크",
+    "link": "https://news.hada.io/topic?id=28676",
+    "date": "2026-04-19"
+  },
+  {
+    "title": "분리된 구간 집합 위에서 계산하는 계산기",
+    "link": "https://news.hada.io/topic?id=28675",
+    "date": "2026-04-19"
+  },
+  {
+    "title": "Tesla brings its robotaxi service to Dallas and Houston",
+    "link": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
+    "date": "2026-04-19"
+  },
+  {
+    "title": "AI chip startup Cerebras files for IPO",
+    "link": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
+    "date": "2026-04-19"
+  },
+  {
+    "title": "Anthropic’s relationship with the Trump administration seems to be thawing",
+    "link": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
+    "date": "2026-04-19"
+  },
+  {
+    "title": "The App Store is booming again, and AI may be why",
+    "link": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
+    "date": "2026-04-19"
+  },
+  {
+    "title": "Great white sharks are overheating",
+    "link": "https://arstechnica.com/science/2026/04/great-white-sharks-are-overheating/",
+    "date": "2026-04-19"
   }
 ]
