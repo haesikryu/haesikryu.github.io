@@ -1,90 +1,5 @@
 [
   {
-    "title": "GitButler — GitHub 공동창업자가 만든 AI 시대를 위한 Git 재설계, a16z $1,700만 Series A 투자 유치",
-    "link": "https://news.hada.io/topic?id=28488",
-    "date": "2026-04-13"
-  },
-  {
-    "title": "macOS용 작업 표시줄 스타일 Dock 대체 도구 boringBar",
-    "link": "https://news.hada.io/topic?id=28485",
-    "date": "2026-04-13"
-  },
-  {
-    "title": "취약점 없이도 뚫린다 — 오픈소스 개발자를 노린 '신뢰 기반' 공격의 실체",
-    "link": "https://news.hada.io/topic?id=28484",
-    "date": "2026-04-13"
-  },
-  {
-    "title": "DIY 소프트드링크",
-    "link": "https://news.hada.io/topic?id=28483",
-    "date": "2026-04-13"
-  },
-  {
-    "title": "Vibe coding 이후 오픈소스 커뮤니티에 대한 고민",
-    "link": "https://news.hada.io/topic?id=28482",
-    "date": "2026-04-13"
-  },
-  {
-    "title": "The largest orbital compute cluster is open for business",
-    "link": "https://techcrunch.com/2026/04/13/the-largest-orbital-compute-cluster-is-open-for-business/",
-    "date": "2026-04-13"
-  },
-  {
-    "title": "Trump officials may be encouraging banks to test Anthropic’s Mythos model",
-    "link": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
-    "date": "2026-04-13"
-  },
-  {
-    "title": "Apple reportedly testing four designs for upcoming smart glasses",
-    "link": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/",
-    "date": "2026-04-13"
-  },
-  {
-    "title": "From LLMs to hallucinations, here’s a simple guide to common AI terms",
-    "link": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-    "date": "2026-04-13"
-  },
-  {
-    "title": "At the HumanX conference, everyone was talking about Claude",
-    "link": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/",
-    "date": "2026-04-13"
-  },
-  {
-    "title": "ChatGPT for finance teams",
-    "link": "https://openai.com/academy/finance",
-    "date": "2026-04-13"
-  },
-  {
-    "title": "ChatGPT for research",
-    "link": "https://openai.com/academy/research",
-    "date": "2026-04-13"
-  },
-  {
-    "title": "Financial services",
-    "link": "https://openai.com/academy/financial-services",
-    "date": "2026-04-13"
-  },
-  {
-    "title": "Responsible and safe use of AI",
-    "link": "https://openai.com/academy/responsible-and-safe-use",
-    "date": "2026-04-13"
-  },
-  {
-    "title": "Job titles of the future: Wildlife first responder",
-    "link": "https://www.technologyreview.com/2026/04/13/1135156/job-titles-wildlife-first-responder-wesley-sarmento/",
-    "date": "2026-04-13"
-  },
-  {
-    "title": "You have no choice in reading this article—maybe",
-    "link": "https://www.technologyreview.com/2026/04/13/1135162/uri-maoz-does-free-will-exist/",
-    "date": "2026-04-13"
-  },
-  {
-    "title": "Shock from Iran war has Trump's vision for US energy dominance flailing",
-    "link": "https://arstechnica.com/science/2026/04/shock-from-iran-war-has-trumps-vision-for-us-energy-dominance-flailing/",
-    "date": "2026-04-13"
-  },
-  {
     "title": "Axios 라이브러리의 헤더 주입(CRLF)을 악용한 클라우드 서버 권한 탈취 취약점",
     "link": "https://news.hada.io/topic?id=28503",
     "date": "2026-04-14"
@@ -873,5 +788,60 @@
     "title": "Great white sharks are overheating",
     "link": "https://arstechnica.com/science/2026/04/great-white-sharks-are-overheating/",
     "date": "2026-04-19"
+  },
+  {
+    "title": "프로그래밍의 일곱 가지 원형 언어 (2022)",
+    "link": "https://news.hada.io/topic?id=28703",
+    "date": "2026-04-20"
+  },
+  {
+    "title": "iroh - 공개키 기반 초고속 P2P 네트워크 연결 라이브러리 오픈소스",
+    "link": "https://news.hada.io/topic?id=28702",
+    "date": "2026-04-20"
+  },
+  {
+    "title": "모든 공개 Notion 페이지가 모든 편집자의 이메일 주소를 유출",
+    "link": "https://news.hada.io/topic?id=28701",
+    "date": "2026-04-20"
+  },
+  {
+    "title": "Vercel, 내부 시스템 침해 발생했다고 밝혀",
+    "link": "https://news.hada.io/topic?id=28700",
+    "date": "2026-04-20"
+  },
+  {
+    "title": "Vercel 2026년 4월 보안 사고",
+    "link": "https://news.hada.io/topic?id=28699",
+    "date": "2026-04-20"
+  },
+  {
+    "title": "OpenAI’s existential questions",
+    "link": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
+    "date": "2026-04-20"
+  },
+  {
+    "title": "The 12-month window",
+    "link": "https://techcrunch.com/2026/04/19/the-12-month-window/",
+    "date": "2026-04-20"
+  },
+  {
+    "title": "Palantir posts mini-manifesto denouncing inclusivity and ‘regressive’ cultures",
+    "link": "https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/",
+    "date": "2026-04-20"
+  },
+  {
+    "title": "TechCrunch Mobility: Uber enters its assetmaxxing era",
+    "link": "https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/",
+    "date": "2026-04-20"
+  },
+  {
+    "title": "Blue Origin's rocket reuse achievement marred by upper stage failure",
+    "link": "https://arstechnica.com/space/2026/04/errant-upper-stage-spoils-blue-origins-success-in-reusing-new-glenn-booster/",
+    "date": "2026-04-20"
+  },
+  {
+    "title": "I’ve fired one of America’s most powerful lasers—here’s what a shot day looks like",
+    "link": "https://arstechnica.com/science/2026/04/ive-fired-one-of-americas-most-powerful-lasers-heres-what-a-shot-day-looks-like/",
+    "date": "2026-04-20"
   }
 ]
