@@ -1,140 +1,5 @@
 [
   {
-    "title": "Show GN: Lazyagent - 여러 코딩 에이전트 작업을 한곳에서 추적하는 TUI",
-    "link": "https://news.hada.io/topic?id=28574",
-    "date": "2026-04-16"
-  },
-  {
-    "title": "백팩이 의도적으로 나빠진 이유",
-    "link": "https://news.hada.io/topic?id=28573",
-    "date": "2026-04-16"
-  },
-  {
-    "title": "신은 광물 속에서 잠든다",
-    "link": "https://news.hada.io/topic?id=28572",
-    "date": "2026-04-16"
-  },
-  {
-    "title": "컴파일러를 만들고 싶은가? 이 두 편의 논문만 읽으면 된다 (2008)",
-    "link": "https://news.hada.io/topic?id=28571",
-    "date": "2026-04-16"
-  },
-  {
-    "title": "Google이 약속을 어겼고 이제 ICE가 내 데이터를 가지고 있다",
-    "link": "https://news.hada.io/topic?id=28570",
-    "date": "2026-04-16"
-  },
-  {
-    "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
-    "link": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
-    "date": "2026-04-16"
-  },
-  {
-    "title": "Hightouch reaches $100M ARR fueled by marketing tools powered by AI",
-    "link": "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/",
-    "date": "2026-04-16"
-  },
-  {
-    "title": "LinkedIn data shows AI isn’t to blame for hiring decline… yet",
-    "link": "https://techcrunch.com/2026/04/15/linkedin-data-shows-ai-isnt-to-blame-for-hiring-decline-yet/",
-    "date": "2026-04-16"
-  },
-  {
-    "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
-    "link": "https://techcrunch.com/2026/04/15/ai-learning-app-gizmo-levels-up-with-13m-users-and-a-22m-investment/",
-    "date": "2026-04-16"
-  },
-  {
-    "title": "Can AI judge journalism? A Thiel-backed startup says yes, even if it risks chilling whistleblowers",
-    "link": "https://techcrunch.com/2026/04/15/can-ai-judge-journalism-a-thiel-backed-startup-says-yes-even-if-it-risks-chilling-whistleblowers/",
-    "date": "2026-04-16"
-  },
-  {
-    "title": "The next evolution of the Agents SDK",
-    "link": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
-    "date": "2026-04-16"
-  },
-  {
-    "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
-    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/",
-    "date": "2026-04-16"
-  },
-  {
-    "title": "The Download: NASA’s nuclear spacecraft and unveiling our AI 10",
-    "link": "https://www.technologyreview.com/2026/04/15/1135904/the-download-nasa-nuclear-powered-spacecraft-10-things-that-matter-in-ai-right-now/",
-    "date": "2026-04-16"
-  },
-  {
-    "title": "Cyberscammers are bypassing banks’ security with illicit tools sold on Telegram",
-    "link": "https://www.technologyreview.com/2026/04/15/1135898/cyberscammers-bypassing-bank-telegram/",
-    "date": "2026-04-16"
-  },
-  {
-    "title": "No one’s sure if synthetic mirror life will kill us all",
-    "link": "https://www.technologyreview.com/2026/04/15/1135197/synthetic-mirror-life-microbes-kill-us-all/",
-    "date": "2026-04-16"
-  },
-  {
-    "title": "Building trust in the AI era with privacy-led UX",
-    "link": "https://www.technologyreview.com/2026/04/15/1135530/building-trust-in-the-ai-era-with-privacy-led-ux/",
-    "date": "2026-04-16"
-  },
-  {
-    "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
-    "link": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
-    "date": "2026-04-16"
-  },
-  {
-    "title": "Meet HoloTab by HCompany. Your AI browser companion.",
-    "link": "https://huggingface.co/blog/Hcompany/holotab",
-    "date": "2026-04-16"
-  },
-  {
-    "title": "Florida surgeon charged with killing man after removing liver instead of spleen",
-    "link": "https://arstechnica.com/health/2026/04/florida-surgeon-charged-with-killing-man-after-removing-liver-instead-of-spleen/",
-    "date": "2026-04-16"
-  },
-  {
-    "title": "Jury finds Live Nation/Ticketmaster is illegal monopoly that overcharged fans",
-    "link": "https://arstechnica.com/tech-policy/2026/04/jury-finds-live-nation-ticketmaster-is-illegal-monopoly-that-overcharged-fans/",
-    "date": "2026-04-16"
-  },
-  {
-    "title": "\"TotalRecall Reloaded\" tool finds a side entrance to Windows 11's Recall database",
-    "link": "https://arstechnica.com/gadgets/2026/04/totalrecall-reloaded-tool-finds-a-side-entrance-to-windows-11s-recall-database/",
-    "date": "2026-04-16"
-  },
-  {
-    "title": "Google releases new apps for Windows and MacOS",
-    "link": "https://arstechnica.com/gadgets/2026/04/google-launches-search-app-for-windows-gemini-app-for-mac/",
-    "date": "2026-04-16"
-  },
-  {
-    "title": "Boston Dynamics’ robot dog now reads gauges and thermometers with Google's AI",
-    "link": "https://arstechnica.com/ai/2026/04/robot-dogs-now-read-gauges-and-thermometers-using-google-gemini/",
-    "date": "2026-04-16"
-  },
-  {
-    "title": "Commvault launches a ‘Ctrl-Z’ for cloud AI workloads",
-    "link": "https://www.artificialintelligence-news.com/news/commvault-launches-ctrl-z-for-cloud-ai-workloads/",
-    "date": "2026-04-16"
-  },
-  {
-    "title": "Citizen developers now have their own Wingman",
-    "link": "https://www.artificialintelligence-news.com/news/citizen-developers-now-have-their-own-wingman/",
-    "date": "2026-04-16"
-  },
-  {
-    "title": "Drones get smarter for large farm holdings",
-    "link": "https://www.artificialintelligence-news.com/news/agricultural-drones-get-smarter-for-large-farm-holdings/",
-    "date": "2026-04-16"
-  },
-  {
-    "title": "The US-China AI gap closed. The responsible AI gap didn’t",
-    "link": "https://www.artificialintelligence-news.com/news/ai-safety-benchmarks-stanford-hai-2026-report/",
-    "date": "2026-04-16"
-  },
-  {
     "title": "Zerobox - OpenAI Codex 런타임 기반의 경량 크로스 플랫폼 프로세스 샌드박싱 도구",
     "link": "https://news.hada.io/topic?id=28620",
     "date": "2026-04-17"
@@ -903,5 +768,150 @@
     "title": "The role of AI in modern forex bot development",
     "link": "https://www.artificialintelligence-news.com/news/the-role-of-ai-in-modern-forex-bot-development/",
     "date": "2026-04-22"
+  },
+  {
+    "title": "과도한 편집은 모델이 필요한 범위를 넘어서 코드를 수정하는 현상",
+    "link": "https://news.hada.io/topic?id=28814",
+    "date": "2026-04-23"
+  },
+  {
+    "title": "작은 화면용 5x5 픽셀 폰트",
+    "link": "https://news.hada.io/topic?id=28813",
+    "date": "2026-04-23"
+  },
+  {
+    "title": "Show GN: AI 에이전트를 위한 HTTP 자격 증명 프록시이자 시크릿 저장소",
+    "link": "https://news.hada.io/topic?id=28812",
+    "date": "2026-04-23"
+  },
+  {
+    "title": "Shazam은 대체 어떻게 작동할까?",
+    "link": "https://news.hada.io/topic?id=28811",
+    "date": "2026-04-23"
+  },
+  {
+    "title": "Google Cloud의 AI 에이전트 거버넌스 스택, &quot;에이전트를 엔지니어 조직처럼 관리하라&quot;",
+    "link": "https://news.hada.io/topic?id=28810",
+    "date": "2026-04-23"
+  },
+  {
+    "title": "India’s app market is booming — but global platforms are capturing most of the gains",
+    "link": "https://techcrunch.com/2026/04/22/indias-app-market-is-booming-but-global-platforms-are-capturing-most-of-the-gains/",
+    "date": "2026-04-23"
+  },
+  {
+    "title": "Tesla just increased its spending plan to $25B — here’s where the money is going",
+    "link": "https://techcrunch.com/2026/04/22/tesla-just-increased-its-capex-to-25b-heres-where-the-money-is-going/",
+    "date": "2026-04-23"
+  },
+  {
+    "title": "Google updates Workspace to make AI your new office intern",
+    "link": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/",
+    "date": "2026-04-23"
+  },
+  {
+    "title": "Hands on with X’s new AI-powered custom feeds",
+    "link": "https://techcrunch.com/2026/04/22/hands-on-with-xs-new-ai-powered-custom-feeds/",
+    "date": "2026-04-23"
+  },
+  {
+    "title": "How SpaceX preempted a $2B fundraise with a $60B buyout offer",
+    "link": "https://techcrunch.com/2026/04/22/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer/",
+    "date": "2026-04-23"
+  },
+  {
+    "title": "Making ChatGPT better for clinicians",
+    "link": "https://openai.com/index/making-chatgpt-better-for-clinicians",
+    "date": "2026-04-23"
+  },
+  {
+    "title": "Workspace agents",
+    "link": "https://openai.com/academy/workspace-agents",
+    "date": "2026-04-23"
+  },
+  {
+    "title": "Introducing workspace agents in ChatGPT",
+    "link": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
+    "date": "2026-04-23"
+  },
+  {
+    "title": "Speeding up agentic workflows with WebSockets in the Responses API",
+    "link": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
+    "date": "2026-04-23"
+  },
+  {
+    "title": "Introducing OpenAI Privacy Filter",
+    "link": "https://openai.com/index/introducing-openai-privacy-filter",
+    "date": "2026-04-23"
+  },
+  {
+    "title": "We're launching two specialized TPUs for the agentic era.",
+    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/",
+    "date": "2026-04-23"
+  },
+  {
+    "title": "The Download: introducing the 10 Things That Matter in AI Right Now",
+    "link": "https://www.technologyreview.com/2026/04/22/1136310/the-download-10-things-that-matter-in-ai-right-now/",
+    "date": "2026-04-23"
+  },
+  {
+    "title": "AI needs a strong data fabric to deliver business value",
+    "link": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
+    "date": "2026-04-23"
+  },
+  {
+    "title": "3 things Michelle Kim is into right now",
+    "link": "https://www.technologyreview.com/2026/04/22/1135423/3-things-michelle-kim/",
+    "date": "2026-04-23"
+  },
+  {
+    "title": "One town’s scheme to get rid of its geese",
+    "link": "https://www.technologyreview.com/2026/04/22/1135430/california-town-scheme-get-rid-geese/",
+    "date": "2026-04-23"
+  },
+  {
+    "title": "There is no nature anymore",
+    "link": "https://www.technologyreview.com/2026/04/22/1135440/editors-letter-may-2026/",
+    "date": "2026-04-23"
+  },
+  {
+    "title": "Gemma 4 VLA Demo on Jetson Orin Nano Super",
+    "link": "https://huggingface.co/blog/nvidia/gemma4",
+    "date": "2026-04-23"
+  },
+  {
+    "title": "Crypto scam lures ships into Strait of Hormuz, falsely promising safe passage",
+    "link": "https://arstechnica.com/security/2026/04/crypto-scam-lures-ships-into-strait-of-hormuz-falsely-promising-safe-passage/",
+    "date": "2026-04-23"
+  },
+  {
+    "title": "Tesla reports Q1 2026 earnings: Still profitable",
+    "link": "https://arstechnica.com/cars/2026/04/tesla-reports-q1-2026-earnings-still-profitable/",
+    "date": "2026-04-23"
+  },
+  {
+    "title": "Our newsroom AI policy",
+    "link": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
+    "date": "2026-04-23"
+  },
+  {
+    "title": "Lawsuit: Nintendo is getting tariff refunds—its customers should get them instead",
+    "link": "https://arstechnica.com/tech-policy/2026/04/lawsuit-nintendo-is-getting-tariff-refunds-its-customers-should-get-them-instead/",
+    "date": "2026-04-23"
+  },
+  {
+    "title": "RFK Jr. won't back CDC director on vaccines as agency scraps positive data",
+    "link": "https://arstechnica.com/health/2026/04/rfk-jr-doubles-down-on-vaccine-meddling-as-cdc-junks-scientific-study/",
+    "date": "2026-04-23"
+  },
+  {
+    "title": "Reversing enterprise security costs with AI vulnerability discovery",
+    "link": "https://www.artificialintelligence-news.com/news/reversing-enterprise-security-costs-with-ai-vulnerability-discovery/",
+    "date": "2026-04-23"
+  },
+  {
+    "title": "AI in law firms entering its closing summaries",
+    "link": "https://www.artificialintelligence-news.com/news/ai-in-law-firms-entering-its-closing-summaries/",
+    "date": "2026-04-23"
   }
 ]
