@@ -1,155 +1,5 @@
 [
   {
-    "title": "Zerobox - OpenAI Codex 런타임 기반의 경량 크로스 플랫폼 프로세스 샌드박싱 도구",
-    "link": "https://news.hada.io/topic?id=28620",
-    "date": "2026-04-17"
-  },
-  {
-    "title": "Mozilla Thunderbolt — 사용자가 완전히 제어하는 오픈소스 AI 클라이언트",
-    "link": "https://news.hada.io/topic?id=28619",
-    "date": "2026-04-17"
-  },
-  {
-    "title": "Cloudflare Email Service 공개 베타 — 에이전트를 위한 양방향 이메일 플랫폼",
-    "link": "https://news.hada.io/topic?id=28618",
-    "date": "2026-04-17"
-  },
-  {
-    "title": "Codex가 삼성 TV를 해킹함",
-    "link": "https://news.hada.io/topic?id=28617",
-    "date": "2026-04-17"
-  },
-  {
-    "title": "Cloudflare의 AI 플랫폼: 에이전트를 위한 추론 계층",
-    "link": "https://news.hada.io/topic?id=28616",
-    "date": "2026-04-17"
-  },
-  {
-    "title": "Factory hits $1.5B valuation to build AI coding for enterprises",
-    "link": "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/",
-    "date": "2026-04-17"
-  },
-  {
-    "title": "Luma launches AI-powered production studio with faith-focused Wonder Project",
-    "link": "https://techcrunch.com/2026/04/16/luma-launches-ai-powered-production-studio-with-faith-focused-wonder-project/",
-    "date": "2026-04-17"
-  },
-  {
-    "title": "Upscale AI in talks to raise at $2B valuation, says report",
-    "link": "https://techcrunch.com/2026/04/16/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report/",
-    "date": "2026-04-17"
-  },
-  {
-    "title": "Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught",
-    "link": "https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/",
-    "date": "2026-04-17"
-  },
-  {
-    "title": "OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop",
-    "link": "https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/",
-    "date": "2026-04-17"
-  },
-  {
-    "title": "Codex for (almost) everything",
-    "link": "https://openai.com/index/codex-for-almost-everything",
-    "date": "2026-04-17"
-  },
-  {
-    "title": "Introducing GPT-Rosalind for life sciences research",
-    "link": "https://openai.com/index/introducing-gpt-rosalind",
-    "date": "2026-04-17"
-  },
-  {
-    "title": "Accelerating the cyber defense ecosystem that protects us all",
-    "link": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
-    "date": "2026-04-17"
-  },
-  {
-    "title": "A new way to explore the web with AI Mode in Chrome",
-    "link": "https://blog.google/products-and-platforms/products/search/ai-mode-chrome/",
-    "date": "2026-04-17"
-  },
-  {
-    "title": "New ways to create personalized images in the Gemini app",
-    "link": "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/",
-    "date": "2026-04-17"
-  },
-  {
-    "title": "Making AI operational in constrained public sector environments",
-    "link": "https://www.technologyreview.com/2026/04/16/1135216/making-ai-operational-in-constrained-public-sector-environments/",
-    "date": "2026-04-17"
-  },
-  {
-    "title": "Treating enterprise AI as an operating layer",
-    "link": "https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/",
-    "date": "2026-04-17"
-  },
-  {
-    "title": "The Download: cyberscammers’ banking bypasses, and carbon removal troubles",
-    "link": "https://www.technologyreview.com/2026/04/16/1136034/the-download-cyberscammers-banking-bypasses-microsoft-carbon-removal-troubles/",
-    "date": "2026-04-17"
-  },
-  {
-    "title": "Why having “humans in the loop” in an AI war is an illusion",
-    "link": "https://www.technologyreview.com/2026/04/16/1136029/humans-in-the-loop-ai-war-illusion/",
-    "date": "2026-04-17"
-  },
-  {
-    "title": "The noise we make is hurting animals. Can we learn to shut up?",
-    "link": "https://www.technologyreview.com/2026/04/16/1135179/anthropogenic-noise-hurting-animals/",
-    "date": "2026-04-17"
-  },
-  {
-    "title": "The PR you would have opened yourself",
-    "link": "https://huggingface.co/blog/transformers-to-mlx",
-    "date": "2026-04-17"
-  },
-  {
-    "title": "Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers",
-    "link": "https://huggingface.co/blog/train-multimodal-sentence-transformers",
-    "date": "2026-04-17"
-  },
-  {
-    "title": "Lucasfilm drops The Mandalorian and Grogu final trailer at CinemaCon",
-    "link": "https://arstechnica.com/culture/2026/04/lucasfilm-drops-mandalorian-and-grogu-final-trailer-at-cinemacon/",
-    "date": "2026-04-17"
-  },
-  {
-    "title": "Intel refreshes non-Ultra Core CPUs with new silicon for the first time",
-    "link": "https://arstechnica.com/gadgets/2026/04/intels-non-ultra-core-cpus-are-new-silicon-this-year-for-a-change/",
-    "date": "2026-04-17"
-  },
-  {
-    "title": "OpenAI starts offering a biology-tuned LLM",
-    "link": "https://arstechnica.com/science/2026/04/openai-starts-offering-a-biology-tuned-llm/",
-    "date": "2026-04-17"
-  },
-  {
-    "title": "As they got close to the Moon, Artemis II astronauts were eager to land",
-    "link": "https://arstechnica.com/space/2026/04/artemis-ii-astronauts-say-landing-on-the-moon-is-absolutely-doable-soon/",
-    "date": "2026-04-17"
-  },
-  {
-    "title": "Mozilla launches Thunderbolt AI client with focus on self-hosted infrastructure",
-    "link": "https://arstechnica.com/ai/2026/04/mozilla-launches-thunderbolt-ai-client-with-focus-on-self-hosted-infrastructure/",
-    "date": "2026-04-17"
-  },
-  {
-    "title": "5 top cloud migration software for Infrastructure as Code (IaC)",
-    "link": "https://www.artificialintelligence-news.com/news/5-top-cloud-migration-software-for-infrastructure-as-code-iac/",
-    "date": "2026-04-17"
-  },
-  {
-    "title": "OpenAI Agents SDK improves governance with sandbox execution",
-    "link": "https://www.artificialintelligence-news.com/news/openai-agents-sdk-improves-governance-sandbox-execution/",
-    "date": "2026-04-17"
-  },
-  {
-    "title": "Cadence expands AI and robotic partnerships with Nvidia, Google Cloud",
-    "link": "https://www.artificialintelligence-news.com/news/cadence-expands-ai-and-robotics-partnerships-with-nvidia-google-cloud/",
-    "date": "2026-04-17"
-  },
-  {
     "title": "Postgres 큐를 건강하게 유지하기",
     "link": "https://news.hada.io/topic?id=28644",
     "date": "2026-04-18"
@@ -913,5 +763,140 @@
     "title": "AI in law firms entering its closing summaries",
     "link": "https://www.artificialintelligence-news.com/news/ai-in-law-firms-entering-its-closing-summaries/",
     "date": "2026-04-23"
+  },
+  {
+    "title": "GPT-5.5",
+    "link": "https://news.hada.io/topic?id=28834",
+    "date": "2026-04-24"
+  },
+  {
+    "title": "Show GN: 자료를 이미지형 슬라이드로 바꿔주는 Codex 스킬 (gpt-slide)",
+    "link": "https://news.hada.io/topic?id=28833",
+    "date": "2026-04-24"
+  },
+  {
+    "title": "syntaqlite - SQLite 자체 문법과 토크나이저 기반의 SQL 파서·포매터·검증기·언어 서버",
+    "link": "https://news.hada.io/topic?id=28832",
+    "date": "2026-04-24"
+  },
+  {
+    "title": "Zed의 병렬 에이전트 기능 소개",
+    "link": "https://news.hada.io/topic?id=28831",
+    "date": "2026-04-24"
+  },
+  {
+    "title": "GStack: Y Combinator CEO가 만든 AI 코딩 에이전트 프레임워크 유투브소개",
+    "link": "https://news.hada.io/topic?id=28830",
+    "date": "2026-04-24"
+  },
+  {
+    "title": "Bret Taylor’s Sierra buys YC-backed AI startup Fragment",
+    "link": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
+    "date": "2026-04-24"
+  },
+  {
+    "title": "Meet Noscroll, an AI bot that does your doomscrolling for you",
+    "link": "https://techcrunch.com/2026/04/23/meet-noscroll-an-ai-bot-that-does-your-doomscrolling-for-you/",
+    "date": "2026-04-24"
+  },
+  {
+    "title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘super app’",
+    "link": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
+    "date": "2026-04-24"
+  },
+  {
+    "title": "Era raises $11M to build a software platform for AI gadgets",
+    "link": "https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/",
+    "date": "2026-04-24"
+  },
+  {
+    "title": "Grab a ticket today: The first StrictlyVC of 2026 kicks off in just a week in San Francisco",
+    "link": "https://techcrunch.com/2026/04/23/grab-a-ticket-today-the-first-strictlyvc-of-2026-kicks-off-in-just-a-week-in-san-francisco/",
+    "date": "2026-04-24"
+  },
+  {
+    "title": "Introducing GPT-5.5",
+    "link": "https://openai.com/index/introducing-gpt-5-5",
+    "date": "2026-04-24"
+  },
+  {
+    "title": "GPT-5.5 System Card",
+    "link": "https://openai.com/index/gpt-5-5-system-card",
+    "date": "2026-04-24"
+  },
+  {
+    "title": "Automations",
+    "link": "https://openai.com/academy/codex-automations",
+    "date": "2026-04-24"
+  },
+  {
+    "title": "Top 10 uses for Codex at work",
+    "link": "https://openai.com/academy/top-10-use-cases-codex-for-work",
+    "date": "2026-04-24"
+  },
+  {
+    "title": "Plugins and skills",
+    "link": "https://openai.com/academy/codex-plugins-and-skills",
+    "date": "2026-04-24"
+  },
+  {
+    "title": "Here’s how our TPUs power increasingly demanding AI workloads.",
+    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/",
+    "date": "2026-04-24"
+  },
+  {
+    "title": "Elevating Austria: Google invests in its first data center in the Alps.",
+    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-data-center-austria/",
+    "date": "2026-04-24"
+  },
+  {
+    "title": "The Download: introducing the Nature issue",
+    "link": "https://www.technologyreview.com/2026/04/23/1136346/the-download-introducing-nature-issue/",
+    "date": "2026-04-24"
+  },
+  {
+    "title": "Will fusion power get cheap? Don’t count on it.",
+    "link": "https://www.technologyreview.com/2026/04/23/1136329/fusion-power-cost/",
+    "date": "2026-04-24"
+  },
+  {
+    "title": "Visitors to this private space station won't be wearing shorts and T-shirts",
+    "link": "https://arstechnica.com/space/2026/04/vast-reveals-flight-suit-tests-timepiece-for-commercial-space-station/",
+    "date": "2026-04-24"
+  },
+  {
+    "title": "US accuses China of “industrial-scale” AI theft. China says it’s “slander.”",
+    "link": "https://arstechnica.com/tech-policy/2026/04/us-accuses-china-of-industrial-scale-ai-theft-china-says-its-slander/",
+    "date": "2026-04-24"
+  },
+  {
+    "title": "Carbon nanotube wiring gets closer to competing with copper",
+    "link": "https://arstechnica.com/science/2026/04/researchers-get-carbon-nanotube-wiring-to-conduct-more-like-copper/",
+    "date": "2026-04-24"
+  },
+  {
+    "title": "We still don't have a more precise value for \"Big G\"",
+    "link": "https://arstechnica.com/science/2026/04/we-still-dont-have-a-more-precise-value-for-big-g/",
+    "date": "2026-04-24"
+  },
+  {
+    "title": "In a first, a ransomware family is confirmed to be quantum-safe",
+    "link": "https://arstechnica.com/security/2026/04/now-even-ransomware-is-using-post-quantum-cryptography/",
+    "date": "2026-04-24"
+  },
+  {
+    "title": "The billion-dollar startup with a different idea for AI",
+    "link": "https://www.artificialintelligence-news.com/news/the-billion-dollar-startup-with-a-different-idea-for-ai-ami-labs-yann-lecun/",
+    "date": "2026-04-24"
+  },
+  {
+    "title": "NVIDIA and Google infrastructure cuts AI inference costs",
+    "link": "https://www.artificialintelligence-news.com/news/nvidia-and-google-infrastructure-cuts-ai-inference-costs/",
+    "date": "2026-04-24"
+  },
+  {
+    "title": "Sony AI robot beats players as humanoid robot wins Beijing race",
+    "link": "https://www.artificialintelligence-news.com/news/sony-ai-robot-table-tennis-humanoid-robot-beijing-race/",
+    "date": "2026-04-24"
   }
 ]
