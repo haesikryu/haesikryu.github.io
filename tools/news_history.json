@@ -1,55 +1,5 @@
 [
   {
-    "title": "Show GN: SPAR-Framework - 물리·수학 모델 결과의 ‘정당한 해석 가능성’을 검토하는 프레임워크",
-    "link": "https://news.hada.io/topic?id=28679",
-    "date": "2026-04-19"
-  },
-  {
-    "title": "&quot;AI에게 무례할수록 성능이 좋다?&quot; 최신 연구가 경고하는 PM의 소통 위기",
-    "link": "https://news.hada.io/topic?id=28678",
-    "date": "2026-04-19"
-  },
-  {
-    "title": "B-52 폭격기 스타 트래커 내부의 전기기계식 각도 컴퓨터",
-    "link": "https://news.hada.io/topic?id=28677",
-    "date": "2026-04-19"
-  },
-  {
-    "title": "Show GN: Paperclip + Gastown에서 영감을 받은, “영구기관” 컨셉의 오픈소스 AI 에이전트 프레임워크",
-    "link": "https://news.hada.io/topic?id=28676",
-    "date": "2026-04-19"
-  },
-  {
-    "title": "분리된 구간 집합 위에서 계산하는 계산기",
-    "link": "https://news.hada.io/topic?id=28675",
-    "date": "2026-04-19"
-  },
-  {
-    "title": "Tesla brings its robotaxi service to Dallas and Houston",
-    "link": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
-    "date": "2026-04-19"
-  },
-  {
-    "title": "AI chip startup Cerebras files for IPO",
-    "link": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
-    "date": "2026-04-19"
-  },
-  {
-    "title": "Anthropic’s relationship with the Trump administration seems to be thawing",
-    "link": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
-    "date": "2026-04-19"
-  },
-  {
-    "title": "The App Store is booming again, and AI may be why",
-    "link": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
-    "date": "2026-04-19"
-  },
-  {
-    "title": "Great white sharks are overheating",
-    "link": "https://arstechnica.com/science/2026/04/great-white-sharks-are-overheating/",
-    "date": "2026-04-19"
-  },
-  {
     "title": "프로그래밍의 일곱 가지 원형 언어 (2022)",
     "link": "https://news.hada.io/topic?id=28703",
     "date": "2026-04-20"
@@ -933,5 +883,65 @@
     "title": "This is who's developing Golden Dome's orbital interceptors—if they're ever built",
     "link": "https://arstechnica.com/space/2026/04/this-is-whos-developing-golden-domes-orbital-interceptors-if-theyre-ever-built/",
     "date": "2026-04-25"
+  },
+  {
+    "title": "mini-swe-agent - 100줄짜리 AI 에이전트로 GitHub 이슈 해결 및 커맨드라인 지원",
+    "link": "https://news.hada.io/topic?id=28891",
+    "date": "2026-04-26"
+  },
+  {
+    "title": "OpenAI, API에 GPT-5.5와 GPT-5.5 Pro 출시",
+    "link": "https://news.hada.io/topic?id=28890",
+    "date": "2026-04-26"
+  },
+  {
+    "title": "고전적인 미국식 다이너",
+    "link": "https://news.hada.io/topic?id=28889",
+    "date": "2026-04-26"
+  },
+  {
+    "title": "습관적인 커피 섭취는 장내 미생물군을 형성하고 생리와 인지를 바꿈",
+    "link": "https://news.hada.io/topic?id=28888",
+    "date": "2026-04-26"
+  },
+  {
+    "title": "SDL이 이제 DOS를 지원함",
+    "link": "https://news.hada.io/topic?id=28887",
+    "date": "2026-04-26"
+  },
+  {
+    "title": "Anthropic created a test marketplace for agent-on-agent commerce",
+    "link": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
+    "date": "2026-04-26"
+  },
+  {
+    "title": "Maine’s governor vetoes data center moratorium",
+    "link": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
+    "date": "2026-04-26"
+  },
+  {
+    "title": "OpenAI CEO apologizes to Tumbler Ridge community",
+    "link": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
+    "date": "2026-04-26"
+  },
+  {
+    "title": "Why Cohere is merging with Aleph Alpha",
+    "link": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
+    "date": "2026-04-26"
+  },
+  {
+    "title": "Why Tokyo is the most important tech destination of 2026",
+    "link": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
+    "date": "2026-04-26"
+  },
+  {
+    "title": "Artemis II broke Fred Haise's distance record, but he is happy to pass it on",
+    "link": "https://arstechnica.com/science/2026/04/artemis-ii-broke-fred-haises-distance-record-but-he-is-happy-to-pass-it-on/",
+    "date": "2026-04-26"
+  },
+  {
+    "title": "Palantir employees are talking about company's \"descent into fascism\"",
+    "link": "https://arstechnica.com/tech-policy/2026/04/palantir-employees-are-talking-about-companys-descent-into-fascism/",
+    "date": "2026-04-26"
   }
 ]
