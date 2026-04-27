@@ -1,90 +1,5 @@
 [
   {
-    "title": "프로그래밍의 일곱 가지 원형 언어 (2022)",
-    "link": "https://news.hada.io/topic?id=28703",
-    "date": "2026-04-20"
-  },
-  {
-    "title": "iroh - 공개키 기반 초고속 P2P 네트워크 연결 라이브러리 오픈소스",
-    "link": "https://news.hada.io/topic?id=28702",
-    "date": "2026-04-20"
-  },
-  {
-    "title": "모든 공개 Notion 페이지가 모든 편집자의 이메일 주소를 유출",
-    "link": "https://news.hada.io/topic?id=28701",
-    "date": "2026-04-20"
-  },
-  {
-    "title": "Vercel, 내부 시스템 침해 발생했다고 밝혀",
-    "link": "https://news.hada.io/topic?id=28700",
-    "date": "2026-04-20"
-  },
-  {
-    "title": "Vercel 2026년 4월 보안 사고",
-    "link": "https://news.hada.io/topic?id=28699",
-    "date": "2026-04-20"
-  },
-  {
-    "title": "OpenAI’s existential questions",
-    "link": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
-    "date": "2026-04-20"
-  },
-  {
-    "title": "The 12-month window",
-    "link": "https://techcrunch.com/2026/04/19/the-12-month-window/",
-    "date": "2026-04-20"
-  },
-  {
-    "title": "Palantir posts mini-manifesto denouncing inclusivity and ‘regressive’ cultures",
-    "link": "https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/",
-    "date": "2026-04-20"
-  },
-  {
-    "title": "TechCrunch Mobility: Uber enters its assetmaxxing era",
-    "link": "https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/",
-    "date": "2026-04-20"
-  },
-  {
-    "title": "Blue Origin's rocket reuse achievement marred by upper stage failure",
-    "link": "https://arstechnica.com/space/2026/04/errant-upper-stage-spoils-blue-origins-success-in-reusing-new-glenn-booster/",
-    "date": "2026-04-20"
-  },
-  {
-    "title": "I’ve fired one of America’s most powerful lasers—here’s what a shot day looks like",
-    "link": "https://arstechnica.com/science/2026/04/ive-fired-one-of-americas-most-powerful-lasers-heres-what-a-shot-day-looks-like/",
-    "date": "2026-04-20"
-  },
-  {
-    "title": "RAM 부족 사태는 수년간 이어질 수 있음",
-    "link": "https://news.hada.io/topic?id=28715",
-    "date": "2026-04-20"
-  },
-  {
-    "title": "Show GN: pvm - 여러 Python venv를 별칭과 TUI로 관리하는 Go CLI",
-    "link": "https://news.hada.io/topic?id=28714",
-    "date": "2026-04-20"
-  },
-  {
-    "title": "Claude Opus 4.6와 4.7 시스템 프롬프트 변경점",
-    "link": "https://news.hada.io/topic?id=28713",
-    "date": "2026-04-20"
-  },
-  {
-    "title": "Show GN: 중복된 파일과 내가 어떤 유형의 사용자인지 알려주는 디스크 스캐너 LLM diskscan",
-    "link": "https://news.hada.io/topic?id=28712",
-    "date": "2026-04-20"
-  },
-  {
-    "title": "WhatsApp 그룹에 폭격 피해 사진을 공유한 항공사 직원 체포",
-    "link": "https://news.hada.io/topic?id=28711",
-    "date": "2026-04-20"
-  },
-  {
-    "title": "Anthropic walks into the White House and Mythos is the reason Washington let it in",
-    "link": "https://www.artificialintelligence-news.com/news/anthropic-mythos-ai-cybersecurity-white-house/",
-    "date": "2026-04-20"
-  },
-  {
     "title": "Cherri - 애플 단축어를 코드로 작성하는 프로그래밍 언어",
     "link": "https://news.hada.io/topic?id=28732",
     "date": "2026-04-21"
@@ -968,5 +883,60 @@
     "title": "CSS를 질의 언어로 보기",
     "link": "https://news.hada.io/topic?id=28897",
     "date": "2026-04-26"
+  },
+  {
+    "title": "Stash - AI 에이전트를 위한 지속형 메모리 계층",
+    "link": "https://news.hada.io/topic?id=28917",
+    "date": "2026-04-27"
+  },
+  {
+    "title": "Lightwhale 3: Linux 서버를 다시 재미있게 만들기",
+    "link": "https://news.hada.io/topic?id=28916",
+    "date": "2026-04-27"
+  },
+  {
+    "title": "지식 노동의 시뮬라크르",
+    "link": "https://news.hada.io/topic?id=28915",
+    "date": "2026-04-27"
+  },
+  {
+    "title": "1980년대 Commodore 64 게임의 Martin Galway 음악 소스 파일",
+    "link": "https://news.hada.io/topic?id=28914",
+    "date": "2026-04-27"
+  },
+  {
+    "title": "Turbo Vision 2.0 - 현대적인 포트",
+    "link": "https://news.hada.io/topic?id=28913",
+    "date": "2026-04-27"
+  },
+  {
+    "title": "To buy this Bay Area home, you’ll need Anthropic equity",
+    "link": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
+    "date": "2026-04-27"
+  },
+  {
+    "title": "Our principles",
+    "link": "https://openai.com/index/our-principles",
+    "date": "2026-04-27"
+  },
+  {
+    "title": "How to get started with Codex",
+    "link": "https://openai.com/academy/codex-how-to-start",
+    "date": "2026-04-27"
+  },
+  {
+    "title": "Strange New Worlds S4 teaser strikes a more serious tone",
+    "link": "https://arstechnica.com/culture/2026/04/strange-new-worlds-s4-teaser-strikes-a-more-serious-tone/",
+    "date": "2026-04-27"
+  },
+  {
+    "title": "Prime Video drops full trailer for Spider-Noir",
+    "link": "https://arstechnica.com/culture/2026/04/prime-video-drops-full-trailer-for-spider-noir/",
+    "date": "2026-04-27"
+  },
+  {
+    "title": "New robotic control software avoids jamming their joints",
+    "link": "https://arstechnica.com/science/2026/04/kinematic-intelligence-helps-robots-learn-their-limits/",
+    "date": "2026-04-27"
   }
 ]
