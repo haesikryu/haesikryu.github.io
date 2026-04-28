@@ -9,8 +9,9 @@ order: 1
 </p>
 
 <ul>
+{% comment %}Blog 탭: `_posts/blog/` 아래 글 전부 표시. `categories: [Blog]`만 보면 [Engineering, AI] 등이 누락됨.{% endcomment %}
 {% for post in site.posts %}
-  {% if post.categories contains "Blog" %}
+  {% if post.path contains '_posts/blog/' %}
     <li>
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
       <span style="color:#888; font-size:0.9em;">({{ post.date | date: "%Y-%m-%d" }})</span>
