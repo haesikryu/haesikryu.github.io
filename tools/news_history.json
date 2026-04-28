@@ -1,170 +1,5 @@
 [
   {
-    "title": "Cherri - 애플 단축어를 코드로 작성하는 프로그래밍 언어",
-    "link": "https://news.hada.io/topic?id=28732",
-    "date": "2026-04-21"
-  },
-  {
-    "title": "IPv6가 좋은 설계였던 세계 (2017)",
-    "link": "https://news.hada.io/topic?id=28731",
-    "date": "2026-04-21"
-  },
-  {
-    "title": "스위스 당국, Microsoft 의존도 축소 추진",
-    "link": "https://news.hada.io/topic?id=28730",
-    "date": "2026-04-21"
-  },
-  {
-    "title": "첫 프로젝트 확보는 기존 인맥과 소개가 중심이었고, 전 직장 동료·지인·커뮤니티 연결이 반복적으로 출...",
-    "link": "https://news.hada.io/topic?id=28729",
-    "date": "2026-04-21"
-  },
-  {
-    "title": "AI 리뷰를 신뢰할 수 있을까요?",
-    "link": "https://news.hada.io/topic?id=28727",
-    "date": "2026-04-21"
-  },
-  {
-    "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
-    "link": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
-    "date": "2026-04-21"
-  },
-  {
-    "title": "Google rolls out Gemini in Chrome in 7 new countries",
-    "link": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/",
-    "date": "2026-04-21"
-  },
-  {
-    "title": "It’s not just one thing — it’s another thing",
-    "link": "https://techcrunch.com/2026/04/20/ai-writing-its-not-just-this-its-that-barrons/",
-    "date": "2026-04-21"
-  },
-  {
-    "title": "NSA spies are reportedly using Anthropic’s Mythos, despite Pentagon feud",
-    "link": "https://techcrunch.com/2026/04/20/nsa-spies-are-reportedly-using-anthropics-mythos-despite-pentagon-feud/",
-    "date": "2026-04-21"
-  },
-  {
-    "title": "CEO and CFO suddenly depart AI nuclear power upstart Fermi",
-    "link": "https://techcrunch.com/2026/04/20/fermi-ceo-and-cfo-depart-texas-nuclear-power-ai/",
-    "date": "2026-04-21"
-  },
-  {
-    "title": "OpenAI helps Hyatt advance AI among colleagues",
-    "link": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
-    "date": "2026-04-21"
-  },
-  {
-    "title": "The Download: murderous ‘mirror’ bacteria, and Chinese workers fighting AI doubles",
-    "link": "https://www.technologyreview.com/2026/04/20/1136154/the-download-murderous-mirror-bacteria-chinese-workers-fight-ai-agents/",
-    "date": "2026-04-21"
-  },
-  {
-    "title": "Colossal Biosciences said it cloned red wolves. Is it for real?",
-    "link": "https://www.technologyreview.com/2026/04/20/1135222/red-wolves-colossal-biosciences-clones/",
-    "date": "2026-04-21"
-  },
-  {
-    "title": "Chinese tech workers are starting to train their AI doubles–and pushing back",
-    "link": "https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/",
-    "date": "2026-04-21"
-  },
-  {
-    "title": "How to Ground a Korean AI Agent in Real Demographics with Synthetic Personas",
-    "link": "https://huggingface.co/blog/nvidia/build-korean-agents-with-nemotron-personas",
-    "date": "2026-04-21"
-  },
-  {
-    "title": "John Ternus will replace Tim Cook as Apple CEO",
-    "link": "https://arstechnica.com/apple/2026/04/john-ternus-will-replace-tim-cook-as-apple-ceo/",
-    "date": "2026-04-21"
-  },
-  {
-    "title": "Absurd study suggests eating fruits and vegetables leads to cancer",
-    "link": "https://arstechnica.com/health/2026/04/absurdly-bad-study-spurs-headlines-linking-healthy-diet-to-lung-cancer/",
-    "date": "2026-04-21"
-  },
-  {
-    "title": "US opens refund portal to start paying back Trump's illegal tariffs",
-    "link": "https://arstechnica.com/tech-policy/2026/04/us-opens-refund-portal-to-start-paying-back-trumps-illegal-tariffs/",
-    "date": "2026-04-21"
-  },
-  {
-    "title": "Here's how F1 is tweaking its hybrid systems to try to save the show",
-    "link": "https://arstechnica.com/cars/2026/04/f1-new-hybrid-rules-will-come-into-effect-at-the-miami-grand-prix-in-may/",
-    "date": "2026-04-21"
-  },
-  {
-    "title": "Robot runner handily beats humans in half-marathon, setting new record",
-    "link": "https://arstechnica.com/ai/2026/04/robot-runner-handily-beats-humans-in-half-marathon-setting-new-record/",
-    "date": "2026-04-21"
-  },
-  {
-    "title": "Bobyard 2.0 offers improved takeoffs and unified AI for estimators",
-    "link": "https://www.artificialintelligence-news.com/news/bobyard-2-0-offers-improved-takeoffs-and-unified-ai-for-estimators/",
-    "date": "2026-04-21"
-  },
-  {
-    "title": "How to prepare for and remediate an AI system incident",
-    "link": "https://www.artificialintelligence-news.com/news/how-to-prepare-for-and-remediate-an-ai-system-incident/",
-    "date": "2026-04-21"
-  },
-  {
-    "title": "프로덕션 환경에서 바이브 코딩을 책임감 있게 하는 법 -  Vibe coding in prod | Code w/ Claude",
-    "link": "https://news.hada.io/topic?id=28749",
-    "date": "2026-04-21"
-  },
-  {
-    "title": "Show GN: ESLint Markdown: ESLint로 마크다운 파일들을 린팅하세요",
-    "link": "https://news.hada.io/topic?id=28747",
-    "date": "2026-04-21"
-  },
-  {
-    "title": "Ask HN: 양면 시장의 콜드 스타트 ​​문제를 해결하는 방법은 무엇일까요?",
-    "link": "https://news.hada.io/topic?id=28746",
-    "date": "2026-04-21"
-  },
-  {
-    "title": "Firefox용 WebUSB 확장",
-    "link": "https://news.hada.io/topic?id=28745",
-    "date": "2026-04-21"
-  },
-  {
-    "title": "&#039;제미나이 인 크롬&#039;으로 더욱 스마트하고 편리해진 크롬이 한국에 출시됩니다",
-    "link": "https://news.hada.io/topic?id=28743",
-    "date": "2026-04-21"
-  },
-  {
-    "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-    "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-    "date": "2026-04-21"
-  },
-  {
-    "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-    "link": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-    "date": "2026-04-21"
-  },
-  {
-    "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-    "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
-    "date": "2026-04-21"
-  },
-  {
-    "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-    "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-    "date": "2026-04-21"
-  },
-  {
-    "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
-    "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
-    "date": "2026-04-21"
-  },
-  {
-    "title": "Pentagon pulls the plug on one of the military's most troubled space programs",
-    "link": "https://arstechnica.com/space/2026/04/pentagon-pulls-the-plug-on-one-of-the-militarys-most-troubled-space-programs/",
-    "date": "2026-04-21"
-  },
-  {
     "title": "감시를 기본값으로 받아들인 이유",
     "link": "https://news.hada.io/topic?id=28755",
     "date": "2026-04-22"
@@ -968,5 +803,140 @@
     "title": "What is Codex?",
     "link": "https://openai.com/academy/what-is-codex",
     "date": "2026-04-27"
+  },
+  {
+    "title": "벽을 응시하는 남자들",
+    "link": "https://news.hada.io/topic?id=28963",
+    "date": "2026-04-28"
+  },
+  {
+    "title": "GitHub Copilot이 사용량 기반 과금으로 전환됨",
+    "link": "https://news.hada.io/topic?id=28962",
+    "date": "2026-04-28"
+  },
+  {
+    "title": "HyperFrames - HTML로 비디오를 만드는 AI 에이전트 전용 오픈소스 프레임워크",
+    "link": "https://news.hada.io/topic?id=28961",
+    "date": "2026-04-28"
+  },
+  {
+    "title": "Microsoft와 OpenAI, 독점 및 매출 공유 계약 종료",
+    "link": "https://news.hada.io/topic?id=28960",
+    "date": "2026-04-28"
+  },
+  {
+    "title": "Show GN: LAO — 아이디어를 개발 AI가 실행할 수 있는 설계서로 바꿔주는 macOS 앱",
+    "link": "https://news.hada.io/topic?id=28959",
+    "date": "2026-04-28"
+  },
+  {
+    "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
+    "link": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
+    "date": "2026-04-28"
+  },
+  {
+    "title": "DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data",
+    "link": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
+    "date": "2026-04-28"
+  },
+  {
+    "title": "Investors back Skye’s AI home screen app for iPhone ahead of launch",
+    "link": "https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/",
+    "date": "2026-04-28"
+  },
+  {
+    "title": "China blocks Meta’s $2B Manus deal after months-long probe",
+    "link": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
+    "date": "2026-04-28"
+  },
+  {
+    "title": "OpenAI could be making a phone with AI agents replacing apps",
+    "link": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
+    "date": "2026-04-28"
+  },
+  {
+    "title": "OpenAI available at FedRAMP Moderate",
+    "link": "https://openai.com/index/openai-available-at-fedramp-moderate",
+    "date": "2026-04-28"
+  },
+  {
+    "title": "The next phase of the Microsoft OpenAI partnership",
+    "link": "https://openai.com/index/next-phase-of-microsoft-partnership",
+    "date": "2026-04-28"
+  },
+  {
+    "title": "An open-source spec for orchestration: Symphony",
+    "link": "https://openai.com/index/open-source-codex-orchestration-symphony",
+    "date": "2026-04-28"
+  },
+  {
+    "title": "Choco automates food distribution with AI agents",
+    "link": "https://openai.com/index/choco",
+    "date": "2026-04-28"
+  },
+  {
+    "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
+    "date": "2026-04-28"
+  },
+  {
+    "title": "Elon Musk and Sam Altman are going to court over OpenAI’s future",
+    "link": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/",
+    "date": "2026-04-28"
+  },
+  {
+    "title": "The missing step between hype and profit",
+    "link": "https://www.technologyreview.com/2026/04/27/1136456/the-missing-step-between-hype-and-profit/",
+    "date": "2026-04-28"
+  },
+  {
+    "title": "Rebuilding the data stack for AI",
+    "link": "https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/",
+    "date": "2026-04-28"
+  },
+  {
+    "title": "The Download: DeepSeek’s latest AI breakthrough, and the race to build world models",
+    "link": "https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/",
+    "date": "2026-04-28"
+  },
+  {
+    "title": "Adaptive Ultrasound Imaging with Physics-Informed NV-Raw2Insights-US AI",
+    "link": "https://huggingface.co/blog/nvidia/raw2insights-adaptive-ultrasound-imaging",
+    "date": "2026-04-28"
+  },
+  {
+    "title": "How to build scalable web apps with OpenAI's Privacy Filter",
+    "link": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
+    "date": "2026-04-28"
+  },
+  {
+    "title": "Put it in pencil: NASA's Artemis III mission will launch no earlier than late 2027",
+    "link": "https://arstechnica.com/space/2026/04/put-it-in-pencil-nasas-artemis-iii-mission-will-launch-no-earlier-than-late-2027/",
+    "date": "2026-04-28"
+  },
+  {
+    "title": "Open source package with 1 million monthly downloads stole user credentials",
+    "link": "https://arstechnica.com/security/2026/04/open-source-package-with-1-million-monthly-downloads-stole-user-credentials/",
+    "date": "2026-04-28"
+  },
+  {
+    "title": "Musk and Altman face off in trial that will determine OpenAI's future",
+    "link": "https://arstechnica.com/tech-policy/2026/04/musk-and-altman-face-off-in-trial-that-will-determine-openais-future/",
+    "date": "2026-04-28"
+  },
+  {
+    "title": "OpenAI ends its exclusive partnership with Microsoft",
+    "link": "https://arstechnica.com/ai/2026/04/no-longer-exclusive-microsoft-agrees-to-let-openai-see-other-cloud-providers/",
+    "date": "2026-04-28"
+  },
+  {
+    "title": "EU tells Google to open up AI on Android; Google says that's \"unwarranted intervention\"",
+    "link": "https://arstechnica.com/ai/2026/04/europe-could-force-google-to-open-android-to-other-ai-assistants/",
+    "date": "2026-04-28"
+  },
+  {
+    "title": "Google warns malicious web pages are poisoning AI agents",
+    "link": "https://www.artificialintelligence-news.com/news/google-warns-malicious-web-pages-poisoning-ai-agents/",
+    "date": "2026-04-28"
   }
 ]
