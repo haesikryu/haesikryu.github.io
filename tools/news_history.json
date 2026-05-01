@@ -1,170 +1,5 @@
 [
   {
-    "title": "GPT-5.5",
-    "link": "https://news.hada.io/topic?id=28834",
-    "date": "2026-04-24"
-  },
-  {
-    "title": "Show GN: 자료를 이미지형 슬라이드로 바꿔주는 Codex 스킬 (gpt-slide)",
-    "link": "https://news.hada.io/topic?id=28833",
-    "date": "2026-04-24"
-  },
-  {
-    "title": "syntaqlite - SQLite 자체 문법과 토크나이저 기반의 SQL 파서·포매터·검증기·언어 서버",
-    "link": "https://news.hada.io/topic?id=28832",
-    "date": "2026-04-24"
-  },
-  {
-    "title": "Zed의 병렬 에이전트 기능 소개",
-    "link": "https://news.hada.io/topic?id=28831",
-    "date": "2026-04-24"
-  },
-  {
-    "title": "GStack: Y Combinator CEO가 만든 AI 코딩 에이전트 프레임워크 유투브소개",
-    "link": "https://news.hada.io/topic?id=28830",
-    "date": "2026-04-24"
-  },
-  {
-    "title": "Bret Taylor’s Sierra buys YC-backed AI startup Fragment",
-    "link": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
-    "date": "2026-04-24"
-  },
-  {
-    "title": "Meet Noscroll, an AI bot that does your doomscrolling for you",
-    "link": "https://techcrunch.com/2026/04/23/meet-noscroll-an-ai-bot-that-does-your-doomscrolling-for-you/",
-    "date": "2026-04-24"
-  },
-  {
-    "title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘super app’",
-    "link": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
-    "date": "2026-04-24"
-  },
-  {
-    "title": "Era raises $11M to build a software platform for AI gadgets",
-    "link": "https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/",
-    "date": "2026-04-24"
-  },
-  {
-    "title": "Grab a ticket today: The first StrictlyVC of 2026 kicks off in just a week in San Francisco",
-    "link": "https://techcrunch.com/2026/04/23/grab-a-ticket-today-the-first-strictlyvc-of-2026-kicks-off-in-just-a-week-in-san-francisco/",
-    "date": "2026-04-24"
-  },
-  {
-    "title": "Introducing GPT-5.5",
-    "link": "https://openai.com/index/introducing-gpt-5-5",
-    "date": "2026-04-24"
-  },
-  {
-    "title": "GPT-5.5 System Card",
-    "link": "https://openai.com/index/gpt-5-5-system-card",
-    "date": "2026-04-24"
-  },
-  {
-    "title": "Automations",
-    "link": "https://openai.com/academy/codex-automations",
-    "date": "2026-04-24"
-  },
-  {
-    "title": "Top 10 uses for Codex at work",
-    "link": "https://openai.com/academy/top-10-use-cases-codex-for-work",
-    "date": "2026-04-24"
-  },
-  {
-    "title": "Plugins and skills",
-    "link": "https://openai.com/academy/codex-plugins-and-skills",
-    "date": "2026-04-24"
-  },
-  {
-    "title": "Here’s how our TPUs power increasingly demanding AI workloads.",
-    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/",
-    "date": "2026-04-24"
-  },
-  {
-    "title": "Elevating Austria: Google invests in its first data center in the Alps.",
-    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-data-center-austria/",
-    "date": "2026-04-24"
-  },
-  {
-    "title": "The Download: introducing the Nature issue",
-    "link": "https://www.technologyreview.com/2026/04/23/1136346/the-download-introducing-nature-issue/",
-    "date": "2026-04-24"
-  },
-  {
-    "title": "Will fusion power get cheap? Don’t count on it.",
-    "link": "https://www.technologyreview.com/2026/04/23/1136329/fusion-power-cost/",
-    "date": "2026-04-24"
-  },
-  {
-    "title": "Visitors to this private space station won't be wearing shorts and T-shirts",
-    "link": "https://arstechnica.com/space/2026/04/vast-reveals-flight-suit-tests-timepiece-for-commercial-space-station/",
-    "date": "2026-04-24"
-  },
-  {
-    "title": "US accuses China of “industrial-scale” AI theft. China says it’s “slander.”",
-    "link": "https://arstechnica.com/tech-policy/2026/04/us-accuses-china-of-industrial-scale-ai-theft-china-says-its-slander/",
-    "date": "2026-04-24"
-  },
-  {
-    "title": "Carbon nanotube wiring gets closer to competing with copper",
-    "link": "https://arstechnica.com/science/2026/04/researchers-get-carbon-nanotube-wiring-to-conduct-more-like-copper/",
-    "date": "2026-04-24"
-  },
-  {
-    "title": "We still don't have a more precise value for \"Big G\"",
-    "link": "https://arstechnica.com/science/2026/04/we-still-dont-have-a-more-precise-value-for-big-g/",
-    "date": "2026-04-24"
-  },
-  {
-    "title": "In a first, a ransomware family is confirmed to be quantum-safe",
-    "link": "https://arstechnica.com/security/2026/04/now-even-ransomware-is-using-post-quantum-cryptography/",
-    "date": "2026-04-24"
-  },
-  {
-    "title": "The billion-dollar startup with a different idea for AI",
-    "link": "https://www.artificialintelligence-news.com/news/the-billion-dollar-startup-with-a-different-idea-for-ai-ami-labs-yann-lecun/",
-    "date": "2026-04-24"
-  },
-  {
-    "title": "NVIDIA and Google infrastructure cuts AI inference costs",
-    "link": "https://www.artificialintelligence-news.com/news/nvidia-and-google-infrastructure-cuts-ai-inference-costs/",
-    "date": "2026-04-24"
-  },
-  {
-    "title": "Sony AI robot beats players as humanoid robot wins Beijing race",
-    "link": "https://www.artificialintelligence-news.com/news/sony-ai-robot-table-tennis-humanoid-robot-beijing-race/",
-    "date": "2026-04-24"
-  },
-  {
-    "title": "LLM으로 할 수 있는 비전형적인 일 7가지",
-    "link": "https://news.hada.io/topic?id=28846",
-    "date": "2026-04-24"
-  },
-  {
-    "title": "DeepSeek v4 : 100만 토큰 컨텍스트를 지원하는 고효율 대규모 언어 모델",
-    "link": "https://news.hada.io/topic?id=28845",
-    "date": "2026-04-24"
-  },
-  {
-    "title": "Meta, 직원 10% 감원 계획 발표",
-    "link": "https://news.hada.io/topic?id=28844",
-    "date": "2026-04-24"
-  },
-  {
-    "title": "DeepSeek v4 출시",
-    "link": "https://news.hada.io/topic?id=28843",
-    "date": "2026-04-24"
-  },
-  {
-    "title": "Show GN: claude-ss - macOS에서 cmd+shift+2 한 번으로 Claude Code에 스크린샷이 딸깍 붙는 도구.",
-    "link": "https://news.hada.io/topic?id=28842",
-    "date": "2026-04-24"
-  },
-  {
-    "title": "How to Use Transformers.js in a Chrome Extension",
-    "link": "https://huggingface.co/blog/transformersjs-chrome-extension",
-    "date": "2026-04-24"
-  },
-  {
     "title": "Show GN: 온라인으로 즐기는 랜덤뽑기 모음 사이트",
     "link": "https://news.hada.io/topic?id=28866",
     "date": "2026-04-25"
@@ -998,5 +833,120 @@
     "title": "Where the goblins came from",
     "link": "https://openai.com/index/where-the-goblins-came-from",
     "date": "2026-04-30"
+  },
+  {
+    "title": "스마트 안경 사용자 성관계 영상을 본 노동자들이 일자리를 잃은 뒤 논란에 휩싸인 Meta",
+    "link": "https://news.hada.io/topic?id=29059",
+    "date": "2026-05-01"
+  },
+  {
+    "title": "Zig 프로젝트의 anti-AI 기여 정책에 대한 근거",
+    "link": "https://news.hada.io/topic?id=29058",
+    "date": "2026-05-01"
+  },
+  {
+    "title": "벨기에, 원자력 발전소 해체 중단",
+    "link": "https://news.hada.io/topic?id=29057",
+    "date": "2026-05-01"
+  },
+  {
+    "title": "고블린은 어디에서 왔나",
+    "link": "https://news.hada.io/topic?id=29056",
+    "date": "2026-05-01"
+  },
+  {
+    "title": "Vibe-Trading - 자연어 기반 트레이딩 전략 생성·백테스트·실행 AI 도구",
+    "link": "https://news.hada.io/topic?id=29055",
+    "date": "2026-05-01"
+  },
+  {
+    "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
+    "link": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
+    "date": "2026-05-01"
+  },
+  {
+    "title": "Apple was surprised by AI-driven demand for Macs",
+    "link": "https://techcrunch.com/2026/04/30/apple-was-surprised-by-ai-driven-demand-for-macs/",
+    "date": "2026-05-01"
+  },
+  {
+    "title": "Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter",
+    "link": "https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/",
+    "date": "2026-05-01"
+  },
+  {
+    "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too",
+    "link": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
+    "date": "2026-05-01"
+  },
+  {
+    "title": "OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico",
+    "link": "https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/",
+    "date": "2026-05-01"
+  },
+  {
+    "title": "Introducing Advanced Account Security",
+    "link": "https://openai.com/index/advanced-account-security",
+    "date": "2026-05-01"
+  },
+  {
+    "title": "Exclusive eBook: Inside the stealthy startup that pitched brainless human clones",
+    "link": "https://www.technologyreview.com/2026/04/30/1136684/exclusive-ebook-inside-the-stealthy-startup-that-pitched-brainless-human-clones/",
+    "date": "2026-05-01"
+  },
+  {
+    "title": "This startup’s new mechanistic interpretability tool lets you debug LLMs",
+    "link": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/",
+    "date": "2026-05-01"
+  },
+  {
+    "title": "The Download: the North Pole’s future and humanoid data",
+    "link": "https://www.technologyreview.com/2026/04/30/1136713/the-download-north-pole-future-humanoid-data/",
+    "date": "2026-05-01"
+  },
+  {
+    "title": "Trump nominates Fox News doctor to be the next surgeon general",
+    "link": "https://arstechnica.com/health/2026/04/trump-nominates-fox-news-doctor-to-be-the-next-surgeon-general/",
+    "date": "2026-05-01"
+  },
+  {
+    "title": "US falls below Ukraine in press freedom as global autocracy takes hold",
+    "link": "https://arstechnica.com/tech-policy/2026/04/us-falls-below-ukraine-in-press-freedom-as-global-autocracy-takes-hold/",
+    "date": "2026-05-01"
+  },
+  {
+    "title": "Russia cloaks launch schedule after spaceport falls in Ukraine's sights",
+    "link": "https://arstechnica.com/space/2026/04/russian-cloaks-launch-schedule-after-spaceport-falls-in-ukraines-sights/",
+    "date": "2026-05-01"
+  },
+  {
+    "title": "Elon Musk's 7 biggest stumbles on the stand at OpenAI trial",
+    "link": "https://arstechnica.com/tech-policy/2026/04/elon-musks-7-biggest-stumbles-on-the-stand-at-openai-trial/",
+    "date": "2026-05-01"
+  },
+  {
+    "title": "The most severe Linux threat to surface in years catches the world flat-footed",
+    "link": "https://arstechnica.com/security/2026/04/as-the-most-severe-linux-threat-in-years-surfaces-the-world-scrambles/",
+    "date": "2026-05-01"
+  },
+  {
+    "title": "What LG and NVIDIA’s talks reveal about the future of physical AI",
+    "link": "https://www.artificialintelligence-news.com/news/what-lg-and-nvidia-talks-reveal-future-of-physical-ai/",
+    "date": "2026-05-01"
+  },
+  {
+    "title": "A guide to APIs, MCPs, and MCP Gateways",
+    "link": "https://www.artificialintelligence-news.com/news/a-guide-to-apis-and-mcps-and-mcp-gateways/",
+    "date": "2026-05-01"
+  },
+  {
+    "title": "AI agent governance takes focus as regulators flag control gaps",
+    "link": "https://www.artificialintelligence-news.com/news/ai-agent-governance-control-gaps/",
+    "date": "2026-05-01"
+  },
+  {
+    "title": "Big Tech just proved AI infrastructure spending works. Then it raised the bill anyway",
+    "link": "https://www.artificialintelligence-news.com/news/big-tech-ai-infrastructure-spending-q1-2026-results/",
+    "date": "2026-05-01"
   }
 ]
