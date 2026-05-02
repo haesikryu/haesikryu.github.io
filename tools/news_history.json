@@ -1,170 +1,5 @@
 [
   {
-    "title": "Show GN: 온라인으로 즐기는 랜덤뽑기 모음 사이트",
-    "link": "https://news.hada.io/topic?id=28866",
-    "date": "2026-04-25"
-  },
-  {
-    "title": "과도한 고민, 범위 확장, 구조적 diff로 프로젝트를 망치는 법",
-    "link": "https://news.hada.io/topic?id=28865",
-    "date": "2026-04-25"
-  },
-  {
-    "title": "노르웨이, 16세 미만 소셜미디어 금지 추진",
-    "link": "https://news.hada.io/topic?id=28864",
-    "date": "2026-04-25"
-  },
-  {
-    "title": "Claude를 해지한 이유: 토큰 문제, 품질 저하, 부실한 지원",
-    "link": "https://news.hada.io/topic?id=28863",
-    "date": "2026-04-25"
-  },
-  {
-    "title": "GoScrapy - Go기반 초고속 웹 스크래핑 프레임워크",
-    "link": "https://news.hada.io/topic?id=28862",
-    "date": "2026-04-25"
-  },
-  {
-    "title": "Meta’s loss is Thinking Machines’ gain",
-    "link": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
-    "date": "2026-04-25"
-  },
-  {
-    "title": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
-    "link": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
-    "date": "2026-04-25"
-  },
-  {
-    "title": "Google to invest up to $40B in Anthropic in cash and compute",
-    "link": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
-    "date": "2026-04-25"
-  },
-  {
-    "title": "Apple’s new CEO, and why Elon Musk wants to buy Cursor for $60B",
-    "link": "https://techcrunch.com/podcast/apples-new-ceo-and-why-elon-musk-wants-to-buy-cursor-for-60b/",
-    "date": "2026-04-25"
-  },
-  {
-    "title": "Marked-up Mac minis flood eBay amid shortages driven by AI",
-    "link": "https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/",
-    "date": "2026-04-25"
-  },
-  {
-    "title": "8 Gemini tips for organizing your space (and life)",
-    "link": "https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/",
-    "date": "2026-04-25"
-  },
-  {
-    "title": "Three reasons why DeepSeek’s new model matters",
-    "link": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
-    "date": "2026-04-25"
-  },
-  {
-    "title": "The Download: supercharged scams and studying AI healthcare",
-    "link": "https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/",
-    "date": "2026-04-25"
-  },
-  {
-    "title": "Health-care AI is here. We don’t know if it actually helps patients.",
-    "link": "https://www.technologyreview.com/2026/04/24/1136352/health-care-ai-dont-know-actually-helps-patients/",
-    "date": "2026-04-25"
-  },
-  {
-    "title": "DeepSeek-V4: a million-token context that agents can actually use",
-    "link": "https://huggingface.co/blog/deepseekv4",
-    "date": "2026-04-25"
-  },
-  {
-    "title": "Google will invest as much as $40 billion in Anthropic",
-    "link": "https://arstechnica.com/ai/2026/04/google-will-invest-as-much-as-40-billion-in-anthropic/",
-    "date": "2026-04-25"
-  },
-  {
-    "title": "Europe—not US—first to authorize Moderna's combo mRNA flu-COVID vaccine",
-    "link": "https://arstechnica.com/health/2026/04/europe-not-us-first-to-authorize-modernas-combo-mrna-flu-covid-vaccine/",
-    "date": "2026-04-25"
-  },
-  {
-    "title": "FCC: Router ban includes portable hotspots, but not phones with hotspot features",
-    "link": "https://arstechnica.com/tech-policy/2026/04/fcc-says-ban-on-foreign-made-routers-includes-portable-wi-fi-hotspots/",
-    "date": "2026-04-25"
-  },
-  {
-    "title": "Why are top university websites serving porn? It comes down to shoddy housekeeping.",
-    "link": "https://arstechnica.com/security/2026/04/why-are-top-university-websites-serving-porn-it-comes-down-to-shoddy-housekeeping/",
-    "date": "2026-04-25"
-  },
-  {
-    "title": "In rare chickenpox case, itchy blisters mushroom into large, rubbery nodules",
-    "link": "https://arstechnica.com/health/2026/04/in-rare-chickenpox-case-itchy-blisters-mushroom-into-large-rubbery-nodules/",
-    "date": "2026-04-25"
-  },
-  {
-    "title": "Why AI agents need interaction infrastructure",
-    "link": "https://www.artificialintelligence-news.com/news/why-ai-agents-need-interaction-infrastructure/",
-    "date": "2026-04-25"
-  },
-  {
-    "title": "How AI models use real-time cryptocurrency data to interpret market behaviour",
-    "link": "https://www.artificialintelligence-news.com/news/how-ai-models-use-real-time-cryptocurrency-data-to-interpret-market-behaviour/",
-    "date": "2026-04-25"
-  },
-  {
-    "title": "Show GN: purplemux – Claude Code 세션을 웹·모바일에서 관리하는 오픈소스 tmux 매니저",
-    "link": "https://news.hada.io/topic?id=28877",
-    "date": "2026-04-25"
-  },
-  {
-    "title": "반사회적으로 되는 법 - 일관성 없고 고립적인 사회적 경험에 대한 안내",
-    "link": "https://news.hada.io/topic?id=28876",
-    "date": "2026-04-25"
-  },
-  {
-    "title": "Show GN: imgssh - SSH 안에서 로컬 클립보드 이미지를 붙여넣기",
-    "link": "https://news.hada.io/topic?id=28875",
-    "date": "2026-04-25"
-  },
-  {
-    "title": "TypeScript 7.0 Beta 공개",
-    "link": "https://news.hada.io/topic?id=28873",
-    "date": "2026-04-25"
-  },
-  {
-    "title": "Google Cloud가 제시하는 멀티 에이전트 시스템의 5가지 통합 패턴: A2A와 MCP",
-    "link": "https://news.hada.io/topic?id=28872",
-    "date": "2026-04-25"
-  },
-  {
-    "title": "List 가 GeekLists 기능으로 확대 개편 되었습니다.",
-    "link": "https://news.hada.io/blog/GeekLists",
-    "date": "2026-04-25"
-  },
-  {
-    "title": "‘함께 보면 좋은 글’ 기능을 추가했습니다",
-    "link": "https://news.hada.io/blog/related-reads",
-    "date": "2026-04-25"
-  },
-  {
-    "title": "GeekNews를 편하게 구독하는 법",
-    "link": "https://news.hada.io/blog/subscribe_geeknews",
-    "date": "2026-04-25"
-  },
-  {
-    "title": "GeekNight 2024(긱뉴스 밋업)",
-    "link": "https://news.hada.io/blog/geeknight",
-    "date": "2026-04-25"
-  },
-  {
-    "title": "GN⁺ : AI가 요약한 최신 뉴스보기",
-    "link": "https://news.hada.io/blog/GN⁺",
-    "date": "2026-04-25"
-  },
-  {
-    "title": "This is who's developing Golden Dome's orbital interceptors—if they're ever built",
-    "link": "https://arstechnica.com/space/2026/04/this-is-whos-developing-golden-domes-orbital-interceptors-if-theyre-ever-built/",
-    "date": "2026-04-25"
-  },
-  {
     "title": "mini-swe-agent - 100줄짜리 AI 에이전트로 GitHub 이슈 해결 및 커맨드라인 지원",
     "link": "https://news.hada.io/topic?id=28891",
     "date": "2026-04-26"
@@ -983,5 +818,115 @@
     "title": "Elevating Austria: Google invests in its first data center in the Alps.",
     "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-data-center-austria/",
     "date": "2026-05-01"
+  },
+  {
+    "title": "Grok 4.3",
+    "link": "https://news.hada.io/topic?id=29090",
+    "date": "2026-05-02"
+  },
+  {
+    "title": "Fincept Terminal - 금융 분석 플랫폼 오픈소스",
+    "link": "https://news.hada.io/topic?id=29089",
+    "date": "2026-05-02"
+  },
+  {
+    "title": "Spotify가 인간 아티스트와 AI를 구분하기 위해 ‘Verified’ 배지를 추가함",
+    "link": "https://news.hada.io/topic?id=29088",
+    "date": "2026-05-02"
+  },
+  {
+    "title": "AI는 대중이 생각하는 것보다 물을 적게 사용한다",
+    "link": "https://news.hada.io/topic?id=29087",
+    "date": "2026-05-02"
+  },
+  {
+    "title": "WhatCable - USB-C 케이블을 검사하는 작은 메뉴 막대 앱",
+    "link": "https://news.hada.io/topic?id=29086",
+    "date": "2026-05-02"
+  },
+  {
+    "title": "Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell",
+    "link": "https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/",
+    "date": "2026-05-02"
+  },
+  {
+    "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
+    "link": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
+    "date": "2026-05-02"
+  },
+  {
+    "title": "Did you know you can’t steal a charity? Don’t worry. Elon Musk will remind you.",
+    "link": "https://techcrunch.com/podcast/did-you-know-you-cant-steal-a-charity-dont-worry-elon-musk-will-remind-you/",
+    "date": "2026-05-02"
+  },
+  {
+    "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
+    "link": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
+    "date": "2026-05-02"
+  },
+  {
+    "title": "Musk v. Altman is just getting started",
+    "link": "https://techcrunch.com/video/musk-v-altman-is-just-getting-started/",
+    "date": "2026-05-02"
+  },
+  {
+    "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
+    "link": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
+    "date": "2026-05-02"
+  },
+  {
+    "title": "Cyber-Insecurity in the AI Era",
+    "link": "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
+    "date": "2026-05-02"
+  },
+  {
+    "title": "Operationalizing AI for Scale and Sovereignty",
+    "link": "https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty/",
+    "date": "2026-05-02"
+  },
+  {
+    "title": "The Download: a new Christian phone network, and debugging LLMs",
+    "link": "https://www.technologyreview.com/2026/05/01/1136762/the-download-christian-phone-network-debugging-llms/",
+    "date": "2026-05-02"
+  },
+  {
+    "title": "Inexpensive seafloor-hopping submersibles could stoke deep-sea science—and mining",
+    "link": "https://www.technologyreview.com/2026/05/01/1136734/inexpensive-seafloor-hopping-submersibles-could-stoke-deep-sea-science-and-mining/",
+    "date": "2026-05-02"
+  },
+  {
+    "title": "Study: AI models that consider user's feeling are more likely to make errors",
+    "link": "https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/",
+    "date": "2026-05-02"
+  },
+  {
+    "title": "The RAMpocalypse has bought Microsoft valuable time in the fight against SteamOS",
+    "link": "https://arstechnica.com/gaming/2026/05/the-rampocalypse-has-bought-microsoft-valuable-time-in-the-fight-against-steamos/",
+    "date": "2026-05-02"
+  },
+  {
+    "title": "Man dies covered in necrotic lesions after amoebas eat him alive",
+    "link": "https://arstechnica.com/health/2026/05/amoebas-eat-man-alive-over-months-in-puzzling-ultra-rare-cautionary-tale/",
+    "date": "2026-05-02"
+  },
+  {
+    "title": "Ubuntu infrastructure has been down for more than a day",
+    "link": "https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day/",
+    "date": "2026-05-02"
+  },
+  {
+    "title": "Senators ban themselves from prediction markets after candidates bet on own races",
+    "link": "https://arstechnica.com/tech-policy/2026/05/senators-ban-themselves-from-prediction-markets-after-candidates-bet-on-own-races/",
+    "date": "2026-05-02"
+  },
+  {
+    "title": "SAP: How enterprise AI governance secures profit margins",
+    "link": "https://www.artificialintelligence-news.com/news/sap-how-enterprise-ai-governance-secures-profit-margins/",
+    "date": "2026-05-02"
+  },
+  {
+    "title": "Per-token AI charges come to GitHub Copilot",
+    "link": "https://www.artificialintelligence-news.com/news/per-token-ai-charging-comes-to-github-copilot/",
+    "date": "2026-05-02"
   }
 ]
