@@ -1,90 +1,5 @@
 [
   {
-    "title": "Stash - AI 에이전트를 위한 지속형 메모리 계층",
-    "link": "https://news.hada.io/topic?id=28917",
-    "date": "2026-04-27"
-  },
-  {
-    "title": "Lightwhale 3: Linux 서버를 다시 재미있게 만들기",
-    "link": "https://news.hada.io/topic?id=28916",
-    "date": "2026-04-27"
-  },
-  {
-    "title": "지식 노동의 시뮬라크르",
-    "link": "https://news.hada.io/topic?id=28915",
-    "date": "2026-04-27"
-  },
-  {
-    "title": "1980년대 Commodore 64 게임의 Martin Galway 음악 소스 파일",
-    "link": "https://news.hada.io/topic?id=28914",
-    "date": "2026-04-27"
-  },
-  {
-    "title": "Turbo Vision 2.0 - 현대적인 포트",
-    "link": "https://news.hada.io/topic?id=28913",
-    "date": "2026-04-27"
-  },
-  {
-    "title": "To buy this Bay Area home, you’ll need Anthropic equity",
-    "link": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
-    "date": "2026-04-27"
-  },
-  {
-    "title": "Our principles",
-    "link": "https://openai.com/index/our-principles",
-    "date": "2026-04-27"
-  },
-  {
-    "title": "How to get started with Codex",
-    "link": "https://openai.com/academy/codex-how-to-start",
-    "date": "2026-04-27"
-  },
-  {
-    "title": "Strange New Worlds S4 teaser strikes a more serious tone",
-    "link": "https://arstechnica.com/culture/2026/04/strange-new-worlds-s4-teaser-strikes-a-more-serious-tone/",
-    "date": "2026-04-27"
-  },
-  {
-    "title": "Prime Video drops full trailer for Spider-Noir",
-    "link": "https://arstechnica.com/culture/2026/04/prime-video-drops-full-trailer-for-spider-noir/",
-    "date": "2026-04-27"
-  },
-  {
-    "title": "New robotic control software avoids jamming their joints",
-    "link": "https://arstechnica.com/science/2026/04/kinematic-intelligence-helps-robots-learn-their-limits/",
-    "date": "2026-04-27"
-  },
-  {
-    "title": "stitch가 유행시킨(?) DESIGN.md를 모아놓은 사이트",
-    "link": "https://news.hada.io/topic?id=28947",
-    "date": "2026-04-27"
-  },
-  {
-    "title": "Show GN: TTSC - TypeScript-Go 기반 transformer &amp; runner",
-    "link": "https://news.hada.io/topic?id=28946",
-    "date": "2026-04-27"
-  },
-  {
-    "title": "Show GN: Codex Discord Connector - Discord에서 로컬 Codex를 그대로 쓰는 커넥터",
-    "link": "https://news.hada.io/topic?id=28945",
-    "date": "2026-04-27"
-  },
-  {
-    "title": "Show GN: Fairy - 개발자 프로젝트와 오픈소스를 후원하는 서비스",
-    "link": "https://news.hada.io/topic?id=28944",
-    "date": "2026-04-27"
-  },
-  {
-    "title": "Show GN: slaude - 흔적 안 남기는 일회용 Claude Code",
-    "link": "https://news.hada.io/topic?id=28942",
-    "date": "2026-04-27"
-  },
-  {
-    "title": "What is Codex?",
-    "link": "https://openai.com/academy/what-is-codex",
-    "date": "2026-04-27"
-  },
-  {
     "title": "벽을 응시하는 남자들",
     "link": "https://news.hada.io/topic?id=28963",
     "date": "2026-04-28"
@@ -953,5 +868,40 @@
     "title": "macOS VM은 얼마나 빠르고, 얼마나 작아질 수 있을까?",
     "link": "https://news.hada.io/topic?id=29112",
     "date": "2026-05-03"
+  },
+  {
+    "title": "한 사람을 위해 만든 데스크톱",
+    "link": "https://news.hada.io/topic?id=29157",
+    "date": "2026-05-04"
+  },
+  {
+    "title": "Show GN: Codex 앱을 Windows ARM64에서 돌리기 위한 리패키징 스크립트를 만들었습니다",
+    "link": "https://news.hada.io/topic?id=29156",
+    "date": "2026-05-04"
+  },
+  {
+    "title": "Agentic Coding은 함정이다",
+    "link": "https://news.hada.io/topic?id=29155",
+    "date": "2026-05-04"
+  },
+  {
+    "title": "DeepClaude - DeepSeek V4 Pro로 Claude Code 에이전트 루프를 17배 저렴하게 사용",
+    "link": "https://news.hada.io/topic?id=29154",
+    "date": "2026-05-04"
+  },
+  {
+    "title": "장기 실행 에이전트 - 에이전트가 며칠 동안 실행되면 무엇이 달라지는가",
+    "link": "https://news.hada.io/topic?id=29153",
+    "date": "2026-05-04"
+  },
+  {
+    "title": "‘This is fine’ creator says AI startup stole his art",
+    "link": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
+    "date": "2026-05-04"
+  },
+  {
+    "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
+    "link": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
+    "date": "2026-05-04"
   }
 ]
