@@ -708,5 +708,95 @@
     "title": "Google made agentic AI governance a product. Enterprises still have to catch up.",
     "link": "https://www.artificialintelligence-news.com/news/agentic-ai-governance-enterprise-readiness-google/",
     "date": "2026-05-06"
+  },
+  {
+    "title": "AI는 코드를 쓴다. 결정도 한다. 책임만 못 진다.",
+    "link": "https://news.hada.io/topic?id=29220",
+    "date": "2026-05-06"
+  },
+  {
+    "title": "Gemma 4 MTP 은폐후 커뮤니티가 파헤치고, Google이 뒤늦게 우회 지원",
+    "link": "https://news.hada.io/topic?id=29219",
+    "date": "2026-05-06"
+  },
+  {
+    "title": "Train Your Own LLM From Scratch - 처음부터 직접 LLM을 학습하는 실습 워크숍",
+    "link": "https://news.hada.io/topic?id=29218",
+    "date": "2026-05-06"
+  },
+  {
+    "title": "모두가 AI를 가져도 회사는 여전히 아무것도 배우지 못할 때",
+    "link": "https://news.hada.io/topic?id=29217",
+    "date": "2026-05-06"
+  },
+  {
+    "title": "양방향 타입 검사 퍼즐",
+    "link": "https://news.hada.io/topic?id=29216",
+    "date": "2026-05-06"
+  },
+  {
+    "title": "Fairy 서비스 오픈 및 GeekNews Show GN 연동",
+    "link": "https://news.hada.io/blog/fairy_and_geeknews",
+    "date": "2026-05-06"
+  },
+  {
+    "title": "GeekBadge 시스템을 추가했습니다",
+    "link": "https://news.hada.io/blog/introducing_geekbadge",
+    "date": "2026-05-06"
+  },
+  {
+    "title": "Peter Sarlin’s QuTwo reaches $380M valuation in angel round",
+    "link": "https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/",
+    "date": "2026-05-06"
+  },
+  {
+    "title": "Marc Lore says that AI will soon enable anyone open a restaurant",
+    "link": "https://techcrunch.com/2026/05/05/marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant/",
+    "date": "2026-05-06"
+  },
+  {
+    "title": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
+    "link": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
+    "date": "2026-05-06"
+  },
+  {
+    "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
+    "date": "2026-05-06"
+  },
+  {
+    "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+    "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+    "date": "2026-05-06"
+  },
+  {
+    "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+    "link": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+    "date": "2026-05-06"
+  },
+  {
+    "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+    "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+    "date": "2026-05-06"
+  },
+  {
+    "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+    "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+    "date": "2026-05-06"
+  },
+  {
+    "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
+    "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+    "date": "2026-05-06"
+  },
+  {
+    "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
+    "date": "2026-05-06"
+  },
+  {
+    "title": "How to build scalable web apps with OpenAI's Privacy Filter",
+    "link": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
+    "date": "2026-05-06"
   }
 ]
