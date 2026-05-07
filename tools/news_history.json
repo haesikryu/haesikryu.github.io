@@ -1,160 +1,5 @@
 [
   {
-    "title": "GoModel - Go로 작성된 고성능 AI 게이트웨이",
-    "link": "https://news.hada.io/topic?id=29021",
-    "date": "2026-04-30"
-  },
-  {
-    "title": "Warp가 이제 오픈소스가 됨",
-    "link": "https://news.hada.io/topic?id=29020",
-    "date": "2026-04-30"
-  },
-  {
-    "title": "생리 추적 앱 Flo, 사용자 데이터를 Meta에 판매한 사실 확인돼",
-    "link": "https://news.hada.io/topic?id=29019",
-    "date": "2026-04-30"
-  },
-  {
-    "title": "VibeVoice - 오픈소스 프런티어 음성 AI",
-    "link": "https://news.hada.io/topic?id=29018",
-    "date": "2026-04-30"
-  },
-  {
-    "title": "GitHub 원격 코드 실행 취약점: CVE-2026-3854 분석",
-    "link": "https://news.hada.io/topic?id=29017",
-    "date": "2026-04-30"
-  },
-  {
-    "title": "Amazon’s cloud business is surging — and so is its capital spending",
-    "link": "https://techcrunch.com/2026/04/29/amazons-cloud-business-is-surging-and-so-is-its-capital-spending/",
-    "date": "2026-04-30"
-  },
-  {
-    "title": "Sources: Anthropic could raise a new $50B round at a valuation of $900B",
-    "link": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
-    "date": "2026-04-30"
-  },
-  {
-    "title": "On the stand, Elon Musk can’t escape his own tweets",
-    "link": "https://techcrunch.com/2026/04/29/on-the-stand-elon-musk-cant-escape-his-own-tweets/",
-    "date": "2026-04-30"
-  },
-  {
-    "title": "Meta is still burning money on AR/VR",
-    "link": "https://techcrunch.com/2026/04/29/meta-is-still-burning-money-on-ar-vr/",
-    "date": "2026-04-30"
-  },
-  {
-    "title": "Satya Nadella says he’s ready to ‘exploit’ the new OpenAI deal",
-    "link": "https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal/",
-    "date": "2026-04-30"
-  },
-  {
-    "title": "Building the compute infrastructure for the Intelligence Age",
-    "link": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
-    "date": "2026-04-30"
-  },
-  {
-    "title": "Cybersecurity in the Intelligence Age",
-    "link": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
-    "date": "2026-04-30"
-  },
-  {
-    "title": "The Download: storing nuclear waste and orchestrating agents",
-    "link": "https://www.technologyreview.com/2026/04/29/1136666/the-download-nuclear-waste-orchestrated-ai-agents/",
-    "date": "2026-04-30"
-  },
-  {
-    "title": "It’s time to make a plan for nuclear waste",
-    "link": "https://www.technologyreview.com/2026/04/29/1136659/plan-nuclear-waste/",
-    "date": "2026-04-30"
-  },
-  {
-    "title": "AI evals are becoming the new compute bottleneck",
-    "link": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
-    "date": "2026-04-30"
-  },
-  {
-    "title": "Granite 4.1 LLMs: How They’re Built",
-    "link": "https://huggingface.co/blog/ibm-granite/granite-4-1",
-    "date": "2026-04-30"
-  },
-  {
-    "title": "DeepInfra on Hugging Face Inference Providers 🔥",
-    "link": "https://huggingface.co/blog/inference-providers-deepinfra",
-    "date": "2026-04-30"
-  },
-  {
-    "title": "ABC can beat Trump FCC's license threat if owner Disney is willing to fight",
-    "link": "https://arstechnica.com/tech-policy/2026/04/abc-can-beat-trump-fccs-license-threat-if-owner-disney-is-willing-to-fight/",
-    "date": "2026-04-30"
-  },
-  {
-    "title": "OpenAI Codex system prompt includes explicit directive to \"never talk about goblins\"",
-    "link": "https://arstechnica.com/ai/2026/04/openai-codex-system-prompt-includes-explicit-directive-to-never-talk-about-goblins/",
-    "date": "2026-04-30"
-  },
-  {
-    "title": "Howdy's dated $3/month ad-free streaming service said to have 1M subscribers",
-    "link": "https://arstechnica.com/gadgets/2026/04/howdys-dated-3-month-ad-free-streaming-service-said-to-have-1m-subscribers/",
-    "date": "2026-04-30"
-  },
-  {
-    "title": "New Sam Bankman-Fried trial would be huge waste of court’s time, judge says",
-    "link": "https://arstechnica.com/tech-policy/2026/04/new-sam-bankman-fried-trial-would-be-huge-waste-of-courts-time-judge-says/",
-    "date": "2026-04-30"
-  },
-  {
-    "title": "Drone strikes on data centers spook Big Tech, halting Middle East projects",
-    "link": "https://arstechnica.com/ai/2026/04/data-center-developer-pauses-middle-east-projects-after-war-damage/",
-    "date": "2026-04-30"
-  },
-  {
-    "title": "IDC: How EMEA CIOs can jumpstart AI rollouts",
-    "link": "https://www.artificialintelligence-news.com/news/idc-how-emea-cios-can-jumpstart-ai-rollouts/",
-    "date": "2026-04-30"
-  },
-  {
-    "title": "GPT-5.5 is OpenAI’s most capable agentic AI model yet",
-    "link": "https://www.artificialintelligence-news.com/news/gpt-5-5-is-openais-most-capable-agentic-ai-model-yet-at-twice-the-api-price/",
-    "date": "2026-04-30"
-  },
-  {
-    "title": "spawn-agent: 로컬 코딩 에이전트를 Vercel AI SDK 모델처럼 다루는 어댑터",
-    "link": "https://news.hada.io/topic?id=29043",
-    "date": "2026-04-30"
-  },
-  {
-    "title": "VSCode에서 Copilot이 기본적으로 Git 공동 작성자로 추가되었습니다.",
-    "link": "https://news.hada.io/topic?id=29041",
-    "date": "2026-04-30"
-  },
-  {
-    "title": "Show GN: Geas - AI Agent가 실수하지 않도록 엄격한 업무 프로토콜을 지키게 하기",
-    "link": "https://news.hada.io/topic?id=29040",
-    "date": "2026-04-30"
-  },
-  {
-    "title": "Show GN: VLM이 유저 시선을 얼마나 예측할 수 있는지 실제 아이트래킹 데이터로 비교",
-    "link": "https://news.hada.io/topic?id=29039",
-    "date": "2026-04-30"
-  },
-  {
-    "title": "Show GN: 유신사 - 유튜브 신발, 패션 사진 및 영상 모음 - 패션 추천을 근거 영상과 함께 제공하는 서비스 POC",
-    "link": "https://news.hada.io/topic?id=29037",
-    "date": "2026-04-30"
-  },
-  {
-    "title": "SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO",
-    "link": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
-    "date": "2026-04-30"
-  },
-  {
-    "title": "Where the goblins came from",
-    "link": "https://openai.com/index/where-the-goblins-came-from",
-    "date": "2026-04-30"
-  },
-  {
     "title": "스마트 안경 사용자 성관계 영상을 본 노동자들이 일자리를 잃은 뒤 논란에 휩싸인 Meta",
     "link": "https://news.hada.io/topic?id=29059",
     "date": "2026-05-01"
@@ -798,5 +643,135 @@
     "title": "How to build scalable web apps with OpenAI's Privacy Filter",
     "link": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
     "date": "2026-05-06"
+  },
+  {
+    "title": "RAM 가격이 기업들에 더 높은 가격, 더 나쁜 사양, 또는 둘 다를 선택하도록 압박하고 있음",
+    "link": "https://news.hada.io/topic?id=29251",
+    "date": "2026-05-07"
+  },
+  {
+    "title": "Toprank - SEO 및 광고 관리용 Claude Code 플러그인",
+    "link": "https://news.hada.io/topic?id=29250",
+    "date": "2026-05-07"
+  },
+  {
+    "title": "에이전트가 이제 Cloudflare 계정을 만들고, 도메인을 구매하고, 배포할 수 있음",
+    "link": "https://news.hada.io/topic?id=29249",
+    "date": "2026-05-07"
+  },
+  {
+    "title": "StarFighter 16인치",
+    "link": "https://news.hada.io/topic?id=29248",
+    "date": "2026-05-07"
+  },
+  {
+    "title": "GitHub 장애를 기여로 보여주는 Red Squares",
+    "link": "https://news.hada.io/topic?id=29247",
+    "date": "2026-05-07"
+  },
+  {
+    "title": "Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.",
+    "link": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
+    "date": "2026-05-07"
+  },
+  {
+    "title": "Snap says its $400M deal with Perplexity ‘amicably ended’",
+    "link": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
+    "date": "2026-05-07"
+  },
+  {
+    "title": "Is xAI a neocloud now?",
+    "link": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
+    "date": "2026-05-07"
+  },
+  {
+    "title": "How Elon Musk left OpenAI, according to Greg Brockman",
+    "link": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
+    "date": "2026-05-07"
+  },
+  {
+    "title": "SpaceX may spend up to $119B on ‘Terafab’ chip factory in Texas",
+    "link": "https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/",
+    "date": "2026-05-07"
+  },
+  {
+    "title": "Introducing ChatGPT Futures: Class of 2026",
+    "link": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+    "date": "2026-05-07"
+  },
+  {
+    "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
+    "link": "https://openai.com/index/singular-bank",
+    "date": "2026-05-07"
+  },
+  {
+    "title": "Uber uses OpenAI to help people earn smarter and book faster",
+    "link": "https://openai.com/index/uber",
+    "date": "2026-05-07"
+  },
+  {
+    "title": "How frontier enterprises are building an AI advantage",
+    "link": "https://openai.com/index/introducing-b2b-signals",
+    "date": "2026-05-07"
+  },
+  {
+    "title": "5 gardening tips you can try right in Search",
+    "link": "https://blog.google/products-and-platforms/products/search/gardening-tips/",
+    "date": "2026-05-07"
+  },
+  {
+    "title": "The Download: seafloor science and military chatbots",
+    "link": "https://www.technologyreview.com/2026/05/06/1136917/the-download-seafloor-science-military-ai-chatbots/",
+    "date": "2026-05-07"
+  },
+  {
+    "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
+    "link": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
+    "date": "2026-05-07"
+  },
+  {
+    "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
+    "link": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
+    "date": "2026-05-07"
+  },
+  {
+    "title": "SpaceX is starting to move on from the world's most successful rocket",
+    "link": "https://arstechnica.com/space/2026/05/spacex-is-starting-to-move-on-from-the-worlds-most-successful-rocket/",
+    "date": "2026-05-07"
+  },
+  {
+    "title": "Anthropic raises Claude Code usage limits, credits new deal with SpaceX",
+    "link": "https://arstechnica.com/ai/2026/05/anthropic-raises-claude-code-usage-limits-credits-new-deal-with-spacex/",
+    "date": "2026-05-07"
+  },
+  {
+    "title": "TSMC taps wind power as AI chip demand soars, Taiwan feels energy crunch",
+    "link": "https://arstechnica.com/gadgets/2026/05/tsmc-taps-wind-power-as-ai-chip-demand-soars-taiwan-feels-energy-crunch/",
+    "date": "2026-05-07"
+  },
+  {
+    "title": "Court strikes down FCC anti-discrimination rule opposed by Internet providers",
+    "link": "https://arstechnica.com/tech-policy/2026/05/court-strikes-down-fcc-anti-discrimination-rule-opposed-by-internet-providers/",
+    "date": "2026-05-07"
+  },
+  {
+    "title": "Spooked by Mythos, Trump suddenly realized AI safety testing might be good",
+    "link": "https://arstechnica.com/tech-policy/2026/05/everything-that-could-go-wrong-with-trumps-ai-safety-tests-according-to-experts/",
+    "date": "2026-05-07"
+  },
+  {
+    "title": "HP and the art of AI and data for the enterprise",
+    "link": "https://www.artificialintelligence-news.com/news/hps-ai-and-data-offerings-for-the-enterprise/",
+    "date": "2026-05-07"
+  },
+  {
+    "title": "US government increases AI suppliers and rethinks Anthropic’s role",
+    "link": "https://www.artificialintelligence-news.com/news/us-government-increases-ai-in-defence-suppliers-roster-and-rethinks-anthropics-role/",
+    "date": "2026-05-07"
+  },
+  {
+    "title": "Google tests Remy AI agent for Gemini as focus turns to user control",
+    "link": "https://www.artificialintelligence-news.com/news/google-remy-ai-agent-gemini-user-control/",
+    "date": "2026-05-07"
   }
 ]
