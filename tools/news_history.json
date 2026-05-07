@@ -773,5 +773,50 @@
     "title": "Google tests Remy AI agent for Gemini as focus turns to user control",
     "link": "https://www.artificialintelligence-news.com/news/google-remy-ai-agent-gemini-user-control/",
     "date": "2026-05-07"
+  },
+  {
+    "title": "Skills For Real Engineers - Matt Pocock",
+    "link": "https://news.hada.io/topic?id=29259",
+    "date": "2026-05-07"
+  },
+  {
+    "title": "오픈 가중치가 조용히 닫히고 있으며, 이는 문제다",
+    "link": "https://news.hada.io/topic?id=29256",
+    "date": "2026-05-07"
+  },
+  {
+    "title": "AI가 끌어올린 바닥, 우리의 천장은 어디인가? 대화 속에서 찾아낸 세 가지 화두",
+    "link": "https://news.hada.io/topic?id=29254",
+    "date": "2026-05-07"
+  },
+  {
+    "title": "Show GN: HydraLLM: 지능형 오케스트레이터",
+    "link": "https://news.hada.io/topic?id=29252",
+    "date": "2026-05-07"
+  },
+  {
+    "title": "Five architects of the AI economy explain where the wheels are coming off",
+    "link": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/",
+    "date": "2026-05-07"
+  },
+  {
+    "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
+    "link": "https://openai.com/index/mrc-supercomputer-networking",
+    "date": "2026-05-07"
+  },
+  {
+    "title": "What’s next for IVF",
+    "link": "https://www.technologyreview.com/2026/05/07/1136946/whats-next-for-ivf-ai-robot-pgt-gene-editing/",
+    "date": "2026-05-07"
+  },
+  {
+    "title": "Granite 4.1 LLMs: How They’re Built",
+    "link": "https://huggingface.co/blog/ibm-granite/granite-4-1",
+    "date": "2026-05-07"
+  },
+  {
+    "title": "DeepInfra on Hugging Face Inference Providers 🔥",
+    "link": "https://huggingface.co/blog/inference-providers-deepinfra",
+    "date": "2026-05-07"
   }
 ]
