@@ -1,155 +1,5 @@
 [
   {
-    "title": "스마트 안경 사용자 성관계 영상을 본 노동자들이 일자리를 잃은 뒤 논란에 휩싸인 Meta",
-    "link": "https://news.hada.io/topic?id=29059",
-    "date": "2026-05-01"
-  },
-  {
-    "title": "Zig 프로젝트의 anti-AI 기여 정책에 대한 근거",
-    "link": "https://news.hada.io/topic?id=29058",
-    "date": "2026-05-01"
-  },
-  {
-    "title": "벨기에, 원자력 발전소 해체 중단",
-    "link": "https://news.hada.io/topic?id=29057",
-    "date": "2026-05-01"
-  },
-  {
-    "title": "고블린은 어디에서 왔나",
-    "link": "https://news.hada.io/topic?id=29056",
-    "date": "2026-05-01"
-  },
-  {
-    "title": "Vibe-Trading - 자연어 기반 트레이딩 전략 생성·백테스트·실행 AI 도구",
-    "link": "https://news.hada.io/topic?id=29055",
-    "date": "2026-05-01"
-  },
-  {
-    "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
-    "link": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
-    "date": "2026-05-01"
-  },
-  {
-    "title": "Apple was surprised by AI-driven demand for Macs",
-    "link": "https://techcrunch.com/2026/04/30/apple-was-surprised-by-ai-driven-demand-for-macs/",
-    "date": "2026-05-01"
-  },
-  {
-    "title": "Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter",
-    "link": "https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/",
-    "date": "2026-05-01"
-  },
-  {
-    "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too",
-    "link": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
-    "date": "2026-05-01"
-  },
-  {
-    "title": "OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico",
-    "link": "https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/",
-    "date": "2026-05-01"
-  },
-  {
-    "title": "Introducing Advanced Account Security",
-    "link": "https://openai.com/index/advanced-account-security",
-    "date": "2026-05-01"
-  },
-  {
-    "title": "Exclusive eBook: Inside the stealthy startup that pitched brainless human clones",
-    "link": "https://www.technologyreview.com/2026/04/30/1136684/exclusive-ebook-inside-the-stealthy-startup-that-pitched-brainless-human-clones/",
-    "date": "2026-05-01"
-  },
-  {
-    "title": "This startup’s new mechanistic interpretability tool lets you debug LLMs",
-    "link": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/",
-    "date": "2026-05-01"
-  },
-  {
-    "title": "The Download: the North Pole’s future and humanoid data",
-    "link": "https://www.technologyreview.com/2026/04/30/1136713/the-download-north-pole-future-humanoid-data/",
-    "date": "2026-05-01"
-  },
-  {
-    "title": "Trump nominates Fox News doctor to be the next surgeon general",
-    "link": "https://arstechnica.com/health/2026/04/trump-nominates-fox-news-doctor-to-be-the-next-surgeon-general/",
-    "date": "2026-05-01"
-  },
-  {
-    "title": "US falls below Ukraine in press freedom as global autocracy takes hold",
-    "link": "https://arstechnica.com/tech-policy/2026/04/us-falls-below-ukraine-in-press-freedom-as-global-autocracy-takes-hold/",
-    "date": "2026-05-01"
-  },
-  {
-    "title": "Russia cloaks launch schedule after spaceport falls in Ukraine's sights",
-    "link": "https://arstechnica.com/space/2026/04/russian-cloaks-launch-schedule-after-spaceport-falls-in-ukraines-sights/",
-    "date": "2026-05-01"
-  },
-  {
-    "title": "Elon Musk's 7 biggest stumbles on the stand at OpenAI trial",
-    "link": "https://arstechnica.com/tech-policy/2026/04/elon-musks-7-biggest-stumbles-on-the-stand-at-openai-trial/",
-    "date": "2026-05-01"
-  },
-  {
-    "title": "The most severe Linux threat to surface in years catches the world flat-footed",
-    "link": "https://arstechnica.com/security/2026/04/as-the-most-severe-linux-threat-in-years-surfaces-the-world-scrambles/",
-    "date": "2026-05-01"
-  },
-  {
-    "title": "What LG and NVIDIA’s talks reveal about the future of physical AI",
-    "link": "https://www.artificialintelligence-news.com/news/what-lg-and-nvidia-talks-reveal-future-of-physical-ai/",
-    "date": "2026-05-01"
-  },
-  {
-    "title": "A guide to APIs, MCPs, and MCP Gateways",
-    "link": "https://www.artificialintelligence-news.com/news/a-guide-to-apis-and-mcps-and-mcp-gateways/",
-    "date": "2026-05-01"
-  },
-  {
-    "title": "AI agent governance takes focus as regulators flag control gaps",
-    "link": "https://www.artificialintelligence-news.com/news/ai-agent-governance-control-gaps/",
-    "date": "2026-05-01"
-  },
-  {
-    "title": "Big Tech just proved AI infrastructure spending works. Then it raised the bill anyway",
-    "link": "https://www.artificialintelligence-news.com/news/big-tech-ai-infrastructure-spending-q1-2026-results/",
-    "date": "2026-05-01"
-  },
-  {
-    "title": "Mark Klein이 EFF에 Room 641A를 알린 방법 [도서 발췌]",
-    "link": "https://news.hada.io/topic?id=29066",
-    "date": "2026-05-01"
-  },
-  {
-    "title": "Ask GN: 생성형 AI나 챗봇을 사용할 때 피드백 누르시나요?",
-    "link": "https://news.hada.io/topic?id=29065",
-    "date": "2026-05-01"
-  },
-  {
-    "title": "내 차량의 모든 데이터 수집을 비활성화할 수 있나요?",
-    "link": "https://news.hada.io/topic?id=29061",
-    "date": "2026-05-01"
-  },
-  {
-    "title": "AI가 디자인을 대신하는 시대, 왜 디자인 시스템이 더 중요해질까?",
-    "link": "https://news.hada.io/topic?id=29060",
-    "date": "2026-05-01"
-  },
-  {
-    "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
-    "link": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/",
-    "date": "2026-05-01"
-  },
-  {
-    "title": "Here’s how our TPUs power increasingly demanding AI workloads.",
-    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/",
-    "date": "2026-05-01"
-  },
-  {
-    "title": "Elevating Austria: Google invests in its first data center in the Alps.",
-    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-data-center-austria/",
-    "date": "2026-05-01"
-  },
-  {
     "title": "Grok 4.3",
     "link": "https://news.hada.io/topic?id=29090",
     "date": "2026-05-02"
@@ -818,5 +668,120 @@
     "title": "DeepInfra on Hugging Face Inference Providers 🔥",
     "link": "https://huggingface.co/blog/inference-providers-deepinfra",
     "date": "2026-05-07"
+  },
+  {
+    "title": "React 및 Next.js에서 다수의 보안 취약점 공개, 즉시 패치 권고",
+    "link": "https://news.hada.io/topic?id=29283",
+    "date": "2026-05-08"
+  },
+  {
+    "title": "Grand Theft Oil Futures: 내부 거래자들이 우리 비용으로 계속 큰돈을 벌고 있음",
+    "link": "https://news.hada.io/topic?id=29282",
+    "date": "2026-05-08"
+  },
+  {
+    "title": "Lean Analytics, AI와 에이전트 시대에 맞춰 돌아보기",
+    "link": "https://news.hada.io/topic?id=29281",
+    "date": "2026-05-08"
+  },
+  {
+    "title": "Burning Man MOOP 지도",
+    "link": "https://news.hada.io/topic?id=29280",
+    "date": "2026-05-08"
+  },
+  {
+    "title": "Hunk - AI 에이전트 코드 리뷰를 위한 터미널 Diff 뷰어",
+    "link": "https://news.hada.io/topic?id=29279",
+    "date": "2026-05-08"
+  },
+  {
+    "title": "OpenAI launches new voice intelligence features in its API",
+    "link": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
+    "date": "2026-05-08"
+  },
+  {
+    "title": "Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm",
+    "link": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
+    "date": "2026-05-08"
+  },
+  {
+    "title": "OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm",
+    "link": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
+    "date": "2026-05-08"
+  },
+  {
+    "title": "Perplexity’s Personal Computer is now available to everyone on Mac",
+    "link": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
+    "date": "2026-05-08"
+  },
+  {
+    "title": "Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope",
+    "link": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
+    "date": "2026-05-08"
+  },
+  {
+    "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
+    "link": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+    "date": "2026-05-08"
+  },
+  {
+    "title": "Parloa builds service agents customers want to talk to",
+    "link": "https://openai.com/index/parloa",
+    "date": "2026-05-08"
+  },
+  {
+    "title": "Advancing voice intelligence with new models in the API",
+    "link": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
+    "date": "2026-05-08"
+  },
+  {
+    "title": "Introducing Trusted Contact in ChatGPT",
+    "link": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
+    "date": "2026-05-08"
+  },
+  {
+    "title": "Testing ads in ChatGPT",
+    "link": "https://openai.com/index/testing-ads-in-chatgpt",
+    "date": "2026-05-08"
+  },
+  {
+    "title": "The Download: the tech reshaping IVF and the rise of balcony solar",
+    "link": "https://www.technologyreview.com/2026/05/07/1136956/the-download-ivf-tech-balcony-solar/",
+    "date": "2026-05-08"
+  },
+  {
+    "title": "The balcony solar boom is coming to the US",
+    "link": "https://www.technologyreview.com/2026/05/07/1136933/balcony-solar-boom/",
+    "date": "2026-05-08"
+  },
+  {
+    "title": "DHS can’t create vast DNA database to track ICE critics, lawsuit says",
+    "link": "https://arstechnica.com/tech-policy/2026/05/ice-protesters-sue-to-stop-dhs-from-seizing-dna-samples/",
+    "date": "2026-05-08"
+  },
+  {
+    "title": "Mozilla says 271 vulnerabilities found by Mythos have \"almost no false positives\"",
+    "link": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
+    "date": "2026-05-08"
+  },
+  {
+    "title": "Google unveils screenless Fitbit Air and Google Health app to replace Fitbit",
+    "link": "https://arstechnica.com/gadgets/2026/05/google-unveils-screenless-fitbit-air-and-google-health-app-to-replace-fitbit/",
+    "date": "2026-05-08"
+  },
+  {
+    "title": "RIP social media. What comes next is messy.",
+    "link": "https://arstechnica.com/science/2026/05/rip-social-media-what-comes-next-is-messy/",
+    "date": "2026-05-08"
+  },
+  {
+    "title": "Elon Musk tried to hire OpenAI founders to start AI unit inside Tesla",
+    "link": "https://arstechnica.com/tech-policy/2026/05/elon-musk-tried-to-hire-openai-founders-to-start-ai-unit-inside-tesla/",
+    "date": "2026-05-08"
+  },
+  {
+    "title": "AI helping ease the UK’s NHS burden",
+    "link": "https://www.artificialintelligence-news.com/news/ai-in-the-nhs-helping-ease-doctors-burdens/",
+    "date": "2026-05-08"
   }
 ]
