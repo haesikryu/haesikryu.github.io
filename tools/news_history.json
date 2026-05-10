@@ -1,70 +1,5 @@
 [
   {
-    "title": "알고리듬 채용에서의 AI 자기선호: 실증 증거와 시사점",
-    "link": "https://news.hada.io/topic?id=29111",
-    "date": "2026-05-03"
-  },
-  {
-    "title": "NetHack 5.0.0 릴리스 노트",
-    "link": "https://news.hada.io/topic?id=29110",
-    "date": "2026-05-03"
-  },
-  {
-    "title": "Ask.com이 종료됨",
-    "link": "https://news.hada.io/topic?id=29109",
-    "date": "2026-05-03"
-  },
-  {
-    "title": "VS Code가 사용 여부와 관계없이 커밋에 &#039;Co-Authored-by Copilot&#039;을 삽입",
-    "link": "https://news.hada.io/topic?id=29108",
-    "date": "2026-05-03"
-  },
-  {
-    "title": "검은색 팬 버전을 출시하는 데 왜 이렇게 오래 걸리는가?",
-    "link": "https://news.hada.io/topic?id=29107",
-    "date": "2026-05-03"
-  },
-  {
-    "title": "AI-generated actors and scripts are now ineligible for Oscars",
-    "link": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
-    "date": "2026-05-03"
-  },
-  {
-    "title": "The best AI dictation apps, tested and ranked",
-    "link": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
-    "date": "2026-05-03"
-  },
-  {
-    "title": "Research roundup: 6 cool science stories we almost missed",
-    "link": "https://arstechnica.com/science/2026/05/research-roundup-6-cool-science-stories-we-almost-missed-4/",
-    "date": "2026-05-03"
-  },
-  {
-    "title": "Infrasound waves stop kitchen fires, but can they replace sprinklers?",
-    "link": "https://arstechnica.com/gadgets/2026/05/startup-says-sound-waves-can-replace-fire-sprinklers-experts-arent-so-sure/",
-    "date": "2026-05-03"
-  },
-  {
-    "title": "Show GN: 만진법 프로젝트: 한·중·일 언어권을 위한 수 표기 제안",
-    "link": "https://news.hada.io/topic?id=29115",
-    "date": "2026-05-03"
-  },
-  {
-    "title": "왜 TMP와 TEMP 환경 변수가 둘 다 있을까? (2015)",
-    "link": "https://news.hada.io/topic?id=29114",
-    "date": "2026-05-03"
-  },
-  {
-    "title": "캘리포니아, 교통법규를 위반한 무인차에 티켓 발부 시작",
-    "link": "https://news.hada.io/topic?id=29113",
-    "date": "2026-05-03"
-  },
-  {
-    "title": "macOS VM은 얼마나 빠르고, 얼마나 작아질 수 있을까?",
-    "link": "https://news.hada.io/topic?id=29112",
-    "date": "2026-05-03"
-  },
-  {
     "title": "한 사람을 위해 만든 데스크톱",
     "link": "https://news.hada.io/topic?id=29157",
     "date": "2026-05-04"
@@ -818,5 +753,50 @@
     "title": "RingCentral adds Shopify, Calendly, and WhatsApp to AI Receptionist",
     "link": "https://www.artificialintelligence-news.com/news/ringcentral-ai-adds-shopify-calendly-and-whatsapp-to-ai-receptionist/",
     "date": "2026-05-09"
+  },
+  {
+    "title": "EU 의회조사처, VPN을 “닫아야 할 허점”이라고 불러",
+    "link": "https://news.hada.io/topic?id=29349",
+    "date": "2026-05-10"
+  },
+  {
+    "title": "Bun의 실험적 Rust 재작성판이 Linux x64 glibc에서 99.8% 테스트 호환성에 도달",
+    "link": "https://news.hada.io/topic?id=29348",
+    "date": "2026-05-10"
+  },
+  {
+    "title": "Claude Code 사용: HTML의 비합리적 효과",
+    "link": "https://news.hada.io/topic?id=29347",
+    "date": "2026-05-10"
+  },
+  {
+    "title": "Internet Archive Switzerland",
+    "link": "https://news.hada.io/topic?id=29346",
+    "date": "2026-05-10"
+  },
+  {
+    "title": "확률적 엔지니어링과 24/7 직원",
+    "link": "https://news.hada.io/topic?id=29345",
+    "date": "2026-05-10"
+  },
+  {
+    "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
+    "link": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "date": "2026-05-10"
+  },
+  {
+    "title": "Nvidia has already committed $40B to equity AI deals this year",
+    "link": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
+    "date": "2026-05-10"
+  },
+  {
+    "title": "\"OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support\"",
+    "link": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper",
+    "date": "2026-05-10"
+  },
+  {
+    "title": "The new Wild West of AI kids’ toys",
+    "link": "https://arstechnica.com/ai/2026/05/the-new-wild-west-of-ai-kids-toys/",
+    "date": "2026-05-10"
   }
 ]
