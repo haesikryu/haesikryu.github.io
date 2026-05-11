@@ -1,40 +1,5 @@
 [
   {
-    "title": "한 사람을 위해 만든 데스크톱",
-    "link": "https://news.hada.io/topic?id=29157",
-    "date": "2026-05-04"
-  },
-  {
-    "title": "Show GN: Codex 앱을 Windows ARM64에서 돌리기 위한 리패키징 스크립트를 만들었습니다",
-    "link": "https://news.hada.io/topic?id=29156",
-    "date": "2026-05-04"
-  },
-  {
-    "title": "Agentic Coding은 함정이다",
-    "link": "https://news.hada.io/topic?id=29155",
-    "date": "2026-05-04"
-  },
-  {
-    "title": "DeepClaude - DeepSeek V4 Pro로 Claude Code 에이전트 루프를 17배 저렴하게 사용",
-    "link": "https://news.hada.io/topic?id=29154",
-    "date": "2026-05-04"
-  },
-  {
-    "title": "장기 실행 에이전트 - 에이전트가 며칠 동안 실행되면 무엇이 달라지는가",
-    "link": "https://news.hada.io/topic?id=29153",
-    "date": "2026-05-04"
-  },
-  {
-    "title": "‘This is fine’ creator says AI startup stole his art",
-    "link": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
-    "date": "2026-05-04"
-  },
-  {
-    "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
-    "link": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
-    "date": "2026-05-04"
-  },
-  {
     "title": "WAL-G - 클라우드 환경 데이터베이스를 위한 아카이빙 및 복원 도구",
     "link": "https://news.hada.io/topic?id=29208",
     "date": "2026-05-06"
@@ -813,5 +778,60 @@
     "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
     "link": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
     "date": "2026-05-10"
+  },
+  {
+    "title": "Anthropic, 금융 서비스에 특화된 AI 에이전트/스킬/커넥터 오픈소스 공개",
+    "link": "https://news.hada.io/topic?id=29372",
+    "date": "2026-05-11"
+  },
+  {
+    "title": "ymawky - ARM64 어셈블리로 직접 만든 웹 서버",
+    "link": "https://news.hada.io/topic?id=29371",
+    "date": "2026-05-11"
+  },
+  {
+    "title": "Louis Rossmann, 위협받은 OrcaSlicer 개발자의 법률비 지급 제안",
+    "link": "https://news.hada.io/topic?id=29370",
+    "date": "2026-05-11"
+  },
+  {
+    "title": "로컬 AI가 표준이 되어야 함",
+    "link": "https://news.hada.io/topic?id=29369",
+    "date": "2026-05-11"
+  },
+  {
+    "title": "독점 조력자로서의 하드웨어 증명",
+    "link": "https://news.hada.io/topic?id=29368",
+    "date": "2026-05-11"
+  },
+  {
+    "title": "Get ready for the whisper-filled office of the future",
+    "link": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
+    "date": "2026-05-11"
+  },
+  {
+    "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
+    "link": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
+    "date": "2026-05-11"
+  },
+  {
+    "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
+    "link": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
+    "date": "2026-05-11"
+  },
+  {
+    "title": "MachinaCheck: Building a Multi-Agent CNC Manufacturability System on AMD MI300X",
+    "link": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck",
+    "date": "2026-05-11"
+  },
+  {
+    "title": "Do you take after your dad’s RNA?",
+    "link": "https://arstechnica.com/science/2026/05/do-you-take-after-your-dads-rna/",
+    "date": "2026-05-11"
+  },
+  {
+    "title": "Huge landslide created a 500-meter-high tsunami in a major tourist area",
+    "link": "https://arstechnica.com/science/2026/05/how-a-melting-glacier-led-to-a-500-meter-high-tsunami/",
+    "date": "2026-05-11"
   }
 ]
