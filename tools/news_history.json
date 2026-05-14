@@ -1,180 +1,5 @@
 [
   {
-    "title": "RAM 가격이 기업들에 더 높은 가격, 더 나쁜 사양, 또는 둘 다를 선택하도록 압박하고 있음",
-    "link": "https://news.hada.io/topic?id=29251",
-    "date": "2026-05-07"
-  },
-  {
-    "title": "Toprank - SEO 및 광고 관리용 Claude Code 플러그인",
-    "link": "https://news.hada.io/topic?id=29250",
-    "date": "2026-05-07"
-  },
-  {
-    "title": "에이전트가 이제 Cloudflare 계정을 만들고, 도메인을 구매하고, 배포할 수 있음",
-    "link": "https://news.hada.io/topic?id=29249",
-    "date": "2026-05-07"
-  },
-  {
-    "title": "StarFighter 16인치",
-    "link": "https://news.hada.io/topic?id=29248",
-    "date": "2026-05-07"
-  },
-  {
-    "title": "GitHub 장애를 기여로 보여주는 Red Squares",
-    "link": "https://news.hada.io/topic?id=29247",
-    "date": "2026-05-07"
-  },
-  {
-    "title": "Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.",
-    "link": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
-    "date": "2026-05-07"
-  },
-  {
-    "title": "Snap says its $400M deal with Perplexity ‘amicably ended’",
-    "link": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
-    "date": "2026-05-07"
-  },
-  {
-    "title": "Is xAI a neocloud now?",
-    "link": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
-    "date": "2026-05-07"
-  },
-  {
-    "title": "How Elon Musk left OpenAI, according to Greg Brockman",
-    "link": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
-    "date": "2026-05-07"
-  },
-  {
-    "title": "SpaceX may spend up to $119B on ‘Terafab’ chip factory in Texas",
-    "link": "https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/",
-    "date": "2026-05-07"
-  },
-  {
-    "title": "Introducing ChatGPT Futures: Class of 2026",
-    "link": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
-    "date": "2026-05-07"
-  },
-  {
-    "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
-    "link": "https://openai.com/index/singular-bank",
-    "date": "2026-05-07"
-  },
-  {
-    "title": "Uber uses OpenAI to help people earn smarter and book faster",
-    "link": "https://openai.com/index/uber",
-    "date": "2026-05-07"
-  },
-  {
-    "title": "How frontier enterprises are building an AI advantage",
-    "link": "https://openai.com/index/introducing-b2b-signals",
-    "date": "2026-05-07"
-  },
-  {
-    "title": "5 gardening tips you can try right in Search",
-    "link": "https://blog.google/products-and-platforms/products/search/gardening-tips/",
-    "date": "2026-05-07"
-  },
-  {
-    "title": "The Download: seafloor science and military chatbots",
-    "link": "https://www.technologyreview.com/2026/05/06/1136917/the-download-seafloor-science-military-ai-chatbots/",
-    "date": "2026-05-07"
-  },
-  {
-    "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
-    "link": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
-    "date": "2026-05-07"
-  },
-  {
-    "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
-    "link": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
-    "date": "2026-05-07"
-  },
-  {
-    "title": "SpaceX is starting to move on from the world's most successful rocket",
-    "link": "https://arstechnica.com/space/2026/05/spacex-is-starting-to-move-on-from-the-worlds-most-successful-rocket/",
-    "date": "2026-05-07"
-  },
-  {
-    "title": "Anthropic raises Claude Code usage limits, credits new deal with SpaceX",
-    "link": "https://arstechnica.com/ai/2026/05/anthropic-raises-claude-code-usage-limits-credits-new-deal-with-spacex/",
-    "date": "2026-05-07"
-  },
-  {
-    "title": "TSMC taps wind power as AI chip demand soars, Taiwan feels energy crunch",
-    "link": "https://arstechnica.com/gadgets/2026/05/tsmc-taps-wind-power-as-ai-chip-demand-soars-taiwan-feels-energy-crunch/",
-    "date": "2026-05-07"
-  },
-  {
-    "title": "Court strikes down FCC anti-discrimination rule opposed by Internet providers",
-    "link": "https://arstechnica.com/tech-policy/2026/05/court-strikes-down-fcc-anti-discrimination-rule-opposed-by-internet-providers/",
-    "date": "2026-05-07"
-  },
-  {
-    "title": "Spooked by Mythos, Trump suddenly realized AI safety testing might be good",
-    "link": "https://arstechnica.com/tech-policy/2026/05/everything-that-could-go-wrong-with-trumps-ai-safety-tests-according-to-experts/",
-    "date": "2026-05-07"
-  },
-  {
-    "title": "HP and the art of AI and data for the enterprise",
-    "link": "https://www.artificialintelligence-news.com/news/hps-ai-and-data-offerings-for-the-enterprise/",
-    "date": "2026-05-07"
-  },
-  {
-    "title": "US government increases AI suppliers and rethinks Anthropic’s role",
-    "link": "https://www.artificialintelligence-news.com/news/us-government-increases-ai-in-defence-suppliers-roster-and-rethinks-anthropics-role/",
-    "date": "2026-05-07"
-  },
-  {
-    "title": "Google tests Remy AI agent for Gemini as focus turns to user control",
-    "link": "https://www.artificialintelligence-news.com/news/google-remy-ai-agent-gemini-user-control/",
-    "date": "2026-05-07"
-  },
-  {
-    "title": "Skills For Real Engineers - Matt Pocock",
-    "link": "https://news.hada.io/topic?id=29259",
-    "date": "2026-05-07"
-  },
-  {
-    "title": "오픈 가중치가 조용히 닫히고 있으며, 이는 문제다",
-    "link": "https://news.hada.io/topic?id=29256",
-    "date": "2026-05-07"
-  },
-  {
-    "title": "AI가 끌어올린 바닥, 우리의 천장은 어디인가? 대화 속에서 찾아낸 세 가지 화두",
-    "link": "https://news.hada.io/topic?id=29254",
-    "date": "2026-05-07"
-  },
-  {
-    "title": "Show GN: HydraLLM: 지능형 오케스트레이터",
-    "link": "https://news.hada.io/topic?id=29252",
-    "date": "2026-05-07"
-  },
-  {
-    "title": "Five architects of the AI economy explain where the wheels are coming off",
-    "link": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/",
-    "date": "2026-05-07"
-  },
-  {
-    "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
-    "link": "https://openai.com/index/mrc-supercomputer-networking",
-    "date": "2026-05-07"
-  },
-  {
-    "title": "What’s next for IVF",
-    "link": "https://www.technologyreview.com/2026/05/07/1136946/whats-next-for-ivf-ai-robot-pgt-gene-editing/",
-    "date": "2026-05-07"
-  },
-  {
-    "title": "Granite 4.1 LLMs: How They’re Built",
-    "link": "https://huggingface.co/blog/ibm-granite/granite-4-1",
-    "date": "2026-05-07"
-  },
-  {
-    "title": "DeepInfra on Hugging Face Inference Providers 🔥",
-    "link": "https://huggingface.co/blog/inference-providers-deepinfra",
-    "date": "2026-05-07"
-  },
-  {
     "title": "React 및 Next.js에서 다수의 보안 취약점 공개, 즉시 패치 권고",
     "link": "https://news.hada.io/topic?id=29283",
     "date": "2026-05-08"
@@ -903,5 +728,150 @@
     "title": "Hugging Face hosted malicious software masquerading as OpenAI release",
     "link": "https://www.artificialintelligence-news.com/news/malware-on-hugging-face-malicious-software-masquerading-as-openai-release/",
     "date": "2026-05-13"
+  },
+  {
+    "title": "AI 분야의 다음 최대 해자는 &quot;조직&quot;이다",
+    "link": "https://news.hada.io/topic?id=29486",
+    "date": "2026-05-14"
+  },
+  {
+    "title": "GitHub를 떠나 Forgejo로 이동하기",
+    "link": "https://news.hada.io/topic?id=29485",
+    "date": "2026-05-14"
+  },
+  {
+    "title": "내 디지털 스택을 유럽으로 옮겼다",
+    "link": "https://news.hada.io/topic?id=29484",
+    "date": "2026-05-14"
+  },
+  {
+    "title": "MacBook Neo 리뷰: 우리 모두를 위한 노트북",
+    "link": "https://news.hada.io/topic?id=29483",
+    "date": "2026-05-14"
+  },
+  {
+    "title": "무료 *.city.state.us 지역 도메인 설정하기",
+    "link": "https://news.hada.io/topic?id=29482",
+    "date": "2026-05-14"
+  },
+  {
+    "title": "Fairy 서비스 오픈 및 GeekNews Show GN 연동",
+    "link": "https://news.hada.io/blog/fairy_and_geeknews",
+    "date": "2026-05-14"
+  },
+  {
+    "title": "GeekBadge 시스템을 추가했습니다",
+    "link": "https://news.hada.io/blog/introducing_geekbadge",
+    "date": "2026-05-14"
+  },
+  {
+    "title": "Notion just turned its workspace into a hub for AI agents",
+    "link": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
+    "date": "2026-05-14"
+  },
+  {
+    "title": "Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center",
+    "link": "https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/",
+    "date": "2026-05-14"
+  },
+  {
+    "title": "Anthropic’s Cat Wu says that, in the future, AI will anticipate your needs before you know what they are",
+    "link": "https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/",
+    "date": "2026-05-14"
+  },
+  {
+    "title": "Who trusts Sam Altman?",
+    "link": "https://techcrunch.com/2026/05/13/who-trusts-sam-altman/",
+    "date": "2026-05-14"
+  },
+  {
+    "title": "Origin Lab raises $8M to help video game companies sell data to world-model builders",
+    "link": "https://techcrunch.com/2026/05/13/origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders/",
+    "date": "2026-05-14"
+  },
+  {
+    "title": "Building a safe, effective sandbox to enable Codex on Windows",
+    "link": "https://openai.com/index/building-codex-windows-sandbox",
+    "date": "2026-05-14"
+  },
+  {
+    "title": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/",
+    "date": "2026-05-14"
+  },
+  {
+    "title": "The latest AI news we announced in April 2026",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
+    "date": "2026-05-14"
+  },
+  {
+    "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+    "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+    "date": "2026-05-14"
+  },
+  {
+    "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+    "link": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+    "date": "2026-05-14"
+  },
+  {
+    "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+    "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+    "date": "2026-05-14"
+  },
+  {
+    "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+    "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+    "date": "2026-05-14"
+  },
+  {
+    "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
+    "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+    "date": "2026-05-14"
+  },
+  {
+    "title": "AI chatbots are giving out people’s real phone numbers",
+    "link": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
+    "date": "2026-05-14"
+  },
+  {
+    "title": "The Download: making drugs in orbit and NASA’s nuclear-powered spacecraft",
+    "link": "https://www.technologyreview.com/2026/05/13/1137176/the-download-drugs-in-orbit-nasa-nuclear-spacecraft/",
+    "date": "2026-05-14"
+  },
+  {
+    "title": "A plan to make drugs in orbit is going commercial",
+    "link": "https://www.technologyreview.com/2026/05/13/1137153/varda-united-therapeutics-drug-manufacturing-in-space/",
+    "date": "2026-05-14"
+  },
+  {
+    "title": "Solar drone with jumbo jet wingspan broke a flight record—then it crashed",
+    "link": "https://arstechnica.com/gadgets/2026/05/solar-drone-with-jumbo-jet-wingspan-broke-a-flight-record-then-it-crashed/",
+    "date": "2026-05-14"
+  },
+  {
+    "title": "FCC angers small carriers by helping AT&T and Starlink buy EchoStar spectrum",
+    "link": "https://arstechnica.com/tech-policy/2026/05/fcc-angers-small-carriers-by-helping-att-and-starlink-buy-echostar-spectrum/",
+    "date": "2026-05-14"
+  },
+  {
+    "title": "Protein in Homo erectus teeth suggests Denisovans gave us some of their DNA",
+    "link": "https://arstechnica.com/science/2026/05/protein-in-homo-erectus-teeth-suggests-denisovans-gave-us-some-of-their-dna/",
+    "date": "2026-05-14"
+  },
+  {
+    "title": "Foiled plot tried to sneak 49 lbs of cocaine into Australia via Xerox printers",
+    "link": "https://arstechnica.com/tech-policy/2026/05/foiled-plot-tried-to-sneak-49-lbs-of-cocaine-into-australia-via-xerox-printers/",
+    "date": "2026-05-14"
+  },
+  {
+    "title": "AI invades Princeton, where 30% of students cheat—but peers won't snitch",
+    "link": "https://arstechnica.com/tech-policy/2026/05/ai-driven-cheating-widespread-even-at-elite-schools-like-princeton/",
+    "date": "2026-05-14"
+  },
+  {
+    "title": "Physical AI Conference Comes to San Jose as Robotics & Autonomous AI Go Mainstream",
+    "link": "https://www.artificialintelligence-news.com/news/physical-ai-conference-comes-to-san-jose-as-robotics-autonomous-ai-go-mainstream/",
+    "date": "2026-05-14"
   }
 ]
