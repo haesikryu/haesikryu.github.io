@@ -1,155 +1,5 @@
 [
   {
-    "title": "React 및 Next.js에서 다수의 보안 취약점 공개, 즉시 패치 권고",
-    "link": "https://news.hada.io/topic?id=29283",
-    "date": "2026-05-08"
-  },
-  {
-    "title": "Grand Theft Oil Futures: 내부 거래자들이 우리 비용으로 계속 큰돈을 벌고 있음",
-    "link": "https://news.hada.io/topic?id=29282",
-    "date": "2026-05-08"
-  },
-  {
-    "title": "Lean Analytics, AI와 에이전트 시대에 맞춰 돌아보기",
-    "link": "https://news.hada.io/topic?id=29281",
-    "date": "2026-05-08"
-  },
-  {
-    "title": "Burning Man MOOP 지도",
-    "link": "https://news.hada.io/topic?id=29280",
-    "date": "2026-05-08"
-  },
-  {
-    "title": "Hunk - AI 에이전트 코드 리뷰를 위한 터미널 Diff 뷰어",
-    "link": "https://news.hada.io/topic?id=29279",
-    "date": "2026-05-08"
-  },
-  {
-    "title": "OpenAI launches new voice intelligence features in its API",
-    "link": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
-    "date": "2026-05-08"
-  },
-  {
-    "title": "Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm",
-    "link": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
-    "date": "2026-05-08"
-  },
-  {
-    "title": "OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm",
-    "link": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
-    "date": "2026-05-08"
-  },
-  {
-    "title": "Perplexity’s Personal Computer is now available to everyone on Mac",
-    "link": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
-    "date": "2026-05-08"
-  },
-  {
-    "title": "Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope",
-    "link": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
-    "date": "2026-05-08"
-  },
-  {
-    "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
-    "link": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
-    "date": "2026-05-08"
-  },
-  {
-    "title": "Parloa builds service agents customers want to talk to",
-    "link": "https://openai.com/index/parloa",
-    "date": "2026-05-08"
-  },
-  {
-    "title": "Advancing voice intelligence with new models in the API",
-    "link": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
-    "date": "2026-05-08"
-  },
-  {
-    "title": "Introducing Trusted Contact in ChatGPT",
-    "link": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
-    "date": "2026-05-08"
-  },
-  {
-    "title": "Testing ads in ChatGPT",
-    "link": "https://openai.com/index/testing-ads-in-chatgpt",
-    "date": "2026-05-08"
-  },
-  {
-    "title": "The Download: the tech reshaping IVF and the rise of balcony solar",
-    "link": "https://www.technologyreview.com/2026/05/07/1136956/the-download-ivf-tech-balcony-solar/",
-    "date": "2026-05-08"
-  },
-  {
-    "title": "The balcony solar boom is coming to the US",
-    "link": "https://www.technologyreview.com/2026/05/07/1136933/balcony-solar-boom/",
-    "date": "2026-05-08"
-  },
-  {
-    "title": "DHS can’t create vast DNA database to track ICE critics, lawsuit says",
-    "link": "https://arstechnica.com/tech-policy/2026/05/ice-protesters-sue-to-stop-dhs-from-seizing-dna-samples/",
-    "date": "2026-05-08"
-  },
-  {
-    "title": "Mozilla says 271 vulnerabilities found by Mythos have \"almost no false positives\"",
-    "link": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
-    "date": "2026-05-08"
-  },
-  {
-    "title": "Google unveils screenless Fitbit Air and Google Health app to replace Fitbit",
-    "link": "https://arstechnica.com/gadgets/2026/05/google-unveils-screenless-fitbit-air-and-google-health-app-to-replace-fitbit/",
-    "date": "2026-05-08"
-  },
-  {
-    "title": "RIP social media. What comes next is messy.",
-    "link": "https://arstechnica.com/science/2026/05/rip-social-media-what-comes-next-is-messy/",
-    "date": "2026-05-08"
-  },
-  {
-    "title": "Elon Musk tried to hire OpenAI founders to start AI unit inside Tesla",
-    "link": "https://arstechnica.com/tech-policy/2026/05/elon-musk-tried-to-hire-openai-founders-to-start-ai-unit-inside-tesla/",
-    "date": "2026-05-08"
-  },
-  {
-    "title": "AI helping ease the UK’s NHS burden",
-    "link": "https://www.artificialintelligence-news.com/news/ai-in-the-nhs-helping-ease-doctors-burdens/",
-    "date": "2026-05-08"
-  },
-  {
-    "title": "Agents에는 더 많은 프롬프트가 아니라 제어 흐름이 필요하다",
-    "link": "https://news.hada.io/topic?id=29296",
-    "date": "2026-05-08"
-  },
-  {
-    "title": "자신만의 프로그래밍 언어를 만드는 것은 생각보다 쉽다(하지만 더 어렵기도 하다)",
-    "link": "https://news.hada.io/topic?id=29295",
-    "date": "2026-05-08"
-  },
-  {
-    "title": "Cloudflare, 인력 약 20% 감축 예정",
-    "link": "https://news.hada.io/topic?id=29293",
-    "date": "2026-05-08"
-  },
-  {
-    "title": "Canvas가 다운되고 ShinyHunters가 학교 데이터 유출을 위협",
-    "link": "https://news.hada.io/topic?id=29292",
-    "date": "2026-05-08"
-  },
-  {
-    "title": "OpenAI, Codex에 “Pet” 기능 추가",
-    "link": "https://news.hada.io/topic?id=29291",
-    "date": "2026-05-08"
-  },
-  {
-    "title": "Why you can never get your doctor to call you back",
-    "link": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
-    "date": "2026-05-08"
-  },
-  {
-    "title": "MedQA: Fine-Tuning a Clinical AI on AMD ROCm — No CUDA Required",
-    "link": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/medqa",
-    "date": "2026-05-08"
-  },
-  {
     "title": "David Attenborough의 100세 생일",
     "link": "https://news.hada.io/topic?id=29314",
     "date": "2026-05-09"
@@ -943,5 +793,125 @@
     "title": "Top real estate app development companies in the US: Abilities and costs",
     "link": "https://www.artificialintelligence-news.com/news/top-real-estate-app-development-companies-in-the-us-abilities-and-costs/",
     "date": "2026-05-14"
+  },
+  {
+    "title": "RustFS - Rust로 만든 S3 호환 분산 객체 스토리지",
+    "link": "https://news.hada.io/topic?id=29532",
+    "date": "2026-05-15"
+  },
+  {
+    "title": "Learning Opportunities - Claude Code와 Codex에서 의도적 기술 개발을 돕는 스킬",
+    "link": "https://news.hada.io/topic?id=29531",
+    "date": "2026-05-15"
+  },
+  {
+    "title": "Microsoft BitLocker – YellowKey 제로데이 익스플로잇",
+    "link": "https://news.hada.io/topic?id=29530",
+    "date": "2026-05-15"
+  },
+  {
+    "title": "Scorched Earth 2000 – 웹",
+    "link": "https://news.hada.io/topic?id=29529",
+    "date": "2026-05-15"
+  },
+  {
+    "title": "AI가 나를 멍청하게 만들고 있다",
+    "link": "https://news.hada.io/topic?id=29528",
+    "date": "2026-05-15"
+  },
+  {
+    "title": "What the jury will actually decide in the case of Elon Musk vs. Sam Altman",
+    "link": "https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/",
+    "date": "2026-05-15"
+  },
+  {
+    "title": "Elon Musk’s SpaceXAI has been bleeding staff since its merger",
+    "link": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
+    "date": "2026-05-15"
+  },
+  {
+    "title": "OpenAI says Codex is coming to your phone",
+    "link": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
+    "date": "2026-05-15"
+  },
+  {
+    "title": "What happens when AI starts building itself?",
+    "link": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
+    "date": "2026-05-15"
+  },
+  {
+    "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned",
+    "link": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
+    "date": "2026-05-15"
+  },
+  {
+    "title": "Work with Codex from anywhere",
+    "link": "https://openai.com/index/work-with-codex-from-anywhere",
+    "date": "2026-05-15"
+  },
+  {
+    "title": "Helping ChatGPT better recognize context in sensitive conversations",
+    "link": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
+    "date": "2026-05-15"
+  },
+  {
+    "title": "Data readiness for agentic AI in financial services",
+    "link": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
+    "date": "2026-05-15"
+  },
+  {
+    "title": "Establishing AI and data sovereignty in the age of autonomous systems",
+    "link": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/",
+    "date": "2026-05-15"
+  },
+  {
+    "title": "The Download: deepfake porn’s stolen bodies and AI sharing private numbers",
+    "link": "https://www.technologyreview.com/2026/05/14/1137257/the-download-deepfake-porn-bodies-ai-exposing-phone-numbers/",
+    "date": "2026-05-15"
+  },
+  {
+    "title": "The Tesla Semi could be a big deal for electric trucking",
+    "link": "https://www.technologyreview.com/2026/05/14/1137197/tesla-semi-electric-trucking/",
+    "date": "2026-05-15"
+  },
+  {
+    "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
+    "link": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
+    "date": "2026-05-15"
+  },
+  {
+    "title": "Unlocking asynchronicity in continuous batching",
+    "link": "https://huggingface.co/blog/continuous_async",
+    "date": "2026-05-15"
+  },
+  {
+    "title": "Men use \"vocal fry\" more than women, counter to stereotype",
+    "link": "https://arstechnica.com/science/2026/05/men-use-vocal-fry-more-than-women-counter-to-stereotype/",
+    "date": "2026-05-15"
+  },
+  {
+    "title": "Fired hacker twins forget to end Teams recording, capture own crimes",
+    "link": "https://arstechnica.com/tech-policy/2026/05/fired-hacker-twins-forget-to-end-teams-recording-capture-own-crimes/",
+    "date": "2026-05-15"
+  },
+  {
+    "title": "Cell phone users can't stop incriminating themselves",
+    "link": "https://arstechnica.com/tech-policy/2026/05/cell-phones-users-cant-stop-incriminating-themselves/",
+    "date": "2026-05-15"
+  },
+  {
+    "title": "Energy supplier abandons Lake Tahoe residents to serve data centers",
+    "link": "https://arstechnica.com/ai/2026/05/energy-supplier-abandons-lake-tahoe-residents-to-serve-data-centers/",
+    "date": "2026-05-15"
+  },
+  {
+    "title": "Over a year later, AMD is bringing improved FSR 4 upscaling to its older GPUs",
+    "link": "https://arstechnica.com/gadgets/2026/05/amd-promises-to-bring-improved-hardware-backed-fsr-4-upscaling-to-older-radeon-gpus/",
+    "date": "2026-05-15"
+  },
+  {
+    "title": "Physical AI moves closer to factory floors as companies test humanoid robots",
+    "link": "https://www.artificialintelligence-news.com/news/physical-ai-humanoid-robots-factories/",
+    "date": "2026-05-15"
   }
 ]
