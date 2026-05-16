@@ -1,160 +1,5 @@
 [
   {
-    "title": "David Attenborough의 100세 생일",
-    "link": "https://news.hada.io/topic?id=29314",
-    "date": "2026-05-09"
-  },
-  {
-    "title": "웹페이지가 요청하지 않았는데도 브라우저가 알려준 모든 것을 보여줌",
-    "link": "https://news.hada.io/topic?id=29313",
-    "date": "2026-05-09"
-  },
-  {
-    "title": "Google Cloud Fraud Defence는 포장만 바꾼 WEI일 뿐",
-    "link": "https://news.hada.io/topic?id=29312",
-    "date": "2026-05-09"
-  },
-  {
-    "title": "폴란드는 이제 20대 경제 대국에 포함됨",
-    "link": "https://news.hada.io/topic?id=29311",
-    "date": "2026-05-09"
-  },
-  {
-    "title": "Camofox Browser - AI 에이전트를 위한 스텔스 헤드리스 브라우저",
-    "link": "https://news.hada.io/topic?id=29310",
-    "date": "2026-05-09"
-  },
-  {
-    "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no.",
-    "link": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
-    "date": "2026-05-09"
-  },
-  {
-    "title": "Intel’s comeback story is even wilder than it seems",
-    "link": "https://techcrunch.com/2026/05/08/intels-comeback-story-is-even-wilder-than-it-seems/",
-    "date": "2026-05-09"
-  },
-  {
-    "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
-    "link": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
-    "date": "2026-05-09"
-  },
-  {
-    "title": "The “people’s airline” and the enterprise AI gold rush",
-    "link": "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/",
-    "date": "2026-05-09"
-  },
-  {
-    "title": "Last 24 hours to get 50% off a second pass to TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/05/08/last-24-hours-to-get-50-off-a-second-pass-to-techcrunch-disrupt-2026/",
-    "date": "2026-05-09"
-  },
-  {
-    "title": "Running Codex safely at OpenAI",
-    "link": "https://openai.com/index/running-codex-safely",
-    "date": "2026-05-09"
-  },
-  {
-    "title": "See what happens when creative legends use AI to make ads for small businesses.",
-    "link": "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/",
-    "date": "2026-05-09"
-  },
-  {
-    "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
-    "link": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
-    "date": "2026-05-09"
-  },
-  {
-    "title": "Here’s what you need to know about the cruise ship hantavirus outbreak",
-    "link": "https://www.technologyreview.com/2026/05/08/1136988/heres-what-you-need-to-know-about-the-cruise-ship-hantavirus-outbreak/",
-    "date": "2026-05-09"
-  },
-  {
-    "title": "The Download: AI malaise and babymaking tech",
-    "link": "https://www.technologyreview.com/2026/05/08/1136985/the-download-ai-malaise-babymaking-ivf-tech/",
-    "date": "2026-05-09"
-  },
-  {
-    "title": "Here’s how technology transformed babymaking",
-    "link": "https://www.technologyreview.com/2026/05/08/1136974/heres-how-technology-transformed-babymaking-ivf/",
-    "date": "2026-05-09"
-  },
-  {
-    "title": "CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models",
-    "link": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b",
-    "date": "2026-05-09"
-  },
-  {
-    "title": "EMO: Pretraining mixture of experts for emergent modularity",
-    "link": "https://huggingface.co/blog/allenai/emo",
-    "date": "2026-05-09"
-  },
-  {
-    "title": "Manufacturing qubits that can move",
-    "link": "https://arstechnica.com/science/2026/05/manufacturing-qubits-that-can-move/",
-    "date": "2026-05-09"
-  },
-  {
-    "title": "Trump reportedly plans to fire FDA Commissioner Marty Makary",
-    "link": "https://arstechnica.com/health/2026/05/trump-reportedly-plans-to-fire-fda-commissioner-marty-makary/",
-    "date": "2026-05-09"
-  },
-  {
-    "title": "ABC refuses to capitulate to Trump admin, fights FCC probe into The View",
-    "link": "https://arstechnica.com/tech-policy/2026/05/abc-fights-trump-fccs-attempt-to-control-content-of-broadcast-tv-shows/",
-    "date": "2026-05-09"
-  },
-  {
-    "title": "Sony says \"efficient\" AI tools will lead to even more games flooding the market",
-    "link": "https://arstechnica.com/gaming/2026/05/sony-says-efficient-ai-tools-will-lead-to-even-more-games-flooding-the-market/",
-    "date": "2026-05-09"
-  },
-  {
-    "title": "The unprecedented and deadly cruise ship hantavirus outbreak, explained",
-    "link": "https://arstechnica.com/health/2026/05/everything-you-need-to-know-about-the-hantavirus-cruise-ship-outbreak/",
-    "date": "2026-05-09"
-  },
-  {
-    "title": "모든 VPS 또는 클라우드 제공자에서 첫 SSH 연결의 MITM 막기",
-    "link": "https://news.hada.io/topic?id=29318",
-    "date": "2026-05-09"
-  },
-  {
-    "title": "AI 시대, 0→1 서비스에서 오픈보다 운영이 더 중요한 이유",
-    "link": "https://news.hada.io/topic?id=29317",
-    "date": "2026-05-09"
-  },
-  {
-    "title": "GPT-5.5 low vs medium vs high vs xhigh: 오픈소스 저장소의 실제 작업 26개에서 본 추론 곡선",
-    "link": "https://news.hada.io/topic?id=29316",
-    "date": "2026-05-09"
-  },
-  {
-    "title": "Ask GN: 요즘 한국어 TTS 오픈소스 모델 중에 어떤 게 퀄리티가 좋은가요?",
-    "link": "https://news.hada.io/topic?id=29315",
-    "date": "2026-05-09"
-  },
-  {
-    "title": "List 가 GeekLists 기능으로 확대 개편 되었습니다.",
-    "link": "https://news.hada.io/blog/GeekLists",
-    "date": "2026-05-09"
-  },
-  {
-    "title": "‘함께 보면 좋은 글’ 기능을 추가했습니다",
-    "link": "https://news.hada.io/blog/related-reads",
-    "date": "2026-05-09"
-  },
-  {
-    "title": "GeekNews를 편하게 구독하는 법",
-    "link": "https://news.hada.io/blog/subscribe_geeknews",
-    "date": "2026-05-09"
-  },
-  {
-    "title": "RingCentral adds Shopify, Calendly, and WhatsApp to AI Receptionist",
-    "link": "https://www.artificialintelligence-news.com/news/ringcentral-ai-adds-shopify-calendly-and-whatsapp-to-ai-receptionist/",
-    "date": "2026-05-09"
-  },
-  {
     "title": "EU 의회조사처, VPN을 “닫아야 할 허점”이라고 불러",
     "link": "https://news.hada.io/topic?id=29349",
     "date": "2026-05-10"
@@ -953,5 +798,105 @@
     "title": "How Chinese short dramas became AI content machines",
     "link": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/",
     "date": "2026-05-15"
+  },
+  {
+    "title": "Windows XP 데스크톱처럼 Wikipedia 탐색하기",
+    "link": "https://news.hada.io/topic?id=29551",
+    "date": "2026-05-16"
+  },
+  {
+    "title": "Mullvad exit IP는 놀라울 정도로 식별 가능함",
+    "link": "https://news.hada.io/topic?id=29550",
+    "date": "2026-05-16"
+  },
+  {
+    "title": "지금 많은 기업이 AI 집단 광기에 빠져 있다고 믿는다",
+    "link": "https://news.hada.io/topic?id=29549",
+    "date": "2026-05-16"
+  },
+  {
+    "title": "Project Gutenberg - 계속 더 좋아지고 있음",
+    "link": "https://news.hada.io/topic?id=29548",
+    "date": "2026-05-16"
+  },
+  {
+    "title": "git-sync - 로컬 체크아웃 없이 Git 리모트 간 ref를 직접 미러링하는 CLI 도구",
+    "link": "https://news.hada.io/topic?id=29547",
+    "date": "2026-05-16"
+  },
+  {
+    "title": "The OpenAI trial wraps up, and the Musk founder machine keeps spinning",
+    "link": "https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning/",
+    "date": "2026-05-16"
+  },
+  {
+    "title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up",
+    "link": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/",
+    "date": "2026-05-16"
+  },
+  {
+    "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
+    "link": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
+    "date": "2026-05-16"
+  },
+  {
+    "title": "Runway started by helping filmmakers — now it wants to beat Google at AI",
+    "link": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
+    "date": "2026-05-16"
+  },
+  {
+    "title": "Osaurus brings both local and cloud AI models to your Mac",
+    "link": "https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/",
+    "date": "2026-05-16"
+  },
+  {
+    "title": "A new personal finance experience in ChatGPT",
+    "link": "https://openai.com/index/personal-finance-chatgpt",
+    "date": "2026-05-16"
+  },
+  {
+    "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+    "link": "https://openai.com/index/databricks",
+    "date": "2026-05-16"
+  },
+  {
+    "title": "Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side.",
+    "link": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
+    "date": "2026-05-16"
+  },
+  {
+    "title": "The Download: China’s AI drama factory and the WHO’s missing health targets",
+    "link": "https://www.technologyreview.com/2026/05/15/1137341/the-download-china-short-drama-ai-who-health-targets/",
+    "date": "2026-05-16"
+  },
+  {
+    "title": "Russia pressures university students to become wartime drone pilots",
+    "link": "https://arstechnica.com/gadgets/2026/05/russia-pressures-university-students-to-become-wartime-drone-pilots/",
+    "date": "2026-05-16"
+  },
+  {
+    "title": "Anthropic’s $1.5B copyright settlement is getting messy as judge delays approval",
+    "link": "https://arstechnica.com/tech-policy/2026/05/authors-fight-for-higher-payouts-from-anthropics-1-5b-copyright-settlement/",
+    "date": "2026-05-16"
+  },
+  {
+    "title": "US hantavirus case was false positive; outbreak cases drop from 11 to 10",
+    "link": "https://arstechnica.com/health/2026/05/us-hantavirus-case-was-false-positive-outbreak-cases-drop-from-11-to-10/",
+    "date": "2026-05-16"
+  },
+  {
+    "title": "Review: Good Omens finale sticks the landing",
+    "link": "https://arstechnica.com/culture/2026/05/review-chaotically-uneven-good-omens-finale-still-conjures-up-old-magic/",
+    "date": "2026-05-16"
+  },
+  {
+    "title": "Solar power production undercut by coal pollution",
+    "link": "https://arstechnica.com/science/2026/05/solar-power-production-undercut-by-coal-pollution/",
+    "date": "2026-05-16"
+  },
+  {
+    "title": "Deloitte: Scale ‘autonomous intelligence’ for real growth",
+    "link": "https://www.artificialintelligence-news.com/news/deloitte-scale-autonomous-intelligence-for-real-growth/",
+    "date": "2026-05-16"
   }
 ]
