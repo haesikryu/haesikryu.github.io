@@ -898,5 +898,70 @@
     "title": "Deloitte: Scale ‘autonomous intelligence’ for real growth",
     "link": "https://www.artificialintelligence-news.com/news/deloitte-scale-autonomous-intelligence-for-real-growth/",
     "date": "2026-05-16"
+  },
+  {
+    "title": "Show GN: Zed 에디터 다국어 번역 프로젝트 - Zed-i18n",
+    "link": "https://news.hada.io/topic?id=29560",
+    "date": "2026-05-16"
+  },
+  {
+    "title": "Steve Jobs의 망명기 – NeXT Computer 시절을 다룬 신간",
+    "link": "https://news.hada.io/topic?id=29559",
+    "date": "2026-05-16"
+  },
+  {
+    "title": "GGUF에는 가중치 외에 무엇이 들어 있고, 아직 무엇이 빠져 있나?",
+    "link": "https://news.hada.io/topic?id=29558",
+    "date": "2026-05-16"
+  },
+  {
+    "title": "Claude for Legal  - Anthropic의 법률 업무용 AI 플러그인 모음",
+    "link": "https://news.hada.io/topic?id=29557",
+    "date": "2026-05-16"
+  },
+  {
+    "title": "대규모 코드베이스에서 Claude Code가 작동하는 방식 : 모범 사례 및 시작점",
+    "link": "https://news.hada.io/topic?id=29556",
+    "date": "2026-05-16"
+  },
+  {
+    "title": "List 가 GeekLists 기능으로 확대 개편 되었습니다.",
+    "link": "https://news.hada.io/blog/GeekLists",
+    "date": "2026-05-16"
+  },
+  {
+    "title": "‘함께 보면 좋은 글’ 기능을 추가했습니다",
+    "link": "https://news.hada.io/blog/related-reads",
+    "date": "2026-05-16"
+  },
+  {
+    "title": "GeekNews를 편하게 구독하는 법",
+    "link": "https://news.hada.io/blog/subscribe_geeknews",
+    "date": "2026-05-16"
+  },
+  {
+    "title": "How sales teams use Codex",
+    "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+    "date": "2026-05-16"
+  },
+  {
+    "title": "How business operations teams use Codex",
+    "link": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+    "date": "2026-05-16"
+  },
+  {
+    "title": "How data science teams use Codex",
+    "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+    "date": "2026-05-16"
+  },
+  {
+    "title": "See what happens when creative legends use AI to make ads for small businesses.",
+    "link": "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/",
+    "date": "2026-05-16"
+  },
+  {
+    "title": "EMO: Pretraining mixture of experts for emergent modularity",
+    "link": "https://huggingface.co/blog/allenai/emo",
+    "date": "2026-05-16"
   }
 ]
