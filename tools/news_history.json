@@ -1,65 +1,5 @@
 [
   {
-    "title": "EU 의회조사처, VPN을 “닫아야 할 허점”이라고 불러",
-    "link": "https://news.hada.io/topic?id=29349",
-    "date": "2026-05-10"
-  },
-  {
-    "title": "Bun의 실험적 Rust 재작성판이 Linux x64 glibc에서 99.8% 테스트 호환성에 도달",
-    "link": "https://news.hada.io/topic?id=29348",
-    "date": "2026-05-10"
-  },
-  {
-    "title": "Claude Code 사용: HTML의 비합리적 효과",
-    "link": "https://news.hada.io/topic?id=29347",
-    "date": "2026-05-10"
-  },
-  {
-    "title": "Internet Archive Switzerland",
-    "link": "https://news.hada.io/topic?id=29346",
-    "date": "2026-05-10"
-  },
-  {
-    "title": "확률적 엔지니어링과 24/7 직원",
-    "link": "https://news.hada.io/topic?id=29345",
-    "date": "2026-05-10"
-  },
-  {
-    "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
-    "link": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-    "date": "2026-05-10"
-  },
-  {
-    "title": "Nvidia has already committed $40B to equity AI deals this year",
-    "link": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
-    "date": "2026-05-10"
-  },
-  {
-    "title": "\"OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support\"",
-    "link": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper",
-    "date": "2026-05-10"
-  },
-  {
-    "title": "The new Wild West of AI kids’ toys",
-    "link": "https://arstechnica.com/ai/2026/05/the-new-wild-west-of-ai-kids-toys/",
-    "date": "2026-05-10"
-  },
-  {
-    "title": "LLM은 위임할 때 문서를 훼손한다",
-    "link": "https://news.hada.io/topic?id=29351",
-    "date": "2026-05-10"
-  },
-  {
-    "title": "이름에 대한 프로그래머의 오해들 (2010)",
-    "link": "https://news.hada.io/topic?id=29350",
-    "date": "2026-05-10"
-  },
-  {
-    "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
-    "link": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
-    "date": "2026-05-10"
-  },
-  {
     "title": "Anthropic, 금융 서비스에 특화된 AI 에이전트/스킬/커넥터 오픈소스 공개",
     "link": "https://news.hada.io/topic?id=29372",
     "date": "2026-05-11"
@@ -963,5 +903,55 @@
     "title": "EMO: Pretraining mixture of experts for emergent modularity",
     "link": "https://huggingface.co/blog/allenai/emo",
     "date": "2026-05-16"
+  },
+  {
+    "title": "‘막을 방법이 없다’, 이런 일이 정기적으로 일어나는 유일한 패키지 매니저가 말하다",
+    "link": "https://news.hada.io/topic?id=29580",
+    "date": "2026-05-17"
+  },
+  {
+    "title": "Stripe Link CLI - AI 에이전트가 사용자 대신 결제할 수 있게 해주는 CLI",
+    "link": "https://news.hada.io/topic?id=29579",
+    "date": "2026-05-17"
+  },
+  {
+    "title": "아직 존재하지 않는 것들을 위한 시각화 디자인",
+    "link": "https://news.hada.io/topic?id=29578",
+    "date": "2026-05-17"
+  },
+  {
+    "title": "금욕적 컴퓨팅",
+    "link": "https://news.hada.io/topic?id=29577",
+    "date": "2026-05-17"
+  },
+  {
+    "title": "Claude와 몇 달간 씨름한 뒤 Codex는 바이브 코더의 꿈처럼 느껴짐",
+    "link": "https://news.hada.io/topic?id=29576",
+    "date": "2026-05-17"
+  },
+  {
+    "title": "The haves and have nots of the AI gold rush",
+    "link": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
+    "date": "2026-05-17"
+  },
+  {
+    "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
+    "link": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
+    "date": "2026-05-17"
+  },
+  {
+    "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
+    "link": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
+    "date": "2026-05-17"
+  },
+  {
+    "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+    "link": "https://openai.com/index/malta-chatgpt-plus-partnership",
+    "date": "2026-05-17"
+  },
+  {
+    "title": "The US is betting on AI to catch insider trading in prediction markets",
+    "link": "https://arstechnica.com/tech-policy/2026/05/the-us-is-betting-on-ai-to-catch-insider-trading-in-prediction-markets/",
+    "date": "2026-05-17"
   }
 ]
