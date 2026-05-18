@@ -1,100 +1,5 @@
 [
   {
-    "title": "Anthropic, 금융 서비스에 특화된 AI 에이전트/스킬/커넥터 오픈소스 공개",
-    "link": "https://news.hada.io/topic?id=29372",
-    "date": "2026-05-11"
-  },
-  {
-    "title": "ymawky - ARM64 어셈블리로 직접 만든 웹 서버",
-    "link": "https://news.hada.io/topic?id=29371",
-    "date": "2026-05-11"
-  },
-  {
-    "title": "Louis Rossmann, 위협받은 OrcaSlicer 개발자의 법률비 지급 제안",
-    "link": "https://news.hada.io/topic?id=29370",
-    "date": "2026-05-11"
-  },
-  {
-    "title": "로컬 AI가 표준이 되어야 함",
-    "link": "https://news.hada.io/topic?id=29369",
-    "date": "2026-05-11"
-  },
-  {
-    "title": "독점 조력자로서의 하드웨어 증명",
-    "link": "https://news.hada.io/topic?id=29368",
-    "date": "2026-05-11"
-  },
-  {
-    "title": "Get ready for the whisper-filled office of the future",
-    "link": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
-    "date": "2026-05-11"
-  },
-  {
-    "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
-    "link": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
-    "date": "2026-05-11"
-  },
-  {
-    "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
-    "link": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
-    "date": "2026-05-11"
-  },
-  {
-    "title": "MachinaCheck: Building a Multi-Agent CNC Manufacturability System on AMD MI300X",
-    "link": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck",
-    "date": "2026-05-11"
-  },
-  {
-    "title": "Do you take after your dad’s RNA?",
-    "link": "https://arstechnica.com/science/2026/05/do-you-take-after-your-dads-rna/",
-    "date": "2026-05-11"
-  },
-  {
-    "title": "Huge landslide created a 500-meter-high tsunami in a major tourist area",
-    "link": "https://arstechnica.com/science/2026/05/how-a-melting-glacier-led-to-a-500-meter-high-tsunami/",
-    "date": "2026-05-11"
-  },
-  {
-    "title": "90일 공개 정책은 죽었다",
-    "link": "https://news.hada.io/topic?id=29383",
-    "date": "2026-05-11"
-  },
-  {
-    "title": "Show GN: dc-in-text: 터미널로 일하는 척 디시 글 읽기",
-    "link": "https://news.hada.io/topic?id=29382",
-    "date": "2026-05-11"
-  },
-  {
-    "title": "DORA: AI 보조 소프트웨어 개발의 ROI*",
-    "link": "https://news.hada.io/topic?id=29381",
-    "date": "2026-05-11"
-  },
-  {
-    "title": "Remind HN: 오늘은 어머니의 날입니다. 어머니께 전화하세요",
-    "link": "https://news.hada.io/topic?id=29380",
-    "date": "2026-05-11"
-  },
-  {
-    "title": "3GB SQLite 데이터베이스를 10MB FST(유한 상태 변환기) 바이너리로 교체하기",
-    "link": "https://news.hada.io/topic?id=29379",
-    "date": "2026-05-11"
-  },
-  {
-    "title": "OpenAI Campus Network: Student club interest form",
-    "link": "https://openai.com/index/openai-campus-network-student-club-interest-form",
-    "date": "2026-05-11"
-  },
-  {
-    "title": "How enterprises are scaling AI",
-    "link": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
-    "date": "2026-05-11"
-  },
-  {
-    "title": "The new AI-powered Google Finance is expanding to Europe.",
-    "link": "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/",
-    "date": "2026-05-11"
-  },
-  {
     "title": "CUDA-oxide: Nvidia의 공식 Rust-to-CUDA 컴파일러",
     "link": "https://news.hada.io/topic?id=29414",
     "date": "2026-05-12"
@@ -963,5 +868,55 @@
     "title": "Bun의 Rust 재작성에 대한 내 생각",
     "link": "https://news.hada.io/topic?id=29581",
     "date": "2026-05-17"
+  },
+  {
+    "title": "whichllm - 내 하드웨어에서 실제로 돌아가고 최고 성능을 내는 로컬 LLM 찾기",
+    "link": "https://news.hada.io/topic?id=29613",
+    "date": "2026-05-18"
+  },
+  {
+    "title": "AI 구독은 엔터프라이즈의 시한폭탄",
+    "link": "https://news.hada.io/topic?id=29612",
+    "date": "2026-05-18"
+  },
+  {
+    "title": "2025년 4월 이후 5개 주에서 Flock 카메라 최소 25대가 파괴됨",
+    "link": "https://news.hada.io/topic?id=29611",
+    "date": "2026-05-18"
+  },
+  {
+    "title": "AI가 여러분의 프로세스를 더 빠르게 만들지는 않을 것 같습니다",
+    "link": "https://news.hada.io/topic?id=29610",
+    "date": "2026-05-18"
+  },
+  {
+    "title": "보안 연구자가 Microsoft가 BitLocker 백도어를 만들었다고 말하며 익스플로잇 공개",
+    "link": "https://news.hada.io/topic?id=29609",
+    "date": "2026-05-18"
+  },
+  {
+    "title": "Apple’s Siri revamp could include auto-deleting chats",
+    "link": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
+    "date": "2026-05-18"
+  },
+  {
+    "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
+    "link": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
+    "date": "2026-05-18"
+  },
+  {
+    "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
+    "link": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
+    "date": "2026-05-18"
+  },
+  {
+    "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
+    "link": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
+    "date": "2026-05-18"
+  },
+  {
+    "title": "A revolutionary cancer treatment could transform autoimmune disease",
+    "link": "https://arstechnica.com/science/2026/05/a-revolutionary-cancer-treatment-could-transform-autoimmune-disease/",
+    "date": "2026-05-18"
   }
 ]
