@@ -1,160 +1,5 @@
 [
   {
-    "title": "CUDA-oxide: Nvidia의 공식 Rust-to-CUDA 컴파일러",
-    "link": "https://news.hada.io/topic?id=29414",
-    "date": "2026-05-12"
-  },
-  {
-    "title": "사후 분석: TanStack npm 공급망 침해",
-    "link": "https://news.hada.io/topic?id=29413",
-    "date": "2026-05-12"
-  },
-  {
-    "title": "Gmail 가입, 이제 QR 코드를 스캔하고 문자 메시지를 보내는 흐름이 나타남",
-    "link": "https://news.hada.io/topic?id=29412",
-    "date": "2026-05-12"
-  },
-  {
-    "title": "나는 다시 손으로 코드를 작성하려 한다",
-    "link": "https://news.hada.io/topic?id=29411",
-    "date": "2026-05-12"
-  },
-  {
-    "title": "Rapid-MLX - Apple Silicon 전용 초고속 로컬 AI 엔진",
-    "link": "https://news.hada.io/topic?id=29410",
-    "date": "2026-05-12"
-  },
-  {
-    "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
-    "link": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
-    "date": "2026-05-12"
-  },
-  {
-    "title": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
-    "link": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
-    "date": "2026-05-12"
-  },
-  {
-    "title": "Digg tries again, this time as an AI news aggregator",
-    "link": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/",
-    "date": "2026-05-12"
-  },
-  {
-    "title": "There aren’t enough rockets for space data centers — Cowboy Space raised $275M to build them",
-    "link": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
-    "date": "2026-05-12"
-  },
-  {
-    "title": "How ChatGPT adoption broadened in early 2026",
-    "link": "https://openai.com/signals/research/2026q1-update",
-    "date": "2026-05-12"
-  },
-  {
-    "title": "OpenAI launches DeployCo to help businesses build around intelligence",
-    "link": "https://openai.com/index/openai-launches-the-deployment-company",
-    "date": "2026-05-12"
-  },
-  {
-    "title": "Three things in AI to watch, according to a Nobel-winning economist",
-    "link": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
-    "date": "2026-05-12"
-  },
-  {
-    "title": "Fostering breakthrough AI innovation through customer-back engineering",
-    "link": "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/",
-    "date": "2026-05-12"
-  },
-  {
-    "title": "Innovation abounds in device charging",
-    "link": "https://www.technologyreview.com/2026/05/11/1136406/innovation-abounds-in-device-charging/",
-    "date": "2026-05-12"
-  },
-  {
-    "title": "Implementing advanced AI technologies in finance",
-    "link": "https://www.technologyreview.com/2026/05/11/1136786/implementing-advanced-ai-technologies-in-finance/",
-    "date": "2026-05-12"
-  },
-  {
-    "title": "The Download: the hantavirus outbreak and Musk v. Altman week 2",
-    "link": "https://www.technologyreview.com/2026/05/11/1137031/the-download-hantavirus-outbreak-musk-altman-trial/",
-    "date": "2026-05-12"
-  },
-  {
-    "title": "Building Blocks for Foundation Model Training and Inference on AWS",
-    "link": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
-    "date": "2026-05-12"
-  },
-  {
-    "title": "Linux bitten by second severe vulnerability in as many weeks",
-    "link": "https://arstechnica.com/security/2026/05/linux-bitten-by-second-severe-vulnerability-in-as-many-weeks/",
-    "date": "2026-05-12"
-  },
-  {
-    "title": "Audi has a new Q9 flagship coming soon: Here's its interior",
-    "link": "https://arstechnica.com/cars/2026/05/take-a-look-inside-audis-new-big-three-row-q9-suv/",
-    "date": "2026-05-12"
-  },
-  {
-    "title": "After banning foreign routers, FCC says existing ones can get updates until 2029",
-    "link": "https://arstechnica.com/tech-policy/2026/05/fcc-slightly-relaxes-foreign-router-ban-allows-software-updates-until-2029/",
-    "date": "2026-05-12"
-  },
-  {
-    "title": "Data center guzzled 30 million gallons of water and nobody noticed for months",
-    "link": "https://arstechnica.com/tech-policy/2026/05/data-center-used-30-million-gallons-of-water-without-initially-paying/",
-    "date": "2026-05-12"
-  },
-  {
-    "title": "Passengers from hantavirus ship arrive in US; 3 people in biocontainment",
-    "link": "https://arstechnica.com/health/2026/05/passengers-from-hantavirus-ship-arrive-in-us-3-people-in-biocontainment/",
-    "date": "2026-05-12"
-  },
-  {
-    "title": "AI automates HR compliance, except for the area tech companies need",
-    "link": "https://www.artificialintelligence-news.com/news/ai-automates-hr-compliance-except-for-the-area-tech-companies-need/",
-    "date": "2026-05-12"
-  },
-  {
-    "title": "Bain sees US$100 billion SaaS market in agentic AI automation",
-    "link": "https://www.artificialintelligence-news.com/news/bain-agentic-ai-saas-market/",
-    "date": "2026-05-12"
-  },
-  {
-    "title": "Claude Code 에도 /goal 기능 추가",
-    "link": "https://news.hada.io/topic?id=29428",
-    "date": "2026-05-12"
-  },
-  {
-    "title": "Mini Shai-Hulud의 귀환: npm 생태계를 강타한 자가 전파형 공급망 공격 (5/11)",
-    "link": "https://news.hada.io/topic?id=29427",
-    "date": "2026-05-12"
-  },
-  {
-    "title": "AI가 코드를 작성한다면, 왜 Python을 쓰는가?",
-    "link": "https://news.hada.io/topic?id=29426",
-    "date": "2026-05-12"
-  },
-  {
-    "title": "Show GN: 김밥 카메라 - 세상의 모든 김밥을 수집하세요! 김밥 덕후 전용 카메라",
-    "link": "https://news.hada.io/topic?id=29425",
-    "date": "2026-05-12"
-  },
-  {
-    "title": "Show GN: AI 에이전트 돌려놓고 버스나 지하철에서 노트북 덮고 내리고 싶어서 만든 프로그램 LidGuard 제작기",
-    "link": "https://news.hada.io/topic?id=29423",
-    "date": "2026-05-12"
-  },
-  {
-    "title": "Thinking Machines wants to build an AI that actually listens while it talks",
-    "link": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
-    "date": "2026-05-12"
-  },
-  {
-    "title": "Laserfiche unveils AI agents for natural language workflows",
-    "link": "https://www.artificialintelligence-news.com/news/laserfiche-ai-agents-act-autonomously-for-the-platforms-users/",
-    "date": "2026-05-12"
-  },
-  {
     "title": "Needle - Gemini 도구 호출을 증류한 2600만 파라미터 모델",
     "link": "https://news.hada.io/topic?id=29466",
     "date": "2026-05-13"
@@ -953,5 +798,130 @@
     "title": "Amazon launches Alexa for Shopping as Rufus moves behind the scenes",
     "link": "https://www.artificialintelligence-news.com/news/amazon-alexa-for-shopping-rufus-ai-assistant/",
     "date": "2026-05-18"
+  },
+  {
+    "title": "Eric Schmidt의 AI 연설이 졸업식에서 야유를 받음",
+    "link": "https://news.hada.io/topic?id=29651",
+    "date": "2026-05-19"
+  },
+  {
+    "title": "장기 자율성 평가를 위한 AI 에이전트 시뮬레이션 플랫폼 &#039;Emergence World&#039; 분석",
+    "link": "https://news.hada.io/topic?id=29650",
+    "date": "2026-05-19"
+  },
+  {
+    "title": "Show GN: 에이전트 캣 — Claude Code / Codex / Gemini CLI 의 상태와 사용량을 메뉴바 고양이로",
+    "link": "https://news.hada.io/topic?id=29649",
+    "date": "2026-05-19"
+  },
+  {
+    "title": "Anthropic, Stainless 인수",
+    "link": "https://news.hada.io/topic?id=29647",
+    "date": "2026-05-19"
+  },
+  {
+    "title": "Haiku OS가 이제 M1 Mac에서 실행됨",
+    "link": "https://news.hada.io/topic?id=29646",
+    "date": "2026-05-19"
+  },
+  {
+    "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
+    "link": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
+    "date": "2026-05-19"
+  },
+  {
+    "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
+    "link": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+    "date": "2026-05-19"
+  },
+  {
+    "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+    "link": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+    "date": "2026-05-19"
+  },
+  {
+    "title": "Amazon’s new Alexa+ powered feature can generate podcast episodes",
+    "link": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
+    "date": "2026-05-19"
+  },
+  {
+    "title": "South Korea’s LetinAR is building optics behind AI glasses",
+    "link": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
+    "date": "2026-05-19"
+  },
+  {
+    "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+    "link": "https://openai.com/index/dell-codex-enterprise-partnership",
+    "date": "2026-05-19"
+  },
+  {
+    "title": "Here’s why Elon Musk lost his suit against OpenAI",
+    "link": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
+    "date": "2026-05-19"
+  },
+  {
+    "title": "What to expect from Google this week",
+    "link": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
+    "date": "2026-05-19"
+  },
+  {
+    "title": "The Signals That Matter – MIT Insider’s Panel",
+    "link": "https://www.technologyreview.com/2026/05/18/1137430/the-signals-that-matter-mit-insiders-panel/",
+    "date": "2026-05-19"
+  },
+  {
+    "title": "Inside Anduril and Meta’s quest to make smart glasses for warfare",
+    "link": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/",
+    "date": "2026-05-19"
+  },
+  {
+    "title": "The Download: Musk v. Altman week 3, and Trump’s tech trading",
+    "link": "https://www.technologyreview.com/2026/05/18/1137407/the-download-musk-altman-trial-trump-tech-trading/",
+    "date": "2026-05-19"
+  },
+  {
+    "title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
+    "link": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
+    "date": "2026-05-19"
+  },
+  {
+    "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
+    "link": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+    "date": "2026-05-19"
+  },
+  {
+    "title": "The Open Agent Leaderboard",
+    "link": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
+    "date": "2026-05-19"
+  },
+  {
+    "title": "Ebola outbreak: WHO declares emergency, US restricts travel, American infected",
+    "link": "https://arstechnica.com/health/2026/05/ebola-outbreak-who-declares-emergency-us-restricts-travel-american-infected/",
+    "date": "2026-05-19"
+  },
+  {
+    "title": "Legal fail: Don’t use AI to sue Facebook users for calling you a bad date",
+    "link": "https://arstechnica.com/tech-policy/2026/05/legal-fail-dont-use-ai-to-sue-facebook-users-for-calling-you-a-bad-date/",
+    "date": "2026-05-19"
+  },
+  {
+    "title": "One Mars spacecraft, two senators, and a cloud of questions",
+    "link": "https://arstechnica.com/space/2026/05/one-mars-spacecraft-two-senators-and-a-cloud-of-questions/",
+    "date": "2026-05-19"
+  },
+  {
+    "title": "Australian Aboriginals cared for a dingo's grave for decades",
+    "link": "https://arstechnica.com/science/2026/05/1000-year-old-burial-reveals-close-bonds-between-people-and-dingoes/",
+    "date": "2026-05-19"
+  },
+  {
+    "title": "Elon Musk took too long to sue OpenAI, jury unanimously agrees",
+    "link": "https://arstechnica.com/tech-policy/2026/05/elon-musk-loses-trial-accusing-sam-altman-openai-of-stealing-a-charity/",
+    "date": "2026-05-19"
+  },
+  {
+    "title": "AI is a matter of power, infrastructure and security: TechEx North America",
+    "link": "https://www.artificialintelligence-news.com/news/techex-north-america-day-one-lessons-for-all-around-ai-and-more/",
+    "date": "2026-05-19"
   }
 ]
