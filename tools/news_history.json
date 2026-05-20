@@ -1,120 +1,5 @@
 [
   {
-    "title": "Needle - Gemini 도구 호출을 증류한 2600만 파라미터 모델",
-    "link": "https://news.hada.io/topic?id=29466",
-    "date": "2026-05-13"
-  },
-  {
-    "title": "Show GN: Everything Claude Code 스킬 183개를 Gemini CLI &amp; Antigravity로 마이그레이션",
-    "link": "https://news.hada.io/topic?id=29465",
-    "date": "2026-05-13"
-  },
-  {
-    "title": "Gram 2.0.0 출시 - 편집기",
-    "link": "https://news.hada.io/topic?id=29464",
-    "date": "2026-05-13"
-  },
-  {
-    "title": "BusyBox란 무엇인가?",
-    "link": "https://news.hada.io/topic?id=29463",
-    "date": "2026-05-13"
-  },
-  {
-    "title": "The AI Agent Complexity Ratchet: Why 90% Test Coverage Is Required",
-    "link": "https://news.hada.io/topic?id=29462",
-    "date": "2026-05-13"
-  },
-  {
-    "title": "Medicare’s new payment model is built for AI, and most of the tech world has no idea",
-    "link": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
-    "date": "2026-05-13"
-  },
-  {
-    "title": "Musk mulled handing OpenAI to his children, Altman testifies",
-    "link": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
-    "date": "2026-05-13"
-  },
-  {
-    "title": "Anthropic warns investors against secondary platforms offering access to its shares",
-    "link": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
-    "date": "2026-05-13"
-  },
-  {
-    "title": "Report: Google and SpaceX in talks to put data centers into orbit",
-    "link": "https://techcrunch.com/2026/05/12/report-google-and-spacex-in-talks-to-put-data-centers-into-orbit/",
-    "date": "2026-05-13"
-  },
-  {
-    "title": "Everything Google announced at its Android Show, from Googlebooks to vibe-coded widgets",
-    "link": "https://techcrunch.com/2026/05/12/everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-widgets/",
-    "date": "2026-05-13"
-  },
-  {
-    "title": "How finance teams use Codex",
-    "link": "https://openai.com/academy/how-finance-teams-use-codex",
-    "date": "2026-05-13"
-  },
-  {
-    "title": "How NVIDIA engineers and researchers build with Codex",
-    "link": "https://openai.com/index/nvidia",
-    "date": "2026-05-13"
-  },
-  {
-    "title": "What Parameter Golf taught us about AI-assisted research",
-    "link": "https://openai.com/index/what-parameter-golf-taught-us",
-    "date": "2026-05-13"
-  },
-  {
-    "title": "AutoScout24 scales engineering with AI-powered workflows",
-    "link": "https://openai.com/index/autoscout24",
-    "date": "2026-05-13"
-  },
-  {
-    "title": "World Models: 10 Things That Matter in AI Right Now",
-    "link": "https://www.technologyreview.com/2026/05/12/1137134/world-models-10-things-that-matter-in-ai-right-now/",
-    "date": "2026-05-13"
-  },
-  {
-    "title": "The Download: a Nobel winner on AI, and the case for fixing everything",
-    "link": "https://www.technologyreview.com/2026/05/12/1137103/the-download-nobel-winner-ai-maintenance-of-everything/",
-    "date": "2026-05-13"
-  },
-  {
-    "title": "The newest AI boom pitch: Host a mini data center at your home",
-    "link": "https://arstechnica.com/ai/2026/05/the-newest-ai-boom-pitch-host-a-mini-data-center-at-your-home/",
-    "date": "2026-05-13"
-  },
-  {
-    "title": "FDA chief resigns after Trump admin forced approval of fruity e-cigs",
-    "link": "https://arstechnica.com/health/2026/05/fda-chief-resigns-after-trump-admin-forced-approval-of-fruity-e-cigs/",
-    "date": "2026-05-13"
-  },
-  {
-    "title": "Twin brothers wipe 96 gov't databases minutes after being fired",
-    "link": "https://arstechnica.com/tech-policy/2026/05/drop-database-what-not-to-do-after-losing-an-it-job/",
-    "date": "2026-05-13"
-  },
-  {
-    "title": "“Will I be OK?” Teen died after ChatGPT pushed deadly mix of drugs, lawsuit says",
-    "link": "https://arstechnica.com/tech-policy/2026/05/will-i-be-ok-teen-died-after-chatgpt-pushed-deadly-mix-of-drugs-lawsuit-says/",
-    "date": "2026-05-13"
-  },
-  {
-    "title": "Microsoft will lean on your CPU to speed up Windows 11's apps and animations",
-    "link": "https://arstechnica.com/gadgets/2026/05/speed-boosting-low-latency-profile-is-one-of-the-improvements-coming-to-windows-11/",
-    "date": "2026-05-13"
-  },
-  {
-    "title": "JBS Dev: On imperfect data and the AI last mile – from model capability to cost sustainability",
-    "link": "https://www.artificialintelligence-news.com/news/jbs-dev-on-imperfect-data-and-the-ai-last-mile-from-model-capability-to-cost-sustainability/",
-    "date": "2026-05-13"
-  },
-  {
-    "title": "Hugging Face hosted malicious software masquerading as OpenAI release",
-    "link": "https://www.artificialintelligence-news.com/news/malware-on-hugging-face-malicious-software-masquerading-as-openai-release/",
-    "date": "2026-05-13"
-  },
-  {
     "title": "AI 분야의 다음 최대 해자는 &quot;조직&quot;이다",
     "link": "https://news.hada.io/topic?id=29486",
     "date": "2026-05-14"
@@ -943,5 +828,165 @@
     "title": "The Nvidia H200 China deal survived the Trump-Xi summit–just not in the way anyone expected",
     "link": "https://www.artificialintelligence-news.com/news/nvidia-h200-china-deal-stalled-trump-xi-summit-2026/",
     "date": "2026-05-19"
+  },
+  {
+    "title": "Forge - 가드레일로 8B 모델을 에이전트 작업에서 53%에서 99%로 끌어올리는 도구",
+    "link": "https://news.hada.io/topic?id=29705",
+    "date": "2026-05-20"
+  },
+  {
+    "title": "포지에서 무엇을 원하시나요?",
+    "link": "https://news.hada.io/topic?id=29704",
+    "date": "2026-05-20"
+  },
+  {
+    "title": "GitHub이 침해되어, 공격자가 GitHub 내부 3800개 저장소에 접근함",
+    "link": "https://news.hada.io/topic?id=29703",
+    "date": "2026-05-20"
+  },
+  {
+    "title": "Remove-AI-Watermarks - 이미지에서 AI 워터마크를 제거하는 CLI와 라이브러리",
+    "link": "https://news.hada.io/topic?id=29702",
+    "date": "2026-05-20"
+  },
+  {
+    "title": "GitHub이 내부 저장소 무단 접근을 조사 중",
+    "link": "https://news.hada.io/topic?id=29701",
+    "date": "2026-05-20"
+  },
+  {
+    "title": "Google just declared itself a contender in AI design at IO 2026",
+    "link": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/",
+    "date": "2026-05-20"
+  },
+  {
+    "title": "You can now talk to your Gmail inbox, as seen at Google IO 2026",
+    "link": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/",
+    "date": "2026-05-20"
+  },
+  {
+    "title": "How to use Google’s new AI agents to go beyond your standard searches",
+    "link": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/",
+    "date": "2026-05-20"
+  },
+  {
+    "title": "From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing",
+    "link": "https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/",
+    "date": "2026-05-20"
+  },
+  {
+    "title": "Elon Musk said Sam Altman ‘stole’ a non-profit — but the trial showed he had similar aims",
+    "link": "https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/",
+    "date": "2026-05-20"
+  },
+  {
+    "title": "The next phase of OpenAI’s Education for Countries",
+    "link": "https://openai.com/index/the-next-phase-of-education-for-countries",
+    "date": "2026-05-20"
+  },
+  {
+    "title": "Introducing OpenAI for Singapore",
+    "link": "https://openai.com/index/introducing-openai-for-singapore",
+    "date": "2026-05-20"
+  },
+  {
+    "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
+    "link": "https://openai.com/index/advancing-content-provenance",
+    "date": "2026-05-20"
+  },
+  {
+    "title": "I/O 2026",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
+    "date": "2026-05-20"
+  },
+  {
+    "title": "How AI Mode is changing the way people search in the U.S.",
+    "link": "https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/",
+    "date": "2026-05-20"
+  },
+  {
+    "title": "New ways to create and get things done in Google Workspace",
+    "link": "https://blog.google/products-and-platforms/products/workspace/workspace-updates/",
+    "date": "2026-05-20"
+  },
+  {
+    "title": "I/O 2026: Welcome to the agentic Gemini era",
+    "link": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
+    "date": "2026-05-20"
+  },
+  {
+    "title": "Gemini 3.5: frontier intelligence with action",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+    "date": "2026-05-20"
+  },
+  {
+    "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+    "link": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+    "date": "2026-05-20"
+  },
+  {
+    "title": "Roundtables: Inside the Musk v. Altman Trial",
+    "link": "https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/",
+    "date": "2026-05-20"
+  },
+  {
+    "title": "Understanding the modern cybercrime landscape",
+    "link": "https://www.technologyreview.com/2026/05/19/1136925/understanding-the-modern-cybercrime-landscape/",
+    "date": "2026-05-20"
+  },
+  {
+    "title": "The Download: Musk v. Altman, smart glasses for warfare, and Google I/O",
+    "link": "https://www.technologyreview.com/2026/05/19/1137505/the-download-musk-altman-trial-smart-glasses-warfare-google-i-o/",
+    "date": "2026-05-20"
+  },
+  {
+    "title": "Colossal Biosciences is growing chickens in a 3D-printed artificial eggshell",
+    "link": "https://www.technologyreview.com/2026/05/19/1137471/colossal-biosciences-is-growing-chickens-in-a-3d-printed-container/",
+    "date": "2026-05-20"
+  },
+  {
+    "title": "OlmoEarth v1.1: A more efficient family of models",
+    "link": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
+    "date": "2026-05-20"
+  },
+  {
+    "title": "Introducing the Ettin Reranker Family",
+    "link": "https://huggingface.co/blog/ettin-reranker",
+    "date": "2026-05-20"
+  },
+  {
+    "title": "Moose-proof and megacasting: Ars drives the new Volvo EX60",
+    "link": "https://arstechnica.com/cars/2026/05/moose-proof-and-megacasting-ars-drives-the-new-volvo-ex60/",
+    "date": "2026-05-20"
+  },
+  {
+    "title": "FBI seeks US-wide access to license plate cameras, wants \"data in near real time\"",
+    "link": "https://arstechnica.com/tech-policy/2026/05/fbi-seeks-us-wide-access-to-license-plate-cameras-wants-data-in-near-real-time/",
+    "date": "2026-05-20"
+  },
+  {
+    "title": "Spider-Noir final trailer gives us a classic villain",
+    "link": "https://arstechnica.com/culture/2026/05/spider-noirs-final-trailer-leans-into-the-deadpan-humor/",
+    "date": "2026-05-20"
+  },
+  {
+    "title": "\"I'll buy 10 of those\"—NASA science chief yearns for mass-produced satellites",
+    "link": "https://arstechnica.com/space/2026/05/ill-buy-10-of-those-nasa-science-chief-yearns-for-mass-produced-satellites/",
+    "date": "2026-05-20"
+  },
+  {
+    "title": "Plex's 200% Lifetime Pass price hike tries forcing users to another subscription",
+    "link": "https://arstechnica.com/gadgets/2026/05/plexs-200-lifetime-pass-price-hike-tries-forcing-users-to-another-subscription/",
+    "date": "2026-05-20"
+  },
+  {
+    "title": "Alibaba is designing AI chips around agents, and that changes what the race is actually about",
+    "link": "https://www.artificialintelligence-news.com/news/alibaba-zhenwu-m890-ai-agent-chip-roadmap/",
+    "date": "2026-05-20"
+  },
+  {
+    "title": "Enterprise AI roadblocks and roadmaps, security and physical AI: Day two at TechEx",
+    "link": "https://www.artificialintelligence-news.com/news/tech-ex-north-america-day-two-roundup-of-themes-issues-discussions/",
+    "date": "2026-05-20"
   }
 ]
