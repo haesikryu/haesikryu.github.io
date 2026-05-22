@@ -1,165 +1,5 @@
 [
   {
-    "title": "RustFS - Rust로 만든 S3 호환 분산 객체 스토리지",
-    "link": "https://news.hada.io/topic?id=29532",
-    "date": "2026-05-15"
-  },
-  {
-    "title": "Learning Opportunities - Claude Code와 Codex에서 의도적 기술 개발을 돕는 스킬",
-    "link": "https://news.hada.io/topic?id=29531",
-    "date": "2026-05-15"
-  },
-  {
-    "title": "Microsoft BitLocker – YellowKey 제로데이 익스플로잇",
-    "link": "https://news.hada.io/topic?id=29530",
-    "date": "2026-05-15"
-  },
-  {
-    "title": "Scorched Earth 2000 – 웹",
-    "link": "https://news.hada.io/topic?id=29529",
-    "date": "2026-05-15"
-  },
-  {
-    "title": "AI가 나를 멍청하게 만들고 있다",
-    "link": "https://news.hada.io/topic?id=29528",
-    "date": "2026-05-15"
-  },
-  {
-    "title": "What the jury will actually decide in the case of Elon Musk vs. Sam Altman",
-    "link": "https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/",
-    "date": "2026-05-15"
-  },
-  {
-    "title": "Elon Musk’s SpaceXAI has been bleeding staff since its merger",
-    "link": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
-    "date": "2026-05-15"
-  },
-  {
-    "title": "OpenAI says Codex is coming to your phone",
-    "link": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
-    "date": "2026-05-15"
-  },
-  {
-    "title": "What happens when AI starts building itself?",
-    "link": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
-    "date": "2026-05-15"
-  },
-  {
-    "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned",
-    "link": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
-    "date": "2026-05-15"
-  },
-  {
-    "title": "Work with Codex from anywhere",
-    "link": "https://openai.com/index/work-with-codex-from-anywhere",
-    "date": "2026-05-15"
-  },
-  {
-    "title": "Helping ChatGPT better recognize context in sensitive conversations",
-    "link": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
-    "date": "2026-05-15"
-  },
-  {
-    "title": "Data readiness for agentic AI in financial services",
-    "link": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
-    "date": "2026-05-15"
-  },
-  {
-    "title": "Establishing AI and data sovereignty in the age of autonomous systems",
-    "link": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/",
-    "date": "2026-05-15"
-  },
-  {
-    "title": "The Download: deepfake porn’s stolen bodies and AI sharing private numbers",
-    "link": "https://www.technologyreview.com/2026/05/14/1137257/the-download-deepfake-porn-bodies-ai-exposing-phone-numbers/",
-    "date": "2026-05-15"
-  },
-  {
-    "title": "The Tesla Semi could be a big deal for electric trucking",
-    "link": "https://www.technologyreview.com/2026/05/14/1137197/tesla-semi-electric-trucking/",
-    "date": "2026-05-15"
-  },
-  {
-    "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
-    "link": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
-    "date": "2026-05-15"
-  },
-  {
-    "title": "Unlocking asynchronicity in continuous batching",
-    "link": "https://huggingface.co/blog/continuous_async",
-    "date": "2026-05-15"
-  },
-  {
-    "title": "Men use \"vocal fry\" more than women, counter to stereotype",
-    "link": "https://arstechnica.com/science/2026/05/men-use-vocal-fry-more-than-women-counter-to-stereotype/",
-    "date": "2026-05-15"
-  },
-  {
-    "title": "Fired hacker twins forget to end Teams recording, capture own crimes",
-    "link": "https://arstechnica.com/tech-policy/2026/05/fired-hacker-twins-forget-to-end-teams-recording-capture-own-crimes/",
-    "date": "2026-05-15"
-  },
-  {
-    "title": "Cell phone users can't stop incriminating themselves",
-    "link": "https://arstechnica.com/tech-policy/2026/05/cell-phones-users-cant-stop-incriminating-themselves/",
-    "date": "2026-05-15"
-  },
-  {
-    "title": "Energy supplier abandons Lake Tahoe residents to serve data centers",
-    "link": "https://arstechnica.com/ai/2026/05/energy-supplier-abandons-lake-tahoe-residents-to-serve-data-centers/",
-    "date": "2026-05-15"
-  },
-  {
-    "title": "Over a year later, AMD is bringing improved FSR 4 upscaling to its older GPUs",
-    "link": "https://arstechnica.com/gadgets/2026/05/amd-promises-to-bring-improved-hardware-backed-fsr-4-upscaling-to-older-radeon-gpus/",
-    "date": "2026-05-15"
-  },
-  {
-    "title": "Physical AI moves closer to factory floors as companies test humanoid robots",
-    "link": "https://www.artificialintelligence-news.com/news/physical-ai-humanoid-robots-factories/",
-    "date": "2026-05-15"
-  },
-  {
-    "title": "Apple M5에서 첫 공개 macOS 커널 메모리 손상 익스플로잇",
-    "link": "https://news.hada.io/topic?id=29538",
-    "date": "2026-05-15"
-  },
-  {
-    "title": "NGINX Rift - 새로운 NGINX 익스플로잇",
-    "link": "https://news.hada.io/topic?id=29537",
-    "date": "2026-05-15"
-  },
-  {
-    "title": "Artifact Keeper - Rust로 만든 오픈소스 범용 아티팩트 레지스트리",
-    "link": "https://news.hada.io/topic?id=29536",
-    "date": "2026-05-15"
-  },
-  {
-    "title": "새 arXiv 정책: 환각 참고문헌에 1년 이용 금지",
-    "link": "https://news.hada.io/topic?id=29535",
-    "date": "2026-05-15"
-  },
-  {
-    "title": "Bitcoin 트레이더, Claude의 도움으로 지갑 복구",
-    "link": "https://news.hada.io/topic?id=29534",
-    "date": "2026-05-15"
-  },
-  {
-    "title": "Sea's View on the Future of Agentic Software Development with Codex",
-    "link": "https://openai.com/index/sea-david-chen",
-    "date": "2026-05-15"
-  },
-  {
-    "title": "The world is on track to miss its health targets",
-    "link": "https://www.technologyreview.com/2026/05/15/1137270/the-world-is-on-track-to-miss-its-health-targets/",
-    "date": "2026-05-15"
-  },
-  {
-    "title": "How Chinese short dramas became AI content machines",
-    "link": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/",
-    "date": "2026-05-15"
-  },
-  {
     "title": "Windows XP 데스크톱처럼 Wikipedia 탐색하기",
     "link": "https://news.hada.io/topic?id=29551",
     "date": "2026-05-16"
@@ -948,5 +788,110 @@
     "title": "Tech researchers are suing the Trump administration over the future of online safety",
     "link": "https://www.technologyreview.com/2026/05/21/1137632/lawsuit-trump-administration-online-safety-coalition-for-independent-technology-research/",
     "date": "2026-05-21"
+  },
+  {
+    "title": "Project Hail Mary - 항성 항법 차트",
+    "link": "https://news.hada.io/topic?id=29757",
+    "date": "2026-05-22"
+  },
+  {
+    "title": "제로에서 성장 엔진 구축하기: Claude Code로 ARR 38% 끌어올린 방법",
+    "link": "https://news.hada.io/topic?id=29756",
+    "date": "2026-05-22"
+  },
+  {
+    "title": "Google의 Antigravity 미끼와 바꿔치기",
+    "link": "https://news.hada.io/topic?id=29755",
+    "date": "2026-05-22"
+  },
+  {
+    "title": "agentmemory - AI 코딩 에이전트용 영구 메모리 시스템",
+    "link": "https://news.hada.io/topic?id=29754",
+    "date": "2026-05-22"
+  },
+  {
+    "title": "Search에서 새 광고 형식을 테스트하고 Direct Offers 파일럿을 확장 중",
+    "link": "https://news.hada.io/topic?id=29753",
+    "date": "2026-05-22"
+  },
+  {
+    "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
+    "link": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
+    "date": "2026-05-22"
+  },
+  {
+    "title": "Six search engines worth trying now that Google isn’t really Google anymore",
+    "link": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
+    "date": "2026-05-22"
+  },
+  {
+    "title": "Trump delays AI security executive order, saying language ‘could have been a blocker’",
+    "link": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
+    "date": "2026-05-22"
+  },
+  {
+    "title": "Spotify adds AI-powered Q&A and briefing generation features to podcasts",
+    "link": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/",
+    "date": "2026-05-22"
+  },
+  {
+    "title": "Spotify takes on Google’s NotebookLM with its new app",
+    "link": "https://techcrunch.com/2026/05/21/spotify-debuts-a-new-desktop-app-for-creating-personal-podcasts/",
+    "date": "2026-05-22"
+  },
+  {
+    "title": "AdventHealth advances whole-person care with OpenAI",
+    "link": "https://openai.com/index/adventhealth",
+    "date": "2026-05-22"
+  },
+  {
+    "title": "Roundtables: Can AI Learn to Understand the World?",
+    "link": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
+    "date": "2026-05-22"
+  },
+  {
+    "title": "Scaling creativity in the age of AI",
+    "link": "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/",
+    "date": "2026-05-22"
+  },
+  {
+    "title": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not",
+    "link": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
+    "date": "2026-05-22"
+  },
+  {
+    "title": "The Download: online safety’s future and climate tech’s big pivot",
+    "link": "https://www.technologyreview.com/2026/05/21/1137733/the-download-online-safety-climate-tech-pivot/",
+    "date": "2026-05-22"
+  },
+  {
+    "title": "IoT gadget maker AcuRite shares reasoning for killing customers’ favorite app",
+    "link": "https://arstechnica.com/gadgets/2026/05/iot-gadget-maker-acurite-shares-reasoning-for-killing-customers-favorite-app/",
+    "date": "2026-05-22"
+  },
+  {
+    "title": "As Grok flounders, SpaceX bets future on beating Big Tech at AI",
+    "link": "https://arstechnica.com/ai/2026/05/as-grok-flounders-spacex-bets-future-on-beating-big-tech-at-ai/",
+    "date": "2026-05-22"
+  },
+  {
+    "title": "AT&T sues California in attempt to shut off old phone network",
+    "link": "https://arstechnica.com/tech-policy/2026/05/att-sues-california-in-attempt-to-shut-off-old-phone-network/",
+    "date": "2026-05-22"
+  },
+  {
+    "title": "JWST maps the weather on a hot gas giant 700 light-years away",
+    "link": "https://arstechnica.com/science/2026/05/jwst-maps-the-weather-on-a-hot-gas-giant-700-light-years-away/",
+    "date": "2026-05-22"
+  },
+  {
+    "title": "Zillow loses thousands of listings in fight over “hidden” homes",
+    "link": "https://arstechnica.com/tech-policy/2026/05/zillow-loses-access-to-thousands-of-home-listings-amid-bitter-legal-feud/",
+    "date": "2026-05-22"
+  },
+  {
+    "title": "Nvidia’s Vera chip is the US$200 billion bet Jensen Huang doesn’t want you to overlook",
+    "link": "https://www.artificialintelligence-news.com/news/nvidia-vera-chip-200-billion-market/",
+    "date": "2026-05-22"
   }
 ]
