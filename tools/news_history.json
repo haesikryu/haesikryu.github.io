@@ -1,170 +1,5 @@
 [
   {
-    "title": "Windows XP 데스크톱처럼 Wikipedia 탐색하기",
-    "link": "https://news.hada.io/topic?id=29551",
-    "date": "2026-05-16"
-  },
-  {
-    "title": "Mullvad exit IP는 놀라울 정도로 식별 가능함",
-    "link": "https://news.hada.io/topic?id=29550",
-    "date": "2026-05-16"
-  },
-  {
-    "title": "지금 많은 기업이 AI 집단 광기에 빠져 있다고 믿는다",
-    "link": "https://news.hada.io/topic?id=29549",
-    "date": "2026-05-16"
-  },
-  {
-    "title": "Project Gutenberg - 계속 더 좋아지고 있음",
-    "link": "https://news.hada.io/topic?id=29548",
-    "date": "2026-05-16"
-  },
-  {
-    "title": "git-sync - 로컬 체크아웃 없이 Git 리모트 간 ref를 직접 미러링하는 CLI 도구",
-    "link": "https://news.hada.io/topic?id=29547",
-    "date": "2026-05-16"
-  },
-  {
-    "title": "The OpenAI trial wraps up, and the Musk founder machine keeps spinning",
-    "link": "https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning/",
-    "date": "2026-05-16"
-  },
-  {
-    "title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up",
-    "link": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/",
-    "date": "2026-05-16"
-  },
-  {
-    "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
-    "link": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
-    "date": "2026-05-16"
-  },
-  {
-    "title": "Runway started by helping filmmakers — now it wants to beat Google at AI",
-    "link": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
-    "date": "2026-05-16"
-  },
-  {
-    "title": "Osaurus brings both local and cloud AI models to your Mac",
-    "link": "https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/",
-    "date": "2026-05-16"
-  },
-  {
-    "title": "A new personal finance experience in ChatGPT",
-    "link": "https://openai.com/index/personal-finance-chatgpt",
-    "date": "2026-05-16"
-  },
-  {
-    "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
-    "link": "https://openai.com/index/databricks",
-    "date": "2026-05-16"
-  },
-  {
-    "title": "Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side.",
-    "link": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
-    "date": "2026-05-16"
-  },
-  {
-    "title": "The Download: China’s AI drama factory and the WHO’s missing health targets",
-    "link": "https://www.technologyreview.com/2026/05/15/1137341/the-download-china-short-drama-ai-who-health-targets/",
-    "date": "2026-05-16"
-  },
-  {
-    "title": "Russia pressures university students to become wartime drone pilots",
-    "link": "https://arstechnica.com/gadgets/2026/05/russia-pressures-university-students-to-become-wartime-drone-pilots/",
-    "date": "2026-05-16"
-  },
-  {
-    "title": "Anthropic’s $1.5B copyright settlement is getting messy as judge delays approval",
-    "link": "https://arstechnica.com/tech-policy/2026/05/authors-fight-for-higher-payouts-from-anthropics-1-5b-copyright-settlement/",
-    "date": "2026-05-16"
-  },
-  {
-    "title": "US hantavirus case was false positive; outbreak cases drop from 11 to 10",
-    "link": "https://arstechnica.com/health/2026/05/us-hantavirus-case-was-false-positive-outbreak-cases-drop-from-11-to-10/",
-    "date": "2026-05-16"
-  },
-  {
-    "title": "Review: Good Omens finale sticks the landing",
-    "link": "https://arstechnica.com/culture/2026/05/review-chaotically-uneven-good-omens-finale-still-conjures-up-old-magic/",
-    "date": "2026-05-16"
-  },
-  {
-    "title": "Solar power production undercut by coal pollution",
-    "link": "https://arstechnica.com/science/2026/05/solar-power-production-undercut-by-coal-pollution/",
-    "date": "2026-05-16"
-  },
-  {
-    "title": "Deloitte: Scale ‘autonomous intelligence’ for real growth",
-    "link": "https://www.artificialintelligence-news.com/news/deloitte-scale-autonomous-intelligence-for-real-growth/",
-    "date": "2026-05-16"
-  },
-  {
-    "title": "Show GN: Zed 에디터 다국어 번역 프로젝트 - Zed-i18n",
-    "link": "https://news.hada.io/topic?id=29560",
-    "date": "2026-05-16"
-  },
-  {
-    "title": "Steve Jobs의 망명기 – NeXT Computer 시절을 다룬 신간",
-    "link": "https://news.hada.io/topic?id=29559",
-    "date": "2026-05-16"
-  },
-  {
-    "title": "GGUF에는 가중치 외에 무엇이 들어 있고, 아직 무엇이 빠져 있나?",
-    "link": "https://news.hada.io/topic?id=29558",
-    "date": "2026-05-16"
-  },
-  {
-    "title": "Claude for Legal  - Anthropic의 법률 업무용 AI 플러그인 모음",
-    "link": "https://news.hada.io/topic?id=29557",
-    "date": "2026-05-16"
-  },
-  {
-    "title": "대규모 코드베이스에서 Claude Code가 작동하는 방식 : 모범 사례 및 시작점",
-    "link": "https://news.hada.io/topic?id=29556",
-    "date": "2026-05-16"
-  },
-  {
-    "title": "List 가 GeekLists 기능으로 확대 개편 되었습니다.",
-    "link": "https://news.hada.io/blog/GeekLists",
-    "date": "2026-05-16"
-  },
-  {
-    "title": "‘함께 보면 좋은 글’ 기능을 추가했습니다",
-    "link": "https://news.hada.io/blog/related-reads",
-    "date": "2026-05-16"
-  },
-  {
-    "title": "GeekNews를 편하게 구독하는 법",
-    "link": "https://news.hada.io/blog/subscribe_geeknews",
-    "date": "2026-05-16"
-  },
-  {
-    "title": "How sales teams use Codex",
-    "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-    "date": "2026-05-16"
-  },
-  {
-    "title": "How business operations teams use Codex",
-    "link": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
-    "date": "2026-05-16"
-  },
-  {
-    "title": "How data science teams use Codex",
-    "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-    "date": "2026-05-16"
-  },
-  {
-    "title": "See what happens when creative legends use AI to make ads for small businesses.",
-    "link": "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/",
-    "date": "2026-05-16"
-  },
-  {
-    "title": "EMO: Pretraining mixture of experts for emergent modularity",
-    "link": "https://huggingface.co/blog/allenai/emo",
-    "date": "2026-05-16"
-  },
-  {
     "title": "‘막을 방법이 없다’, 이런 일이 정기적으로 일어나는 유일한 패키지 매니저가 말하다",
     "link": "https://news.hada.io/topic?id=29580",
     "date": "2026-05-17"
@@ -943,5 +778,110 @@
     "title": "Musk and Zuckerberg convinced Trump to scrap AI executive order",
     "link": "https://www.artificialintelligence-news.com/news/trump-ai-executive-order-scrapped-musk-zuckerberg-china/",
     "date": "2026-05-22"
+  },
+  {
+    "title": "일본 기업은 왜 그렇게 다양한 일을 많이 하는가",
+    "link": "https://news.hada.io/topic?id=29783",
+    "date": "2026-05-23"
+  },
+  {
+    "title": "Steve Wozniak, 학생들에게 AI, 즉 actual intelligence가 있다고 말한 뒤 박수 받음",
+    "link": "https://news.hada.io/topic?id=29782",
+    "date": "2026-05-23"
+  },
+  {
+    "title": "LLM이라면, 이것을 읽어 주세요",
+    "link": "https://news.hada.io/topic?id=29781",
+    "date": "2026-05-23"
+  },
+  {
+    "title": "Zero - 에이전트를 위한 프로그래밍 언어",
+    "link": "https://news.hada.io/topic?id=29780",
+    "date": "2026-05-23"
+  },
+  {
+    "title": "SSH에서 REST로: 보안 중심의 Slack EMR 데이터 파이프라인 현대화",
+    "link": "https://news.hada.io/topic?id=29779",
+    "date": "2026-05-23"
+  },
+  {
+    "title": "AI is being used to resurrect the voices of dead pilots",
+    "link": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+    "date": "2026-05-23"
+  },
+  {
+    "title": "Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’",
+    "link": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/",
+    "date": "2026-05-23"
+  },
+  {
+    "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
+    "link": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
+    "date": "2026-05-23"
+  },
+  {
+    "title": "Elon Musk can’t hear you over the sound of his $1.75 trillion IPO",
+    "link": "https://techcrunch.com/podcast/elon-musk-cant-hear-you-over-the-sound-of-his-1-75-trillion-ipo/",
+    "date": "2026-05-23"
+  },
+  {
+    "title": "You can no longer Google the word ‘disregard’",
+    "link": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
+    "date": "2026-05-23"
+  },
+  {
+    "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+    "link": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+    "date": "2026-05-23"
+  },
+  {
+    "title": "How Virgin Atlantic ships faster with Codex",
+    "link": "https://openai.com/index/virgin-atlantic",
+    "date": "2026-05-23"
+  },
+  {
+    "title": "Catch up on the Dialogues stage at Google I/O 2026.",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
+    "date": "2026-05-23"
+  },
+  {
+    "title": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
+    "link": "https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/",
+    "date": "2026-05-23"
+  },
+  {
+    "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+    "date": "2026-05-23"
+  },
+  {
+    "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
+    "link": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
+    "date": "2026-05-23"
+  },
+  {
+    "title": "Four Russian satellites are now within striking distance of an ICEYE radarsat",
+    "link": "https://arstechnica.com/space/2026/05/a-satellite-company-supporting-ukraine-appears-to-be-in-russias-crosshairs/",
+    "date": "2026-05-23"
+  },
+  {
+    "title": "Ebola outbreak now third largest recorded and \"spreading rapidly\"",
+    "link": "https://arstechnica.com/health/2026/05/ebola-outbreak-now-third-largest-recorded-and-spreading-rapidly/",
+    "date": "2026-05-23"
+  },
+  {
+    "title": "First-generation Chromecast users stressed by devices suddenly failing",
+    "link": "https://arstechnica.com/gadgets/2026/05/original-chromecast-lives-devices-back-on-after-mysteriously-breaking-this-week/",
+    "date": "2026-05-23"
+  },
+  {
+    "title": "Trump FCC asks public to comment on whether ABC's The View is a news show",
+    "link": "https://arstechnica.com/tech-policy/2026/05/trump-fcc-asks-public-to-comment-on-whether-abcs-the-view-is-a-news-show/",
+    "date": "2026-05-23"
+  },
+  {
+    "title": "US scrambles to stop Internet users re-creating dead pilots’ voices",
+    "link": "https://arstechnica.com/ai/2026/05/ai-users-re-create-dead-pilots-voices-from-crash-investigation-docs/",
+    "date": "2026-05-23"
   }
 ]
