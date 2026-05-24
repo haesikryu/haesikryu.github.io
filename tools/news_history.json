@@ -1,65 +1,5 @@
 [
   {
-    "title": "‘막을 방법이 없다’, 이런 일이 정기적으로 일어나는 유일한 패키지 매니저가 말하다",
-    "link": "https://news.hada.io/topic?id=29580",
-    "date": "2026-05-17"
-  },
-  {
-    "title": "Stripe Link CLI - AI 에이전트가 사용자 대신 결제할 수 있게 해주는 CLI",
-    "link": "https://news.hada.io/topic?id=29579",
-    "date": "2026-05-17"
-  },
-  {
-    "title": "아직 존재하지 않는 것들을 위한 시각화 디자인",
-    "link": "https://news.hada.io/topic?id=29578",
-    "date": "2026-05-17"
-  },
-  {
-    "title": "금욕적 컴퓨팅",
-    "link": "https://news.hada.io/topic?id=29577",
-    "date": "2026-05-17"
-  },
-  {
-    "title": "Claude와 몇 달간 씨름한 뒤 Codex는 바이브 코더의 꿈처럼 느껴짐",
-    "link": "https://news.hada.io/topic?id=29576",
-    "date": "2026-05-17"
-  },
-  {
-    "title": "The haves and have nots of the AI gold rush",
-    "link": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
-    "date": "2026-05-17"
-  },
-  {
-    "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
-    "link": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
-    "date": "2026-05-17"
-  },
-  {
-    "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
-    "link": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
-    "date": "2026-05-17"
-  },
-  {
-    "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
-    "link": "https://openai.com/index/malta-chatgpt-plus-partnership",
-    "date": "2026-05-17"
-  },
-  {
-    "title": "The US is betting on AI to catch insider trading in prediction markets",
-    "link": "https://arstechnica.com/tech-policy/2026/05/the-us-is-betting-on-ai-to-catch-insider-trading-in-prediction-markets/",
-    "date": "2026-05-17"
-  },
-  {
-    "title": "Google 검색의 생성형 AI 기능을 위한 웹사이트 최적화",
-    "link": "https://news.hada.io/topic?id=29582",
-    "date": "2026-05-17"
-  },
-  {
-    "title": "Bun의 Rust 재작성에 대한 내 생각",
-    "link": "https://news.hada.io/topic?id=29581",
-    "date": "2026-05-17"
-  },
-  {
     "title": "whichllm - 내 하드웨어에서 실제로 돌아가고 최고 성능을 내는 로컬 LLM 찾기",
     "link": "https://news.hada.io/topic?id=29613",
     "date": "2026-05-18"
@@ -923,5 +863,55 @@
     "title": "GeekNews를 편하게 구독하는 법",
     "link": "https://news.hada.io/blog/subscribe_geeknews",
     "date": "2026-05-23"
+  },
+  {
+    "title": "AI는 아직 수익성이 있는가?",
+    "link": "https://news.hada.io/topic?id=29816",
+    "date": "2026-05-24"
+  },
+  {
+    "title": "Electrobun 2.0은 Rust 재작성으로 인해 Bun에서 분리될 예정",
+    "link": "https://news.hada.io/topic?id=29815",
+    "date": "2026-05-24"
+  },
+  {
+    "title": "BambuStudio는 포크 이후 PrusaSlicer AGPL 라이선스를 위반해 왔다",
+    "link": "https://news.hada.io/topic?id=29814",
+    "date": "2026-05-24"
+  },
+  {
+    "title": "Texas 여성이 마을 수질에 관한 Facebook 게시물로 체포됨",
+    "link": "https://news.hada.io/topic?id=29813",
+    "date": "2026-05-24"
+  },
+  {
+    "title": "microsoft/mimalloc - 고성능 범용 메모리 할당자",
+    "link": "https://news.hada.io/topic?id=29812",
+    "date": "2026-05-24"
+  },
+  {
+    "title": "Ferrari is using IBM’s AI to create F1 superfans",
+    "link": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+    "date": "2026-05-24"
+  },
+  {
+    "title": "Elon Musk has given up on solar power (on Earth)",
+    "link": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
+    "date": "2026-05-24"
+  },
+  {
+    "title": "SpaceX's Starship V3—still a work in progress—mostly successful on first flight",
+    "link": "https://arstechnica.com/space/2026/05/spacexs-starship-v3-still-a-work-in-progress-mostly-successful-on-first-flight/",
+    "date": "2026-05-24"
+  },
+  {
+    "title": "Two space shuttle-era spacewalkers enter Astronaut Hall of Fame",
+    "link": "https://arstechnica.com/space/2026/05/two-space-shuttle-era-spacewalkers-enter-astronaut-hall-of-fame/",
+    "date": "2026-05-24"
+  },
+  {
+    "title": "China’s shark finning could lead to US seafood sanctions",
+    "link": "https://arstechnica.com/tech-policy/2026/05/chinas-shark-finning-could-lead-to-us-seafood-sanctions/",
+    "date": "2026-05-24"
   }
 ]
