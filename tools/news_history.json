@@ -1,90 +1,5 @@
 [
   {
-    "title": "whichllm - 내 하드웨어에서 실제로 돌아가고 최고 성능을 내는 로컬 LLM 찾기",
-    "link": "https://news.hada.io/topic?id=29613",
-    "date": "2026-05-18"
-  },
-  {
-    "title": "AI 구독은 엔터프라이즈의 시한폭탄",
-    "link": "https://news.hada.io/topic?id=29612",
-    "date": "2026-05-18"
-  },
-  {
-    "title": "2025년 4월 이후 5개 주에서 Flock 카메라 최소 25대가 파괴됨",
-    "link": "https://news.hada.io/topic?id=29611",
-    "date": "2026-05-18"
-  },
-  {
-    "title": "AI가 여러분의 프로세스를 더 빠르게 만들지는 않을 것 같습니다",
-    "link": "https://news.hada.io/topic?id=29610",
-    "date": "2026-05-18"
-  },
-  {
-    "title": "보안 연구자가 Microsoft가 BitLocker 백도어를 만들었다고 말하며 익스플로잇 공개",
-    "link": "https://news.hada.io/topic?id=29609",
-    "date": "2026-05-18"
-  },
-  {
-    "title": "Apple’s Siri revamp could include auto-deleting chats",
-    "link": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
-    "date": "2026-05-18"
-  },
-  {
-    "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
-    "link": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
-    "date": "2026-05-18"
-  },
-  {
-    "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
-    "link": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
-    "date": "2026-05-18"
-  },
-  {
-    "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
-    "link": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
-    "date": "2026-05-18"
-  },
-  {
-    "title": "A revolutionary cancer treatment could transform autoimmune disease",
-    "link": "https://arstechnica.com/science/2026/05/a-revolutionary-cancer-treatment-could-transform-autoimmune-disease/",
-    "date": "2026-05-18"
-  },
-  {
-    "title": "첫 질문에 답하지 마라",
-    "link": "https://news.hada.io/topic?id=29623",
-    "date": "2026-05-18"
-  },
-  {
-    "title": "rkdebian - 80달러 RK3562 Android 태블릿을 Debian Linux 워크스테이션으로 바꾸는 빌드 시스템",
-    "link": "https://news.hada.io/topic?id=29622",
-    "date": "2026-05-18"
-  },
-  {
-    "title": "Show GN: Lemini — 두 가지 모드로 동작하는 법 자문 챗봇",
-    "link": "https://news.hada.io/topic?id=29620",
-    "date": "2026-05-18"
-  },
-  {
-    "title": "Show GN: Tokenova — AI 코딩으로 쓴 토큰이 매일 하나의 우주가 되는 트레이 앱",
-    "link": "https://news.hada.io/topic?id=29619",
-    "date": "2026-05-18"
-  },
-  {
-    "title": "Show GN: CodeRabbit 유료 PR 리뷰를 GitHub Actions + Gemma로 무료 대체하기",
-    "link": "https://news.hada.io/topic?id=29618",
-    "date": "2026-05-18"
-  },
-  {
-    "title": "The new AI-powered Google Finance is expanding to Europe.",
-    "link": "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/",
-    "date": "2026-05-18"
-  },
-  {
-    "title": "Amazon launches Alexa for Shopping as Rufus moves behind the scenes",
-    "link": "https://www.artificialintelligence-news.com/news/amazon-alexa-for-shopping-rufus-ai-assistant/",
-    "date": "2026-05-18"
-  },
-  {
     "title": "Eric Schmidt의 AI 연설이 졸업식에서 야유를 받음",
     "link": "https://news.hada.io/topic?id=29651",
     "date": "2026-05-19"
@@ -928,5 +843,45 @@
     "title": "Google의 IBM화?",
     "link": "https://news.hada.io/topic?id=29817",
     "date": "2026-05-24"
+  },
+  {
+    "title": "Greg Brockman 인터뷰 [동영상]",
+    "link": "https://news.hada.io/topic?id=29850",
+    "date": "2026-05-25"
+  },
+  {
+    "title": "Flue - 샌드박스 에이전트 프레임워크",
+    "link": "https://news.hada.io/topic?id=29849",
+    "date": "2026-05-25"
+  },
+  {
+    "title": "Codex, 활용 사례 모음 대폭 확장",
+    "link": "https://news.hada.io/topic?id=29847",
+    "date": "2026-05-25"
+  },
+  {
+    "title": "왜 Vivado 2026.1은 무료 티어에서 Linux 지원을 중단하는가?",
+    "link": "https://news.hada.io/topic?id=29846",
+    "date": "2026-05-25"
+  },
+  {
+    "title": "Amazon Web Services - 4년 그리고 퇴장",
+    "link": "https://news.hada.io/topic?id=29845",
+    "date": "2026-05-25"
+  },
+  {
+    "title": "Everyone is navigating AI security in real time — even Google",
+    "link": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+    "date": "2026-05-25"
+  },
+  {
+    "title": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
+    "link": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
+    "date": "2026-05-25"
+  },
+  {
+    "title": "Whatever the mirror test tells us, beluga whales pass it",
+    "link": "https://arstechnica.com/science/2026/05/belugas-may-pass-the-mirror-test-but-does-the-mirror-test-still-pass/",
+    "date": "2026-05-25"
   }
 ]
