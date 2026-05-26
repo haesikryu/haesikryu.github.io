@@ -1,150 +1,5 @@
 [
   {
-    "title": "Eric Schmidt의 AI 연설이 졸업식에서 야유를 받음",
-    "link": "https://news.hada.io/topic?id=29651",
-    "date": "2026-05-19"
-  },
-  {
-    "title": "장기 자율성 평가를 위한 AI 에이전트 시뮬레이션 플랫폼 &#039;Emergence World&#039; 분석",
-    "link": "https://news.hada.io/topic?id=29650",
-    "date": "2026-05-19"
-  },
-  {
-    "title": "Show GN: 에이전트 캣 — Claude Code / Codex / Gemini CLI 의 상태와 사용량을 메뉴바 고양이로",
-    "link": "https://news.hada.io/topic?id=29649",
-    "date": "2026-05-19"
-  },
-  {
-    "title": "Anthropic, Stainless 인수",
-    "link": "https://news.hada.io/topic?id=29647",
-    "date": "2026-05-19"
-  },
-  {
-    "title": "Haiku OS가 이제 M1 Mac에서 실행됨",
-    "link": "https://news.hada.io/topic?id=29646",
-    "date": "2026-05-19"
-  },
-  {
-    "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
-    "link": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
-    "date": "2026-05-19"
-  },
-  {
-    "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
-    "link": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
-    "date": "2026-05-19"
-  },
-  {
-    "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
-    "link": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
-    "date": "2026-05-19"
-  },
-  {
-    "title": "Amazon’s new Alexa+ powered feature can generate podcast episodes",
-    "link": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
-    "date": "2026-05-19"
-  },
-  {
-    "title": "South Korea’s LetinAR is building optics behind AI glasses",
-    "link": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
-    "date": "2026-05-19"
-  },
-  {
-    "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
-    "link": "https://openai.com/index/dell-codex-enterprise-partnership",
-    "date": "2026-05-19"
-  },
-  {
-    "title": "Here’s why Elon Musk lost his suit against OpenAI",
-    "link": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
-    "date": "2026-05-19"
-  },
-  {
-    "title": "What to expect from Google this week",
-    "link": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
-    "date": "2026-05-19"
-  },
-  {
-    "title": "The Signals That Matter – MIT Insider’s Panel",
-    "link": "https://www.technologyreview.com/2026/05/18/1137430/the-signals-that-matter-mit-insiders-panel/",
-    "date": "2026-05-19"
-  },
-  {
-    "title": "Inside Anduril and Meta’s quest to make smart glasses for warfare",
-    "link": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/",
-    "date": "2026-05-19"
-  },
-  {
-    "title": "The Download: Musk v. Altman week 3, and Trump’s tech trading",
-    "link": "https://www.technologyreview.com/2026/05/18/1137407/the-download-musk-altman-trial-trump-tech-trading/",
-    "date": "2026-05-19"
-  },
-  {
-    "title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
-    "link": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
-    "date": "2026-05-19"
-  },
-  {
-    "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
-    "link": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
-    "date": "2026-05-19"
-  },
-  {
-    "title": "The Open Agent Leaderboard",
-    "link": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
-    "date": "2026-05-19"
-  },
-  {
-    "title": "Ebola outbreak: WHO declares emergency, US restricts travel, American infected",
-    "link": "https://arstechnica.com/health/2026/05/ebola-outbreak-who-declares-emergency-us-restricts-travel-american-infected/",
-    "date": "2026-05-19"
-  },
-  {
-    "title": "Legal fail: Don’t use AI to sue Facebook users for calling you a bad date",
-    "link": "https://arstechnica.com/tech-policy/2026/05/legal-fail-dont-use-ai-to-sue-facebook-users-for-calling-you-a-bad-date/",
-    "date": "2026-05-19"
-  },
-  {
-    "title": "One Mars spacecraft, two senators, and a cloud of questions",
-    "link": "https://arstechnica.com/space/2026/05/one-mars-spacecraft-two-senators-and-a-cloud-of-questions/",
-    "date": "2026-05-19"
-  },
-  {
-    "title": "Australian Aboriginals cared for a dingo's grave for decades",
-    "link": "https://arstechnica.com/science/2026/05/1000-year-old-burial-reveals-close-bonds-between-people-and-dingoes/",
-    "date": "2026-05-19"
-  },
-  {
-    "title": "Elon Musk took too long to sue OpenAI, jury unanimously agrees",
-    "link": "https://arstechnica.com/tech-policy/2026/05/elon-musk-loses-trial-accusing-sam-altman-openai-of-stealing-a-charity/",
-    "date": "2026-05-19"
-  },
-  {
-    "title": "AI is a matter of power, infrastructure and security: TechEx North America",
-    "link": "https://www.artificialintelligence-news.com/news/techex-north-america-day-one-lessons-for-all-around-ai-and-more/",
-    "date": "2026-05-19"
-  },
-  {
-    "title": "Grafana GitHub 토큰 유출로 인해 코드베이스 다운로드 및 금전 갈취 시도 발생",
-    "link": "https://news.hada.io/topic?id=29655",
-    "date": "2026-05-19"
-  },
-  {
-    "title": "제번스 역설의 어두운 면 (The Dark Side of the Jevons Paradox)",
-    "link": "https://news.hada.io/topic?id=29654",
-    "date": "2026-05-19"
-  },
-  {
-    "title": "옵시디언 최다 다운로드 Excalidraw 개발자, Obsidian 새 커뮤니티 사이트 스코어에 반발",
-    "link": "https://news.hada.io/topic?id=29653",
-    "date": "2026-05-19"
-  },
-  {
-    "title": "The Nvidia H200 China deal survived the Trump-Xi summit–just not in the way anyone expected",
-    "link": "https://www.artificialintelligence-news.com/news/nvidia-h200-china-deal-stalled-trump-xi-summit-2026/",
-    "date": "2026-05-19"
-  },
-  {
     "title": "Forge - 가드레일로 8B 모델을 에이전트 작업에서 53%에서 99%로 끌어올리는 도구",
     "link": "https://news.hada.io/topic?id=29705",
     "date": "2026-05-20"
@@ -903,5 +758,75 @@
     "title": "Show HN: Audiomass - 웹용 무료 오픈소스 멀티트랙 오디오 편집기",
     "link": "https://news.hada.io/topic?id=29851",
     "date": "2026-05-25"
+  },
+  {
+    "title": "영원한 Sloptember",
+    "link": "https://news.hada.io/topic?id=29879",
+    "date": "2026-05-26"
+  },
+  {
+    "title": "Google이 더 이상 Google이 아닌 지금의 대체 검색엔진",
+    "link": "https://news.hada.io/topic?id=29878",
+    "date": "2026-05-26"
+  },
+  {
+    "title": "캘리포니아, 반발 이후 연령 확인법에서 Linux를 면제하는 방향으로 이동",
+    "link": "https://news.hada.io/topic?id=29877",
+    "date": "2026-05-26"
+  },
+  {
+    "title": "교황 레오 14세 성하의 회칙 Magnifica Humanitas",
+    "link": "https://news.hada.io/topic?id=29876",
+    "date": "2026-05-26"
+  },
+  {
+    "title": "한글 점자 변환 도구 braillify, 2024 개정 한국 점자 규정 100% 준수",
+    "link": "https://news.hada.io/topic?id=29875",
+    "date": "2026-05-26"
+  },
+  {
+    "title": "What ClickUp’s mass layoff tells us about the future of work",
+    "link": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
+    "date": "2026-05-26"
+  },
+  {
+    "title": "The pope’s AI encyclical isn’t really about AI",
+    "link": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
+    "date": "2026-05-26"
+  },
+  {
+    "title": "Startup Battlefield 200 applications close in days: Apply before May 27",
+    "link": "https://techcrunch.com/2026/05/25/startup-battlefield-200-applications-close-in-days-apply-before-may-27/",
+    "date": "2026-05-26"
+  },
+  {
+    "title": "5 days left: Save up to $410 on TechCrunch Disrupt 2026 passes before prices increase",
+    "link": "https://techcrunch.com/2026/05/25/5-days-left-save-up-to-410-on-techcrunch-disrupt-2026-passes-before-prices-increase/",
+    "date": "2026-05-26"
+  },
+  {
+    "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+    "link": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+    "date": "2026-05-26"
+  },
+  {
+    "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+    "link": "https://huggingface.co/blog/agent-glossary",
+    "date": "2026-05-26"
+  },
+  {
+    "title": "Citing Gandalf, Pope Leo says we must \"disarm\" AI",
+    "link": "https://arstechnica.com/tech-policy/2026/05/citing-gandalf-pope-leo-says-we-must-disarm-ai/",
+    "date": "2026-05-26"
+  },
+  {
+    "title": "US's big bet on quantum computing may not be entirely legal",
+    "link": "https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/",
+    "date": "2026-05-26"
+  },
+  {
+    "title": "I spent years forcing myself to finish The Witcher 3—don't repeat my mistake",
+    "link": "https://arstechnica.com/gaming/2026/05/the-witcher-3-is-a-good-game-but-that-doesnt-mean-you-have-to-like-it/",
+    "date": "2026-05-26"
   }
 ]
