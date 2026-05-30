@@ -1,150 +1,5 @@
 [
   {
-    "title": "일본 기업은 왜 그렇게 다양한 일을 많이 하는가",
-    "link": "https://news.hada.io/topic?id=29783",
-    "date": "2026-05-23"
-  },
-  {
-    "title": "Steve Wozniak, 학생들에게 AI, 즉 actual intelligence가 있다고 말한 뒤 박수 받음",
-    "link": "https://news.hada.io/topic?id=29782",
-    "date": "2026-05-23"
-  },
-  {
-    "title": "LLM이라면, 이것을 읽어 주세요",
-    "link": "https://news.hada.io/topic?id=29781",
-    "date": "2026-05-23"
-  },
-  {
-    "title": "Zero - 에이전트를 위한 프로그래밍 언어",
-    "link": "https://news.hada.io/topic?id=29780",
-    "date": "2026-05-23"
-  },
-  {
-    "title": "SSH에서 REST로: 보안 중심의 Slack EMR 데이터 파이프라인 현대화",
-    "link": "https://news.hada.io/topic?id=29779",
-    "date": "2026-05-23"
-  },
-  {
-    "title": "AI is being used to resurrect the voices of dead pilots",
-    "link": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
-    "date": "2026-05-23"
-  },
-  {
-    "title": "Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’",
-    "link": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/",
-    "date": "2026-05-23"
-  },
-  {
-    "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
-    "link": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
-    "date": "2026-05-23"
-  },
-  {
-    "title": "Elon Musk can’t hear you over the sound of his $1.75 trillion IPO",
-    "link": "https://techcrunch.com/podcast/elon-musk-cant-hear-you-over-the-sound-of-his-1-75-trillion-ipo/",
-    "date": "2026-05-23"
-  },
-  {
-    "title": "You can no longer Google the word ‘disregard’",
-    "link": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
-    "date": "2026-05-23"
-  },
-  {
-    "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
-    "link": "https://openai.com/index/gartner-2026-agentic-coding-leader",
-    "date": "2026-05-23"
-  },
-  {
-    "title": "How Virgin Atlantic ships faster with Codex",
-    "link": "https://openai.com/index/virgin-atlantic",
-    "date": "2026-05-23"
-  },
-  {
-    "title": "Catch up on the Dialogues stage at Google I/O 2026.",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
-    "date": "2026-05-23"
-  },
-  {
-    "title": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
-    "link": "https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/",
-    "date": "2026-05-23"
-  },
-  {
-    "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
-    "link": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
-    "date": "2026-05-23"
-  },
-  {
-    "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
-    "link": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
-    "date": "2026-05-23"
-  },
-  {
-    "title": "Four Russian satellites are now within striking distance of an ICEYE radarsat",
-    "link": "https://arstechnica.com/space/2026/05/a-satellite-company-supporting-ukraine-appears-to-be-in-russias-crosshairs/",
-    "date": "2026-05-23"
-  },
-  {
-    "title": "Ebola outbreak now third largest recorded and \"spreading rapidly\"",
-    "link": "https://arstechnica.com/health/2026/05/ebola-outbreak-now-third-largest-recorded-and-spreading-rapidly/",
-    "date": "2026-05-23"
-  },
-  {
-    "title": "First-generation Chromecast users stressed by devices suddenly failing",
-    "link": "https://arstechnica.com/gadgets/2026/05/original-chromecast-lives-devices-back-on-after-mysteriously-breaking-this-week/",
-    "date": "2026-05-23"
-  },
-  {
-    "title": "Trump FCC asks public to comment on whether ABC's The View is a news show",
-    "link": "https://arstechnica.com/tech-policy/2026/05/trump-fcc-asks-public-to-comment-on-whether-abcs-the-view-is-a-news-show/",
-    "date": "2026-05-23"
-  },
-  {
-    "title": "US scrambles to stop Internet users re-creating dead pilots’ voices",
-    "link": "https://arstechnica.com/ai/2026/05/ai-users-re-create-dead-pilots-voices-from-crash-investigation-docs/",
-    "date": "2026-05-23"
-  },
-  {
-    "title": "미래를 위한 Firefox 디자인",
-    "link": "https://news.hada.io/topic?id=29789",
-    "date": "2026-05-23"
-  },
-  {
-    "title": "Show GN: 오프라인 영상 자막 추출 및 번역 데스크톱 앱 v2.0 (오픈소스)",
-    "link": "https://news.hada.io/topic?id=29788",
-    "date": "2026-05-23"
-  },
-  {
-    "title": "리걸 프롬프트에서 Boolean이 중요한 이유",
-    "link": "https://news.hada.io/topic?id=29787",
-    "date": "2026-05-23"
-  },
-  {
-    "title": "Bun 지원이 이제 제한되고 폐기 예정으로 전환됨",
-    "link": "https://news.hada.io/topic?id=29786",
-    "date": "2026-05-23"
-  },
-  {
-    "title": "AI로 시장조사할 때 프롬프트에 넣어야 할 제약 조건 4가지",
-    "link": "https://news.hada.io/topic?id=29785",
-    "date": "2026-05-23"
-  },
-  {
-    "title": "List 가 GeekLists 기능으로 확대 개편 되었습니다.",
-    "link": "https://news.hada.io/blog/GeekLists",
-    "date": "2026-05-23"
-  },
-  {
-    "title": "‘함께 보면 좋은 글’ 기능을 추가했습니다",
-    "link": "https://news.hada.io/blog/related-reads",
-    "date": "2026-05-23"
-  },
-  {
-    "title": "GeekNews를 편하게 구독하는 법",
-    "link": "https://news.hada.io/blog/subscribe_geeknews",
-    "date": "2026-05-23"
-  },
-  {
     "title": "AI는 아직 수익성이 있는가?",
     "link": "https://news.hada.io/topic?id=29816",
     "date": "2026-05-24"
@@ -848,5 +703,130 @@
     "title": "NBA plans AI system for automatic out-of-bounds calls",
     "link": "https://www.artificialintelligence-news.com/news/nba-ai-out-of-bounds-calls/",
     "date": "2026-05-29"
+  },
+  {
+    "title": "Blue Origin의 New Glenn, 정적 점화 시험 중 폭발",
+    "link": "https://news.hada.io/topic?id=30012",
+    "date": "2026-05-30"
+  },
+  {
+    "title": "자동차는 당신에 대해 놀라울 만큼 많은 데이터를 수집한다",
+    "link": "https://news.hada.io/topic?id=30011",
+    "date": "2026-05-30"
+  },
+  {
+    "title": "GTA 6 개발자들, 노조 결성",
+    "link": "https://news.hada.io/topic?id=30010",
+    "date": "2026-05-30"
+  },
+  {
+    "title": "죽은 경제 이론",
+    "link": "https://news.hada.io/topic?id=30009",
+    "date": "2026-05-30"
+  },
+  {
+    "title": "AI 에이전트 기반 투자 자동화의 현재와 미래 - AI 에이전트야, 월급 줄게 경제적 자유 다오?",
+    "link": "https://news.hada.io/topic?id=30008",
+    "date": "2026-05-30"
+  },
+  {
+    "title": "Coders are refusing to work without AI — and that could come back to bite them",
+    "link": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
+    "date": "2026-05-30"
+  },
+  {
+    "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
+    "link": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "date": "2026-05-30"
+  },
+  {
+    "title": "What happens when companies become too AI-pilled?",
+    "link": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
+    "date": "2026-05-30"
+  },
+  {
+    "title": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
+    "link": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+    "date": "2026-05-30"
+  },
+  {
+    "title": "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans",
+    "link": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
+    "date": "2026-05-30"
+  },
+  {
+    "title": "Boston Children’s uses AI to unlock new diagnoses",
+    "link": "https://openai.com/index/boston-childrens-hospital",
+    "date": "2026-05-30"
+  },
+  {
+    "title": "How Braintrust turns customer requests into code with Codex",
+    "link": "https://openai.com/index/braintrust",
+    "date": "2026-05-30"
+  },
+  {
+    "title": "Strengthening societal resilience with Rosalind Biodefense",
+    "link": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+    "date": "2026-05-30"
+  },
+  {
+    "title": "A shared playbook for trustworthy third party evaluations",
+    "link": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
+    "date": "2026-05-30"
+  },
+  {
+    "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+    "date": "2026-05-30"
+  },
+  {
+    "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
+    "date": "2026-05-30"
+  },
+  {
+    "title": "Check out real-life AI prototypes from the Futures Lab.",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/",
+    "date": "2026-05-30"
+  },
+  {
+    "title": "The Download: unlocking lithium and controlling Ebola",
+    "link": "https://www.technologyreview.com/2026/05/29/1138110/the-download-lithium-extraction-ebola-ai-pope/",
+    "date": "2026-05-30"
+  },
+  {
+    "title": "The deadly Ebola outbreak is proving difficult to control",
+    "link": "https://www.technologyreview.com/2026/05/29/1138093/the-deadly-ebola-outbreak-is-proving-difficult-to-control/",
+    "date": "2026-05-30"
+  },
+  {
+    "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
+    "link": "https://huggingface.co/blog/torch-profiler",
+    "date": "2026-05-30"
+  },
+  {
+    "title": "Proposed new US funding rules: We can cancel any grant at any time",
+    "link": "https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/",
+    "date": "2026-05-30"
+  },
+  {
+    "title": "Kenyan court blocks Trump admin from dumping Ebola-exposed Americans there",
+    "link": "https://arstechnica.com/health/2026/05/kenyan-court-blocks-trump-admin-from-dumping-ebola-exposed-americans-there/",
+    "date": "2026-05-30"
+  },
+  {
+    "title": "Botnet of more than 17 million devices dismantled",
+    "link": "https://arstechnica.com/security/2026/05/botnet-of-more-than-17-million-devices-dismantled/",
+    "date": "2026-05-30"
+  },
+  {
+    "title": "Analysis of Texas measles outbreak shows just how dangerous virus is",
+    "link": "https://arstechnica.com/health/2026/05/analysis-of-texas-measles-outbreak-shows-just-how-dangerous-virus-is/",
+    "date": "2026-05-30"
+  },
+  {
+    "title": "House of the Dragon S3 trailer revels in dragons, fire, and blood",
+    "link": "https://arstechnica.com/culture/2026/05/house-of-the-dragon-s3-trailer-revels-in-dragons-fire-and-blood/",
+    "date": "2026-05-30"
   }
 ]
