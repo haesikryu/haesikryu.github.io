@@ -1,70 +1,5 @@
 [
   {
-    "title": "AI는 아직 수익성이 있는가?",
-    "link": "https://news.hada.io/topic?id=29816",
-    "date": "2026-05-24"
-  },
-  {
-    "title": "Electrobun 2.0은 Rust 재작성으로 인해 Bun에서 분리될 예정",
-    "link": "https://news.hada.io/topic?id=29815",
-    "date": "2026-05-24"
-  },
-  {
-    "title": "BambuStudio는 포크 이후 PrusaSlicer AGPL 라이선스를 위반해 왔다",
-    "link": "https://news.hada.io/topic?id=29814",
-    "date": "2026-05-24"
-  },
-  {
-    "title": "Texas 여성이 마을 수질에 관한 Facebook 게시물로 체포됨",
-    "link": "https://news.hada.io/topic?id=29813",
-    "date": "2026-05-24"
-  },
-  {
-    "title": "microsoft/mimalloc - 고성능 범용 메모리 할당자",
-    "link": "https://news.hada.io/topic?id=29812",
-    "date": "2026-05-24"
-  },
-  {
-    "title": "Ferrari is using IBM’s AI to create F1 superfans",
-    "link": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
-    "date": "2026-05-24"
-  },
-  {
-    "title": "Elon Musk has given up on solar power (on Earth)",
-    "link": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
-    "date": "2026-05-24"
-  },
-  {
-    "title": "SpaceX's Starship V3—still a work in progress—mostly successful on first flight",
-    "link": "https://arstechnica.com/space/2026/05/spacexs-starship-v3-still-a-work-in-progress-mostly-successful-on-first-flight/",
-    "date": "2026-05-24"
-  },
-  {
-    "title": "Two space shuttle-era spacewalkers enter Astronaut Hall of Fame",
-    "link": "https://arstechnica.com/space/2026/05/two-space-shuttle-era-spacewalkers-enter-astronaut-hall-of-fame/",
-    "date": "2026-05-24"
-  },
-  {
-    "title": "China’s shark finning could lead to US seafood sanctions",
-    "link": "https://arstechnica.com/tech-policy/2026/05/chinas-shark-finning-could-lead-to-us-seafood-sanctions/",
-    "date": "2026-05-24"
-  },
-  {
-    "title": "Minecraft 모드로 구현된 Wayland 컴포지터",
-    "link": "https://news.hada.io/topic?id=29819",
-    "date": "2026-05-24"
-  },
-  {
-    "title": "Show GN: 주말 동안 만든 인공지능 키우기 (AI Model Idle)",
-    "link": "https://news.hada.io/topic?id=29818",
-    "date": "2026-05-24"
-  },
-  {
-    "title": "Google의 IBM화?",
-    "link": "https://news.hada.io/topic?id=29817",
-    "date": "2026-05-24"
-  },
-  {
     "title": "Greg Brockman 인터뷰 [동영상]",
     "link": "https://news.hada.io/topic?id=29850",
     "date": "2026-05-25"
@@ -878,5 +813,65 @@
     "title": "Anthropic releases Claude Opus 4.8",
     "link": "https://www.artificialintelligence-news.com/news/anthropic-releases-claude-opus-4-8-news/",
     "date": "2026-05-30"
+  },
+  {
+    "title": "Anthropic, OpenAI를 제치고 가장 가치 있는 AI 스타트업이 됨",
+    "link": "https://news.hada.io/topic?id=30033",
+    "date": "2026-05-31"
+  },
+  {
+    "title": "Claw Patrol - 에이전트를 위한 보안 방화벽",
+    "link": "https://news.hada.io/topic?id=30032",
+    "date": "2026-05-31"
+  },
+  {
+    "title": "2026 Apple Design Award 파이널리스트 발표",
+    "link": "https://news.hada.io/topic?id=30031",
+    "date": "2026-05-31"
+  },
+  {
+    "title": "Claude Code - 문서가 알려주지 않는 설정 가능한 모든 것",
+    "link": "https://news.hada.io/topic?id=30030",
+    "date": "2026-05-31"
+  },
+  {
+    "title": "Framework 12 구매를 정당화하기 어렵다",
+    "link": "https://news.hada.io/topic?id=30029",
+    "date": "2026-05-31"
+  },
+  {
+    "title": "SoftBank says it will invest up to €75 billion to build French data centers",
+    "link": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
+    "date": "2026-05-31"
+  },
+  {
+    "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
+    "link": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+    "date": "2026-05-31"
+  },
+  {
+    "title": "Meta is reportedly developing an AI pendant",
+    "link": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
+    "date": "2026-05-31"
+  },
+  {
+    "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
+    "link": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
+    "date": "2026-05-31"
+  },
+  {
+    "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026",
+    "link": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+    "date": "2026-05-31"
+  },
+  {
+    "title": "Grifters, cynics, and true believers: The family tree of vaccine opponents",
+    "link": "https://arstechnica.com/science/2026/05/grifters-cynics-and-true-believers-the-family-tree-of-vaccine-opponents/",
+    "date": "2026-05-31"
+  },
+  {
+    "title": "Environmentalists turn out in force to oppose Trump coal ash rollbacks",
+    "link": "https://arstechnica.com/tech-policy/2026/05/environmentalists-turn-out-in-force-to-oppose-trump-coal-ash-rollbacks/",
+    "date": "2026-05-31"
   }
 ]
