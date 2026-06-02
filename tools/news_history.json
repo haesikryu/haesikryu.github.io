@@ -1,115 +1,5 @@
 [
   {
-    "title": "영원한 Sloptember",
-    "link": "https://news.hada.io/topic?id=29879",
-    "date": "2026-05-26"
-  },
-  {
-    "title": "Google이 더 이상 Google이 아닌 지금의 대체 검색엔진",
-    "link": "https://news.hada.io/topic?id=29878",
-    "date": "2026-05-26"
-  },
-  {
-    "title": "캘리포니아, 반발 이후 연령 확인법에서 Linux를 면제하는 방향으로 이동",
-    "link": "https://news.hada.io/topic?id=29877",
-    "date": "2026-05-26"
-  },
-  {
-    "title": "교황 레오 14세 성하의 회칙 Magnifica Humanitas",
-    "link": "https://news.hada.io/topic?id=29876",
-    "date": "2026-05-26"
-  },
-  {
-    "title": "한글 점자 변환 도구 braillify, 2024 개정 한국 점자 규정 100% 준수",
-    "link": "https://news.hada.io/topic?id=29875",
-    "date": "2026-05-26"
-  },
-  {
-    "title": "What ClickUp’s mass layoff tells us about the future of work",
-    "link": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
-    "date": "2026-05-26"
-  },
-  {
-    "title": "The pope’s AI encyclical isn’t really about AI",
-    "link": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
-    "date": "2026-05-26"
-  },
-  {
-    "title": "Startup Battlefield 200 applications close in days: Apply before May 27",
-    "link": "https://techcrunch.com/2026/05/25/startup-battlefield-200-applications-close-in-days-apply-before-may-27/",
-    "date": "2026-05-26"
-  },
-  {
-    "title": "5 days left: Save up to $410 on TechCrunch Disrupt 2026 passes before prices increase",
-    "link": "https://techcrunch.com/2026/05/25/5-days-left-save-up-to-410-on-techcrunch-disrupt-2026-passes-before-prices-increase/",
-    "date": "2026-05-26"
-  },
-  {
-    "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
-    "link": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
-    "date": "2026-05-26"
-  },
-  {
-    "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
-    "link": "https://huggingface.co/blog/agent-glossary",
-    "date": "2026-05-26"
-  },
-  {
-    "title": "Citing Gandalf, Pope Leo says we must \"disarm\" AI",
-    "link": "https://arstechnica.com/tech-policy/2026/05/citing-gandalf-pope-leo-says-we-must-disarm-ai/",
-    "date": "2026-05-26"
-  },
-  {
-    "title": "US's big bet on quantum computing may not be entirely legal",
-    "link": "https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/",
-    "date": "2026-05-26"
-  },
-  {
-    "title": "I spent years forcing myself to finish The Witcher 3—don't repeat my mistake",
-    "link": "https://arstechnica.com/gaming/2026/05/the-witcher-3-is-a-good-game-but-that-doesnt-mean-you-have-to-like-it/",
-    "date": "2026-05-26"
-  },
-  {
-    "title": "산책이 앉아 있기보다 더 많은 창의성으로 이어질 수 있다는 연구 결과 (2014)",
-    "link": "https://news.hada.io/topic?id=29890",
-    "date": "2026-05-26"
-  },
-  {
-    "title": "네덜란드, 사이버공격 지원 혐의로 서버 800대 압수하고 2명 체포",
-    "link": "https://news.hada.io/topic?id=29888",
-    "date": "2026-05-26"
-  },
-  {
-    "title": "C 확장, 이식성, 대체 컴파일러에 관하여",
-    "link": "https://news.hada.io/topic?id=29887",
-    "date": "2026-05-26"
-  },
-  {
-    "title": "출구 IP VPN 서버 완화 조치 배포",
-    "link": "https://news.hada.io/topic?id=29886",
-    "date": "2026-05-26"
-  },
-  {
-    "title": "Jira는 튜링 완전하다",
-    "link": "https://news.hada.io/topic?id=29885",
-    "date": "2026-05-26"
-  },
-  {
-    "title": "A reality check on the AI jobs hysteria",
-    "link": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
-    "date": "2026-05-26"
-  },
-  {
-    "title": "It’s time to address the looming crisis in entry-level work.",
-    "link": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
-    "date": "2026-05-26"
-  },
-  {
-    "title": "Autonomous AI systems test governance in physical environments",
-    "link": "https://www.artificialintelligence-news.com/news/autonomous-ai-systems-governance-physical-environments/",
-    "date": "2026-05-26"
-  },
-  {
     "title": "Show GN: GPU-Usage-Audit: GPU가 그냥 노는 게 아니라 &#039;잡아둔 채&#039; 놀고 있다면?!",
     "link": "https://news.hada.io/topic?id=29915",
     "date": "2026-05-27"
@@ -913,5 +803,120 @@
     "title": "AI in video game development: How artificial intelligence is reshaping the industry",
     "link": "https://www.artificialintelligence-news.com/news/ai-in-video-game-development/",
     "date": "2026-06-01"
+  },
+  {
+    "title": "Show GN: AgentDir - 에이전트를 위한 mkdir - 에이전트 성능 극대화를 위한 read-only 가상 파일 시스템",
+    "link": "https://news.hada.io/topic?id=30115",
+    "date": "2026-06-02"
+  },
+  {
+    "title": "MiniMax-M3 데뷔, 주요 벤치마크 성능에서 GPT-5.5와 Gemini 3.1 Pro를 능가하며 비용은 단 5-10% 수준",
+    "link": "https://news.hada.io/topic?id=30114",
+    "date": "2026-06-02"
+  },
+  {
+    "title": "스탠퍼드 CS336을 위한 AI 에이전트 지침",
+    "link": "https://news.hada.io/topic?id=30113",
+    "date": "2026-06-02"
+  },
+  {
+    "title": "Show GN: Cadenza: .NET 10의 파일 기반 앱의 효용성을 극대화하는 미니멀 SDK",
+    "link": "https://news.hada.io/topic?id=30112",
+    "date": "2026-06-02"
+  },
+  {
+    "title": "Show GN: Velith — AI 기반 장문 콘텐츠 제작 파이프라인",
+    "link": "https://news.hada.io/topic?id=30111",
+    "date": "2026-06-02"
+  },
+  {
+    "title": "Alphabet plans to raise $80B to pay for AI buildout",
+    "link": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
+    "date": "2026-06-02"
+  },
+  {
+    "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
+    "link": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
+    "date": "2026-06-02"
+  },
+  {
+    "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
+    "link": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
+    "date": "2026-06-02"
+  },
+  {
+    "title": "Water access is now a risk factor in SpaceX’s IPO",
+    "link": "https://techcrunch.com/2026/06/01/water-access-is-now-a-risk-factor-in-spacexs-ipo/",
+    "date": "2026-06-02"
+  },
+  {
+    "title": "Anthropic files to go public",
+    "link": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
+    "date": "2026-06-02"
+  },
+  {
+    "title": "Codex is becoming a productivity tool for everyone",
+    "link": "https://openai.com/index/codex-for-knowledge-work",
+    "date": "2026-06-02"
+  },
+  {
+    "title": "Our views on AI policy and political advocacy",
+    "link": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
+    "date": "2026-06-02"
+  },
+  {
+    "title": "Building the infrastructure for the Intelligence Age in Michigan",
+    "link": "https://openai.com/index/stargate-michigan-data-center",
+    "date": "2026-06-02"
+  },
+  {
+    "title": "OpenAI frontier models and Codex are now available on AWS",
+    "link": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+    "date": "2026-06-02"
+  },
+  {
+    "title": "How we used Gemini to build Google I/O 2026",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
+    "date": "2026-06-02"
+  },
+  {
+    "title": "How small businesses can leverage AI",
+    "link": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
+    "date": "2026-06-02"
+  },
+  {
+    "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
+    "link": "https://huggingface.co/blog/JetBrains/mellum2-launch",
+    "date": "2026-06-02"
+  },
+  {
+    "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
+    "link": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
+    "date": "2026-06-02"
+  },
+  {
+    "title": "AI costs how much? GitHub Copilot users react to new usage-based pricing system.",
+    "link": "https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/",
+    "date": "2026-06-02"
+  },
+  {
+    "title": "Why cats prefer silver vine to catnip and other May highlights",
+    "link": "https://arstechnica.com/science/2026/06/research-roundup-7-cool-science-stories-we-almost-missed-4/",
+    "date": "2026-06-02"
+  },
+  {
+    "title": "Moderna gets $50 million to develop mRNA Ebola vaccine against Bundibugyo",
+    "link": "https://arstechnica.com/health/2026/06/moderna-gets-50-million-to-develop-mrna-ebola-vaccine-against-bundibugyo/",
+    "date": "2026-06-02"
+  },
+  {
+    "title": "Hackers duped Meta AI support chatbot to steal celebrity Instagram accounts",
+    "link": "https://arstechnica.com/ai/2026/06/meta-ai-support-chatbot-gave-hackers-access-to-notable-instagram-accounts/",
+    "date": "2026-06-02"
+  },
+  {
+    "title": "Microsoft's Surface Laptop Ultra looks like its first true MacBook Pro competitor",
+    "link": "https://arstechnica.com/gadgets/2026/06/microsoft-surface-laptop-ultra-will-be-among-the-first-nvidia-rtx-spark-arm-pcs/",
+    "date": "2026-06-02"
   }
 ]
