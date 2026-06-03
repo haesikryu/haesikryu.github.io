@@ -1,140 +1,5 @@
 [
   {
-    "title": "Show GN: GPU-Usage-Audit: GPU가 그냥 노는 게 아니라 &#039;잡아둔 채&#039; 놀고 있다면?!",
-    "link": "https://news.hada.io/topic?id=29915",
-    "date": "2026-05-27"
-  },
-  {
-    "title": "Show GN: 구직을 AI에게 외주 주는 시대: 10분 대화로 실리콘밸리 꽂아주는 Harper",
-    "link": "https://news.hada.io/topic?id=29914",
-    "date": "2026-05-27"
-  },
-  {
-    "title": "커밋에서 광고하지 마세요",
-    "link": "https://news.hada.io/topic?id=29913",
-    "date": "2026-05-27"
-  },
-  {
-    "title": "Motorola 폰이 Amazon 앱을 가로채 제휴 코드를 삽입하기 시작함",
-    "link": "https://news.hada.io/topic?id=29910",
-    "date": "2026-05-27"
-  },
-  {
-    "title": "네덜란드, 핵심 디지털 공급업체의 미국 인수 차단",
-    "link": "https://news.hada.io/topic?id=29909",
-    "date": "2026-05-27"
-  },
-  {
-    "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
-    "link": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
-    "date": "2026-05-27"
-  },
-  {
-    "title": "OpenRouter more than doubles valuation to $1.3B in a year",
-    "link": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
-    "date": "2026-05-27"
-  },
-  {
-    "title": "This startup is betting India’s gig economy can train the world’s robots",
-    "link": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
-    "date": "2026-05-27"
-  },
-  {
-    "title": "Universal Music Group and TikTok renew agreement to combat unauthorized AI music",
-    "link": "https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/",
-    "date": "2026-05-27"
-  },
-  {
-    "title": "TechCrunch Disrupt 2026 Early Bird ticket rates end May 29",
-    "link": "https://techcrunch.com/2026/05/26/techcrunch-disrupt-2026-early-bird-ticket-rates-end-may-29/",
-    "date": "2026-05-27"
-  },
-  {
-    "title": "Rethinking organizational design in the age of agentic AI",
-    "link": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
-    "date": "2026-05-27"
-  },
-  {
-    "title": "The Download: puncturing the AI jobs panic",
-    "link": "https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/",
-    "date": "2026-05-27"
-  },
-  {
-    "title": "Is Peter Thiel the target of Pope Leo's Gandalf quote? An investigation.",
-    "link": "https://arstechnica.com/tech-policy/2026/05/is-peter-thiel-the-target-of-pope-leos-gandalf-quote-an-investigation/",
-    "date": "2026-05-27"
-  },
-  {
-    "title": "Musk says US military suicide drones used Starlink in violation of SpaceX rules",
-    "link": "https://arstechnica.com/tech-policy/2026/05/musk-says-us-military-suicide-drones-used-starlink-in-violation-of-spacex-rules/",
-    "date": "2026-05-27"
-  },
-  {
-    "title": "NASA takes steps toward building Moon Base, including discussing a \"perimeter\"",
-    "link": "https://arstechnica.com/space/2026/05/nasa-takes-steps-toward-building-moon-base-including-discussing-a-perimeter/",
-    "date": "2026-05-27"
-  },
-  {
-    "title": "We're starting to see some PC makers respond to Apple's MacBook Neo",
-    "link": "https://arstechnica.com/gadgets/2026/05/were-starting-to-see-some-pc-makers-respond-to-apples-macbook-neo/",
-    "date": "2026-05-27"
-  },
-  {
-    "title": "Millions of AI agents imperiled by critical vulnerability in open source package",
-    "link": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
-    "date": "2026-05-27"
-  },
-  {
-    "title": "Show GN: AI Skill Store - AI 에이전트가 직접 스킬을 찾고 설치하는 마켓플레이스",
-    "link": "https://news.hada.io/topic?id=29925",
-    "date": "2026-05-27"
-  },
-  {
-    "title": "Show GN: 모두의 브르르르 — 폰으로 하는 오락실 파티게임",
-    "link": "https://news.hada.io/topic?id=29923",
-    "date": "2026-05-27"
-  },
-  {
-    "title": "readable.css",
-    "link": "https://news.hada.io/topic?id=29922",
-    "date": "2026-05-27"
-  },
-  {
-    "title": "알리바바 클라우드 Quen 컨퍼런스 2026 싱가포르 키노트 요약",
-    "link": "https://news.hada.io/topic?id=29921",
-    "date": "2026-05-27"
-  },
-  {
-    "title": "React Doctor — AI가 생성한 React 코드를 정적 분석으로 검증하는 진단 도구",
-    "link": "https://news.hada.io/topic?id=29920",
-    "date": "2026-05-27"
-  },
-  {
-    "title": "I/O 2026",
-    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
-    "date": "2026-05-27"
-  },
-  {
-    "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
-    "link": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
-    "date": "2026-05-27"
-  },
-  {
-    "title": "OlmoEarth v1.1: A more efficient family of Earth observation models",
-    "link": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
-    "date": "2026-05-27"
-  },
-  {
-    "title": "Introducing the Ettin Reranker Family",
-    "link": "https://huggingface.co/blog/ettin-reranker",
-    "date": "2026-05-27"
-  },
-  {
-    "title": "US law enforcement warns of \"anti-tech extremism\" as AI hatred grows",
-    "link": "https://arstechnica.com/ai/2026/05/us-law-enforcement-warns-of-anti-tech-extremism-as-ai-hatred-grows/",
-    "date": "2026-05-27"
-  },
-  {
     "title": "AI와 대화하는 데 지쳤다",
     "link": "https://news.hada.io/topic?id=29940",
     "date": "2026-05-28"
@@ -918,5 +783,120 @@
     "title": "Microsoft's Surface Laptop Ultra looks like its first true MacBook Pro competitor",
     "link": "https://arstechnica.com/gadgets/2026/06/microsoft-surface-laptop-ultra-will-be-among-the-first-nvidia-rtx-spark-arm-pcs/",
     "date": "2026-06-02"
+  },
+  {
+    "title": "MAI-Code-1-Flash",
+    "link": "https://news.hada.io/topic?id=30137",
+    "date": "2026-06-03"
+  },
+  {
+    "title": "작업별 맞춤 하네스: Claude Code의 동적 워크플로우",
+    "link": "https://news.hada.io/topic?id=30136",
+    "date": "2026-06-03"
+  },
+  {
+    "title": "Vim Classic 8.3 출시 - 장기 지원 Vim 포크",
+    "link": "https://news.hada.io/topic?id=30135",
+    "date": "2026-06-03"
+  },
+  {
+    "title": "macOS는 그리드를 되찾아야 한다",
+    "link": "https://news.hada.io/topic?id=30134",
+    "date": "2026-06-03"
+  },
+  {
+    "title": "Gmail은 내가 멍청하다고 생각해서, 나는 떠났다",
+    "link": "https://news.hada.io/topic?id=30133",
+    "date": "2026-06-03"
+  },
+  {
+    "title": "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses",
+    "link": "https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/",
+    "date": "2026-06-03"
+  },
+  {
+    "title": "Uber caps employee AI spending after blowing through budget in 4 months",
+    "link": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
+    "date": "2026-06-03"
+  },
+  {
+    "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
+    "link": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
+    "date": "2026-06-03"
+  },
+  {
+    "title": "Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI",
+    "link": "https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/",
+    "date": "2026-06-03"
+  },
+  {
+    "title": "Microsoft launches Scout, an OpenClaw-inspired personal assistant",
+    "link": "https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/",
+    "date": "2026-06-03"
+  },
+  {
+    "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+    "link": "https://openai.com/index/travelers",
+    "date": "2026-06-03"
+  },
+  {
+    "title": "Codex for every role, tool, and workflow",
+    "link": "https://openai.com/index/codex-for-every-role-tool-workflow",
+    "date": "2026-06-03"
+  },
+  {
+    "title": "Advancing youth safety and opportunity through global leadership",
+    "link": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
+    "date": "2026-06-03"
+  },
+  {
+    "title": "The Download: AI can run your admin department now",
+    "link": "https://www.technologyreview.com/2026/06/02/1138277/the-download-ai-tips-small-businesses-admin/",
+    "date": "2026-06-03"
+  },
+  {
+    "title": "Rehumanizing global health care with agentic AI",
+    "link": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
+    "date": "2026-06-03"
+  },
+  {
+    "title": "Holo3.1: Fast & Local Computer Use Agents",
+    "link": "https://huggingface.co/blog/Hcompany/holo31",
+    "date": "2026-06-03"
+  },
+  {
+    "title": "Male bowerbirds hope to dazzle females with bright human-made items",
+    "link": "https://arstechnica.com/science/2026/06/male-bowerbirds-prefer-colorful-human-items-to-decorate-bowers/",
+    "date": "2026-06-03"
+  },
+  {
+    "title": "Microsoft plans Linux tools and an RTX Spark desktop for Windows developers",
+    "link": "https://arstechnica.com/gadgets/2026/06/microsoft-plans-linux-tools-and-an-rtx-spark-desktop-for-windows-developers/",
+    "date": "2026-06-03"
+  },
+  {
+    "title": "Microsoft's Project Solara is an Android OS designed for agents instead of apps",
+    "link": "https://arstechnica.com/gadgets/2026/06/microsofts-project-solara-is-an-android-os-designed-for-agents-instead-of-apps/",
+    "date": "2026-06-03"
+  },
+  {
+    "title": "Amazon-owned Ring should pay Americans for scanning their faces, lawsuit says",
+    "link": "https://arstechnica.com/tech-policy/2026/06/amazon-owned-ring-should-pay-americans-for-scanning-their-faces-lawsuit-says/",
+    "date": "2026-06-03"
+  },
+  {
+    "title": "If I had a hammer... it might actually be a rhino tooth",
+    "link": "https://arstechnica.com/science/2026/06/experiments-reveal-that-neanderthals-used-rhino-teeth-as-hammers/",
+    "date": "2026-06-03"
+  },
+  {
+    "title": "Anthropic IPO filing marks AI maturing into enterprise utility",
+    "link": "https://www.artificialintelligence-news.com/news/anthropic-ipo-filing-marks-ai-maturing-enterprise-utility/",
+    "date": "2026-06-03"
+  },
+  {
+    "title": "GitHub Copilot users see token-based price hikes",
+    "link": "https://www.artificialintelligence-news.com/news/github-copilots-billing-changes-users-see-use-based-price-hikes/",
+    "date": "2026-06-03"
   }
 ]
