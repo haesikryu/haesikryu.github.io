@@ -1,215 +1,5 @@
 [
   {
-    "title": "Bricks and Minifigs가 한 남성의 20만 달러 LEGO 컬렉션을 훔쳤다",
-    "link": "https://news.hada.io/topic?id=29979",
-    "date": "2026-05-29"
-  },
-  {
-    "title": "Valve, Steam Deck 가격 인상",
-    "link": "https://news.hada.io/topic?id=29978",
-    "date": "2026-05-29"
-  },
-  {
-    "title": "실제 팩트체크에서 프런티어 LLM 간 불일치",
-    "link": "https://news.hada.io/topic?id=29977",
-    "date": "2026-05-29"
-  },
-  {
-    "title": "CodeBoarding - 코드베이스용 인터랙티브 아키텍처 다이어그램",
-    "link": "https://news.hada.io/topic?id=29976",
-    "date": "2026-05-29"
-  },
-  {
-    "title": "하루 쉬어도 될까요?",
-    "link": "https://news.hada.io/topic?id=29975",
-    "date": "2026-05-29"
-  },
-  {
-    "title": "Fairy 서비스 오픈 및 GeekNews Show GN 연동",
-    "link": "https://news.hada.io/blog/fairy_and_geeknews",
-    "date": "2026-05-29"
-  },
-  {
-    "title": "GeekBadge 시스템을 추가했습니다",
-    "link": "https://news.hada.io/blog/introducing_geekbadge",
-    "date": "2026-05-29"
-  },
-  {
-    "title": "Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point",
-    "link": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
-    "date": "2026-05-29"
-  },
-  {
-    "title": "The internet is being rebuilt for machines",
-    "link": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
-    "date": "2026-05-29"
-  },
-  {
-    "title": "Asana acquires no-code agent-builder StackAI",
-    "link": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
-    "date": "2026-05-29"
-  },
-  {
-    "title": "Anthropic raises $65 billion, nears $1T valuation ahead of IPO",
-    "link": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
-    "date": "2026-05-29"
-  },
-  {
-    "title": "Just like gold and oil, we’ll soon be able to trade AI token futures",
-    "link": "https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/",
-    "date": "2026-05-29"
-  },
-  {
-    "title": "How Endava builds an agentic organization with Codex",
-    "link": "https://openai.com/index/endava",
-    "date": "2026-05-29"
-  },
-  {
-    "title": "OpenAI’s Frontier Governance Framework",
-    "link": "https://openai.com/index/openai-frontier-governance-framework",
-    "date": "2026-05-29"
-  },
-  {
-    "title": "Catch up on 12 major I/O 2026 moments",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
-    "date": "2026-05-29"
-  },
-  {
-    "title": "We’re announcing new community investments in Missouri.",
-    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/",
-    "date": "2026-05-29"
-  },
-  {
-    "title": "100 things we announced at I/O 2026",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
-    "date": "2026-05-29"
-  },
-  {
-    "title": "A new experiment brings better group meetings to Google Beam",
-    "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/",
-    "date": "2026-05-29"
-  },
-  {
-    "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-    "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-    "date": "2026-05-29"
-  },
-  {
-    "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-    "link": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-    "date": "2026-05-29"
-  },
-  {
-    "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-    "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
-    "date": "2026-05-29"
-  },
-  {
-    "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-    "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-    "date": "2026-05-29"
-  },
-  {
-    "title": "How a new extraction process could unlock the world’s lithium",
-    "link": "https://www.technologyreview.com/2026/05/28/1138096/lithium-extraction-rock-zero/",
-    "date": "2026-05-29"
-  },
-  {
-    "title": "The Download: climate tech goes public and the AI Hype Index returns",
-    "link": "https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/",
-    "date": "2026-05-29"
-  },
-  {
-    "title": "Climate tech companies are going public. What’s next?",
-    "link": "https://www.technologyreview.com/2026/05/28/1138067/climate-tech-ipos/",
-    "date": "2026-05-29"
-  },
-  {
-    "title": "The AI Hype Index: AI gets booed in graduation season",
-    "link": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
-    "date": "2026-05-29"
-  },
-  {
-    "title": "2027 Audi RS5 first drive: A performance PHEV with split personalities",
-    "link": "https://arstechnica.com/cars/2026/05/2027-audi-rs5-first-drive-a-performance-phev-with-split-personalities/",
-    "date": "2026-05-29"
-  },
-  {
-    "title": "LLMs believe false statements even after explicit warnings that they're false",
-    "link": "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/",
-    "date": "2026-05-29"
-  },
-  {
-    "title": "Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code",
-    "link": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
-    "date": "2026-05-29"
-  },
-  {
-    "title": "US healthcare still stupidly expensive, with pathetic outcomes, study finds",
-    "link": "https://arstechnica.com/health/2026/05/us-healthcare-still-stupidly-expensive-with-pathetic-outcomes-study-finds/",
-    "date": "2026-05-29"
-  },
-  {
-    "title": "Researchers develop a new process to get lithium out of rocks",
-    "link": "https://arstechnica.com/science/2026/05/researchers-develop-a-new-process-to-get-lithium-out-of-rocks/",
-    "date": "2026-05-29"
-  },
-  {
-    "title": "Show HN: Hallucinate - 대규모 멀티플레이어 온라인 레이브",
-    "link": "https://news.hada.io/topic?id=29987",
-    "date": "2026-05-29"
-  },
-  {
-    "title": "유저 의견을 모아 매일 자동 개발과 배포되는 웹게임 제작기",
-    "link": "https://news.hada.io/topic?id=29985",
-    "date": "2026-05-29"
-  },
-  {
-    "title": "네이버, AI 브리핑 인용수를 창작자 보상 기준으로 공식화 — 네이버 메이트 발표",
-    "link": "https://news.hada.io/topic?id=29983",
-    "date": "2026-05-29"
-  },
-  {
-    "title": "Show GN: 쿠팡 가계부",
-    "link": "https://news.hada.io/topic?id=29982",
-    "date": "2026-05-29"
-  },
-  {
-    "title": "Claude Code, 다이나믹 워크플로우 기능 공개",
-    "link": "https://news.hada.io/topic?id=29981",
-    "date": "2026-05-29"
-  },
-  {
-    "title": "MUFG aims to become AI-native with OpenAI",
-    "link": "https://openai.com/index/mufg",
-    "date": "2026-05-29"
-  },
-  {
-    "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
-    "link": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
-    "date": "2026-05-29"
-  },
-  {
-    "title": "These researchers would be in Africa fighting ebola—but Trump cut their funding",
-    "link": "https://arstechnica.com/health/2026/05/these-researchers-would-be-in-africa-fighting-ebola-but-trump-cut-their-funding/",
-    "date": "2026-05-29"
-  },
-  {
-    "title": "The most spectacular rocket explosion since N1 just happened in Florida",
-    "link": "https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/",
-    "date": "2026-05-29"
-  },
-  {
-    "title": "Google Pay preps for AI agents with Universal Commerce Protocol",
-    "link": "https://www.artificialintelligence-news.com/news/google-pay-ai-agents-universal-commerce-protocol/",
-    "date": "2026-05-29"
-  },
-  {
-    "title": "NBA plans AI system for automatic out-of-bounds calls",
-    "link": "https://www.artificialintelligence-news.com/news/nba-ai-out-of-bounds-calls/",
-    "date": "2026-05-29"
-  },
-  {
     "title": "Blue Origin의 New Glenn, 정적 점화 시험 중 폭발",
     "link": "https://news.hada.io/topic?id=30012",
     "date": "2026-05-30"
@@ -943,5 +733,140 @@
     "title": "Google's new Gemma 4 12B model is designed to run on any laptop with 16GB of RAM",
     "link": "https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/",
     "date": "2026-06-04"
+  },
+  {
+    "title": "AI-네이티브 스타트업을 만드는 방법",
+    "link": "https://news.hada.io/topic?id=30195",
+    "date": "2026-06-05"
+  },
+  {
+    "title": "Ian의 안전한 신발끈 매듭",
+    "link": "https://news.hada.io/topic?id=30194",
+    "date": "2026-06-05"
+  },
+  {
+    "title": "미국, 붕괴 위험에 처한 대서양 해류 추적 시스템 해체 예정",
+    "link": "https://news.hada.io/topic?id=30193",
+    "date": "2026-06-05"
+  },
+  {
+    "title": "AI 사용과 수학 능력 저하 속 Berkeley CS 수업에서 낙제 성적 급증",
+    "link": "https://news.hada.io/topic?id=30192",
+    "date": "2026-06-05"
+  },
+  {
+    "title": "Trees - 파일 트리 렌더링 라이브러리 오픈소스",
+    "link": "https://news.hada.io/topic?id=30191",
+    "date": "2026-06-05"
+  },
+  {
+    "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
+    "link": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+    "date": "2026-06-05"
+  },
+  {
+    "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
+    "link": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
+    "date": "2026-06-05"
+  },
+  {
+    "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
+    "link": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
+    "date": "2026-06-05"
+  },
+  {
+    "title": "Meta steals a tactic from Tesla and builds data centers in tents",
+    "link": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/",
+    "date": "2026-06-05"
+  },
+  {
+    "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
+    "link": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
+    "date": "2026-06-05"
+  },
+  {
+    "title": "How Endava is redesigning software delivery around AI agents",
+    "link": "https://openai.com/index/endava-frontiers",
+    "date": "2026-06-05"
+  },
+  {
+    "title": "Dreaming: Better memory for a more helpful ChatGPT",
+    "link": "https://openai.com/index/chatgpt-memory-dreaming",
+    "date": "2026-06-05"
+  },
+  {
+    "title": "Biodefense in the Intelligence Age",
+    "link": "https://openai.com/index/biodefense-in-the-intelligence-age",
+    "date": "2026-06-05"
+  },
+  {
+    "title": "The Download: AI-generated lawsuits and virtual power plants for data centers",
+    "link": "https://www.technologyreview.com/2026/06/04/1138408/the-download-ai-lawsuits-virtual-power-plants-data-centers/",
+    "date": "2026-06-05"
+  },
+  {
+    "title": "How courts are coping with a flood of AI-generated lawsuits",
+    "link": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
+    "date": "2026-06-05"
+  },
+  {
+    "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+    "date": "2026-06-05"
+  },
+  {
+    "title": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
+    "link": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
+    "date": "2026-06-05"
+  },
+  {
+    "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
+    "link": "https://huggingface.co/blog/hf-cli-for-agents",
+    "date": "2026-06-05"
+  },
+  {
+    "title": "The skeptic’s guide to humanoid robots going viral on the Internet",
+    "link": "https://arstechnica.com/ai/2026/06/the-skeptics-guide-to-humanoid-robots-going-viral-on-the-internet/",
+    "date": "2026-06-05"
+  },
+  {
+    "title": "AT&T and Verizon lose Supreme Court case over fines for selling location data",
+    "link": "https://arstechnica.com/tech-policy/2026/06/att-and-verizon-lose-supreme-court-case-over-fines-for-selling-location-data/",
+    "date": "2026-06-05"
+  },
+  {
+    "title": "These LLMs are the best at resisting Russian propaganda",
+    "link": "https://arstechnica.com/ai/2026/06/these-llms-are-the-best-at-resisting-russian-propaganda/",
+    "date": "2026-06-05"
+  },
+  {
+    "title": "Dashlane explains how attackers managed to download encrypted password vaults",
+    "link": "https://arstechnica.com/security/2026/06/dashlane-explains-how-attackers-managed-to-download-encrypted-password-vaults/",
+    "date": "2026-06-05"
+  },
+  {
+    "title": "Elon Musk tries again to escape FTC audits of X data handling",
+    "link": "https://arstechnica.com/tech-policy/2026/06/elon-musk-tries-again-to-escape-ftc-audits-of-x-data-handling/",
+    "date": "2026-06-05"
+  },
+  {
+    "title": "Meta Business Agent drives AI-powered conversational commerce",
+    "link": "https://www.artificialintelligence-news.com/news/meta-business-agent-ai-powered-conversational-commerce/",
+    "date": "2026-06-05"
+  },
+  {
+    "title": "Scout from M’Soft is the agentic Autopilot that works across M365",
+    "link": "https://www.artificialintelligence-news.com/news/microsofts-autopilot-scout-is-the-agentic-autopilot-that-works-across-m365/",
+    "date": "2026-06-05"
+  },
+  {
+    "title": "Amazon brings AI shopping assistant to retailers with Kate Spade",
+    "link": "https://www.artificialintelligence-news.com/news/amazon-ai-shopping-assistant-kate-spade-retailers/",
+    "date": "2026-06-05"
+  },
+  {
+    "title": "How E.ON uses SAP S/4HANA to modernise the grid with AI",
+    "link": "https://www.artificialintelligence-news.com/news/how-e-on-uses-sap-s-4hana-to-modernise-the-grid-with-ai/",
+    "date": "2026-06-05"
   }
 ]
