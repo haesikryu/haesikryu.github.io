@@ -793,5 +793,85 @@
     "title": "The Meta hack shows there’s more to AI security than Mythos",
     "link": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
     "date": "2026-06-06"
+  },
+  {
+    "title": "인터넷 메일을 어떻게 선별·필터링·관리하나요?",
+    "link": "https://news.hada.io/topic?id=30229",
+    "date": "2026-06-06"
+  },
+  {
+    "title": "Ask HN: GenAI를 보며 “아, 큰일 났다”라고 느낀 순간은 언제였나요?",
+    "link": "https://news.hada.io/topic?id=30227",
+    "date": "2026-06-06"
+  },
+  {
+    "title": "GOV.UK, Stripe를 네덜란드 제공업체 Adyen으로 교체",
+    "link": "https://news.hada.io/topic?id=30226",
+    "date": "2026-06-06"
+  },
+  {
+    "title": "pg_durable - PostgreSQL을 위한 내구성 SQL 함수",
+    "link": "https://news.hada.io/topic?id=30225",
+    "date": "2026-06-06"
+  },
+  {
+    "title": "Conventional Commits 사용을 중단하라",
+    "link": "https://news.hada.io/topic?id=30224",
+    "date": "2026-06-06"
+  },
+  {
+    "title": "List 가 GeekLists 기능으로 확대 개편 되었습니다.",
+    "link": "https://news.hada.io/blog/GeekLists",
+    "date": "2026-06-06"
+  },
+  {
+    "title": "‘함께 보면 좋은 글’ 기능을 추가했습니다",
+    "link": "https://news.hada.io/blog/related-reads",
+    "date": "2026-06-06"
+  },
+  {
+    "title": "GeekNews를 편하게 구독하는 법",
+    "link": "https://news.hada.io/blog/subscribe_geeknews",
+    "date": "2026-06-06"
+  },
+  {
+    "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+    "date": "2026-06-06"
+  },
+  {
+    "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
+    "date": "2026-06-06"
+  },
+  {
+    "title": "Thousand Token Wood: shipping a multi-agent economy on a 3B model",
+    "link": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim",
+    "date": "2026-06-06"
+  },
+  {
+    "title": "Baby botulism outbreak: FDA still doesn't know cause—or how to prevent it",
+    "link": "https://arstechnica.com/health/2026/06/baby-botulism-outbreak-fda-still-doesnt-know-cause-or-how-to-prevent-it/",
+    "date": "2026-06-06"
+  },
+  {
+    "title": "How a USB-connected speaker can infect a PC without ever being touched",
+    "link": "https://arstechnica.com/security/2026/06/highly-reviewed-speaker-can-be-hacked-over-the-air-to-infect-connected-devices/",
+    "date": "2026-06-06"
+  },
+  {
+    "title": "Small modular nuclear reactor reaches criticality in first test",
+    "link": "https://arstechnica.com/science/2026/06/first-us-test-of-modular-reactor-reaches-criticality/",
+    "date": "2026-06-06"
+  },
+  {
+    "title": "The saga of the International Space Station air leak took a worrying turn Friday",
+    "link": "https://arstechnica.com/space/2026/06/work-on-russias-leaky-space-station-module-causes-astronauts-to-take-shelter/",
+    "date": "2026-06-06"
+  },
+  {
+    "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+    "link": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+    "date": "2026-06-06"
   }
 ]
