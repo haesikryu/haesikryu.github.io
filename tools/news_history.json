@@ -1,65 +1,5 @@
 [
   {
-    "title": "Anthropic, OpenAI를 제치고 가장 가치 있는 AI 스타트업이 됨",
-    "link": "https://news.hada.io/topic?id=30033",
-    "date": "2026-05-31"
-  },
-  {
-    "title": "Claw Patrol - 에이전트를 위한 보안 방화벽",
-    "link": "https://news.hada.io/topic?id=30032",
-    "date": "2026-05-31"
-  },
-  {
-    "title": "2026 Apple Design Award 파이널리스트 발표",
-    "link": "https://news.hada.io/topic?id=30031",
-    "date": "2026-05-31"
-  },
-  {
-    "title": "Claude Code - 문서가 알려주지 않는 설정 가능한 모든 것",
-    "link": "https://news.hada.io/topic?id=30030",
-    "date": "2026-05-31"
-  },
-  {
-    "title": "Framework 12 구매를 정당화하기 어렵다",
-    "link": "https://news.hada.io/topic?id=30029",
-    "date": "2026-05-31"
-  },
-  {
-    "title": "SoftBank says it will invest up to €75 billion to build French data centers",
-    "link": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
-    "date": "2026-05-31"
-  },
-  {
-    "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
-    "link": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
-    "date": "2026-05-31"
-  },
-  {
-    "title": "Meta is reportedly developing an AI pendant",
-    "link": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
-    "date": "2026-05-31"
-  },
-  {
-    "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
-    "link": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
-    "date": "2026-05-31"
-  },
-  {
-    "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026",
-    "link": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-    "date": "2026-05-31"
-  },
-  {
-    "title": "Grifters, cynics, and true believers: The family tree of vaccine opponents",
-    "link": "https://arstechnica.com/science/2026/05/grifters-cynics-and-true-believers-the-family-tree-of-vaccine-opponents/",
-    "date": "2026-05-31"
-  },
-  {
-    "title": "Environmentalists turn out in force to oppose Trump coal ash rollbacks",
-    "link": "https://arstechnica.com/tech-policy/2026/05/environmentalists-turn-out-in-force-to-oppose-trump-coal-ash-rollbacks/",
-    "date": "2026-05-31"
-  },
-  {
     "title": "Codex가 내 PC에서 sudo가 없는 “우회 방법”을 찾아냈다",
     "link": "https://news.hada.io/topic?id=30068",
     "date": "2026-06-01"
@@ -873,5 +813,70 @@
     "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
     "link": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
     "date": "2026-06-06"
+  },
+  {
+    "title": "Ask HN: HN 이용자들은 왜 이렇게 AI에 반대하나요?",
+    "link": "https://news.hada.io/topic?id=30249",
+    "date": "2026-06-07"
+  },
+  {
+    "title": "소식통들: 미 국방부, 미국 내 이스라엘 스파이 활동 위협을 최고 수준으로 상향",
+    "link": "https://news.hada.io/topic?id=30248",
+    "date": "2026-06-07"
+  },
+  {
+    "title": "GrapheneOS 사용자가 GrapheneOS 사용으로 당국에 신고됨",
+    "link": "https://news.hada.io/topic?id=30246",
+    "date": "2026-06-07"
+  },
+  {
+    "title": "S&amp;P 500, SpaceX 거부하며 OpenAI와 Anthropic 편입도 차단",
+    "link": "https://news.hada.io/topic?id=30245",
+    "date": "2026-06-07"
+  },
+  {
+    "title": "Nvidia, Windows PC용 괴물 같은 CPU 시스템 제안",
+    "link": "https://news.hada.io/topic?id=30244",
+    "date": "2026-06-07"
+  },
+  {
+    "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+    "link": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+    "date": "2026-06-07"
+  },
+  {
+    "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
+    "link": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+    "date": "2026-06-07"
+  },
+  {
+    "title": "Sriram Krishnan is leaving his role as White House AI advisor",
+    "link": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
+    "date": "2026-06-07"
+  },
+  {
+    "title": "The Trump administration might take an equity stake in OpenAI",
+    "link": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
+    "date": "2026-06-07"
+  },
+  {
+    "title": "Five labs, five minds: building a multi-model finance drama on small models",
+    "link": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
+    "date": "2026-06-07"
+  },
+  {
+    "title": "Scientists ejected from diabetes conference for distributing journal reprints",
+    "link": "https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/",
+    "date": "2026-06-07"
+  },
+  {
+    "title": "Some ancient microbes frozen with Ötzi the Iceman are still growing",
+    "link": "https://arstechnica.com/science/2026/06/otzis-mummified-body-is-home-to-ancient-strains-of-yeast-and-bacteria/",
+    "date": "2026-06-07"
+  },
+  {
+    "title": "How C3 AI agents will automate predictive maintenance for Shell",
+    "link": "https://www.artificialintelligence-news.com/news/how-c3-ai-agents-will-automate-predictive-maintenance-for-shell/",
+    "date": "2026-06-07"
   }
 ]
