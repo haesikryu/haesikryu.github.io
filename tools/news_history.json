@@ -1,120 +1,5 @@
 [
   {
-    "title": "Show GN: AgentDir - 에이전트를 위한 mkdir - 에이전트 성능 극대화를 위한 read-only 가상 파일 시스템",
-    "link": "https://news.hada.io/topic?id=30115",
-    "date": "2026-06-02"
-  },
-  {
-    "title": "MiniMax-M3 데뷔, 주요 벤치마크 성능에서 GPT-5.5와 Gemini 3.1 Pro를 능가하며 비용은 단 5-10% 수준",
-    "link": "https://news.hada.io/topic?id=30114",
-    "date": "2026-06-02"
-  },
-  {
-    "title": "스탠퍼드 CS336을 위한 AI 에이전트 지침",
-    "link": "https://news.hada.io/topic?id=30113",
-    "date": "2026-06-02"
-  },
-  {
-    "title": "Show GN: Cadenza: .NET 10의 파일 기반 앱의 효용성을 극대화하는 미니멀 SDK",
-    "link": "https://news.hada.io/topic?id=30112",
-    "date": "2026-06-02"
-  },
-  {
-    "title": "Show GN: Velith — AI 기반 장문 콘텐츠 제작 파이프라인",
-    "link": "https://news.hada.io/topic?id=30111",
-    "date": "2026-06-02"
-  },
-  {
-    "title": "Alphabet plans to raise $80B to pay for AI buildout",
-    "link": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
-    "date": "2026-06-02"
-  },
-  {
-    "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
-    "link": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
-    "date": "2026-06-02"
-  },
-  {
-    "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
-    "link": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
-    "date": "2026-06-02"
-  },
-  {
-    "title": "Water access is now a risk factor in SpaceX’s IPO",
-    "link": "https://techcrunch.com/2026/06/01/water-access-is-now-a-risk-factor-in-spacexs-ipo/",
-    "date": "2026-06-02"
-  },
-  {
-    "title": "Anthropic files to go public",
-    "link": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
-    "date": "2026-06-02"
-  },
-  {
-    "title": "Codex is becoming a productivity tool for everyone",
-    "link": "https://openai.com/index/codex-for-knowledge-work",
-    "date": "2026-06-02"
-  },
-  {
-    "title": "Our views on AI policy and political advocacy",
-    "link": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
-    "date": "2026-06-02"
-  },
-  {
-    "title": "Building the infrastructure for the Intelligence Age in Michigan",
-    "link": "https://openai.com/index/stargate-michigan-data-center",
-    "date": "2026-06-02"
-  },
-  {
-    "title": "OpenAI frontier models and Codex are now available on AWS",
-    "link": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
-    "date": "2026-06-02"
-  },
-  {
-    "title": "How we used Gemini to build Google I/O 2026",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
-    "date": "2026-06-02"
-  },
-  {
-    "title": "How small businesses can leverage AI",
-    "link": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
-    "date": "2026-06-02"
-  },
-  {
-    "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
-    "link": "https://huggingface.co/blog/JetBrains/mellum2-launch",
-    "date": "2026-06-02"
-  },
-  {
-    "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
-    "link": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
-    "date": "2026-06-02"
-  },
-  {
-    "title": "AI costs how much? GitHub Copilot users react to new usage-based pricing system.",
-    "link": "https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/",
-    "date": "2026-06-02"
-  },
-  {
-    "title": "Why cats prefer silver vine to catnip and other May highlights",
-    "link": "https://arstechnica.com/science/2026/06/research-roundup-7-cool-science-stories-we-almost-missed-4/",
-    "date": "2026-06-02"
-  },
-  {
-    "title": "Moderna gets $50 million to develop mRNA Ebola vaccine against Bundibugyo",
-    "link": "https://arstechnica.com/health/2026/06/moderna-gets-50-million-to-develop-mrna-ebola-vaccine-against-bundibugyo/",
-    "date": "2026-06-02"
-  },
-  {
-    "title": "Hackers duped Meta AI support chatbot to steal celebrity Instagram accounts",
-    "link": "https://arstechnica.com/ai/2026/06/meta-ai-support-chatbot-gave-hackers-access-to-notable-instagram-accounts/",
-    "date": "2026-06-02"
-  },
-  {
-    "title": "Microsoft's Surface Laptop Ultra looks like its first true MacBook Pro competitor",
-    "link": "https://arstechnica.com/gadgets/2026/06/microsoft-surface-laptop-ultra-will-be-among-the-first-nvidia-rtx-spark-arm-pcs/",
-    "date": "2026-06-02"
-  },
-  {
     "title": "MAI-Code-1-Flash",
     "link": "https://news.hada.io/topic?id=30137",
     "date": "2026-06-03"
@@ -883,5 +768,115 @@
     "title": "The weather and climate science AI revolution isn’t revolutionary",
     "link": "https://arstechnica.com/science/2026/06/the-weather-and-climate-science-ai-revolution-isnt-revolutionary/",
     "date": "2026-06-08"
+  },
+  {
+    "title": "때로는 성급한 최적화도 재미있다 (2025)",
+    "link": "https://news.hada.io/topic?id=30323",
+    "date": "2026-06-09"
+  },
+  {
+    "title": "MathCast — 수학 기호 스포트라이트",
+    "link": "https://news.hada.io/topic?id=30321",
+    "date": "2026-06-09"
+  },
+  {
+    "title": "EU 오픈소스 전략",
+    "link": "https://news.hada.io/topic?id=30319",
+    "date": "2026-06-09"
+  },
+  {
+    "title": "왜 이렇게 많은 젊은이가 암에 걸리는가?",
+    "link": "https://news.hada.io/topic?id=30318",
+    "date": "2026-06-09"
+  },
+  {
+    "title": "Show GN: korean-bank-tx-crawler – 국내 개인은행 거래내역을 파이썬 3줄로 가져오기",
+    "link": "https://news.hada.io/topic?id=30317",
+    "date": "2026-06-09"
+  },
+  {
+    "title": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
+    "link": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
+    "date": "2026-06-09"
+  },
+  {
+    "title": "Mercor’s Brendan Foody calls out Sequoia, accusing it of ‘dual-pricing’ valuation tricks",
+    "link": "https://techcrunch.com/2026/06/08/mercors-brendan-foody-calls-out-sequoia-over-dual-pricing-valuation-tricks/",
+    "date": "2026-06-09"
+  },
+  {
+    "title": "As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says",
+    "link": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
+    "date": "2026-06-09"
+  },
+  {
+    "title": "Apple’s WWDC AI demos looked more real after $250M false ad settlement",
+    "link": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/",
+    "date": "2026-06-09"
+  },
+  {
+    "title": "OpenAI files confidentially for IPO, following Anthropic",
+    "link": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
+    "date": "2026-06-09"
+  },
+  {
+    "title": "Confidential submission of draft S-1 to the SEC",
+    "link": "https://openai.com/index/openai-submits-confidential-s-1",
+    "date": "2026-06-09"
+  },
+  {
+    "title": "Built to benefit everyone: our plan",
+    "link": "https://openai.com/index/built-to-benefit-everyone-our-plan",
+    "date": "2026-06-09"
+  },
+  {
+    "title": "Introducing the OpenAI Economic Research Exchange",
+    "link": "https://openai.com/index/economic-research-exchange",
+    "date": "2026-06-09"
+  },
+  {
+    "title": "Five things you need to know about AI",
+    "link": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
+    "date": "2026-06-09"
+  },
+  {
+    "title": "The Download: how the World Cup ball will fly and OpenAI’s “super app”",
+    "link": "https://www.technologyreview.com/2026/06/08/1138485/the-download-world-cup-ball-openai-super-app/",
+    "date": "2026-06-09"
+  },
+  {
+    "title": "NeuroBait: I fine-tuned a model to spark dopamine for ADHD brain",
+    "link": "https://huggingface.co/blog/build-small-hackathon/neurobait-adhd",
+    "date": "2026-06-09"
+  },
+  {
+    "title": "The Open Source Community is backing OpenEnv for Agentic RL",
+    "link": "https://huggingface.co/blog/openenv-agentic-rl",
+    "date": "2026-06-09"
+  },
+  {
+    "title": "FCC lifts looming deadline for Amazon Leo satellite broadband constellation",
+    "link": "https://arstechnica.com/space/2026/06/fcc-lifts-looming-deadline-for-amazon-leo-satellite-broadband-constellation/",
+    "date": "2026-06-09"
+  },
+  {
+    "title": "Tests suggest Russian satellites can jam GPS on a continental scale",
+    "link": "https://arstechnica.com/space/2026/06/tests-suggest-russian-satellites-can-jam-gps-on-a-continental-scale/",
+    "date": "2026-06-09"
+  },
+  {
+    "title": "macOS 27 requires Apple Silicon, as Apple draws down the Intel Mac era",
+    "link": "https://arstechnica.com/gadgets/2026/06/macos-27-requires-apple-silicon-as-apple-draws-down-the-intel-mac-era/",
+    "date": "2026-06-09"
+  },
+  {
+    "title": "iOS 27 and iPadOS 27 don't drop support for any iPhones—and just a few iPads",
+    "link": "https://arstechnica.com/gadgets/2026/06/ios-27-and-ipados-27-dont-drop-support-for-any-iphones-and-just-a-few-ipads/",
+    "date": "2026-06-09"
+  },
+  {
+    "title": "Meta alleges NSO violated spyware injunction with new WhatsApp attacks",
+    "link": "https://arstechnica.com/tech-policy/2026/06/meta-alleges-nso-violated-spyware-injunction-with-new-whatsapp-attacks/",
+    "date": "2026-06-09"
   }
 ]
