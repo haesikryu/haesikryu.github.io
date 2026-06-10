@@ -1,170 +1,5 @@
 [
   {
-    "title": "MAI-Code-1-Flash",
-    "link": "https://news.hada.io/topic?id=30137",
-    "date": "2026-06-03"
-  },
-  {
-    "title": "작업별 맞춤 하네스: Claude Code의 동적 워크플로우",
-    "link": "https://news.hada.io/topic?id=30136",
-    "date": "2026-06-03"
-  },
-  {
-    "title": "Vim Classic 8.3 출시 - 장기 지원 Vim 포크",
-    "link": "https://news.hada.io/topic?id=30135",
-    "date": "2026-06-03"
-  },
-  {
-    "title": "macOS는 그리드를 되찾아야 한다",
-    "link": "https://news.hada.io/topic?id=30134",
-    "date": "2026-06-03"
-  },
-  {
-    "title": "Gmail은 내가 멍청하다고 생각해서, 나는 떠났다",
-    "link": "https://news.hada.io/topic?id=30133",
-    "date": "2026-06-03"
-  },
-  {
-    "title": "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses",
-    "link": "https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/",
-    "date": "2026-06-03"
-  },
-  {
-    "title": "Uber caps employee AI spending after blowing through budget in 4 months",
-    "link": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
-    "date": "2026-06-03"
-  },
-  {
-    "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
-    "link": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
-    "date": "2026-06-03"
-  },
-  {
-    "title": "Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI",
-    "link": "https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/",
-    "date": "2026-06-03"
-  },
-  {
-    "title": "Microsoft launches Scout, an OpenClaw-inspired personal assistant",
-    "link": "https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/",
-    "date": "2026-06-03"
-  },
-  {
-    "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
-    "link": "https://openai.com/index/travelers",
-    "date": "2026-06-03"
-  },
-  {
-    "title": "Codex for every role, tool, and workflow",
-    "link": "https://openai.com/index/codex-for-every-role-tool-workflow",
-    "date": "2026-06-03"
-  },
-  {
-    "title": "Advancing youth safety and opportunity through global leadership",
-    "link": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
-    "date": "2026-06-03"
-  },
-  {
-    "title": "The Download: AI can run your admin department now",
-    "link": "https://www.technologyreview.com/2026/06/02/1138277/the-download-ai-tips-small-businesses-admin/",
-    "date": "2026-06-03"
-  },
-  {
-    "title": "Rehumanizing global health care with agentic AI",
-    "link": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
-    "date": "2026-06-03"
-  },
-  {
-    "title": "Holo3.1: Fast & Local Computer Use Agents",
-    "link": "https://huggingface.co/blog/Hcompany/holo31",
-    "date": "2026-06-03"
-  },
-  {
-    "title": "Male bowerbirds hope to dazzle females with bright human-made items",
-    "link": "https://arstechnica.com/science/2026/06/male-bowerbirds-prefer-colorful-human-items-to-decorate-bowers/",
-    "date": "2026-06-03"
-  },
-  {
-    "title": "Microsoft plans Linux tools and an RTX Spark desktop for Windows developers",
-    "link": "https://arstechnica.com/gadgets/2026/06/microsoft-plans-linux-tools-and-an-rtx-spark-desktop-for-windows-developers/",
-    "date": "2026-06-03"
-  },
-  {
-    "title": "Microsoft's Project Solara is an Android OS designed for agents instead of apps",
-    "link": "https://arstechnica.com/gadgets/2026/06/microsofts-project-solara-is-an-android-os-designed-for-agents-instead-of-apps/",
-    "date": "2026-06-03"
-  },
-  {
-    "title": "Amazon-owned Ring should pay Americans for scanning their faces, lawsuit says",
-    "link": "https://arstechnica.com/tech-policy/2026/06/amazon-owned-ring-should-pay-americans-for-scanning-their-faces-lawsuit-says/",
-    "date": "2026-06-03"
-  },
-  {
-    "title": "If I had a hammer... it might actually be a rhino tooth",
-    "link": "https://arstechnica.com/science/2026/06/experiments-reveal-that-neanderthals-used-rhino-teeth-as-hammers/",
-    "date": "2026-06-03"
-  },
-  {
-    "title": "Anthropic IPO filing marks AI maturing into enterprise utility",
-    "link": "https://www.artificialintelligence-news.com/news/anthropic-ipo-filing-marks-ai-maturing-enterprise-utility/",
-    "date": "2026-06-03"
-  },
-  {
-    "title": "GitHub Copilot users see token-based price hikes",
-    "link": "https://www.artificialintelligence-news.com/news/github-copilots-billing-changes-users-see-use-based-price-hikes/",
-    "date": "2026-06-03"
-  },
-  {
-    "title": "BYD 자동차 부품의 CT 스캔",
-    "link": "https://news.hada.io/topic?id=30147",
-    "date": "2026-06-03"
-  },
-  {
-    "title": "VSCode 버그를 통한 1-클릭 GitHub 토큰 탈취",
-    "link": "https://news.hada.io/topic?id=30146",
-    "date": "2026-06-03"
-  },
-  {
-    "title": "네덜란드 경찰 당국이 1,700만대의 봇넷을 해체하였습니다.",
-    "link": "https://news.hada.io/topic?id=30145",
-    "date": "2026-06-03"
-  },
-  {
-    "title": "A harness for every task: dynamic workflows in Claude Code",
-    "link": "https://news.hada.io/topic?id=30144",
-    "date": "2026-06-03"
-  },
-  {
-    "title": "시애틀 감시 인프라 도보 투어 (2020)",
-    "link": "https://news.hada.io/topic?id=30143",
-    "date": "2026-06-03"
-  },
-  {
-    "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
-    "link": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
-    "date": "2026-06-03"
-  },
-  {
-    "title": "Beans use an immune receptor to call in airstrikes on caterpillars",
-    "link": "https://arstechnica.com/science/2026/06/beans-use-an-immune-receptor-to-call-in-airstrikes-on-caterpillars/",
-    "date": "2026-06-03"
-  },
-  {
-    "title": "How long will it take to rebuild Blue Origin's launch pad? We asked some SpaceX vets.",
-    "link": "https://arstechnica.com/space/2026/06/how-long-will-it-take-to-rebuild-blue-origins-launch-pad-we-asked-some-spacex-vets/",
-    "date": "2026-06-03"
-  },
-  {
-    "title": "Walmart’s AI workflows meet the realities of the balance sheet",
-    "link": "https://www.artificialintelligence-news.com/news/walmart-limits-ai-use-as-workflows-meet-the-realities-of-the-balance-sheet/",
-    "date": "2026-06-03"
-  },
-  {
-    "title": "Microsoft’s Majorana 2 quantum chip is also a case study for agentic AI in R&D",
-    "link": "https://www.artificialintelligence-news.com/news/microsoft-discovery-agentic-ai-majorana-2/",
-    "date": "2026-06-03"
-  },
-  {
     "title": "대성당, 바자르, 그리고 윈체스터 미스터리 하우스 — AI 시대, 소프트웨어 개발의 세 번째 모델",
     "link": "https://news.hada.io/topic?id=30166",
     "date": "2026-06-04"
@@ -878,5 +713,155 @@
     "title": "Meta alleges NSO violated spyware injunction with new WhatsApp attacks",
     "link": "https://arstechnica.com/tech-policy/2026/06/meta-alleges-nso-violated-spyware-injunction-with-new-whatsapp-attacks/",
     "date": "2026-06-09"
+  },
+  {
+    "title": "SpaceX IPO, 100억 달러 규모 이상의 주문이 잇따라 접수되며 초과 청약됨",
+    "link": "https://news.hada.io/topic?id=30347",
+    "date": "2026-06-10"
+  },
+  {
+    "title": "apple/container, Container Machine 기능 추가",
+    "link": "https://news.hada.io/topic?id=30346",
+    "date": "2026-06-10"
+  },
+  {
+    "title": "Claude Fable이 도움을 멈춰도 사용자는 알 수 없다",
+    "link": "https://news.hada.io/topic?id=30345",
+    "date": "2026-06-10"
+  },
+  {
+    "title": "Ask HN: 왜 아직 Ticketmaster의 진짜 경쟁자가 없나요?",
+    "link": "https://news.hada.io/topic?id=30344",
+    "date": "2026-06-10"
+  },
+  {
+    "title": "SpaceX IPO가 고평가됐다고 보는 이유",
+    "link": "https://news.hada.io/topic?id=30343",
+    "date": "2026-06-10"
+  },
+  {
+    "title": "Google just fired a warning shot in the AI subscription price wars",
+    "link": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
+    "date": "2026-06-10"
+  },
+  {
+    "title": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
+    "link": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/",
+    "date": "2026-06-10"
+  },
+  {
+    "title": "Hey, Siri, here’s what I actually want from AI",
+    "link": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
+    "date": "2026-06-10"
+  },
+  {
+    "title": "Anthropic’s Fable 5 can make weirdly fun video games with the click of a button",
+    "link": "https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/",
+    "date": "2026-06-10"
+  },
+  {
+    "title": "Can tech companies learn to love cheaper AI models?",
+    "link": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
+    "date": "2026-06-10"
+  },
+  {
+    "title": "How engineers at Nextdoor use Codex to build without limits",
+    "link": "https://openai.com/index/nextdoor",
+    "date": "2026-06-10"
+  },
+  {
+    "title": "What Codex unlocks for Notion",
+    "link": "https://openai.com/index/notion",
+    "date": "2026-06-10"
+  },
+  {
+    "title": "Industrial policy for the Intelligence Age",
+    "link": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+    "date": "2026-06-10"
+  },
+  {
+    "title": "How we used Gemini to build Google I/O 2026",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
+    "date": "2026-06-10"
+  },
+  {
+    "title": "The Download: whole-body rejuvenation drugs and five things to know about AI",
+    "link": "https://www.technologyreview.com/2026/06/09/1138604/the-download-anti-aging-drugs-ai-five-things-to-know/",
+    "date": "2026-06-10"
+  },
+  {
+    "title": "Learning to lead in a hybrid human-AI enterprise",
+    "link": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
+    "date": "2026-06-10"
+  },
+  {
+    "title": "David Sinclair plans to test whole-body rejuvenation drugs in the XPrize competition",
+    "link": "https://www.technologyreview.com/2026/06/09/1138545/david-sinclair-plans-to-test-whole-body-rejuvenation-drugs-in-the-xprize-competition/",
+    "date": "2026-06-10"
+  },
+  {
+    "title": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
+    "link": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
+    "date": "2026-06-10"
+  },
+  {
+    "title": "Introducing North Mini Code: Cohere’s First Model For Developers",
+    "link": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+    "date": "2026-06-10"
+  },
+  {
+    "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+    "link": "https://huggingface.co/blog/mishig/spaces-agents-md",
+    "date": "2026-06-10"
+  },
+  {
+    "title": "Migrating Your GitHub CI to Hugging Face Jobs",
+    "link": "https://huggingface.co/blog/github-ci-hf-jobs",
+    "date": "2026-06-10"
+  },
+  {
+    "title": "Starlink charges $10 monthly hardware fee in move away from one-time purchases",
+    "link": "https://arstechnica.com/tech-policy/2026/06/starlink-takes-page-from-cable-firms-with-10-monthly-rental-fee-for-hardware/",
+    "date": "2026-06-10"
+  },
+  {
+    "title": "Locked in heated rivalry with researcher, Microsoft fixes 0-day they disclosed",
+    "link": "https://arstechnica.com/security/2026/06/locked-in-heated-rivalry-with-researcher-microsoft-fixes-0-day-they-disclosed/",
+    "date": "2026-06-10"
+  },
+  {
+    "title": "Three key vital signs make up the \"urban pulse\" of a city",
+    "link": "https://arstechnica.com/science/2026/06/study-how-to-take-the-urban-pulse-of-a-city/",
+    "date": "2026-06-10"
+  },
+  {
+    "title": "Commonwealth Fusion makes the physics case for its 400 MW reactor",
+    "link": "https://arstechnica.com/science/2026/06/__trashed-19/",
+    "date": "2026-06-10"
+  },
+  {
+    "title": "Paramount accuses Netflix of \"scorched-earth campaign\" against WBD merger",
+    "link": "https://arstechnica.com/tech-policy/2026/06/netflix-trying-to-poison-regulators-about-wbd-merger-paramount-lawyer-claims/",
+    "date": "2026-06-10"
+  },
+  {
+    "title": "How to sign PDFs easily online with a PDF signer",
+    "link": "https://www.artificialintelligence-news.com/news/how-to-sign-pdfs-easily-online-with-a-pdf-signer/",
+    "date": "2026-06-10"
+  },
+  {
+    "title": "Autonomous AI Data Loss in DevOps: Building Efficient Defenses",
+    "link": "https://www.artificialintelligence-news.com/news/autonomous-ai-data-loss-in-devops/",
+    "date": "2026-06-10"
+  },
+  {
+    "title": "Aviva deploys AI to stop £230M in sophisticated insurance fraud",
+    "link": "https://www.artificialintelligence-news.com/news/aviva-deploys-ai-stop-230m-sophisticated-insurance-fraud/",
+    "date": "2026-06-10"
+  },
+  {
+    "title": "Weis Markets adds Instacart AI-powered shopping carts to stores",
+    "link": "https://www.artificialintelligence-news.com/news/weis-markets-instacart-ai-powered-shopping-caper-carts/",
+    "date": "2026-06-10"
   }
 ]
