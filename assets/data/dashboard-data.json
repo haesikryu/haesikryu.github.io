@@ -1,0 +1,199 @@
+{
+  "generatedAt": "2026-06-12T23:51:38.081Z",
+  "summary": {
+    "totalPosts": 368,
+    "sections": [
+      {
+        "key": "news",
+        "label": "News",
+        "count": 300
+      },
+      {
+        "key": "blog",
+        "label": "Blog",
+        "count": 60
+      },
+      {
+        "key": "book-review",
+        "label": "Book Review",
+        "count": 4
+      },
+      {
+        "key": "portfolio",
+        "label": "Portfolio",
+        "count": 4
+      }
+    ],
+    "firstPostDate": "2021-04-08T00:00:00.000Z",
+    "latestPostDate": "2026-06-10T02:03:40.000Z"
+  },
+  "monthly": [
+    {
+      "month": "2025-07",
+      "count": 14
+    },
+    {
+      "month": "2025-08",
+      "count": 2
+    },
+    {
+      "month": "2025-09",
+      "count": 0
+    },
+    {
+      "month": "2025-10",
+      "count": 0
+    },
+    {
+      "month": "2025-11",
+      "count": 13
+    },
+    {
+      "month": "2025-12",
+      "count": 51
+    },
+    {
+      "month": "2026-01",
+      "count": 50
+    },
+    {
+      "month": "2026-02",
+      "count": 39
+    },
+    {
+      "month": "2026-03",
+      "count": 51
+    },
+    {
+      "month": "2026-04",
+      "count": 55
+    },
+    {
+      "month": "2026-05",
+      "count": 56
+    },
+    {
+      "month": "2026-06",
+      "count": 15
+    }
+  ],
+  "topTags": [
+    {
+      "tag": "ai",
+      "count": 308
+    },
+    {
+      "tag": "openai",
+      "count": 163
+    },
+    {
+      "tag": "anthropic",
+      "count": 104
+    },
+    {
+      "tag": "agent",
+      "count": 94
+    },
+    {
+      "tag": "구글",
+      "count": 84
+    },
+    {
+      "tag": "llm",
+      "count": 67
+    },
+    {
+      "tag": "google",
+      "count": 65
+    },
+    {
+      "tag": "gpt",
+      "count": 59
+    },
+    {
+      "tag": "chatgpt",
+      "count": 56
+    },
+    {
+      "tag": "claude-code",
+      "count": 56
+    },
+    {
+      "tag": "앤스로픽",
+      "count": 50
+    },
+    {
+      "tag": "gemini",
+      "count": 49
+    }
+  ],
+  "recentPosts": [
+    {
+      "title": "스페이스X 1.8조 달러 몸값 달성과 스타링크의 새로운 비즈니스 모델 등 4개 기사",
+      "url": "/posts/daily-ai-news-am/",
+      "date": "2026-06-10T02:03:40.000Z",
+      "section": "news",
+      "sectionLabel": "News"
+    },
+    {
+      "title": "OpenAI의 비밀 기업공개(IPO) 신청과 AI 업계의 자본 대격돌 등 4개 기사",
+      "url": "/posts/daily-ai-news-pm/",
+      "date": "2026-06-09T10:21:27.000Z",
+      "section": "news",
+      "sectionLabel": "News"
+    },
+    {
+      "title": "피그마보다 클로드? 프로토타이핑 중심의 디자인 혁명 등 4개 기사",
+      "url": "/posts/daily-ai-news-pm/",
+      "date": "2026-06-08T11:43:59.000Z",
+      "section": "news",
+      "sectionLabel": "News"
+    },
+    {
+      "title": "\"챗봇의 시대는 끝났다\" OpenAI가 준비하는 차세대 '슈퍼 앱' 등 4개 기사",
+      "url": "/posts/daily-ai-news-am/",
+      "date": "2026-06-08T02:26:08.000Z",
+      "section": "news",
+      "sectionLabel": "News"
+    },
+    {
+      "title": "LLM의 의인화 오류를 꼬집다: '에이지 오브 엠파이어 II'가 증명하는 인공지능 평가의 한계 등 2개 기사",
+      "url": "/posts/daily-ai-news-pm/",
+      "date": "2026-06-07T09:51:08.000Z",
+      "section": "news",
+      "sectionLabel": "News"
+    },
+    {
+      "title": "트럼프 행정부의 OpenAI 지분 인수 검토와 백악관 AI 정책의 변화 등 4개 기사",
+      "url": "/posts/daily-ai-news-am/",
+      "date": "2026-06-07T02:09:55.000Z",
+      "section": "news",
+      "sectionLabel": "News"
+    },
+    {
+      "title": "구글 제미나이 옴니(Gemini Omni) 및 3.5 공개와 '바이브 코딩'의 진화 등 4개 기사",
+      "url": "/posts/daily-ai-news-pm/",
+      "date": "2026-06-06T09:11:58.000Z",
+      "section": "news",
+      "sectionLabel": "News"
+    },
+    {
+      "title": "구글, AI 연산 위해 스페이스X에 매달 9억 2,000만 달러 지불 등 4개 기사",
+      "url": "/posts/daily-ai-news-am/",
+      "date": "2026-06-06T01:53:44.000Z",
+      "section": "news",
+      "sectionLabel": "News"
+    }
+  ],
+  "knowledgeGraph": {
+    "nodes": 69,
+    "links": 207,
+    "avgDegree": 6
+  },
+  "rag": {
+    "chunks": 876,
+    "indexedPosts": 222,
+    "model": "Xenova/all-MiniLM-L6-v2",
+    "generatedAt": "2026-03-19T14:50:58.518Z"
+  }
+}

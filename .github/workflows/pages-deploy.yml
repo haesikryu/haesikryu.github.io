@@ -59,6 +59,9 @@ jobs:
       - name: Generate Knowledge Graph data
         run: npm run generate-graph
 
+      - name: Generate dashboard data
+        run: npm run generate-dashboard
+
       - name: Build RAG chat widget (Vite)
         run: npm run build:rag
 

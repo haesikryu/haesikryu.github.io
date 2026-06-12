@@ -1,0 +1,49 @@
+---
+layout: page
+---
+
+{% include lang.html %}
+
+<link rel="stylesheet" href="{{ '/assets/css/dashboard.css' | relative_url }}">
+
+<div id="dashboard-root" class="dashboard-page" data-baseurl="{{ site.baseurl | default: '' }}">
+  <p class="lead mb-3">
+    블로그 콘텐츠·발행 추이·태그·Knowledge Graph·RAG 인덱스 현황을 한눈에 확인합니다. 빌드 시점 기준 통계입니다.
+  </p>
+
+  <div id="dash-summary" class="dashboard-grid" aria-label="요약 통계"></div>
+
+  <div class="dashboard-panels">
+    <div class="dashboard-panel">
+      <h2>월별 발행 추이 (최근 12개월)</h2>
+      <div style="height: 280px;">
+        <canvas id="dash-monthly-chart"></canvas>
+      </div>
+    </div>
+    <div class="dashboard-panel">
+      <h2>섹션별 분포</h2>
+      <div style="height: 280px;">
+        <canvas id="dash-section-chart"></canvas>
+      </div>
+    </div>
+  </div>
+
+  <div class="dashboard-panels mt-3">
+    <div class="dashboard-panel">
+      <h2>인기 태그 Top 12</h2>
+      <div id="dash-tags"></div>
+    </div>
+    <div class="dashboard-panel">
+      <h2>최근 포스트</h2>
+      <div id="dash-recent"></div>
+    </div>
+  </div>
+
+  <div class="dashboard-panel mt-3">
+    <h2>시스템 현황</h2>
+    <div id="dash-extras"></div>
+  </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js" crossorigin="anonymous"></script>
+<script src="{{ '/assets/js/dashboard/dashboard.js' | relative_url }}" defer></script>
