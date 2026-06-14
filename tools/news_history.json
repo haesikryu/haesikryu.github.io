@@ -1,515 +1,5 @@
 [
   {
-    "title": "대성당, 바자르, 그리고 윈체스터 미스터리 하우스 — AI 시대, 소프트웨어 개발의 세 번째 모델",
-    "link": "https://news.hada.io/topic?id=30166",
-    "date": "2026-06-04"
-  },
-  {
-    "title": "Google I/O 2026 주요 발표 12가지 키노트 모아보기",
-    "link": "https://news.hada.io/topic?id=30165",
-    "date": "2026-06-04"
-  },
-  {
-    "title": "OAuth 2.0 Token Exchange의 다양한 얼굴",
-    "link": "https://news.hada.io/topic?id=30164",
-    "date": "2026-06-04"
-  },
-  {
-    "title": "&#039;배틀쉽&#039; 게임을 활용해 AI 에이전트에게 더 나은 질문법 가르치기",
-    "link": "https://news.hada.io/topic?id=30163",
-    "date": "2026-06-04"
-  },
-  {
-    "title": "Angular v22 발표",
-    "link": "https://news.hada.io/topic?id=30162",
-    "date": "2026-06-04"
-  },
-  {
-    "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
-    "link": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
-    "date": "2026-06-04"
-  },
-  {
-    "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
-    "link": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
-    "date": "2026-06-04"
-  },
-  {
-    "title": "Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon",
-    "link": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
-    "date": "2026-06-04"
-  },
-  {
-    "title": "Amazon will show AI product images when you search for some reason",
-    "link": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
-    "date": "2026-06-04"
-  },
-  {
-    "title": "These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked",
-    "link": "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/",
-    "date": "2026-06-04"
-  },
-  {
-    "title": "Introducing new capabilities to GPT-Rosalind",
-    "link": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
-    "date": "2026-06-04"
-  },
-  {
-    "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
-    "link": "https://openai.com/index/wasmer",
-    "date": "2026-06-04"
-  },
-  {
-    "title": "A blueprint for democratic governance of frontier AI",
-    "link": "https://openai.com/index/frontier-safety-blueprint",
-    "date": "2026-06-04"
-  },
-  {
-    "title": "OpenAI public policy agenda",
-    "link": "https://openai.com/index/public-policy-agenda",
-    "date": "2026-06-04"
-  },
-  {
-    "title": "5 ways Google Search can level up your thrift and vintage shopping",
-    "link": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
-    "date": "2026-06-04"
-  },
-  {
-    "title": "How virtual power plants could provide energy for data centers",
-    "link": "https://www.technologyreview.com/2026/06/03/1138350/virtual-power-plants-data-centers/",
-    "date": "2026-06-04"
-  },
-  {
-    "title": "The Download: Trump’s new AI order, and smart glasses for warfare",
-    "link": "https://www.technologyreview.com/2026/06/03/1138322/the-download-trump-ai-order-smart-glasses-warfare/",
-    "date": "2026-06-04"
-  },
-  {
-    "title": "Direct Preference Optimization Beyond Chatbots",
-    "link": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
-    "date": "2026-06-04"
-  },
-  {
-    "title": "Adding MCP Tools to Reachy Mini",
-    "link": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
-    "date": "2026-06-04"
-  },
-  {
-    "title": "Microsoft, Atom Computing, EeroQ update their quantum computing progress",
-    "link": "https://arstechnica.com/science/2026/06/microsoft-atom-computing-eeroq-update-their-quantum-computing-progress/",
-    "date": "2026-06-04"
-  },
-  {
-    "title": "Possible flesh-eating screwworm infection detected in South Texas, USDA says",
-    "link": "https://arstechnica.com/health/2026/06/flesh-eating-screwworm-infection-detected-in-south-texas-usda-says/",
-    "date": "2026-06-04"
-  },
-  {
-    "title": "Google ordered to put clearer links in AI search and let UK publishers opt out",
-    "link": "https://arstechnica.com/tech-policy/2026/06/google-ordered-to-put-clearer-links-in-ai-search-and-let-uk-publishers-opt-out/",
-    "date": "2026-06-04"
-  },
-  {
-    "title": "Can't make sense of Dashlane's vault theft notification? You're not alone.",
-    "link": "https://arstechnica.com/security/2026/06/dashlane-issues-opaque-advisory-warning-20-encrypted-vaults-were-stolen/",
-    "date": "2026-06-04"
-  },
-  {
-    "title": "Google's new Gemma 4 12B model is designed to run on any laptop with 16GB of RAM",
-    "link": "https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/",
-    "date": "2026-06-04"
-  },
-  {
-    "title": "AI-네이티브 스타트업을 만드는 방법",
-    "link": "https://news.hada.io/topic?id=30195",
-    "date": "2026-06-05"
-  },
-  {
-    "title": "Ian의 안전한 신발끈 매듭",
-    "link": "https://news.hada.io/topic?id=30194",
-    "date": "2026-06-05"
-  },
-  {
-    "title": "미국, 붕괴 위험에 처한 대서양 해류 추적 시스템 해체 예정",
-    "link": "https://news.hada.io/topic?id=30193",
-    "date": "2026-06-05"
-  },
-  {
-    "title": "AI 사용과 수학 능력 저하 속 Berkeley CS 수업에서 낙제 성적 급증",
-    "link": "https://news.hada.io/topic?id=30192",
-    "date": "2026-06-05"
-  },
-  {
-    "title": "Trees - 파일 트리 렌더링 라이브러리 오픈소스",
-    "link": "https://news.hada.io/topic?id=30191",
-    "date": "2026-06-05"
-  },
-  {
-    "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
-    "link": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
-    "date": "2026-06-05"
-  },
-  {
-    "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
-    "link": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
-    "date": "2026-06-05"
-  },
-  {
-    "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
-    "link": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
-    "date": "2026-06-05"
-  },
-  {
-    "title": "Meta steals a tactic from Tesla and builds data centers in tents",
-    "link": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/",
-    "date": "2026-06-05"
-  },
-  {
-    "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
-    "link": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
-    "date": "2026-06-05"
-  },
-  {
-    "title": "How Endava is redesigning software delivery around AI agents",
-    "link": "https://openai.com/index/endava-frontiers",
-    "date": "2026-06-05"
-  },
-  {
-    "title": "Dreaming: Better memory for a more helpful ChatGPT",
-    "link": "https://openai.com/index/chatgpt-memory-dreaming",
-    "date": "2026-06-05"
-  },
-  {
-    "title": "Biodefense in the Intelligence Age",
-    "link": "https://openai.com/index/biodefense-in-the-intelligence-age",
-    "date": "2026-06-05"
-  },
-  {
-    "title": "The Download: AI-generated lawsuits and virtual power plants for data centers",
-    "link": "https://www.technologyreview.com/2026/06/04/1138408/the-download-ai-lawsuits-virtual-power-plants-data-centers/",
-    "date": "2026-06-05"
-  },
-  {
-    "title": "How courts are coping with a flood of AI-generated lawsuits",
-    "link": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
-    "date": "2026-06-05"
-  },
-  {
-    "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
-    "link": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
-    "date": "2026-06-05"
-  },
-  {
-    "title": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
-    "link": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
-    "date": "2026-06-05"
-  },
-  {
-    "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
-    "link": "https://huggingface.co/blog/hf-cli-for-agents",
-    "date": "2026-06-05"
-  },
-  {
-    "title": "The skeptic’s guide to humanoid robots going viral on the Internet",
-    "link": "https://arstechnica.com/ai/2026/06/the-skeptics-guide-to-humanoid-robots-going-viral-on-the-internet/",
-    "date": "2026-06-05"
-  },
-  {
-    "title": "AT&T and Verizon lose Supreme Court case over fines for selling location data",
-    "link": "https://arstechnica.com/tech-policy/2026/06/att-and-verizon-lose-supreme-court-case-over-fines-for-selling-location-data/",
-    "date": "2026-06-05"
-  },
-  {
-    "title": "These LLMs are the best at resisting Russian propaganda",
-    "link": "https://arstechnica.com/ai/2026/06/these-llms-are-the-best-at-resisting-russian-propaganda/",
-    "date": "2026-06-05"
-  },
-  {
-    "title": "Dashlane explains how attackers managed to download encrypted password vaults",
-    "link": "https://arstechnica.com/security/2026/06/dashlane-explains-how-attackers-managed-to-download-encrypted-password-vaults/",
-    "date": "2026-06-05"
-  },
-  {
-    "title": "Elon Musk tries again to escape FTC audits of X data handling",
-    "link": "https://arstechnica.com/tech-policy/2026/06/elon-musk-tries-again-to-escape-ftc-audits-of-x-data-handling/",
-    "date": "2026-06-05"
-  },
-  {
-    "title": "Meta Business Agent drives AI-powered conversational commerce",
-    "link": "https://www.artificialintelligence-news.com/news/meta-business-agent-ai-powered-conversational-commerce/",
-    "date": "2026-06-05"
-  },
-  {
-    "title": "Scout from M’Soft is the agentic Autopilot that works across M365",
-    "link": "https://www.artificialintelligence-news.com/news/microsofts-autopilot-scout-is-the-agentic-autopilot-that-works-across-m365/",
-    "date": "2026-06-05"
-  },
-  {
-    "title": "Amazon brings AI shopping assistant to retailers with Kate Spade",
-    "link": "https://www.artificialintelligence-news.com/news/amazon-ai-shopping-assistant-kate-spade-retailers/",
-    "date": "2026-06-05"
-  },
-  {
-    "title": "How E.ON uses SAP S/4HANA to modernise the grid with AI",
-    "link": "https://www.artificialintelligence-news.com/news/how-e-on-uses-sap-s-4hana-to-modernise-the-grid-with-ai/",
-    "date": "2026-06-05"
-  },
-  {
-    "title": "우주비행사들, 공기 누출 수리로 대피한 뒤 ISS 복귀 지시 받아",
-    "link": "https://news.hada.io/topic?id=30223",
-    "date": "2026-06-06"
-  },
-  {
-    "title": "한국의 포럼/커뮤니티는 이제 모든 이미지를 AI 검열 도구로 검사해야 함",
-    "link": "https://news.hada.io/topic?id=30222",
-    "date": "2026-06-06"
-  },
-  {
-    "title": "유럽 상공의 강력한 GNSS 간섭원 추적",
-    "link": "https://news.hada.io/topic?id=30221",
-    "date": "2026-06-06"
-  },
-  {
-    "title": "C++: 다큐멘터리: 세계에서 가장 중대한 프로그래밍 언어",
-    "link": "https://news.hada.io/topic?id=30220",
-    "date": "2026-06-06"
-  },
-  {
-    "title": "Mouseless - macOS/Linux/Windows의 키보드 기반 제어",
-    "link": "https://news.hada.io/topic?id=30219",
-    "date": "2026-06-06"
-  },
-  {
-    "title": "Fairy 서비스 오픈 및 GeekNews Show GN 연동",
-    "link": "https://news.hada.io/blog/fairy_and_geeknews",
-    "date": "2026-06-06"
-  },
-  {
-    "title": "GeekBadge 시스템을 추가했습니다",
-    "link": "https://news.hada.io/blog/introducing_geekbadge",
-    "date": "2026-06-06"
-  },
-  {
-    "title": "Startup Battlefield 200 applications officially close in 3 days",
-    "link": "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/",
-    "date": "2026-06-06"
-  },
-  {
-    "title": "Google will pay SpaceX $920M per month for compute",
-    "link": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
-    "date": "2026-06-06"
-  },
-  {
-    "title": "The most interesting startups right now want to get you off your phone",
-    "link": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
-    "date": "2026-06-06"
-  },
-  {
-    "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
-    "link": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
-    "date": "2026-06-06"
-  },
-  {
-    "title": "The ‘together tech’ wave might be the most intriguing startup bet of 2026",
-    "link": "https://techcrunch.com/podcast/the-together-tech-wave-might-be-the-most-intriguing-startup-bet-of-2026/",
-    "date": "2026-06-06"
-  },
-  {
-    "title": "The latest AI news we announced in May 2026",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
-    "date": "2026-06-06"
-  },
-  {
-    "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-    "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-    "date": "2026-06-06"
-  },
-  {
-    "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-    "link": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-    "date": "2026-06-06"
-  },
-  {
-    "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-    "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
-    "date": "2026-06-06"
-  },
-  {
-    "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-    "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-    "date": "2026-06-06"
-  },
-  {
-    "title": "The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains",
-    "link": "https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/",
-    "date": "2026-06-06"
-  },
-  {
-    "title": "Are AI chatbots making us lose control of our brains?",
-    "link": "https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/",
-    "date": "2026-06-06"
-  },
-  {
-    "title": "The Meta hack shows there’s more to AI security than Mythos",
-    "link": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
-    "date": "2026-06-06"
-  },
-  {
-    "title": "인터넷 메일을 어떻게 선별·필터링·관리하나요?",
-    "link": "https://news.hada.io/topic?id=30229",
-    "date": "2026-06-06"
-  },
-  {
-    "title": "Ask HN: GenAI를 보며 “아, 큰일 났다”라고 느낀 순간은 언제였나요?",
-    "link": "https://news.hada.io/topic?id=30227",
-    "date": "2026-06-06"
-  },
-  {
-    "title": "GOV.UK, Stripe를 네덜란드 제공업체 Adyen으로 교체",
-    "link": "https://news.hada.io/topic?id=30226",
-    "date": "2026-06-06"
-  },
-  {
-    "title": "pg_durable - PostgreSQL을 위한 내구성 SQL 함수",
-    "link": "https://news.hada.io/topic?id=30225",
-    "date": "2026-06-06"
-  },
-  {
-    "title": "Conventional Commits 사용을 중단하라",
-    "link": "https://news.hada.io/topic?id=30224",
-    "date": "2026-06-06"
-  },
-  {
-    "title": "List 가 GeekLists 기능으로 확대 개편 되었습니다.",
-    "link": "https://news.hada.io/blog/GeekLists",
-    "date": "2026-06-06"
-  },
-  {
-    "title": "‘함께 보면 좋은 글’ 기능을 추가했습니다",
-    "link": "https://news.hada.io/blog/related-reads",
-    "date": "2026-06-06"
-  },
-  {
-    "title": "GeekNews를 편하게 구독하는 법",
-    "link": "https://news.hada.io/blog/subscribe_geeknews",
-    "date": "2026-06-06"
-  },
-  {
-    "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
-    "date": "2026-06-06"
-  },
-  {
-    "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
-    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
-    "date": "2026-06-06"
-  },
-  {
-    "title": "Thousand Token Wood: shipping a multi-agent economy on a 3B model",
-    "link": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim",
-    "date": "2026-06-06"
-  },
-  {
-    "title": "Baby botulism outbreak: FDA still doesn't know cause—or how to prevent it",
-    "link": "https://arstechnica.com/health/2026/06/baby-botulism-outbreak-fda-still-doesnt-know-cause-or-how-to-prevent-it/",
-    "date": "2026-06-06"
-  },
-  {
-    "title": "How a USB-connected speaker can infect a PC without ever being touched",
-    "link": "https://arstechnica.com/security/2026/06/highly-reviewed-speaker-can-be-hacked-over-the-air-to-infect-connected-devices/",
-    "date": "2026-06-06"
-  },
-  {
-    "title": "Small modular nuclear reactor reaches criticality in first test",
-    "link": "https://arstechnica.com/science/2026/06/first-us-test-of-modular-reactor-reaches-criticality/",
-    "date": "2026-06-06"
-  },
-  {
-    "title": "The saga of the International Space Station air leak took a worrying turn Friday",
-    "link": "https://arstechnica.com/space/2026/06/work-on-russias-leaky-space-station-module-causes-astronauts-to-take-shelter/",
-    "date": "2026-06-06"
-  },
-  {
-    "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
-    "link": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
-    "date": "2026-06-06"
-  },
-  {
-    "title": "Ask HN: HN 이용자들은 왜 이렇게 AI에 반대하나요?",
-    "link": "https://news.hada.io/topic?id=30249",
-    "date": "2026-06-07"
-  },
-  {
-    "title": "소식통들: 미 국방부, 미국 내 이스라엘 스파이 활동 위협을 최고 수준으로 상향",
-    "link": "https://news.hada.io/topic?id=30248",
-    "date": "2026-06-07"
-  },
-  {
-    "title": "GrapheneOS 사용자가 GrapheneOS 사용으로 당국에 신고됨",
-    "link": "https://news.hada.io/topic?id=30246",
-    "date": "2026-06-07"
-  },
-  {
-    "title": "S&amp;P 500, SpaceX 거부하며 OpenAI와 Anthropic 편입도 차단",
-    "link": "https://news.hada.io/topic?id=30245",
-    "date": "2026-06-07"
-  },
-  {
-    "title": "Nvidia, Windows PC용 괴물 같은 CPU 시스템 제안",
-    "link": "https://news.hada.io/topic?id=30244",
-    "date": "2026-06-07"
-  },
-  {
-    "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
-    "link": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
-    "date": "2026-06-07"
-  },
-  {
-    "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
-    "link": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
-    "date": "2026-06-07"
-  },
-  {
-    "title": "Sriram Krishnan is leaving his role as White House AI advisor",
-    "link": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
-    "date": "2026-06-07"
-  },
-  {
-    "title": "The Trump administration might take an equity stake in OpenAI",
-    "link": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
-    "date": "2026-06-07"
-  },
-  {
-    "title": "Five labs, five minds: building a multi-model finance drama on small models",
-    "link": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
-    "date": "2026-06-07"
-  },
-  {
-    "title": "Scientists ejected from diabetes conference for distributing journal reprints",
-    "link": "https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/",
-    "date": "2026-06-07"
-  },
-  {
-    "title": "Some ancient microbes frozen with Ötzi the Iceman are still growing",
-    "link": "https://arstechnica.com/science/2026/06/otzis-mummified-body-is-home-to-ancient-strains-of-yeast-and-bacteria/",
-    "date": "2026-06-07"
-  },
-  {
-    "title": "How C3 AI agents will automate predictive maintenance for Shell",
-    "link": "https://www.artificialintelligence-news.com/news/how-c3-ai-agents-will-automate-predictive-maintenance-for-shell/",
-    "date": "2026-06-07"
-  },
-  {
-    "title": "LLM이 인간 같은 속성을 가진다면 Age of Empires II도 그렇다",
-    "link": "https://news.hada.io/topic?id=30252",
-    "date": "2026-06-07"
-  },
-  {
-    "title": "Ntsc-rs - 아날로그 TV와 VHS 아티팩트의 오픈소스 비디오 에뮬레이션",
-    "link": "https://news.hada.io/topic?id=30250",
-    "date": "2026-06-07"
-  },
-  {
     "title": "Show GN: ruby-news.dev 으로 업그레이드 했습니다.",
     "link": "https://news.hada.io/topic?id=30274",
     "date": "2026-06-08"
@@ -863,5 +353,175 @@
     "title": "Weis Markets adds Instacart AI-powered shopping carts to stores",
     "link": "https://www.artificialintelligence-news.com/news/weis-markets-instacart-ai-powered-shopping-caper-carts/",
     "date": "2026-06-10"
+  },
+  {
+    "title": "GLM 5.2 출시",
+    "link": "https://news.hada.io/topic?id=30478",
+    "date": "2026-06-14"
+  },
+  {
+    "title": "이메일의 미래",
+    "link": "https://news.hada.io/topic?id=30477",
+    "date": "2026-06-14"
+  },
+  {
+    "title": "repo-slopscore: 커밋 기록 분석으로 Git 저장소의 AI/LLM 기여 감지",
+    "link": "https://news.hada.io/topic?id=30475",
+    "date": "2026-06-14"
+  },
+  {
+    "title": "이 Fable 사안에 드리운 거대한 그림자",
+    "link": "https://news.hada.io/topic?id=30474",
+    "date": "2026-06-14"
+  },
+  {
+    "title": "Mozilla를 떠나며",
+    "link": "https://news.hada.io/topic?id=30473",
+    "date": "2026-06-14"
+  },
+  {
+    "title": "As Anthropic suspends access to new models, India debates its AI future",
+    "link": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+    "date": "2026-06-14"
+  },
+  {
+    "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
+    "link": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
+    "date": "2026-06-14"
+  },
+  {
+    "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+    "link": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+    "date": "2026-06-14"
+  },
+  {
+    "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+    "link": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+    "date": "2026-06-14"
+  },
+  {
+    "title": "OpenAI faces investigation from state attorneys general",
+    "link": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+    "date": "2026-06-14"
+  },
+  {
+    "title": "New OpenAI Academy courses for the next era of work",
+    "link": "https://openai.com/index/academy-courses-applying-ai-at-work",
+    "date": "2026-06-14"
+  },
+  {
+    "title": "How Preply combines AI and human tutors to personalize learning",
+    "link": "https://openai.com/index/preply",
+    "date": "2026-06-14"
+  },
+  {
+    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+    "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+    "date": "2026-06-14"
+  },
+  {
+    "title": "BBVA puts AI at the core of banking with OpenAI",
+    "link": "https://openai.com/index/bbva",
+    "date": "2026-06-14"
+  },
+  {
+    "title": "OpenAI to acquire Ona",
+    "link": "https://openai.com/index/openai-to-acquire-ona",
+    "date": "2026-06-14"
+  },
+  {
+    "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
+    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
+    "date": "2026-06-14"
+  },
+  {
+    "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+    "link": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+    "date": "2026-06-14"
+  },
+  {
+    "title": "The Download: “reprogramming” aging, and the hidden sense of interoception",
+    "link": "https://www.technologyreview.com/2026/06/12/1138899/the-download-reprogramming-reverse-aging-interoception/",
+    "date": "2026-06-14"
+  },
+  {
+    "title": "You do your own time",
+    "link": "https://www.technologyreview.com/2026/06/12/1138518/you-do-your-own-time-fiction/",
+    "date": "2026-06-14"
+  },
+  {
+    "title": "Why “reprogramming” is the buzziest approach to reversing aging right now",
+    "link": "https://www.technologyreview.com/2026/06/12/1138829/reprogramming-buzziest-approach-reversing-aging-right-now/",
+    "date": "2026-06-14"
+  },
+  {
+    "title": "Inside interoception: The hidden sense of how you feel inside",
+    "link": "https://www.technologyreview.com/2026/06/12/1138833/inside-interoception-brain-body/",
+    "date": "2026-06-14"
+  },
+  {
+    "title": "The Download: soccer’s data renaissance and China’s big nuclear plans",
+    "link": "https://www.technologyreview.com/2026/06/11/1138809/the-download-soccer-football-data-analytics-china-nuclear-power/",
+    "date": "2026-06-14"
+  },
+  {
+    "title": "olmo-eval: An evaluation workbench for the model development loop",
+    "link": "https://huggingface.co/blog/allenai/olmo-eval",
+    "date": "2026-06-14"
+  },
+  {
+    "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+    "link": "https://huggingface.co/blog/torch-mlp-fusion",
+    "date": "2026-06-14"
+  },
+  {
+    "title": "Review: Disclosure Day is big on action, light on ideas",
+    "link": "https://arstechnica.com/culture/2026/06/review-disclosure-day-is-big-on-action-light-on-ideas/",
+    "date": "2026-06-14"
+  },
+  {
+    "title": "Threads of underground fungal networks are long enough to reach beyond the Solar System",
+    "link": "https://arstechnica.com/science/2026/06/threads-of-underground-fungal-networks-are-long-enough-to-reach-beyond-the-solar-system/",
+    "date": "2026-06-14"
+  },
+  {
+    "title": "Anthropic shuts down Fable, Mythos models following Trump admin directive",
+    "link": "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/",
+    "date": "2026-06-14"
+  },
+  {
+    "title": "SpaceX is now a public company valued for its AI potential, so what comes next?",
+    "link": "https://arstechnica.com/space/2026/06/spacex-is-now-a-public-company-valued-for-its-ai-potential-so-what-comes-next/",
+    "date": "2026-06-14"
+  },
+  {
+    "title": "PeopleSoft 0-day affecting hundreds of organizations steals gigabytes of data",
+    "link": "https://arstechnica.com/security/2026/06/peoplesoft-0-day-affecting-hundreds-of-organizations-steals-gigabytes-of-data/",
+    "date": "2026-06-14"
+  },
+  {
+    "title": "Coinbase for Agents: Automating portfolio trading with AI",
+    "link": "https://www.artificialintelligence-news.com/news/coinbase-for-agents-automating-portfolio-trading-with-ai/",
+    "date": "2026-06-14"
+  },
+  {
+    "title": "Visa ChatGPT integration enables AI agent retail purchasing",
+    "link": "https://www.artificialintelligence-news.com/news/visa-chatgpt-integration-enables-ai-agent-retail-purchasing/",
+    "date": "2026-06-14"
+  },
+  {
+    "title": "Xebia: Why AI agents fail without the right data foundation",
+    "link": "https://www.artificialintelligence-news.com/news/xebia-on-building-the-data-foundation-for-ai-agents-and-then-accelerating/",
+    "date": "2026-06-14"
+  },
+  {
+    "title": "Siri AI arrives with Google inside, and much of the world is locked out",
+    "link": "https://www.artificialintelligence-news.com/news/siri-ai-google-gemini-rollout/",
+    "date": "2026-06-14"
+  },
+  {
+    "title": "McDonald’s tests Google-backed AI drive-thru ordering system",
+    "link": "https://www.artificialintelligence-news.com/news/mcdonalds-ai-drive-thru-google-archiq/",
+    "date": "2026-06-14"
   }
 ]
