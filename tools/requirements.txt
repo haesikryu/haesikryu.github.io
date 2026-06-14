@@ -1,7 +1,7 @@
 feedparser==6.0.10
 requests==2.31.0
 google-generativeai==0.8.3
-openai==1.12.0
+openai>=1.55.3
 python-dateutil==2.8.2
 pyyaml==6.0.1
 edge-tts
