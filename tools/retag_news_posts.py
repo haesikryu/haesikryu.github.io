@@ -4,12 +4,12 @@
 (title·date 등 다른 메타데이터는 원문 그대로 유지)
 
 - 태그는 **명사형**, **한글만 또는 영어만**(한 태그에 한·영 혼합 금지), **각 언어당 단어 1~2개**(가능하면 1개, 2개면 하이픈) 규칙을 따릅니다 (`tools/daily_news.py` 참고).
-- GEMINI_API_KEY 또는 OPENAI_API_KEY가 있으면 LLM으로 본문 기반 태그(약 20개) 추출
+- GROQ_API_KEY(권장), GEMINI_API_KEY, OPENAI_API_KEY 중 하나가 있으면 LLM으로 본문 기반 태그(약 20개) 추출
 - 없으면 daily_news.py와 동일한 휴리스틱 폴백만 사용 (품질은 LLM 사용 시보다 낮을 수 있음)
 
 사용 예:
   cd <저장소 루트>
-  export GEMINI_API_KEY=...   # 권장
+  export GROQ_API_KEY=...     # 권장
   python3 tools/retag_news_posts.py
   python3 tools/retag_news_posts.py --dry-run --max 3
 """

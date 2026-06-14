@@ -14,6 +14,17 @@ import re
 
 HISTORY_FILE = os.path.join(os.path.dirname(__file__), "news_history.json")
 
+GROQ_BASE_URL = "https://api.groq.com/openai/v1"
+GROQ_BLOG_MODELS = [
+    "llama-3.3-70b-versatile",
+    "llama-3.1-70b-versatile",
+    "llama-3.1-8b-instant",
+]
+GROQ_TAGS_MODELS = [
+    "llama-3.3-70b-versatile",
+    "llama-3.1-8b-instant",
+]
+
 # Configuration
 RSS_FEEDS = [
     "https://news.hada.io/rss/news",  # GeekNews - 개발/기술/스타트업 뉴스
@@ -174,6 +185,96 @@ def get_posted_urls_from_history():
          return {item.get('link') for item in history if item.get('link')}
     return set()
 
+
+def _get_groq_client():
+    key = (os.environ.get("GROQ_API_KEY") or "").strip()
+    if not key:
+        return None
+    return OpenAI(api_key=key, base_url=GROQ_BASE_URL)
+
+
+def _generate_with_groq(prompt, *, system=None, models=None, json_object=False):
+    client = _get_groq_client()
+    if not client:
+        return ""
+    models = models or GROQ_BLOG_MODELS
+    messages = []
+    if system:
+        messages.append({"role": "system", "content": system})
+    messages.append({"role": "user", "content": prompt})
+
+    print("Using Groq...")
+    for model_name in models:
+        try:
+            print(f"Trying Groq model: {model_name}...")
+            kwargs = {"model": model_name, "messages": messages}
+            if json_object:
+                kwargs["response_format"] = {"type": "json_object"}
+            response = client.chat.completions.create(**kwargs)
+            text = (response.choices[0].message.content or "").strip()
+            if text:
+                print(f"Success with Groq {model_name}")
+                return text
+        except Exception as e:
+            print(f"Failed with Groq {model_name}: {e}")
+    return ""
+
+
+def _generate_with_gemini(prompt, models):
+    gemini_key = (os.environ.get("GEMINI_API_KEY") or "").strip()
+    if not gemini_key:
+        return ""
+    print(f"Using Google Gemini... (Library Version: {genai.__version__})")
+    genai.configure(api_key=gemini_key)
+    for model_name in models:
+        try:
+            print(f"Trying model: {model_name}...")
+            model = genai.GenerativeModel(model_name)
+            response = model.generate_content(prompt)
+            text = (response.text or "").strip()
+            if text:
+                print(f"Success with {model_name}")
+                return text
+        except Exception as e:
+            print(f"Failed with {model_name}: {e}")
+    return ""
+
+
+def _generate_with_openai(prompt, *, system=None):
+    openai_key = (os.environ.get("OPENAI_API_KEY") or "").strip()
+    if not openai_key:
+        return ""
+    print("Using OpenAI...")
+    client = OpenAI(api_key=openai_key)
+    messages = []
+    if system:
+        messages.append({"role": "system", "content": system})
+    messages.append({"role": "user", "content": prompt})
+    try:
+        response = client.chat.completions.create(
+            model="gpt-4-turbo-preview",
+            messages=messages,
+        )
+        return (response.choices[0].message.content or "").strip()
+    except Exception as e:
+        print(f"OpenAI failed: {e}")
+        return ""
+
+
+GEMINI_BLOG_MODELS = [
+    "gemini-2.0-flash",
+    "gemini-2.0-flash-001",
+    "gemini-2.5-flash",
+    "gemini-flash-latest",
+]
+
+GEMINI_TAGS_MODELS = [
+    "gemini-2.5-flash",
+    "gemini-flash-latest",
+    "gemini-2.0-flash",
+]
+
+
 def generate_blog_post(news_items):
     # Format news for the prompt
     news_text = ""
@@ -182,65 +283,33 @@ def generate_blog_post(news_items):
 
     prompt = PROMPT_TEMPLATE.format(news_data=news_text)
 
-    # Check for API Keys
-    gemini_key = (os.environ.get("GEMINI_API_KEY") or "").strip()
-    openai_key = (os.environ.get("OPENAI_API_KEY") or "").strip()
+    content = _generate_with_groq(prompt, system="You are a helpful assistant.")
 
-    content = ""
+    if not content:
+        content = _generate_with_gemini(prompt, GEMINI_BLOG_MODELS)
 
-    if gemini_key:
-        print(f"Using Google Gemini... (Library Version: {genai.__version__})")
-        genai.configure(api_key=gemini_key)
-        # Try models in order of preference (gemini-2.0-flash: RAG 챗봇과 동일)
-        models_to_try = [
-            'gemini-2.0-flash',
-            'gemini-2.0-flash-001',
-            'gemini-1.5-flash',
-            'gemini-1.5-flash-latest',
-            'gemini-flash-latest',
-            'gemini-pro-latest',
-            'gemini-1.5-pro',
-            'gemini-1.0-pro',
-            'gemini-pro'
-        ]
-        
-        for model_name in models_to_try:
-            try:
-                print(f"Trying model: {model_name}...")
-                model = genai.GenerativeModel(model_name)
-                response = model.generate_content(prompt)
-                content = response.text
-                print(f"Success with {model_name}")
-                break
-            except Exception as e:
-                print(f"Failed with {model_name}: {e}")
-                continue
-        
-        if not content:
-            print("All models failed. Listing available models:")
-            try:
-                for m in genai.list_models():
-                    if 'generateContent' in m.supported_generation_methods:
-                        print(f"- {m.name}")
-            except Exception as e:
-                print(f"Could not list models: {e}")
-            raise ValueError("Could not generate content with any model.")
-    elif openai_key:
-        print("Using OpenAI...")
-        client = OpenAI(api_key=openai_key)
-        response = client.chat.completions.create(
-            model="gpt-4-turbo-preview",
-            messages=[
-                {"role": "system", "content": "You are a helpful assistant."},
-                {"role": "user", "content": prompt}
-            ]
+    if not content:
+        content = _generate_with_openai(prompt, system="You are a helpful assistant.")
+
+    if not content:
+        has_key = any(
+            (os.environ.get(k) or "").strip()
+            for k in ("GROQ_API_KEY", "GEMINI_API_KEY", "OPENAI_API_KEY")
         )
-        content = response.choices[0].message.content
-    else:
-        raise ValueError(
-            "No API Key found. Please set GEMINI_API_KEY or OPENAI_API_KEY.\n"
-            "GitHub Actions: Repo Settings > Secrets and variables > Actions > New repository secret"
-        )
+        if not has_key:
+            raise ValueError(
+                "No API Key found. Please set GROQ_API_KEY, GEMINI_API_KEY, or OPENAI_API_KEY.\n"
+                "GitHub Actions: Repo Settings > Secrets and variables > Actions > New repository secret"
+            )
+        print("All providers failed. Listing available Gemini models:")
+        try:
+            genai.configure(api_key=(os.environ.get("GEMINI_API_KEY") or "").strip())
+            for m in genai.list_models():
+                if "generateContent" in m.supported_generation_methods:
+                    print(f"- {m.name}")
+        except Exception as e:
+            print(f"Could not list models: {e}")
+        raise ValueError("Could not generate content with any model.")
 
     return content
 
@@ -778,50 +847,30 @@ def generate_tags_from_post_content(content: str) -> list:
     prompt = TAGS_EXTRACTION_PROMPT.format(min_n=min_n, max_n=max_n, article=article)
 
     tags = []
-    gemini_key = os.environ.get("GEMINI_API_KEY")
-    openai_key = os.environ.get("OPENAI_API_KEY")
+    raw = _generate_with_groq(
+        prompt,
+        system="You output only valid JSON.",
+        models=GROQ_TAGS_MODELS,
+        json_object=True,
+    )
+    if raw:
+        tags = _parse_tags_json(raw)
+        if tags:
+            print(f"Tags extracted with Groq: {len(tags)} candidates")
 
-    if gemini_key:
-        try:
-            genai.configure(api_key=gemini_key)
-            models_to_try = [
-                "gemini-flash-latest",
-                "gemini-pro-latest",
-                "gemini-1.5-flash",
-                "gemini-1.5-flash-latest",
-                "gemini-1.5-pro",
-            ]
-            for model_name in models_to_try:
-                try:
-                    model = genai.GenerativeModel(model_name)
-                    response = model.generate_content(prompt)
-                    raw = response.text or ""
-                    tags = _parse_tags_json(raw)
-                    if tags:
-                        print(f"Tags extracted with {model_name}: {len(tags)} candidates")
-                        break
-                except Exception as e:
-                    print(f"Tag extraction failed with {model_name}: {e}")
-                    continue
-        except Exception as e:
-            print(f"Tag extraction (Gemini) error: {e}")
+    if not tags:
+        raw = _generate_with_gemini(prompt, GEMINI_TAGS_MODELS)
+        if raw:
+            tags = _parse_tags_json(raw)
+            if tags:
+                print(f"Tags extracted with Gemini: {len(tags)} candidates")
 
-    if not tags and openai_key:
-        try:
-            client = OpenAI(api_key=openai_key)
-            response = client.chat.completions.create(
-                model="gpt-4-turbo-preview",
-                messages=[
-                    {"role": "system", "content": "You output only valid JSON."},
-                    {"role": "user", "content": prompt},
-                ],
-            )
-            raw = response.choices[0].message.content or ""
+    if not tags:
+        raw = _generate_with_openai(prompt, system="You output only valid JSON.")
+        if raw:
             tags = _parse_tags_json(raw)
             if tags:
                 print(f"Tags extracted with OpenAI: {len(tags)} candidates")
-        except Exception as e:
-            print(f"Tag extraction (OpenAI) error: {e}")
 
     # 명사형·최대 2단어·하이픈 규칙으로 정규화 + 본문 일치
     verified = _finalize_noun_hyphen_tags(tags, content)

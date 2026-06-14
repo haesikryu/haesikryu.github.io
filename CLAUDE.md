@@ -70,7 +70,8 @@ bundle exec htmlproofer _site --disable-external --check-html --allow-hash-href=
 
 ```bash
 python3 -m venv .venv && .venv/bin/pip install -r tools/requirements.txt
-export GEMINI_API_KEY=...   # recommended for ~20 content-based tags
+export GROQ_API_KEY=...      # recommended for daily news + tags
+export GEMINI_API_KEY=...    # fallback
 .venv/bin/python tools/retag_news_posts.py
 ```
 

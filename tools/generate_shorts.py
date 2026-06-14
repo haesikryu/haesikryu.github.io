@@ -3,7 +3,6 @@ import glob
 import re
 import datetime
 from openai import OpenAI
-import google.generativeai as genai
 from moviepy.editor import *
 from google_auth_oauthlib.flow import InstalledAppFlow
 from google.auth.transport.requests import Request
@@ -161,7 +160,7 @@ def download_video(url, filename):
 
 def generate_script_and_keywords(items):
     """
-    Gemini를 사용하여 뉴스 내용을 바탕으로 대본과 검색 키워드를 생성합니다.
+    LLM(Groq → Gemini → OpenAI)으로 뉴스 내용을 바탕으로 대본과 검색 키워드를 생성합니다.
     
     Args:
         items (list): 뉴스 아이템 리스트 [{'title': ..., 'summary': ...}]
@@ -169,15 +168,18 @@ def generate_script_and_keywords(items):
     Returns:
         tuple: (키워드 리스트, 대본 문자열)
     """
-    gemini_key = os.environ.get("GEMINI_API_KEY")
-    if not gemini_key:
-        raise ValueError("GEMINI_API_KEY가 환경 변수에 설정되어 있지 않습니다.")
-    
-    genai.configure(api_key=gemini_key)
-    
-    # 시도할 모델 목록: 최신 Flash 모델부터 순차적으로 시도
-    models_to_try = ['gemini-flash-latest', 'gemini-1.5-flash', 'gemini-pro', 'gemini-1.0-pro']
-    
+    import sys
+    tools_dir = os.path.dirname(os.path.abspath(__file__))
+    if tools_dir not in sys.path:
+        sys.path.insert(0, tools_dir)
+
+    from daily_news import (
+        GEMINI_BLOG_MODELS,
+        _generate_with_gemini,
+        _generate_with_groq,
+        _generate_with_openai,
+    )
+
     news_text = "\n".join([f"- {item['title']}: {item['summary']}" for item in items])
     
     prompt = f"""
@@ -198,17 +200,11 @@ def generate_script_and_keywords(items):
     - 대본은 한국어로 작성하며, 흥미롭고 빠른 호흡이어야 합니다.
     """
     
-    response_text = ""
-    for model_name in models_to_try:
-        try:
-             model = genai.GenerativeModel(model_name)
-             response = model.generate_content(prompt)
-             if response.text:
-                 response_text = response.text
-                 break
-        except Exception as e:
-            print(f"{model_name} 모델로 생성 실패: {e}")
-            continue
+    response_text = (
+        _generate_with_groq(prompt, system="You are a helpful assistant.")
+        or _generate_with_gemini(prompt, GEMINI_BLOG_MODELS)
+        or _generate_with_openai(prompt, system="You are a helpful assistant.")
+    )
 
     # 생성 실패 시 기본값 반환
     if not response_text:
