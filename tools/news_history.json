@@ -1,115 +1,5 @@
 [
   {
-    "title": "때로는 성급한 최적화도 재미있다 (2025)",
-    "link": "https://news.hada.io/topic?id=30323",
-    "date": "2026-06-09"
-  },
-  {
-    "title": "MathCast — 수학 기호 스포트라이트",
-    "link": "https://news.hada.io/topic?id=30321",
-    "date": "2026-06-09"
-  },
-  {
-    "title": "EU 오픈소스 전략",
-    "link": "https://news.hada.io/topic?id=30319",
-    "date": "2026-06-09"
-  },
-  {
-    "title": "왜 이렇게 많은 젊은이가 암에 걸리는가?",
-    "link": "https://news.hada.io/topic?id=30318",
-    "date": "2026-06-09"
-  },
-  {
-    "title": "Show GN: korean-bank-tx-crawler – 국내 개인은행 거래내역을 파이썬 3줄로 가져오기",
-    "link": "https://news.hada.io/topic?id=30317",
-    "date": "2026-06-09"
-  },
-  {
-    "title": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
-    "link": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
-    "date": "2026-06-09"
-  },
-  {
-    "title": "Mercor’s Brendan Foody calls out Sequoia, accusing it of ‘dual-pricing’ valuation tricks",
-    "link": "https://techcrunch.com/2026/06/08/mercors-brendan-foody-calls-out-sequoia-over-dual-pricing-valuation-tricks/",
-    "date": "2026-06-09"
-  },
-  {
-    "title": "As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says",
-    "link": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
-    "date": "2026-06-09"
-  },
-  {
-    "title": "Apple’s WWDC AI demos looked more real after $250M false ad settlement",
-    "link": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/",
-    "date": "2026-06-09"
-  },
-  {
-    "title": "OpenAI files confidentially for IPO, following Anthropic",
-    "link": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
-    "date": "2026-06-09"
-  },
-  {
-    "title": "Confidential submission of draft S-1 to the SEC",
-    "link": "https://openai.com/index/openai-submits-confidential-s-1",
-    "date": "2026-06-09"
-  },
-  {
-    "title": "Built to benefit everyone: our plan",
-    "link": "https://openai.com/index/built-to-benefit-everyone-our-plan",
-    "date": "2026-06-09"
-  },
-  {
-    "title": "Introducing the OpenAI Economic Research Exchange",
-    "link": "https://openai.com/index/economic-research-exchange",
-    "date": "2026-06-09"
-  },
-  {
-    "title": "Five things you need to know about AI",
-    "link": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
-    "date": "2026-06-09"
-  },
-  {
-    "title": "The Download: how the World Cup ball will fly and OpenAI’s “super app”",
-    "link": "https://www.technologyreview.com/2026/06/08/1138485/the-download-world-cup-ball-openai-super-app/",
-    "date": "2026-06-09"
-  },
-  {
-    "title": "NeuroBait: I fine-tuned a model to spark dopamine for ADHD brain",
-    "link": "https://huggingface.co/blog/build-small-hackathon/neurobait-adhd",
-    "date": "2026-06-09"
-  },
-  {
-    "title": "The Open Source Community is backing OpenEnv for Agentic RL",
-    "link": "https://huggingface.co/blog/openenv-agentic-rl",
-    "date": "2026-06-09"
-  },
-  {
-    "title": "FCC lifts looming deadline for Amazon Leo satellite broadband constellation",
-    "link": "https://arstechnica.com/space/2026/06/fcc-lifts-looming-deadline-for-amazon-leo-satellite-broadband-constellation/",
-    "date": "2026-06-09"
-  },
-  {
-    "title": "Tests suggest Russian satellites can jam GPS on a continental scale",
-    "link": "https://arstechnica.com/space/2026/06/tests-suggest-russian-satellites-can-jam-gps-on-a-continental-scale/",
-    "date": "2026-06-09"
-  },
-  {
-    "title": "macOS 27 requires Apple Silicon, as Apple draws down the Intel Mac era",
-    "link": "https://arstechnica.com/gadgets/2026/06/macos-27-requires-apple-silicon-as-apple-draws-down-the-intel-mac-era/",
-    "date": "2026-06-09"
-  },
-  {
-    "title": "iOS 27 and iPadOS 27 don't drop support for any iPhones—and just a few iPads",
-    "link": "https://arstechnica.com/gadgets/2026/06/ios-27-and-ipados-27-dont-drop-support-for-any-iphones-and-just-a-few-ipads/",
-    "date": "2026-06-09"
-  },
-  {
-    "title": "Meta alleges NSO violated spyware injunction with new WhatsApp attacks",
-    "link": "https://arstechnica.com/tech-policy/2026/06/meta-alleges-nso-violated-spyware-injunction-with-new-whatsapp-attacks/",
-    "date": "2026-06-09"
-  },
-  {
     "title": "SpaceX IPO, 100억 달러 규모 이상의 주문이 잇따라 접수되며 초과 청약됨",
     "link": "https://news.hada.io/topic?id=30347",
     "date": "2026-06-10"
@@ -573,5 +463,125 @@
     "title": "These new solid-state ACs promise a cool future. Scientists aren’t so sure.",
     "link": "https://www.technologyreview.com/2026/06/15/1138552/solid-state-acs-promise-cool-future/",
     "date": "2026-06-15"
+  },
+  {
+    "title": "Show GN: Devup UI - 압축률 글로벌 1위 UI 프레임워크, 속도 및 CSS 압축 더욱 개선",
+    "link": "https://news.hada.io/topic?id=30539",
+    "date": "2026-06-16"
+  },
+  {
+    "title": "Hetzner 가격 조정",
+    "link": "https://news.hada.io/topic?id=30538",
+    "date": "2026-06-16"
+  },
+  {
+    "title": "OpenRouter Fusion API",
+    "link": "https://news.hada.io/topic?id=30537",
+    "date": "2026-06-16"
+  },
+  {
+    "title": "Show GN: 창업지원사업을 모두 찾을 수 있는 서비스를 만들어봤습니다.",
+    "link": "https://news.hada.io/topic?id=30536",
+    "date": "2026-06-16"
+  },
+  {
+    "title": "[2026/06/08 ~ 14] 이번 주에 살펴볼 만한 AI/ML 논문 모음",
+    "link": "https://news.hada.io/topic?id=30531",
+    "date": "2026-06-16"
+  },
+  {
+    "title": "SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO",
+    "link": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/",
+    "date": "2026-06-16"
+  },
+  {
+    "title": "Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
+    "link": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
+    "date": "2026-06-16"
+  },
+  {
+    "title": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties",
+    "link": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
+    "date": "2026-06-16"
+  },
+  {
+    "title": "The US government’s Anthropic models ban was never about an AI jailbreak",
+    "link": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+    "date": "2026-06-16"
+  },
+  {
+    "title": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
+    "link": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
+    "date": "2026-06-16"
+  },
+  {
+    "title": "We’re strengthening our presence in Alabama through new investments and community support.",
+    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
+    "date": "2026-06-16"
+  },
+  {
+    "title": "Want to get a data center online quickly? Give it some flex.",
+    "link": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
+    "date": "2026-06-16"
+  },
+  {
+    "title": "Why do South Koreans love AI so much?",
+    "link": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
+    "date": "2026-06-16"
+  },
+  {
+    "title": "This man with ALS is “the first power user” of a brain implant that lets him speak",
+    "link": "https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/",
+    "date": "2026-06-16"
+  },
+  {
+    "title": "Critical Copilot vulnerability allowed hackers to seal 2FA code from users",
+    "link": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
+    "date": "2026-06-16"
+  },
+  {
+    "title": "Commodore’s newest gadget is a flip phone that blocks social media and browsers",
+    "link": "https://arstechnica.com/gadgets/2026/06/commodores-newest-gadget-is-a-flip-phone-that-blocks-social-media-and-browsers/",
+    "date": "2026-06-16"
+  },
+  {
+    "title": "Key mission for Europe's commercial space enterprise scrubbed again",
+    "link": "https://arstechnica.com/space/2026/06/key-mission-for-europes-commercial-space-enterprise-scrubbed-again/",
+    "date": "2026-06-16"
+  },
+  {
+    "title": "Heart protection from COVID shots remains amid updates, study finds",
+    "link": "https://arstechnica.com/health/2026/06/covid-vaccines-still-protect-against-heart-problems-large-study-finds/",
+    "date": "2026-06-16"
+  },
+  {
+    "title": "UK to ban social media for kids under 16, may impose overnight curfews",
+    "link": "https://arstechnica.com/tech-policy/2026/06/uk-to-ban-social-media-for-kids-under-16-may-impose-overnight-curfews/",
+    "date": "2026-06-16"
+  },
+  {
+    "title": "EU publishes its AI content labelling playbook ahead of the AI Act’s August deadline",
+    "link": "https://www.artificialintelligence-news.com/news/ai-content-labelling-eu-code-of-practice/",
+    "date": "2026-06-16"
+  },
+  {
+    "title": "AI Red Teaming Explained: What It Is and Why You Need It",
+    "link": "https://www.artificialintelligence-news.com/news/ai-red-teaming-explained-what-it-is-and-why-you-need-it/",
+    "date": "2026-06-16"
+  },
+  {
+    "title": "How AI-Powered CMS Platforms Are Transforming Enterprise Content Operations",
+    "link": "https://www.artificialintelligence-news.com/news/how-ai-powered-cms-platforms-are-transforming-enterprise-content-operations/",
+    "date": "2026-06-16"
+  },
+  {
+    "title": "HarmonyOS 7 steps into the AI gap Apple left open in China",
+    "link": "https://www.artificialintelligence-news.com/news/harmonyos-7-china-ai-apple-gap/",
+    "date": "2026-06-16"
+  },
+  {
+    "title": "Accenture: Consumers show growing trust in AI shopping agents",
+    "link": "https://www.artificialintelligence-news.com/news/ai-shopping-agents-consumer-trust-accenture-report/",
+    "date": "2026-06-16"
   }
 ]
