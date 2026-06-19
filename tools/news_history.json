@@ -708,5 +708,140 @@
     "title": "Tesco moving 40,000 server workloads off VMware amid Broadcom's “abusive conduct”",
     "link": "https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/",
     "date": "2026-06-18"
+  },
+  {
+    "title": "AMD, 소비자용 Ryzen CPU에서 메모리 암호화 조용히 제거",
+    "link": "https://news.hada.io/topic?id=30631",
+    "date": "2026-06-19"
+  },
+  {
+    "title": "로컬 Qwen은 더 나쁜 Opus가 아니라 다른 도구다",
+    "link": "https://news.hada.io/topic?id=30630",
+    "date": "2026-06-19"
+  },
+  {
+    "title": "스위스 의회, 신규 원전 금지 해제",
+    "link": "https://news.hada.io/topic?id=30629",
+    "date": "2026-06-19"
+  },
+  {
+    "title": "Microsoft 새 Outlook, Classic 버전에선 즉시 하는 작업에 10초나 걸림",
+    "link": "https://news.hada.io/topic?id=30628",
+    "date": "2026-06-19"
+  },
+  {
+    "title": "Git에서 파일을 무시하는 방법은 .gitignore만이 아님",
+    "link": "https://news.hada.io/topic?id=30627",
+    "date": "2026-06-19"
+  },
+  {
+    "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
+    "link": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+    "date": "2026-06-19"
+  },
+  {
+    "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
+    "link": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
+    "date": "2026-06-19"
+  },
+  {
+    "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
+    "link": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
+    "date": "2026-06-19"
+  },
+  {
+    "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
+    "link": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
+    "date": "2026-06-19"
+  },
+  {
+    "title": "Almost half of US singles feel negatively about AI in dating, Match says",
+    "link": "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/",
+    "date": "2026-06-19"
+  },
+  {
+    "title": "New usage analytics and updated spend controls for enterprises",
+    "link": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+    "date": "2026-06-19"
+  },
+  {
+    "title": "Improving health intelligence in ChatGPT",
+    "link": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+    "date": "2026-06-19"
+  },
+  {
+    "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+    "link": "https://openai.com/index/diagnose-rare-childhood-diseases",
+    "date": "2026-06-19"
+  },
+  {
+    "title": "The Download: a new hunt for dark matter and Kenya’s case for going solar",
+    "link": "https://www.technologyreview.com/2026/06/18/1139261/the-download-dark-matter-hunt-kenya-solar-power/",
+    "date": "2026-06-19"
+  },
+  {
+    "title": "Geoengineering still faces major practical challenges",
+    "link": "https://www.technologyreview.com/2026/06/18/1139227/geoengineering-engineering-challenges/",
+    "date": "2026-06-19"
+  },
+  {
+    "title": "The search for dark matter has been blown wide open",
+    "link": "https://www.technologyreview.com/2026/06/18/1138755/search-for-dark-matter-blown-wide-open/",
+    "date": "2026-06-19"
+  },
+  {
+    "title": "MosaicLeaks: Can your research agent keep a secret?",
+    "link": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+    "date": "2026-06-19"
+  },
+  {
+    "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+    "link": "https://huggingface.co/blog/peft-beyond-lora",
+    "date": "2026-06-19"
+  },
+  {
+    "title": "Is it agentic enough? Benchmarking open models on your own tooling",
+    "link": "https://huggingface.co/blog/is-it-agentic-enough",
+    "date": "2026-06-19"
+  },
+  {
+    "title": "A bold satellite rescue mission came together in record time, but will it work?",
+    "link": "https://arstechnica.com/space/2026/06/a-bold-satellite-rescue-mission-came-together-in-record-time-but-will-it-work/",
+    "date": "2026-06-19"
+  },
+  {
+    "title": "Microsoft discovers new lightweight backdoor that steals cryptocurrency",
+    "link": "https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/",
+    "date": "2026-06-19"
+  },
+  {
+    "title": "FDA advisors unanimously vote to approve Moderna's mRNA after agency drama",
+    "link": "https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/",
+    "date": "2026-06-19"
+  },
+  {
+    "title": "As China looms, Taiwan makes more drones for defense and the US military",
+    "link": "https://arstechnica.com/ai/2026/06/as-china-looms-taiwan-makes-more-drones-for-defense-and-the-us-military/",
+    "date": "2026-06-19"
+  },
+  {
+    "title": "NASA asks Northrop Grumman to stop working on lunar HALO module",
+    "link": "https://arstechnica.com/space/2026/06/nasas-1-1-billion-gateway-habitation-module-is-unlikely-to-be-used-for-something-else/",
+    "date": "2026-06-19"
+  },
+  {
+    "title": "Computer vision deployments drive retail productivity gains",
+    "link": "https://www.artificialintelligence-news.com/news/computer-vision-deployments-drive-retail-productivity-gains/",
+    "date": "2026-06-19"
+  },
+  {
+    "title": "HSBC expands AI banking partnership with Google Cloud",
+    "link": "https://www.artificialintelligence-news.com/news/hsbc-google-cloud-ai-partnership/",
+    "date": "2026-06-19"
+  },
+  {
+    "title": "Microsoft sells OpenAI models in China. OpenAI and Anthropic won’t.",
+    "link": "https://www.artificialintelligence-news.com/news/microsoft-sells-openai-models-china/",
+    "date": "2026-06-19"
   }
 ]
