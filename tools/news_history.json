@@ -1,175 +1,5 @@
 [
   {
-    "title": "GLM 5.2 출시",
-    "link": "https://news.hada.io/topic?id=30478",
-    "date": "2026-06-14"
-  },
-  {
-    "title": "이메일의 미래",
-    "link": "https://news.hada.io/topic?id=30477",
-    "date": "2026-06-14"
-  },
-  {
-    "title": "repo-slopscore: 커밋 기록 분석으로 Git 저장소의 AI/LLM 기여 감지",
-    "link": "https://news.hada.io/topic?id=30475",
-    "date": "2026-06-14"
-  },
-  {
-    "title": "이 Fable 사안에 드리운 거대한 그림자",
-    "link": "https://news.hada.io/topic?id=30474",
-    "date": "2026-06-14"
-  },
-  {
-    "title": "Mozilla를 떠나며",
-    "link": "https://news.hada.io/topic?id=30473",
-    "date": "2026-06-14"
-  },
-  {
-    "title": "As Anthropic suspends access to new models, India debates its AI future",
-    "link": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
-    "date": "2026-06-14"
-  },
-  {
-    "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
-    "link": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
-    "date": "2026-06-14"
-  },
-  {
-    "title": "KPMG pulls report on AI usage due to apparent hallucinations",
-    "link": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
-    "date": "2026-06-14"
-  },
-  {
-    "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
-    "link": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
-    "date": "2026-06-14"
-  },
-  {
-    "title": "OpenAI faces investigation from state attorneys general",
-    "link": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
-    "date": "2026-06-14"
-  },
-  {
-    "title": "New OpenAI Academy courses for the next era of work",
-    "link": "https://openai.com/index/academy-courses-applying-ai-at-work",
-    "date": "2026-06-14"
-  },
-  {
-    "title": "How Preply combines AI and human tutors to personalize learning",
-    "link": "https://openai.com/index/preply",
-    "date": "2026-06-14"
-  },
-  {
-    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-    "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-    "date": "2026-06-14"
-  },
-  {
-    "title": "BBVA puts AI at the core of banking with OpenAI",
-    "link": "https://openai.com/index/bbva",
-    "date": "2026-06-14"
-  },
-  {
-    "title": "OpenAI to acquire Ona",
-    "link": "https://openai.com/index/openai-to-acquire-ona",
-    "date": "2026-06-14"
-  },
-  {
-    "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
-    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
-    "date": "2026-06-14"
-  },
-  {
-    "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
-    "link": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
-    "date": "2026-06-14"
-  },
-  {
-    "title": "The Download: “reprogramming” aging, and the hidden sense of interoception",
-    "link": "https://www.technologyreview.com/2026/06/12/1138899/the-download-reprogramming-reverse-aging-interoception/",
-    "date": "2026-06-14"
-  },
-  {
-    "title": "You do your own time",
-    "link": "https://www.technologyreview.com/2026/06/12/1138518/you-do-your-own-time-fiction/",
-    "date": "2026-06-14"
-  },
-  {
-    "title": "Why “reprogramming” is the buzziest approach to reversing aging right now",
-    "link": "https://www.technologyreview.com/2026/06/12/1138829/reprogramming-buzziest-approach-reversing-aging-right-now/",
-    "date": "2026-06-14"
-  },
-  {
-    "title": "Inside interoception: The hidden sense of how you feel inside",
-    "link": "https://www.technologyreview.com/2026/06/12/1138833/inside-interoception-brain-body/",
-    "date": "2026-06-14"
-  },
-  {
-    "title": "The Download: soccer’s data renaissance and China’s big nuclear plans",
-    "link": "https://www.technologyreview.com/2026/06/11/1138809/the-download-soccer-football-data-analytics-china-nuclear-power/",
-    "date": "2026-06-14"
-  },
-  {
-    "title": "olmo-eval: An evaluation workbench for the model development loop",
-    "link": "https://huggingface.co/blog/allenai/olmo-eval",
-    "date": "2026-06-14"
-  },
-  {
-    "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
-    "link": "https://huggingface.co/blog/torch-mlp-fusion",
-    "date": "2026-06-14"
-  },
-  {
-    "title": "Review: Disclosure Day is big on action, light on ideas",
-    "link": "https://arstechnica.com/culture/2026/06/review-disclosure-day-is-big-on-action-light-on-ideas/",
-    "date": "2026-06-14"
-  },
-  {
-    "title": "Threads of underground fungal networks are long enough to reach beyond the Solar System",
-    "link": "https://arstechnica.com/science/2026/06/threads-of-underground-fungal-networks-are-long-enough-to-reach-beyond-the-solar-system/",
-    "date": "2026-06-14"
-  },
-  {
-    "title": "Anthropic shuts down Fable, Mythos models following Trump admin directive",
-    "link": "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/",
-    "date": "2026-06-14"
-  },
-  {
-    "title": "SpaceX is now a public company valued for its AI potential, so what comes next?",
-    "link": "https://arstechnica.com/space/2026/06/spacex-is-now-a-public-company-valued-for-its-ai-potential-so-what-comes-next/",
-    "date": "2026-06-14"
-  },
-  {
-    "title": "PeopleSoft 0-day affecting hundreds of organizations steals gigabytes of data",
-    "link": "https://arstechnica.com/security/2026/06/peoplesoft-0-day-affecting-hundreds-of-organizations-steals-gigabytes-of-data/",
-    "date": "2026-06-14"
-  },
-  {
-    "title": "Coinbase for Agents: Automating portfolio trading with AI",
-    "link": "https://www.artificialintelligence-news.com/news/coinbase-for-agents-automating-portfolio-trading-with-ai/",
-    "date": "2026-06-14"
-  },
-  {
-    "title": "Visa ChatGPT integration enables AI agent retail purchasing",
-    "link": "https://www.artificialintelligence-news.com/news/visa-chatgpt-integration-enables-ai-agent-retail-purchasing/",
-    "date": "2026-06-14"
-  },
-  {
-    "title": "Xebia: Why AI agents fail without the right data foundation",
-    "link": "https://www.artificialintelligence-news.com/news/xebia-on-building-the-data-foundation-for-ai-agents-and-then-accelerating/",
-    "date": "2026-06-14"
-  },
-  {
-    "title": "Siri AI arrives with Google inside, and much of the world is locked out",
-    "link": "https://www.artificialintelligence-news.com/news/siri-ai-google-gemini-rollout/",
-    "date": "2026-06-14"
-  },
-  {
-    "title": "McDonald’s tests Google-backed AI drive-thru ordering system",
-    "link": "https://www.artificialintelligence-news.com/news/mcdonalds-ai-drive-thru-google-archiq/",
-    "date": "2026-06-14"
-  },
-  {
     "title": "에코시스템 없는 프론티어는 안정적이지 않다",
     "link": "https://news.hada.io/topic?id=30498",
     "date": "2026-06-15"
@@ -963,5 +793,50 @@
     "title": "e2e-assure introduces Cumulo, the U.K.’s only sovereign, AI-driven, zero-day SOC platform to secure IT and OT environments",
     "link": "https://www.artificialintelligence-news.com/news/e2e-assure-introduces-cumulo-the-u-k-s-only-sovereign-ai-driven-zero-day-soc-platform-to-secure-it-and-ot-environments/",
     "date": "2026-06-20"
+  },
+  {
+    "title": "아직도 Emacs를 쓰는 사람이 있나요?",
+    "link": "https://news.hada.io/topic?id=30682",
+    "date": "2026-06-21"
+  },
+  {
+    "title": "파비콘에 웹사이트를 저장한 실험",
+    "link": "https://news.hada.io/topic?id=30681",
+    "date": "2026-06-21"
+  },
+  {
+    "title": "Obscure Sorrows의 대규모 표절",
+    "link": "https://news.hada.io/topic?id=30680",
+    "date": "2026-06-21"
+  },
+  {
+    "title": "화면이 보여줄 수 없는 색은 어디에 있을까",
+    "link": "https://news.hada.io/topic?id=30679",
+    "date": "2026-06-21"
+  },
+  {
+    "title": "CSSQuake",
+    "link": "https://news.hada.io/topic?id=30678",
+    "date": "2026-06-21"
+  },
+  {
+    "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+    "link": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+    "date": "2026-06-21"
+  },
+  {
+    "title": "In the Weights is your new AI-centric vanity search",
+    "link": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+    "date": "2026-06-21"
+  },
+  {
+    "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+    "link": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+    "date": "2026-06-21"
+  },
+  {
+    "title": "The UK will scan asylum-seekers’ faces for age checks—despite knowing the tech is flawed",
+    "link": "https://arstechnica.com/tech-policy/2026/06/the-uk-will-scan-asylum-seekers-faces-for-age-checks-despite-knowing-the-tech-is-flawed/",
+    "date": "2026-06-21"
   }
 ]
