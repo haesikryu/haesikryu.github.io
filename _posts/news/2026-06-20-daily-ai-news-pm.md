@@ -17,7 +17,7 @@ tags:
 - agentic
 - commerce
 - agent
-title: 2026-06-20 Daily AI & Tech News
+title: Atproto의 인스턴스 모델 등 4개 기사
 ---
 
 안녕하세요!

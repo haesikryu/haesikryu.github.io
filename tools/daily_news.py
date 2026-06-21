@@ -53,7 +53,7 @@ Your task is to:
 3. Start with a simple greeting like "안녕하세요!" and do not use placeholders like [Your Name] or introduce yourself.
 4. The post should have a catchy title.
 5. For each story, provide comprehensive details (2-3 paragraphs per story):
-    - A clear title as a header (e.g. ## 1. Title)
+    - A clear title as a header (e.g. ## 1. Title — use h2 `##`, not h3 `###`)
     - **Summary:** A detailed explanation of the event or announcement.
     - **Why it matters:** An analysis of its significance.
     - **Source:** [Link to Article](URL)
@@ -974,11 +974,11 @@ def _filter_noise_tags(tags: list, content: str | None = None) -> list:
 
 def _extract_first_title(content):
     """
-    콘텐츠에서 첫 번째 뉴스 제목(## 1. 제목)을 그대로 추출하여 반환합니다.
+    콘텐츠에서 첫 번째 뉴스 제목(## 1. 또는 ### 1. 제목)을 그대로 추출하여 반환합니다.
     """
     if not content or not isinstance(content, str):
         return None
-    m = re.search(r'^##\s*1\.\s*(.+?)(?:\n|$)', content.strip(), re.MULTILINE)
+    m = re.search(r'^#{2,3}\s*1\.\s*(.+?)(?:\n|$)', content.strip(), re.MULTILINE)
     if not m:
         return None
     title = m.group(1).strip()
@@ -996,10 +996,10 @@ def _title_to_slug(title):
 
 
 def _count_articles_in_content(content):
-    """콘텐츠 내 '## N. 제목' 형식의 기사 개수를 반환합니다."""
+    """콘텐츠 내 '## N.' 또는 '### N.' 형식의 기사 개수를 반환합니다."""
     if not content or not isinstance(content, str):
         return 0
-    matches = re.findall(r'^##\s*\d+\.\s', content.strip(), re.MULTILINE)
+    matches = re.findall(r'^#{2,3}\s*\d+\.\s', content.strip(), re.MULTILINE)
     return len(matches)
 
 
