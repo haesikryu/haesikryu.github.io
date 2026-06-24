@@ -1,175 +1,5 @@
 [
   {
-    "title": "내가 전혀 모르는 사람들에게 이메일을 보내는 이유",
-    "link": "https://news.hada.io/topic?id=30569",
-    "date": "2026-06-17"
-  },
-  {
-    "title": "인류는 다가오는 지능 폭발에 대한 준비가 되어 있지 않다",
-    "link": "https://news.hada.io/topic?id=30568",
-    "date": "2026-06-17"
-  },
-  {
-    "title": "AI가 만든 UI가 어딘가 어색한 이유 — 정합성(coherence)",
-    "link": "https://news.hada.io/topic?id=30567",
-    "date": "2026-06-17"
-  },
-  {
-    "title": "Show GN: 개인용 기지국을 만드는 오픈소스 프로젝트",
-    "link": "https://news.hada.io/topic?id=30566",
-    "date": "2026-06-17"
-  },
-  {
-    "title": "연구자들 “Fable 5 논란은 탈옥이 아니라 ‘fix this code’에서 시작됐다”",
-    "link": "https://news.hada.io/topic?id=30565",
-    "date": "2026-06-17"
-  },
-  {
-    "title": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
-    "link": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
-    "date": "2026-06-17"
-  },
-  {
-    "title": "SpaceX valuation balloons to $2.6T, briefly passes Amazon",
-    "link": "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/",
-    "date": "2026-06-17"
-  },
-  {
-    "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
-    "link": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
-    "date": "2026-06-17"
-  },
-  {
-    "title": "Sixty percent of US consumers say ‘AI’ in brand messaging is a turnoff, survey finds",
-    "link": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
-    "date": "2026-06-17"
-  },
-  {
-    "title": "SpaceX is public: Everything you need to know post-IPO",
-    "link": "https://techcrunch.com/2026/06/16/spacex-is-public-everything-you-need-to-know-post-ipo/",
-    "date": "2026-06-17"
-  },
-  {
-    "title": "Predicting model behavior before release by simulating deployment",
-    "link": "https://openai.com/index/deployment-simulation",
-    "date": "2026-06-17"
-  },
-  {
-    "title": "How an astrophysicist uses Codex to help simulate black holes",
-    "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
-    "date": "2026-06-17"
-  },
-  {
-    "title": "Exclusive eBook: How AI is becoming the next military advisor",
-    "link": "https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/",
-    "date": "2026-06-17"
-  },
-  {
-    "title": "The Download: the first brain implant power user and South Korea’s AI obsession",
-    "link": "https://www.technologyreview.com/2026/06/16/1139010/the-download-brain-implant-power-user-bci-south-korea-ai-obsession/",
-    "date": "2026-06-17"
-  },
-  {
-    "title": "The Open Source Community is backing OpenEnv for Agentic RL",
-    "link": "https://huggingface.co/blog/openenv-agentic-rl",
-    "date": "2026-06-17"
-  },
-  {
-    "title": "Trump admin tries to block Clean Air Act lawsuit over xAI's gas turbines",
-    "link": "https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/",
-    "date": "2026-06-17"
-  },
-  {
-    "title": "Year of free HPE software a “step in the correct direction” in VMware rivalry",
-    "link": "https://arstechnica.com/information-technology/2026/06/hpe-tempts-vmware-users-partners-with-year-of-free-virtualization-software/",
-    "date": "2026-06-17"
-  },
-  {
-    "title": "Cockroaches scurry around with thousands of pieces of bacterial genomes",
-    "link": "https://arstechnica.com/science/2026/06/cockroaches-scurry-around-with-thousands-of-pieces-of-bacterial-genomes/",
-    "date": "2026-06-17"
-  },
-  {
-    "title": "Among the large new rockets Amazon was counting on, only Europe has delivered",
-    "link": "https://arstechnica.com/space/2026/06/amid-launch-bottleneck-amazon-has-hundreds-of-satellites-waiting-to-fly/",
-    "date": "2026-06-17"
-  },
-  {
-    "title": "Anthropic \"pauses\" token-based billing for its Claude Agent SDK",
-    "link": "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
-    "date": "2026-06-17"
-  },
-  {
-    "title": "Insurers pivot AI strategy toward core risk underwriting",
-    "link": "https://www.artificialintelligence-news.com/news/insurers-pivot-ai-strategy-toward-core-risk-underwriting/",
-    "date": "2026-06-17"
-  },
-  {
-    "title": "하지만 yak shaving은 재미있다",
-    "link": "https://news.hada.io/topic?id=30578",
-    "date": "2026-06-17"
-  },
-  {
-    "title": "Rust와 C/C++의 메모리 안전성 CVE는 왜 다르게 집계되는가",
-    "link": "https://news.hada.io/topic?id=30577",
-    "date": "2026-06-17"
-  },
-  {
-    "title": "Allwinner A733 심층 분석: ArmSoM이 Sige6에 이 칩을 선택한 이유",
-    "link": "https://news.hada.io/topic?id=30576",
-    "date": "2026-06-17"
-  },
-  {
-    "title": "Show GN: Clutio – 웹에서 읽으며 외국어를 공부하는 크롬 확장 (서버·로그인 없음)",
-    "link": "https://news.hada.io/topic?id=30575",
-    "date": "2026-06-17"
-  },
-  {
-    "title": "Meta는 엔지니어링 조직을 망가뜨리고 있는가?",
-    "link": "https://news.hada.io/topic?id=30574",
-    "date": "2026-06-17"
-  },
-  {
-    "title": "How we used Gemini to build Google I/O 2026",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
-    "date": "2026-06-17"
-  },
-  {
-    "title": "Entrepreneurs in Nairobi make the case for going solar",
-    "link": "https://www.technologyreview.com/2026/06/17/1138600/entrepreneurs-nairobi-case-for-going-solar/",
-    "date": "2026-06-17"
-  },
-  {
-    "title": "Hacking the atmosphere: Geoengineering gets a reality check",
-    "link": "https://www.technologyreview.com/2026/06/17/1138743/hacking-atmosphere-geoengineering-reality-check/",
-    "date": "2026-06-17"
-  },
-  {
-    "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
-    "link": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
-    "date": "2026-06-17"
-  },
-  {
-    "title": "GLM-5.2: Built for Long-Horizon Tasks",
-    "link": "https://huggingface.co/blog/zai-org/glm-52-blog",
-    "date": "2026-06-17"
-  },
-  {
-    "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
-    "link": "https://huggingface.co/blog/mishig/spaces-agents-md",
-    "date": "2026-06-17"
-  },
-  {
-    "title": "Windows and Linux users: The deadline to update Secure Boot keys is near",
-    "link": "https://arstechnica.com/security/2026/06/windows-and-linux-users-the-deadline-to-update-secure-boot-keys-is-near/",
-    "date": "2026-06-17"
-  },
-  {
-    "title": "Google Cloud generative AI automates council planning operations",
-    "link": "https://www.artificialintelligence-news.com/news/google-cloud-generative-ai-automates-council-planning-operations/",
-    "date": "2026-06-17"
-  },
-  {
     "title": "Anthropic, 서울 사무소 공식 개소…네이버·넥슨·삼성SDS·LG CNS 등과 전방위 파트너십",
     "link": "https://news.hada.io/topic?id=30600",
     "date": "2026-06-18"
@@ -898,5 +728,120 @@
     "title": "L’Oréal brings Maybelline virtual try-on to ChatGPT",
     "link": "https://www.artificialintelligence-news.com/news/loreal-maybelline-virtual-try-on-chatgpt/",
     "date": "2026-06-23"
+  },
+  {
+    "title": "Show GN: SSH 터널 매니저 - GUI, 맥/윈도용",
+    "link": "https://news.hada.io/topic?id=30784",
+    "date": "2026-06-24"
+  },
+  {
+    "title": "이스라엘의 가자지구 어린이 표적 공격이 집단학살로 이어졌다는 유엔 조사 결과",
+    "link": "https://news.hada.io/topic?id=30782",
+    "date": "2026-06-24"
+  },
+  {
+    "title": "Mistral OCR 4 공개",
+    "link": "https://news.hada.io/topic?id=30781",
+    "date": "2026-06-24"
+  },
+  {
+    "title": "F3 - 미래를 위한 오픈소스 데이터 파일 형식",
+    "link": "https://news.hada.io/topic?id=30780",
+    "date": "2026-06-24"
+  },
+  {
+    "title": "우리가 “연령 확인”이라고 부르는 것은 실제로 대규모 감시다",
+    "link": "https://news.hada.io/topic?id=30779",
+    "date": "2026-06-24"
+  },
+  {
+    "title": "India’s MoEngage bets that the future of marketing is millions of AI agents",
+    "link": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
+    "date": "2026-06-24"
+  },
+  {
+    "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
+    "link": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
+    "date": "2026-06-24"
+  },
+  {
+    "title": "4 days left to save up to $190 on TechCrunch Founder Summit 2026",
+    "link": "https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
+    "date": "2026-06-24"
+  },
+  {
+    "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
+    "link": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
+    "date": "2026-06-24"
+  },
+  {
+    "title": "Helping build shared standards for advanced AI",
+    "link": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+    "date": "2026-06-24"
+  },
+  {
+    "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+    "link": "https://openai.com/index/gpt-5-immunology-mystery",
+    "date": "2026-06-24"
+  },
+  {
+    "title": "Heads in the game",
+    "link": "https://www.technologyreview.com/2026/06/23/1138214/heads-in-the-game/",
+    "date": "2026-06-24"
+  },
+  {
+    "title": "Super Mario is mathier than you think",
+    "link": "https://www.technologyreview.com/2026/06/23/1138262/super-mario-is-mathier-than-you-think/",
+    "date": "2026-06-24"
+  },
+  {
+    "title": "A man of many words",
+    "link": "https://www.technologyreview.com/2026/06/23/1138267/a-man-of-many-words/",
+    "date": "2026-06-24"
+  },
+  {
+    "title": "Sharing a love for calculus",
+    "link": "https://www.technologyreview.com/2026/06/23/1138271/sharing-a-love-for-calculus/",
+    "date": "2026-06-24"
+  },
+  {
+    "title": "Stand Up for Research, Innovation, and Education",
+    "link": "https://www.technologyreview.com/2026/06/23/1138274/stand-up-for-research-innovation-and-education-6/",
+    "date": "2026-06-24"
+  },
+  {
+    "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+    "link": "https://huggingface.co/blog/ibm-research/cuga-apps",
+    "date": "2026-06-24"
+  },
+  {
+    "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+    "link": "https://huggingface.co/blog/cross-origin-storage",
+    "date": "2026-06-24"
+  },
+  {
+    "title": "White House drastically shortens deadline for dropping quantum-vulnerable crypto",
+    "link": "https://arstechnica.com/information-technology/2026/06/executive-order-bumps-up-deadline-to-move-off-quantum-vulnerable-crypto/",
+    "date": "2026-06-24"
+  },
+  {
+    "title": "US's climate.gov site, taken down by Trump, relaunched by nonprofit",
+    "link": "https://arstechnica.com/science/2026/06/uss-climate-gov-site-taken-down-by-trump-relaunched-by-nonprofit/",
+    "date": "2026-06-24"
+  },
+  {
+    "title": "Odd police video shows drone removing knife from motionless suspect",
+    "link": "https://arstechnica.com/gadgets/2026/06/police-tout-using-drone-to-disarm-incapacitated-person-in-nationwide-first/",
+    "date": "2026-06-24"
+  },
+  {
+    "title": "Oracle’s 21,000 layoffs help drive its debt-fueled AI investments",
+    "link": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
+    "date": "2026-06-24"
+  },
+  {
+    "title": "A curious crossover: The Toyota C-HR review",
+    "link": "https://arstechnica.com/cars/2026/06/a-curious-crossover-the-toyota-c-hr-review/",
+    "date": "2026-06-24"
   }
 ]
