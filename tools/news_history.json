@@ -1,80 +1,5 @@
 [
   {
-    "title": "atproto에는 인스턴스가 없다",
-    "link": "https://news.hada.io/topic?id=30662",
-    "date": "2026-06-20"
-  },
-  {
-    "title": "AI 엔지니어가 Linear A를 해독했다고 주장",
-    "link": "https://news.hada.io/topic?id=30661",
-    "date": "2026-06-20"
-  },
-  {
-    "title": "토큰 압축의 착시: RTK에 회의적인 이유",
-    "link": "https://news.hada.io/topic?id=30660",
-    "date": "2026-06-20"
-  },
-  {
-    "title": "Well-Known URI를 정의하고 싶다면",
-    "link": "https://news.hada.io/topic?id=30659",
-    "date": "2026-06-20"
-  },
-  {
-    "title": "경제가 보지 못하는 방",
-    "link": "https://news.hada.io/topic?id=30658",
-    "date": "2026-06-20"
-  },
-  {
-    "title": "From PGP to Mythos: a brief history of export controls that didn’t stop anyone",
-    "link": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
-    "date": "2026-06-20"
-  },
-  {
-    "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
-    "link": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
-    "date": "2026-06-20"
-  },
-  {
-    "title": "The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care",
-    "link": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
-    "date": "2026-06-20"
-  },
-  {
-    "title": "Billionaire Ambani wants AI in every call, app, and home",
-    "link": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
-    "date": "2026-06-20"
-  },
-  {
-    "title": "The CEO of Allbirds’ new AI biz has a plan, but no team",
-    "link": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
-    "date": "2026-06-20"
-  },
-  {
-    "title": "The Download: AI bottleneck debates, and BCI trials take off",
-    "link": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
-    "date": "2026-06-20"
-  },
-  {
-    "title": "Rocket Report: Rebuild begins at Blue Origin launch pad; Relativity targets Mars",
-    "link": "https://arstechnica.com/space/2026/06/rocket-report-rebuild-begins-at-blue-origin-launch-pad-relativity-targets-mars/",
-    "date": "2026-06-20"
-  },
-  {
-    "title": "As global warming threatens corals, scientists search for reefs that can take the heat",
-    "link": "https://arstechnica.com/science/2026/06/as-global-warming-threatens-corals-scientists-search-for-reefs-that-can-take-the-heat/",
-    "date": "2026-06-20"
-  },
-  {
-    "title": "SAP and Google Cloud deploy agentic commerce architecture",
-    "link": "https://www.artificialintelligence-news.com/news/sap-and-google-cloud-deploy-agentic-commerce-architecture/",
-    "date": "2026-06-20"
-  },
-  {
-    "title": "e2e-assure introduces Cumulo, the U.K.’s only sovereign, AI-driven, zero-day SOC platform to secure IT and OT environments",
-    "link": "https://www.artificialintelligence-news.com/news/e2e-assure-introduces-cumulo-the-u-k-s-only-sovereign-ai-driven-zero-day-soc-platform-to-secure-it-and-ot-environments/",
-    "date": "2026-06-20"
-  },
-  {
     "title": "아직도 Emacs를 쓰는 사람이 있나요?",
     "link": "https://news.hada.io/topic?id=30682",
     "date": "2026-06-21"
@@ -868,5 +793,100 @@
     "title": "Anthropic says Alibaba must be punished for largest Claude cloning attack",
     "link": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/",
     "date": "2026-06-26"
+  },
+  {
+    "title": "37signals의 의사결정 가이드",
+    "link": "https://news.hada.io/topic?id=30872",
+    "date": "2026-06-27"
+  },
+  {
+    "title": "가짜 트랙션 문제",
+    "link": "https://news.hada.io/topic?id=30871",
+    "date": "2026-06-27"
+  },
+  {
+    "title": "&#039;기획 하네스(planning harness)&#039;로 완성하는 상세기획 워크플로우 자동화",
+    "link": "https://news.hada.io/topic?id=30870",
+    "date": "2026-06-27"
+  },
+  {
+    "title": "오픈소스 보안을 함께 지키기 위한 Akrites 공개서한",
+    "link": "https://news.hada.io/topic?id=30869",
+    "date": "2026-06-27"
+  },
+  {
+    "title": "CVE-2026-LGTM 사고 보고서",
+    "link": "https://news.hada.io/topic?id=30868",
+    "date": "2026-06-27"
+  },
+  {
+    "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
+    "link": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+    "date": "2026-06-27"
+  },
+  {
+    "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
+    "link": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+    "date": "2026-06-27"
+  },
+  {
+    "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
+    "link": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
+    "date": "2026-06-27"
+  },
+  {
+    "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+    "link": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
+    "date": "2026-06-27"
+  },
+  {
+    "title": "It’s not about Anthropic vs. OpenAI anymore",
+    "link": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
+    "date": "2026-06-27"
+  },
+  {
+    "title": "Previewing GPT-5.6 Sol: a next-generation model",
+    "link": "https://openai.com/index/previewing-gpt-5-6-sol",
+    "date": "2026-06-27"
+  },
+  {
+    "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
+    "link": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
+    "date": "2026-06-27"
+  },
+  {
+    "title": "Heat waves mess with your brain. Scientists are trying to figure out why.",
+    "link": "https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/",
+    "date": "2026-06-27"
+  },
+  {
+    "title": "South Korea plans to train entire military as \"drone warriors\"",
+    "link": "https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/",
+    "date": "2026-06-27"
+  },
+  {
+    "title": "Doctors suspected man had brain cancer. He actually had worms.",
+    "link": "https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/",
+    "date": "2026-06-27"
+  },
+  {
+    "title": "Streaming services’ obnoxiously loud ads become illegal on July 1 in California",
+    "link": "https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/",
+    "date": "2026-06-27"
+  },
+  {
+    "title": "Russian citizens told \"switch to Android\" after Apple blocks key Russian apps",
+    "link": "https://arstechnica.com/gadgets/2026/06/russian-citizens-told-switch-to-android-after-apple-blocks-key-russian-apps/",
+    "date": "2026-06-27"
+  },
+  {
+    "title": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
+    "link": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
+    "date": "2026-06-27"
+  },
+  {
+    "title": "SAP aligns commerce data for AI personalisation",
+    "link": "https://www.artificialintelligence-news.com/news/sap-aligns-commerce-data-for-ai-personalisation/",
+    "date": "2026-06-27"
   }
 ]
