@@ -1,50 +1,5 @@
 [
   {
-    "title": "아직도 Emacs를 쓰는 사람이 있나요?",
-    "link": "https://news.hada.io/topic?id=30682",
-    "date": "2026-06-21"
-  },
-  {
-    "title": "파비콘에 웹사이트를 저장한 실험",
-    "link": "https://news.hada.io/topic?id=30681",
-    "date": "2026-06-21"
-  },
-  {
-    "title": "Obscure Sorrows의 대규모 표절",
-    "link": "https://news.hada.io/topic?id=30680",
-    "date": "2026-06-21"
-  },
-  {
-    "title": "화면이 보여줄 수 없는 색은 어디에 있을까",
-    "link": "https://news.hada.io/topic?id=30679",
-    "date": "2026-06-21"
-  },
-  {
-    "title": "CSSQuake",
-    "link": "https://news.hada.io/topic?id=30678",
-    "date": "2026-06-21"
-  },
-  {
-    "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
-    "link": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
-    "date": "2026-06-21"
-  },
-  {
-    "title": "In the Weights is your new AI-centric vanity search",
-    "link": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
-    "date": "2026-06-21"
-  },
-  {
-    "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
-    "link": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
-    "date": "2026-06-21"
-  },
-  {
-    "title": "The UK will scan asylum-seekers’ faces for age checks—despite knowing the tech is flawed",
-    "link": "https://arstechnica.com/tech-policy/2026/06/the-uk-will-scan-asylum-seekers-faces-for-age-checks-despite-knowing-the-tech-is-flawed/",
-    "date": "2026-06-21"
-  },
-  {
     "title": "Show GN: 『내 문장이 그렇게 이상한가요?』에서 영감을 받아 grep으로 대충 훑지 않고 모든 문장을 LLM이 읽고 ...",
     "link": "https://news.hada.io/topic?id=30713",
     "date": "2026-06-22"
@@ -913,5 +868,55 @@
     "title": "실패한 국가 배후 추정 공격 해부",
     "link": "https://news.hada.io/topic?id=30873",
     "date": "2026-06-27"
+  },
+  {
+    "title": "Show GN: CerberusBeacon - 필요할 때만 여는 셀프호스팅 웹 터미널 + Cloudflare 터널 게이트",
+    "link": "https://news.hada.io/topic?id=30903",
+    "date": "2026-06-28"
+  },
+  {
+    "title": "DSpark: Speculative decoding을 활용한 LLM 추론 가속화 [pdf]",
+    "link": "https://news.hada.io/topic?id=30902",
+    "date": "2026-06-28"
+  },
+  {
+    "title": "Paca - 인간과 AI 에이전트 협업을 위한 오픈소스 프로젝트 관리 도구",
+    "link": "https://news.hada.io/topic?id=30901",
+    "date": "2026-06-28"
+  },
+  {
+    "title": "Go에서 과도한 nil 포인터 검사",
+    "link": "https://news.hada.io/topic?id=30900",
+    "date": "2026-06-28"
+  },
+  {
+    "title": "Reddit 안티스팸 내부를 엿보다",
+    "link": "https://news.hada.io/topic?id=30899",
+    "date": "2026-06-28"
+  },
+  {
+    "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
+    "link": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
+    "date": "2026-06-28"
+  },
+  {
+    "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+    "link": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+    "date": "2026-06-28"
+  },
+  {
+    "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
+    "link": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+    "date": "2026-06-28"
+  },
+  {
+    "title": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
+    "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+    "date": "2026-06-28"
+  },
+  {
+    "title": "Apple and Audi alumni have made a luxe EV based on the moon buggy",
+    "link": "https://arstechnica.com/cars/2026/06/apple-and-audi-alumni-have-made-a-luxe-ev-based-on-the-moon-buggy/",
+    "date": "2026-06-28"
   }
 ]
