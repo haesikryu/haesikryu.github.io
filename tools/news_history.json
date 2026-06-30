@@ -1,180 +1,5 @@
 [
   {
-    "title": "디지털 액자 관리를 위한 홈어시스턴트 애드온",
-    "link": "https://news.hada.io/topic?id=30752",
-    "date": "2026-06-23"
-  },
-  {
-    "title": "덴마크 개인정보보호 활동가 Lars Andersen, 경찰 압수수색 당해",
-    "link": "https://news.hada.io/topic?id=30751",
-    "date": "2026-06-23"
-  },
-  {
-    "title": "절대 그들에게 당신의 얼굴을 주지 마라",
-    "link": "https://news.hada.io/topic?id=30750",
-    "date": "2026-06-23"
-  },
-  {
-    "title": "미첼 하시모토, Zig 재단에 40만 달러 추가 기부 약정",
-    "link": "https://news.hada.io/topic?id=30749",
-    "date": "2026-06-23"
-  },
-  {
-    "title": "Steam Machine 오늘 출시, 4가지 옵션 예약 시작",
-    "link": "https://news.hada.io/topic?id=30748",
-    "date": "2026-06-23"
-  },
-  {
-    "title": "The running list: major tech layoffs in 2026 where employers cited AI",
-    "link": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-    "date": "2026-06-23"
-  },
-  {
-    "title": "OpenAI launches new initiative to help find and patch open-source bugs",
-    "link": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
-    "date": "2026-06-23"
-  },
-  {
-    "title": "The AI world is getting ‘loopy’",
-    "link": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
-    "date": "2026-06-23"
-  },
-  {
-    "title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
-    "link": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
-    "date": "2026-06-23"
-  },
-  {
-    "title": "Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem",
-    "link": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
-    "date": "2026-06-23"
-  },
-  {
-    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-    "link": "https://openai.com/index/patch-the-planet",
-    "date": "2026-06-23"
-  },
-  {
-    "title": "Daybreak: Tools for securing every organization in the world",
-    "link": "https://openai.com/index/daybreak-securing-the-world",
-    "date": "2026-06-23"
-  },
-  {
-    "title": "Codex-maxxing for long-running work",
-    "link": "https://openai.com/index/codex-maxxing-long-running-work",
-    "date": "2026-06-23"
-  },
-  {
-    "title": "Three things to watch amid Anthropic’s latest feud with the government",
-    "link": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
-    "date": "2026-06-23"
-  },
-  {
-    "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
-    "link": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
-    "date": "2026-06-23"
-  },
-  {
-    "title": "GM installs robots at flagship EV factory after laying off 1,300 workers",
-    "link": "https://arstechnica.com/ai/2026/06/gm-installs-robots-at-flagship-ev-factory-after-laying-off-1300-workers/",
-    "date": "2026-06-23"
-  },
-  {
-    "title": "Report: Kennedy Space Center not ready for era of super heavy rockets",
-    "link": "https://arstechnica.com/space/2026/06/report-kennedy-space-center-not-ready-for-era-of-super-heavy-rockets/",
-    "date": "2026-06-23"
-  },
-  {
-    "title": "Man used massage gun on his tired eyeballs. It went as well as you'd expect.",
-    "link": "https://arstechnica.com/health/2026/06/man-used-massage-gun-on-his-tired-eyeballs-it-went-as-well-as-youd-expect/",
-    "date": "2026-06-23"
-  },
-  {
-    "title": "Polymarket's viral videos showed people winning big, but the bets were fake",
-    "link": "https://arstechnica.com/tech-policy/2026/06/polymarkets-viral-videos-showed-people-winning-big-but-the-bets-were-fake/",
-    "date": "2026-06-23"
-  },
-  {
-    "title": "Following user outcry, AMD reinstates memory encryption in consumer CPUs",
-    "link": "https://arstechnica.com/security/2026/06/following-user-outcry-amd-reinstates-memory-encryption-in-consumer-cpus/",
-    "date": "2026-06-23"
-  },
-  {
-    "title": "Show GN: gh-orbit – 여러 worktree의 열린 PR·CI·diff를 한 터미널 대시보드로 모으는 gh 익스텐션",
-    "link": "https://news.hada.io/topic?id=30759",
-    "date": "2026-06-23"
-  },
-  {
-    "title": "캐나다, 2040년까지 최대 10기 원자로 짓는 ‘원자력 르네상스’ 추진",
-    "link": "https://news.hada.io/topic?id=30757",
-    "date": "2026-06-23"
-  },
-  {
-    "title": "Flock 기반 경찰서장들의 여성 스토킹 사례가 영장 필요성을 보여줌",
-    "link": "https://news.hada.io/topic?id=30756",
-    "date": "2026-06-23"
-  },
-  {
-    "title": "노이즈 병목: 더 많은 정보라는 미묘한 함정",
-    "link": "https://news.hada.io/topic?id=30754",
-    "date": "2026-06-23"
-  },
-  {
-    "title": "Show GN: 디지털 액자 관리를 위한 홈어시스턴트 애드온",
-    "link": "https://news.hada.io/topic?id=30753",
-    "date": "2026-06-23"
-  },
-  {
-    "title": "How Omio is building the future of conversational travel",
-    "link": "https://openai.com/index/omio",
-    "date": "2026-06-23"
-  },
-  {
-    "title": "We’re strengthening our presence in Alabama through new investments and community support.",
-    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
-    "date": "2026-06-23"
-  },
-  {
-    "title": "Elephant alert! AI warning systems aim to avoid deadly clashes",
-    "link": "https://www.technologyreview.com/2026/06/23/1138562/elephant-alert-ai-warning-systems-avoid-deadly-clashes-india/",
-    "date": "2026-06-23"
-  },
-  {
-    "title": "The $400 million machine powering the future of chipmaking",
-    "link": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
-    "date": "2026-06-23"
-  },
-  {
-    "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
-    "link": "https://huggingface.co/blog/huggingface-hub-release-ci",
-    "date": "2026-06-23"
-  },
-  {
-    "title": "We got local models to triage the OpenClaw repo for FREE!*",
-    "link": "https://huggingface.co/blog/local-models-pr-triage",
-    "date": "2026-06-23"
-  },
-  {
-    "title": "With Starfall, SpaceX eyes an edge in global cargo delivery from orbit",
-    "link": "https://arstechnica.com/space/2026/06/with-starfall-spacex-eyes-an-edge-in-global-cargo-delivery-from-orbit/",
-    "date": "2026-06-23"
-  },
-  {
-    "title": "Top spy agencies say AI cyber threats will impact you within months. Here’s why",
-    "link": "https://www.artificialintelligence-news.com/news/five-eyes-warning-ai-cyber-threats/",
-    "date": "2026-06-23"
-  },
-  {
-    "title": "Mitigating vendor lock-in with Sakana AI Fugu multi-agent models",
-    "link": "https://www.artificialintelligence-news.com/news/mitigating-vendor-lock-in-sakana-ai-fugu-multi-agent-models/",
-    "date": "2026-06-23"
-  },
-  {
-    "title": "L’Oréal brings Maybelline virtual try-on to ChatGPT",
-    "link": "https://www.artificialintelligence-news.com/news/loreal-maybelline-virtual-try-on-chatgpt/",
-    "date": "2026-06-23"
-  },
-  {
     "title": "Show GN: SSH 터널 매니저 - GUI, 맥/윈도용",
     "link": "https://news.hada.io/topic?id=30784",
     "date": "2026-06-24"
@@ -938,5 +763,115 @@
     "title": "Scam.ai Announces Qualcomm Partnership, Launches Halo Deepfake Detection Model at Computex 2026",
     "link": "https://www.artificialintelligence-news.com/news/scam-ai-announces-qualcomm-partnership-launches-halo-deepfake-detection-model-at-computex-2026/",
     "date": "2026-06-29"
+  },
+  {
+    "title": "Show GN: AI한테 메일 맡기지 마라 — 인박스엔 비서가 아니라 &#039;방화벽&#039;이 필요하다 (오픈소스)",
+    "link": "https://news.hada.io/topic?id=30972",
+    "date": "2026-06-30"
+  },
+  {
+    "title": "Show GN: 실제 사람처럼 테스트를 수행하는 SaaS",
+    "link": "https://news.hada.io/topic?id=30971",
+    "date": "2026-06-30"
+  },
+  {
+    "title": "진 상자 운반에 30년형, 표현의 자유 위기",
+    "link": "https://news.hada.io/topic?id=30968",
+    "date": "2026-06-30"
+  },
+  {
+    "title": "ArmSoM Sige7로 구축한 저전력 고성능 홈 NVR 시스템",
+    "link": "https://news.hada.io/topic?id=30967",
+    "date": "2026-06-30"
+  },
+  {
+    "title": "클로드 코드 창시자가 말하는 AI 시대의 다섯 가지 일하는 사람의 원형(archetype)",
+    "link": "https://news.hada.io/topic?id=30965",
+    "date": "2026-06-30"
+  },
+  {
+    "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
+    "link": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
+    "date": "2026-06-30"
+  },
+  {
+    "title": "The AI jobs debate just got messier",
+    "link": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
+    "date": "2026-06-30"
+  },
+  {
+    "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
+    "link": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
+    "date": "2026-06-30"
+  },
+  {
+    "title": "Gemini’s personalized AI image generation is now free for US users",
+    "link": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+    "date": "2026-06-30"
+  },
+  {
+    "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
+    "link": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+    "date": "2026-06-30"
+  },
+  {
+    "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
+    "link": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
+    "date": "2026-06-30"
+  },
+  {
+    "title": "Ask an AI expert: What exactly is the full stack?",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
+    "date": "2026-06-30"
+  },
+  {
+    "title": "AI agents are not your “coworkers”",
+    "link": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
+    "date": "2026-06-30"
+  },
+  {
+    "title": "Agent confidence on the technical frontier",
+    "link": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
+    "date": "2026-06-30"
+  },
+  {
+    "title": "The Download: metric weaknesses and AI elephant warnings",
+    "link": "https://www.technologyreview.com/2026/06/29/1139834/the-download-metric-weaknesses-ai-elephant-warnings/",
+    "date": "2026-06-30"
+  },
+  {
+    "title": "DiScoFormer: One transformer for density and score, across distributions",
+    "link": "https://huggingface.co/blog/allenai/discoformer",
+    "date": "2026-06-30"
+  },
+  {
+    "title": "US offers $10 million for info on group behind Signal and WhatsApp hacking spree",
+    "link": "https://arstechnica.com/information-technology/2026/06/us-offers-10-million-for-info-on-group-behind-signal-and-whatsapp-hacking-spree/",
+    "date": "2026-06-30"
+  },
+  {
+    "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
+    "link": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
+    "date": "2026-06-30"
+  },
+  {
+    "title": "US renewable boom passes key milestone in April",
+    "link": "https://arstechnica.com/science/2026/06/solar-outproduced-coal-in-april-but-not-on-the-grid/",
+    "date": "2026-06-30"
+  },
+  {
+    "title": "Supreme Court ruling guts government’s use of geofence warrants",
+    "link": "https://arstechnica.com/tech-policy/2026/06/supreme-court-ruling-guts-governments-use-of-geofence-warrants/",
+    "date": "2026-06-30"
+  },
+  {
+    "title": "Sony erases digital content from libraries; we're reminded we don’t own what we buy",
+    "link": "https://arstechnica.com/gadgets/2026/06/sony-erases-digital-content-from-libraries-were-reminded-we-dont-own-what-we-buy/",
+    "date": "2026-06-30"
+  },
+  {
+    "title": "HP accelerates enterprise workflows with OpenAI Frontier",
+    "link": "https://www.artificialintelligence-news.com/news/hp-accelerates-enterprise-workflows-openai-frontier/",
+    "date": "2026-06-30"
   }
 ]
