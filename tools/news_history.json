@@ -1,170 +1,5 @@
 [
   {
-    "title": "Show GN: SSH 터널 매니저 - GUI, 맥/윈도용",
-    "link": "https://news.hada.io/topic?id=30784",
-    "date": "2026-06-24"
-  },
-  {
-    "title": "이스라엘의 가자지구 어린이 표적 공격이 집단학살로 이어졌다는 유엔 조사 결과",
-    "link": "https://news.hada.io/topic?id=30782",
-    "date": "2026-06-24"
-  },
-  {
-    "title": "Mistral OCR 4 공개",
-    "link": "https://news.hada.io/topic?id=30781",
-    "date": "2026-06-24"
-  },
-  {
-    "title": "F3 - 미래를 위한 오픈소스 데이터 파일 형식",
-    "link": "https://news.hada.io/topic?id=30780",
-    "date": "2026-06-24"
-  },
-  {
-    "title": "우리가 “연령 확인”이라고 부르는 것은 실제로 대규모 감시다",
-    "link": "https://news.hada.io/topic?id=30779",
-    "date": "2026-06-24"
-  },
-  {
-    "title": "India’s MoEngage bets that the future of marketing is millions of AI agents",
-    "link": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
-    "date": "2026-06-24"
-  },
-  {
-    "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
-    "link": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
-    "date": "2026-06-24"
-  },
-  {
-    "title": "4 days left to save up to $190 on TechCrunch Founder Summit 2026",
-    "link": "https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
-    "date": "2026-06-24"
-  },
-  {
-    "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
-    "link": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
-    "date": "2026-06-24"
-  },
-  {
-    "title": "Helping build shared standards for advanced AI",
-    "link": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
-    "date": "2026-06-24"
-  },
-  {
-    "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
-    "link": "https://openai.com/index/gpt-5-immunology-mystery",
-    "date": "2026-06-24"
-  },
-  {
-    "title": "Heads in the game",
-    "link": "https://www.technologyreview.com/2026/06/23/1138214/heads-in-the-game/",
-    "date": "2026-06-24"
-  },
-  {
-    "title": "Super Mario is mathier than you think",
-    "link": "https://www.technologyreview.com/2026/06/23/1138262/super-mario-is-mathier-than-you-think/",
-    "date": "2026-06-24"
-  },
-  {
-    "title": "A man of many words",
-    "link": "https://www.technologyreview.com/2026/06/23/1138267/a-man-of-many-words/",
-    "date": "2026-06-24"
-  },
-  {
-    "title": "Sharing a love for calculus",
-    "link": "https://www.technologyreview.com/2026/06/23/1138271/sharing-a-love-for-calculus/",
-    "date": "2026-06-24"
-  },
-  {
-    "title": "Stand Up for Research, Innovation, and Education",
-    "link": "https://www.technologyreview.com/2026/06/23/1138274/stand-up-for-research-innovation-and-education-6/",
-    "date": "2026-06-24"
-  },
-  {
-    "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
-    "link": "https://huggingface.co/blog/ibm-research/cuga-apps",
-    "date": "2026-06-24"
-  },
-  {
-    "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
-    "link": "https://huggingface.co/blog/cross-origin-storage",
-    "date": "2026-06-24"
-  },
-  {
-    "title": "White House drastically shortens deadline for dropping quantum-vulnerable crypto",
-    "link": "https://arstechnica.com/information-technology/2026/06/executive-order-bumps-up-deadline-to-move-off-quantum-vulnerable-crypto/",
-    "date": "2026-06-24"
-  },
-  {
-    "title": "US's climate.gov site, taken down by Trump, relaunched by nonprofit",
-    "link": "https://arstechnica.com/science/2026/06/uss-climate-gov-site-taken-down-by-trump-relaunched-by-nonprofit/",
-    "date": "2026-06-24"
-  },
-  {
-    "title": "Odd police video shows drone removing knife from motionless suspect",
-    "link": "https://arstechnica.com/gadgets/2026/06/police-tout-using-drone-to-disarm-incapacitated-person-in-nationwide-first/",
-    "date": "2026-06-24"
-  },
-  {
-    "title": "Oracle’s 21,000 layoffs help drive its debt-fueled AI investments",
-    "link": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
-    "date": "2026-06-24"
-  },
-  {
-    "title": "A curious crossover: The Toyota C-HR review",
-    "link": "https://arstechnica.com/cars/2026/06/a-curious-crossover-the-toyota-c-hr-review/",
-    "date": "2026-06-24"
-  },
-  {
-    "title": "단어 아래 빨간색·초록색 물결선을 남긴 Tony Krueger를 추모하며",
-    "link": "https://news.hada.io/topic?id=30795",
-    "date": "2026-06-24"
-  },
-  {
-    "title": "Jerry&#039;s Map: 4,000개 넘는 패널로 만든 상상 도시 지도",
-    "link": "https://news.hada.io/topic?id=30794",
-    "date": "2026-06-24"
-  },
-  {
-    "title": "Google Workspace CLI를 만든 개발자, 구글에서 해고됨",
-    "link": "https://news.hada.io/topic?id=30790",
-    "date": "2026-06-24"
-  },
-  {
-    "title": "Typescript 7.0 RC버전이 배포되었습니다.",
-    "link": "https://news.hada.io/topic?id=30788",
-    "date": "2026-06-24"
-  },
-  {
-    "title": "FUTO Swipe: 공개형 스와이프 입력 모델",
-    "link": "https://news.hada.io/topic?id=30787",
-    "date": "2026-06-24"
-  },
-  {
-    "title": "This flying solar-powered platform could deliver better internet from the air",
-    "link": "https://www.technologyreview.com/2026/06/24/1138771/solar-powered-platform-delivers-better-internet/",
-    "date": "2026-06-24"
-  },
-  {
-    "title": "All challenges big and small",
-    "link": "https://www.technologyreview.com/2026/06/24/1138853/editors-letter-july-2026/",
-    "date": "2026-06-24"
-  },
-  {
-    "title": "Samsung opens ChatGPT Enterprise and Codex access after AI restrictions",
-    "link": "https://www.artificialintelligence-news.com/news/samsung-chatgpt-enterprise-codex-employee-ai-use/",
-    "date": "2026-06-24"
-  },
-  {
-    "title": "Anthropic drops ‘workplace AI agents’ directly inside Slack",
-    "link": "https://www.artificialintelligence-news.com/news/anthropic-slack-workplace-ai-agents/",
-    "date": "2026-06-24"
-  },
-  {
-    "title": "Omio scales travel product development using OpenAI models",
-    "link": "https://www.artificialintelligence-news.com/news/omio-scales-travel-product-development-using-openai-models/",
-    "date": "2026-06-24"
-  },
-  {
     "title": "Cafe24, LLM Router 공개",
     "link": "https://news.hada.io/topic?id=30813",
     "date": "2026-06-25"
@@ -873,5 +708,145 @@
     "title": "HP accelerates enterprise workflows with OpenAI Frontier",
     "link": "https://www.artificialintelligence-news.com/news/hp-accelerates-enterprise-workflows-openai-frontier/",
     "date": "2026-06-30"
+  },
+  {
+    "title": "미국 소득 중 노동 몫이 전후 최저 수준",
+    "link": "https://news.hada.io/topic?id=30996",
+    "date": "2026-07-01"
+  },
+  {
+    "title": "미국 대사가 벨기에 경찰을 동원해 취재를 막았다고 The European Correspondent가 밝힘",
+    "link": "https://news.hada.io/topic?id=30995",
+    "date": "2026-07-01"
+  },
+  {
+    "title": "개정된 엔지니어링 리더십 규칙",
+    "link": "https://news.hada.io/topic?id=30994",
+    "date": "2026-07-01"
+  },
+  {
+    "title": "유럽 디지털 ID 지갑, Google·Apple 안전 서비스에 의존",
+    "link": "https://news.hada.io/topic?id=30993",
+    "date": "2026-07-01"
+  },
+  {
+    "title": "Claude Sonnet 5 공개",
+    "link": "https://news.hada.io/topic?id=30992",
+    "date": "2026-07-01"
+  },
+  {
+    "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
+    "link": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
+    "date": "2026-07-01"
+  },
+  {
+    "title": "OpenClaw is finally available on Android and iOS",
+    "link": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
+    "date": "2026-07-01"
+  },
+  {
+    "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
+    "link": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
+    "date": "2026-07-01"
+  },
+  {
+    "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
+    "link": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
+    "date": "2026-07-01"
+  },
+  {
+    "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
+    "link": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
+    "date": "2026-07-01"
+  },
+  {
+    "title": "How ChatGPT adoption has expanded",
+    "link": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+    "date": "2026-07-01"
+  },
+  {
+    "title": "Introducing GeneBench-Pro",
+    "link": "https://openai.com/index/introducing-genebench-pro",
+    "date": "2026-07-01"
+  },
+  {
+    "title": "Core dump epidemiology: fixing an 18-year-old bug",
+    "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+    "date": "2026-07-01"
+  },
+  {
+    "title": "Inside Genebench-Pro",
+    "link": "https://openai.com/index/genebench-pro/case-studies",
+    "date": "2026-07-01"
+  },
+  {
+    "title": "We’re strengthening our presence in Alabama through new investments and community support.",
+    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
+    "date": "2026-07-01"
+  },
+  {
+    "title": "Claude Science is Anthropic’s newest flagship product",
+    "link": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+    "date": "2026-07-01"
+  },
+  {
+    "title": "Roundtables: Longevity’s Next Frontier: “Reprogramming” Your Body",
+    "link": "https://www.technologyreview.com/2026/06/30/1139958/roundtables-longevitys-next-frontier-reprogramming-your-body/",
+    "date": "2026-07-01"
+  },
+  {
+    "title": "The Download: AI “coworkers” and stratospheric internet",
+    "link": "https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/",
+    "date": "2026-07-01"
+  },
+  {
+    "title": "Agriculture is ready for AI, but its data isn’t",
+    "link": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
+    "date": "2026-07-01"
+  },
+  {
+    "title": "Building tech in the world’s secret R&D hub",
+    "link": "https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/",
+    "date": "2026-07-01"
+  },
+  {
+    "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+    "link": "https://huggingface.co/blog/ibm-research/scarfbench",
+    "date": "2026-07-01"
+  },
+  {
+    "title": "Why Specialization Is Inevitable",
+    "link": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+    "date": "2026-07-01"
+  },
+  {
+    "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+    "link": "https://huggingface.co/blog/eee-community-evals",
+    "date": "2026-07-01"
+  },
+  {
+    "title": "June research roundup: 6 cool science stories we almost missed",
+    "link": "https://arstechnica.com/science/2026/06/june-research-roundup-6-cool-science-stories-we-almost-missed/",
+    "date": "2026-07-01"
+  },
+  {
+    "title": "Reddit will require you to log in to use old.reddit.com",
+    "link": "https://arstechnica.com/gadgets/2026/06/reddit-will-require-you-to-log-in-to-use-old-reddit-com/",
+    "date": "2026-07-01"
+  },
+  {
+    "title": "Amazon blames piracy apps with malware for killing new Fire Stick sideloading",
+    "link": "https://arstechnica.com/gadgets/2026/06/exec-blames-malware-threat-for-amazon-blocking-sideloading-on-new-fire-sticks/",
+    "date": "2026-07-01"
+  },
+  {
+    "title": "NASA may send a backup, nuclear-powered Mars rover to the Moon",
+    "link": "https://arstechnica.com/space/2026/06/nasa-may-send-a-backup-nuclear-powered-mars-rover-to-the-moon/",
+    "date": "2026-07-01"
+  },
+  {
+    "title": "Google kills Tenor GIF API, forcing changes at X, Discord, and more",
+    "link": "https://arstechnica.com/gadgets/2026/06/google-kills-tenor-gif-api-forcing-changes-at-x-discord-and-more/",
+    "date": "2026-07-01"
   }
 ]
