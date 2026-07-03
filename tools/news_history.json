@@ -1,115 +1,5 @@
 [
   {
-    "title": "Om Malik 별세",
-    "link": "https://news.hada.io/topic?id=30847",
-    "date": "2026-06-26"
-  },
-  {
-    "title": "새로운 HTTP QUERY 메소드",
-    "link": "https://news.hada.io/topic?id=30846",
-    "date": "2026-06-26"
-  },
-  {
-    "title": "모든 고객을 위한 Cloudflare OAuth",
-    "link": "https://news.hada.io/topic?id=30845",
-    "date": "2026-06-26"
-  },
-  {
-    "title": "LastPass가 또 다른 데이터 유출을 사용자에게 통지함",
-    "link": "https://news.hada.io/topic?id=30844",
-    "date": "2026-06-26"
-  },
-  {
-    "title": "Ford, AI 품질검사 차질로 ‘gray beard’ 검사관 재고용",
-    "link": "https://news.hada.io/topic?id=30843",
-    "date": "2026-06-26"
-  },
-  {
-    "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
-    "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
-    "date": "2026-06-26"
-  },
-  {
-    "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
-    "link": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
-    "date": "2026-06-26"
-  },
-  {
-    "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
-    "link": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
-    "date": "2026-06-26"
-  },
-  {
-    "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
-    "link": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
-    "date": "2026-06-26"
-  },
-  {
-    "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
-    "link": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
-    "date": "2026-06-26"
-  },
-  {
-    "title": "Our latest Google Finance upgrades, including a new app",
-    "link": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
-    "date": "2026-06-26"
-  },
-  {
-    "title": "Repositioning retail for the AI era",
-    "link": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
-    "date": "2026-06-26"
-  },
-  {
-    "title": "The Download: Europe’s heat wave hits the grid, and IBM’s chip targets Moore’s Law",
-    "link": "https://www.technologyreview.com/2026/06/25/1139738/the-download-europe-heat-wave-ibm-chip-moores-law/",
-    "date": "2026-06-26"
-  },
-  {
-    "title": "What Europe’s heat wave means for the power grid",
-    "link": "https://www.technologyreview.com/2026/06/25/1139690/europe-heat-wave-grid/",
-    "date": "2026-06-26"
-  },
-  {
-    "title": "IBM has unveiled chip technology that could help extend Moore’s Law another decade",
-    "link": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/",
-    "date": "2026-06-26"
-  },
-  {
-    "title": "Run a vLLM Server on HF Jobs in One Command",
-    "link": "https://huggingface.co/blog/vllm-jobs",
-    "date": "2026-06-26"
-  },
-  {
-    "title": "Which tokens does a hybrid model predict better?",
-    "link": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
-    "date": "2026-06-26"
-  },
-  {
-    "title": "Microsoft adds another year to Windows 10 extended update program",
-    "link": "https://arstechnica.com/gadgets/2026/06/microsoft-adds-another-year-to-windows-10-extended-update-program/",
-    "date": "2026-06-26"
-  },
-  {
-    "title": "FCC may kill $2B program that connects schools and libraries to Internet",
-    "link": "https://arstechnica.com/tech-policy/2026/06/fcc-may-kill-2b-program-that-connects-schools-and-libraries-to-internet/",
-    "date": "2026-06-26"
-  },
-  {
-    "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
-    "link": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
-    "date": "2026-06-26"
-  },
-  {
-    "title": "Google finally releases a Finance Android app, promises iOS version later in 2026",
-    "link": "https://arstechnica.com/google/2026/06/google-finance-finally-gets-a-mobile-app-as-ai-powered-overhaul-leaves-beta/",
-    "date": "2026-06-26"
-  },
-  {
-    "title": "Anthropic says Alibaba must be punished for largest Claude cloning attack",
-    "link": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/",
-    "date": "2026-06-26"
-  },
-  {
     "title": "37signals의 의사결정 가이드",
     "link": "https://news.hada.io/topic?id=30872",
     "date": "2026-06-27"
@@ -868,5 +758,120 @@
     "title": "Why California’s carbon manure math doesn’t add up",
     "link": "https://www.technologyreview.com/2026/07/02/1139981/why-californias-carbon-manure-math-doesnt-add-up/",
     "date": "2026-07-02"
+  },
+  {
+    "title": "버지니아주, 위치정보 데이터 판매 금지",
+    "link": "https://news.hada.io/topic?id=31077",
+    "date": "2026-07-03"
+  },
+  {
+    "title": "2026 상반기 말아먹었을 때 쓰는 글",
+    "link": "https://news.hada.io/topic?id=31076",
+    "date": "2026-07-03"
+  },
+  {
+    "title": "Senior SWE-Bench: 시니어 엔지니어급 에이전트 평가용 오픈소스 벤치마크",
+    "link": "https://news.hada.io/topic?id=31075",
+    "date": "2026-07-03"
+  },
+  {
+    "title": "CursorBench 3.1 모델 평가 결과",
+    "link": "https://news.hada.io/topic?id=31074",
+    "date": "2026-07-03"
+  },
+  {
+    "title": "Vite+ 베타 공개",
+    "link": "https://news.hada.io/topic?id=31073",
+    "date": "2026-07-03"
+  },
+  {
+    "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
+    "link": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+    "date": "2026-07-03"
+  },
+  {
+    "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
+    "link": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+    "date": "2026-07-03"
+  },
+  {
+    "title": "Meta quietly launches vibe-coded gaming app Pocket",
+    "link": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+    "date": "2026-07-03"
+  },
+  {
+    "title": "Anthropic is discussing a new custom chip with Samsung",
+    "link": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+    "date": "2026-07-03"
+  },
+  {
+    "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+    "link": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+    "date": "2026-07-03"
+  },
+  {
+    "title": "Achieving operational excellence with AI",
+    "link": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
+    "date": "2026-07-03"
+  },
+  {
+    "title": "Teaching AI to run with the turbines",
+    "link": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
+    "date": "2026-07-03"
+  },
+  {
+    "title": "The Download: a startup has a solution for AI’s groupthink problem",
+    "link": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/",
+    "date": "2026-07-03"
+  },
+  {
+    "title": "Newly discovered PamStealer isn't your typical macOS malware",
+    "link": "https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/",
+    "date": "2026-07-03"
+  },
+  {
+    "title": "FAA proposal: Supersonic airliners can fly over US cities if they’re quiet",
+    "link": "https://arstechnica.com/gadgets/2026/07/faa-proposal-supersonic-airliners-can-fly-over-us-cities-if-theyre-quiet/",
+    "date": "2026-07-03"
+  },
+  {
+    "title": "Ars Live recap: When are the big rockets NASA desperately needs going to be ready?",
+    "link": "https://arstechnica.com/space/2026/07/ars-live-recap-when-are-the-big-rockets-nasa-desperately-needs-going-to-be-ready/",
+    "date": "2026-07-03"
+  },
+  {
+    "title": "Plex debuts 5-year membership pass for $250",
+    "link": "https://arstechnica.com/gadgets/2026/07/250-used-to-get-you-a-lifetime-plex-pass-now-you-get-a-five-year-subscription/",
+    "date": "2026-07-03"
+  },
+  {
+    "title": "Africa CDC confirms Marburg case in Uganda as Ebola outbreak rages",
+    "link": "https://arstechnica.com/health/2026/07/africa-cdc-confirms-marburg-case-in-uganda-as-ebola-outbreak-rages/",
+    "date": "2026-07-03"
+  },
+  {
+    "title": "NVIDIA BioNeMo accelerates Anthropic Claude Science",
+    "link": "https://www.artificialintelligence-news.com/news/nvidia-bionemo-accelerates-anthropic-claude-science/",
+    "date": "2026-07-03"
+  },
+  {
+    "title": "Deploying retail AI to scale personalisation and customer insight",
+    "link": "https://www.artificialintelligence-news.com/news/deploying-retail-ai-to-scale-personalisation-customer-insight/",
+    "date": "2026-07-03"
+  },
+  {
+    "title": "Japan’s answer to its worker shortage: An AI model for 10 million robots",
+    "link": "https://www.artificialintelligence-news.com/news/japan-ai-robots-2040-national-ai-model/",
+    "date": "2026-07-03"
+  },
+  {
+    "title": "Bank of England reviews AI rules for agentic AI in finance",
+    "link": "https://www.artificialintelligence-news.com/news/bank-of-england-agentic-ai-finance-rules/",
+    "date": "2026-07-03"
+  },
+  {
+    "title": "Anthropic deploys Claude Sonnet 5, Fable and Mythos restored",
+    "link": "https://www.artificialintelligence-news.com/news/anthropic-deploys-claude-sonnet-5-fable-and-mythos-restored/",
+    "date": "2026-07-03"
   }
 ]
