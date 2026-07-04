@@ -1,125 +1,5 @@
 [
   {
-    "title": "37signals의 의사결정 가이드",
-    "link": "https://news.hada.io/topic?id=30872",
-    "date": "2026-06-27"
-  },
-  {
-    "title": "가짜 트랙션 문제",
-    "link": "https://news.hada.io/topic?id=30871",
-    "date": "2026-06-27"
-  },
-  {
-    "title": "&#039;기획 하네스(planning harness)&#039;로 완성하는 상세기획 워크플로우 자동화",
-    "link": "https://news.hada.io/topic?id=30870",
-    "date": "2026-06-27"
-  },
-  {
-    "title": "오픈소스 보안을 함께 지키기 위한 Akrites 공개서한",
-    "link": "https://news.hada.io/topic?id=30869",
-    "date": "2026-06-27"
-  },
-  {
-    "title": "CVE-2026-LGTM 사고 보고서",
-    "link": "https://news.hada.io/topic?id=30868",
-    "date": "2026-06-27"
-  },
-  {
-    "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
-    "link": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
-    "date": "2026-06-27"
-  },
-  {
-    "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
-    "link": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
-    "date": "2026-06-27"
-  },
-  {
-    "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
-    "link": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
-    "date": "2026-06-27"
-  },
-  {
-    "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
-    "link": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
-    "date": "2026-06-27"
-  },
-  {
-    "title": "It’s not about Anthropic vs. OpenAI anymore",
-    "link": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
-    "date": "2026-06-27"
-  },
-  {
-    "title": "Previewing GPT-5.6 Sol: a next-generation model",
-    "link": "https://openai.com/index/previewing-gpt-5-6-sol",
-    "date": "2026-06-27"
-  },
-  {
-    "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
-    "link": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
-    "date": "2026-06-27"
-  },
-  {
-    "title": "Heat waves mess with your brain. Scientists are trying to figure out why.",
-    "link": "https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/",
-    "date": "2026-06-27"
-  },
-  {
-    "title": "South Korea plans to train entire military as \"drone warriors\"",
-    "link": "https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/",
-    "date": "2026-06-27"
-  },
-  {
-    "title": "Doctors suspected man had brain cancer. He actually had worms.",
-    "link": "https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/",
-    "date": "2026-06-27"
-  },
-  {
-    "title": "Streaming services’ obnoxiously loud ads become illegal on July 1 in California",
-    "link": "https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/",
-    "date": "2026-06-27"
-  },
-  {
-    "title": "Russian citizens told \"switch to Android\" after Apple blocks key Russian apps",
-    "link": "https://arstechnica.com/gadgets/2026/06/russian-citizens-told-switch-to-android-after-apple-blocks-key-russian-apps/",
-    "date": "2026-06-27"
-  },
-  {
-    "title": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
-    "link": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
-    "date": "2026-06-27"
-  },
-  {
-    "title": "SAP aligns commerce data for AI personalisation",
-    "link": "https://www.artificialintelligence-news.com/news/sap-aligns-commerce-data-for-ai-personalisation/",
-    "date": "2026-06-27"
-  },
-  {
-    "title": "캘리포니아 3D 프린터 감시 법안은 아직 막을 수 있음",
-    "link": "https://news.hada.io/topic?id=30879",
-    "date": "2026-06-27"
-  },
-  {
-    "title": "미국, Anthropic의 Mythos AI를 ‘신뢰된’ 미국 조직에 공개 허용",
-    "link": "https://news.hada.io/topic?id=30878",
-    "date": "2026-06-27"
-  },
-  {
-    "title": "Springer Nature가 Max Planck 논문 두 편을 삭제한 이유",
-    "link": "https://news.hada.io/topic?id=30877",
-    "date": "2026-06-27"
-  },
-  {
-    "title": "이번 주말에 무엇을 할 예정인가요?",
-    "link": "https://news.hada.io/topic?id=30874",
-    "date": "2026-06-27"
-  },
-  {
-    "title": "실패한 국가 배후 추정 공격 해부",
-    "link": "https://news.hada.io/topic?id=30873",
-    "date": "2026-06-27"
-  },
-  {
     "title": "Show GN: CerberusBeacon - 필요할 때만 여는 셀프호스팅 웹 터미널 + Cloudflare 터널 게이트",
     "link": "https://news.hada.io/topic?id=30903",
     "date": "2026-06-28"
@@ -908,5 +788,80 @@
     "title": "The UK’s generational tobacco ban might not work. I’m supporting it anyway.",
     "link": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/",
     "date": "2026-07-03"
+  },
+  {
+    "title": "Fable 필드 가이드: 나의 미지(Unknowns) 찾기",
+    "link": "https://news.hada.io/topic?id=31107",
+    "date": "2026-07-04"
+  },
+  {
+    "title": "루프 엔지니어링의 미학 (The Art of Loop Engineering)",
+    "link": "https://news.hada.io/topic?id=31106",
+    "date": "2026-07-04"
+  },
+  {
+    "title": "1인 창업자의 시대",
+    "link": "https://news.hada.io/topic?id=31105",
+    "date": "2026-07-04"
+  },
+  {
+    "title": "epiq - Git 기반 분산형 로컬 CLI 네이티브 이슈 트래커",
+    "link": "https://news.hada.io/topic?id=31104",
+    "date": "2026-07-04"
+  },
+  {
+    "title": "KDE Plasma에서 샌드박스를 깨는 임의 코드 실행 취약점",
+    "link": "https://news.hada.io/topic?id=31103",
+    "date": "2026-07-04"
+  },
+  {
+    "title": "The only AI glossary you’ll need this year",
+    "link": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "date": "2026-07-04"
+  },
+  {
+    "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
+    "link": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+    "date": "2026-07-04"
+  },
+  {
+    "title": "A device that revives eyeballs from dead donors could make eye transplants possible",
+    "link": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
+    "date": "2026-07-04"
+  },
+  {
+    "title": "The Download: a smoking “endgame” and a new Elizabeth Bear story",
+    "link": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
+    "date": "2026-07-04"
+  },
+  {
+    "title": "Rocket Report: Indian startup nears first launch; SpaceX's millenary milestone",
+    "link": "https://arstechnica.com/space/2026/07/rocket-report-indian-startup-nears-first-launch-spacexs-millenary-milestone/",
+    "date": "2026-07-04"
+  },
+  {
+    "title": "Inside the Luddite festival harnessing Gen Z’s rage against Big Tech",
+    "link": "https://arstechnica.com/culture/2026/07/inside-the-luddite-festival-harnessing-gen-zs-rage-against-big-tech/",
+    "date": "2026-07-04"
+  },
+  {
+    "title": "Despite the darkness, I still see signs of hope in America",
+    "link": "https://arstechnica.com/culture/2026/07/at-250-years-there-are-still-reasons-for-hope-in-america/",
+    "date": "2026-07-04"
+  },
+  {
+    "title": "Visiting the stars (and planets, and telescopes) in VR",
+    "link": "https://arstechnica.com/culture/2026/07/smithsonian-starstruck-vr-exhibit-lets-you-stroll-through-the-stars/",
+    "date": "2026-07-04"
+  },
+  {
+    "title": "Wing Commander IV and the FMV future that never quite was",
+    "link": "https://arstechnica.com/gaming/2026/07/wing-commander-iv-and-the-fmv-future-that-never-quite-was/",
+    "date": "2026-07-04"
+  },
+  {
+    "title": "Takeda signs US$600M AI drug discovery deal with Insilico",
+    "link": "https://www.artificialintelligence-news.com/news/takeda-insilico-ai-drug-discovery-deal/",
+    "date": "2026-07-04"
   }
 ]
