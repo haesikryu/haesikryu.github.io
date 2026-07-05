@@ -1,60 +1,5 @@
 [
   {
-    "title": "Show GN: CerberusBeacon - 필요할 때만 여는 셀프호스팅 웹 터미널 + Cloudflare 터널 게이트",
-    "link": "https://news.hada.io/topic?id=30903",
-    "date": "2026-06-28"
-  },
-  {
-    "title": "DSpark: Speculative decoding을 활용한 LLM 추론 가속화 [pdf]",
-    "link": "https://news.hada.io/topic?id=30902",
-    "date": "2026-06-28"
-  },
-  {
-    "title": "Paca - 인간과 AI 에이전트 협업을 위한 오픈소스 프로젝트 관리 도구",
-    "link": "https://news.hada.io/topic?id=30901",
-    "date": "2026-06-28"
-  },
-  {
-    "title": "Go에서 과도한 nil 포인터 검사",
-    "link": "https://news.hada.io/topic?id=30900",
-    "date": "2026-06-28"
-  },
-  {
-    "title": "Reddit 안티스팸 내부를 엿보다",
-    "link": "https://news.hada.io/topic?id=30899",
-    "date": "2026-06-28"
-  },
-  {
-    "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
-    "link": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
-    "date": "2026-06-28"
-  },
-  {
-    "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
-    "link": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
-    "date": "2026-06-28"
-  },
-  {
-    "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
-    "link": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
-    "date": "2026-06-28"
-  },
-  {
-    "title": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
-    "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
-    "date": "2026-06-28"
-  },
-  {
-    "title": "Apple and Audi alumni have made a luxe EV based on the moon buggy",
-    "link": "https://arstechnica.com/cars/2026/06/apple-and-audi-alumni-have-made-a-luxe-ev-based-on-the-moon-buggy/",
-    "date": "2026-06-28"
-  },
-  {
-    "title": "Show GN: ArachneControl – 서버가 브라우저를 원격 제어해 수집하는 오픈소스 데이터 수집 시스템",
-    "link": "https://news.hada.io/topic?id=30905",
-    "date": "2026-06-28"
-  },
-  {
     "title": "Show GN: AI 코딩 에이전트 여러 개를 한 창에서 조율하는 올인원 데스크톱 터미널 — Orch term",
     "link": "https://news.hada.io/topic?id=30932",
     "date": "2026-06-29"
@@ -888,5 +833,65 @@
     "title": "Costco는 안티-Amazon이다",
     "link": "https://news.hada.io/topic?id=31114",
     "date": "2026-07-04"
+  },
+  {
+    "title": "Command &amp; Conquer Generals, Fable로 macOS·iPhone·iPad 네이티브 포팅",
+    "link": "https://news.hada.io/topic?id=31138",
+    "date": "2026-07-05"
+  },
+  {
+    "title": "Linux htop/top 화면에 보이는 값들 해설 (2019)",
+    "link": "https://news.hada.io/topic?id=31136",
+    "date": "2026-07-05"
+  },
+  {
+    "title": "YouTube 크리에이터의 비공개 영상 유출",
+    "link": "https://news.hada.io/topic?id=31135",
+    "date": "2026-07-05"
+  },
+  {
+    "title": "MemNixFS - 리눅스 메모리 덤프를 파일시스템으로 변환해 조사하는 도구",
+    "link": "https://news.hada.io/topic?id=31134",
+    "date": "2026-07-05"
+  },
+  {
+    "title": "Show GN: Cluedoc: 코드베이스 이해를 돕는 문서 작성 에이전트 스킬",
+    "link": "https://news.hada.io/topic?id=31133",
+    "date": "2026-07-05"
+  },
+  {
+    "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+    "link": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+    "date": "2026-07-05"
+  },
+  {
+    "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+    "link": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+    "date": "2026-07-05"
+  },
+  {
+    "title": "Alibaba reportedly bans employees from using Claude Code",
+    "link": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+    "date": "2026-07-05"
+  },
+  {
+    "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+    "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+    "date": "2026-07-05"
+  },
+  {
+    "title": "Review: Supergirl is not the disaster its low box office suggests",
+    "link": "https://arstechnica.com/culture/2026/07/review-supergirl-is-not-the-disaster-its-low-box-office-suggests/",
+    "date": "2026-07-05"
+  },
+  {
+    "title": "When the ability to smell goes away",
+    "link": "https://arstechnica.com/science/2026/07/when-the-ability-to-smell-goes-away/",
+    "date": "2026-07-05"
+  },
+  {
+    "title": "A martian rock has lots of carbon on it, and it's not clear why",
+    "link": "https://arstechnica.com/science/2026/07/a-martian-rock-has-lots-of-carbon-on-it-and-its-not-clear-why/",
+    "date": "2026-07-05"
   }
 ]
