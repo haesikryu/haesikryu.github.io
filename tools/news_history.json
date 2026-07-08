@@ -1,180 +1,5 @@
 [
   {
-    "title": "미국 소득 중 노동 몫이 전후 최저 수준",
-    "link": "https://news.hada.io/topic?id=30996",
-    "date": "2026-07-01"
-  },
-  {
-    "title": "미국 대사가 벨기에 경찰을 동원해 취재를 막았다고 The European Correspondent가 밝힘",
-    "link": "https://news.hada.io/topic?id=30995",
-    "date": "2026-07-01"
-  },
-  {
-    "title": "개정된 엔지니어링 리더십 규칙",
-    "link": "https://news.hada.io/topic?id=30994",
-    "date": "2026-07-01"
-  },
-  {
-    "title": "유럽 디지털 ID 지갑, Google·Apple 안전 서비스에 의존",
-    "link": "https://news.hada.io/topic?id=30993",
-    "date": "2026-07-01"
-  },
-  {
-    "title": "Claude Sonnet 5 공개",
-    "link": "https://news.hada.io/topic?id=30992",
-    "date": "2026-07-01"
-  },
-  {
-    "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
-    "link": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
-    "date": "2026-07-01"
-  },
-  {
-    "title": "OpenClaw is finally available on Android and iOS",
-    "link": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
-    "date": "2026-07-01"
-  },
-  {
-    "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
-    "link": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
-    "date": "2026-07-01"
-  },
-  {
-    "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
-    "link": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
-    "date": "2026-07-01"
-  },
-  {
-    "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
-    "link": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
-    "date": "2026-07-01"
-  },
-  {
-    "title": "How ChatGPT adoption has expanded",
-    "link": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-    "date": "2026-07-01"
-  },
-  {
-    "title": "Introducing GeneBench-Pro",
-    "link": "https://openai.com/index/introducing-genebench-pro",
-    "date": "2026-07-01"
-  },
-  {
-    "title": "Core dump epidemiology: fixing an 18-year-old bug",
-    "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-    "date": "2026-07-01"
-  },
-  {
-    "title": "Inside Genebench-Pro",
-    "link": "https://openai.com/index/genebench-pro/case-studies",
-    "date": "2026-07-01"
-  },
-  {
-    "title": "We’re strengthening our presence in Alabama through new investments and community support.",
-    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
-    "date": "2026-07-01"
-  },
-  {
-    "title": "Claude Science is Anthropic’s newest flagship product",
-    "link": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
-    "date": "2026-07-01"
-  },
-  {
-    "title": "Roundtables: Longevity’s Next Frontier: “Reprogramming” Your Body",
-    "link": "https://www.technologyreview.com/2026/06/30/1139958/roundtables-longevitys-next-frontier-reprogramming-your-body/",
-    "date": "2026-07-01"
-  },
-  {
-    "title": "The Download: AI “coworkers” and stratospheric internet",
-    "link": "https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/",
-    "date": "2026-07-01"
-  },
-  {
-    "title": "Agriculture is ready for AI, but its data isn’t",
-    "link": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
-    "date": "2026-07-01"
-  },
-  {
-    "title": "Building tech in the world’s secret R&D hub",
-    "link": "https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/",
-    "date": "2026-07-01"
-  },
-  {
-    "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-    "link": "https://huggingface.co/blog/ibm-research/scarfbench",
-    "date": "2026-07-01"
-  },
-  {
-    "title": "Why Specialization Is Inevitable",
-    "link": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
-    "date": "2026-07-01"
-  },
-  {
-    "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
-    "link": "https://huggingface.co/blog/eee-community-evals",
-    "date": "2026-07-01"
-  },
-  {
-    "title": "June research roundup: 6 cool science stories we almost missed",
-    "link": "https://arstechnica.com/science/2026/06/june-research-roundup-6-cool-science-stories-we-almost-missed/",
-    "date": "2026-07-01"
-  },
-  {
-    "title": "Reddit will require you to log in to use old.reddit.com",
-    "link": "https://arstechnica.com/gadgets/2026/06/reddit-will-require-you-to-log-in-to-use-old-reddit-com/",
-    "date": "2026-07-01"
-  },
-  {
-    "title": "Amazon blames piracy apps with malware for killing new Fire Stick sideloading",
-    "link": "https://arstechnica.com/gadgets/2026/06/exec-blames-malware-threat-for-amazon-blocking-sideloading-on-new-fire-sticks/",
-    "date": "2026-07-01"
-  },
-  {
-    "title": "NASA may send a backup, nuclear-powered Mars rover to the Moon",
-    "link": "https://arstechnica.com/space/2026/06/nasa-may-send-a-backup-nuclear-powered-mars-rover-to-the-moon/",
-    "date": "2026-07-01"
-  },
-  {
-    "title": "Google kills Tenor GIF API, forcing changes at X, Discord, and more",
-    "link": "https://arstechnica.com/gadgets/2026/06/google-kills-tenor-gif-api-forcing-changes-at-x-discord-and-more/",
-    "date": "2026-07-01"
-  },
-  {
-    "title": "Soatok의 비공식 위협 모델 가이드",
-    "link": "https://news.hada.io/topic?id=31003",
-    "date": "2026-07-01"
-  },
-  {
-    "title": "Show GN: [프롬프트] AI 1:1 밀착 원어민 튜터",
-    "link": "https://news.hada.io/topic?id=31002",
-    "date": "2026-07-01"
-  },
-  {
-    "title": "Show GN: CTX v0.3.40 — Claude Code 세션 간 persistent memory (98명 사용자, 월 2,726 다운로드)",
-    "link": "https://news.hada.io/topic?id=31000",
-    "date": "2026-07-01"
-  },
-  {
-    "title": "Claude Science 공개 베타",
-    "link": "https://news.hada.io/topic?id=30999",
-    "date": "2026-07-01"
-  },
-  {
-    "title": "Claude Fable 5와 Mythos 5 수출 통제 해제",
-    "link": "https://news.hada.io/topic?id=30998",
-    "date": "2026-07-01"
-  },
-  {
-    "title": "The ‘Father of the Internet’ is finally retiring",
-    "link": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
-    "date": "2026-07-01"
-  },
-  {
-    "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
-    "link": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
-    "date": "2026-07-01"
-  },
-  {
     "title": "Nintendo, 직원 기본급 10% 인상",
     "link": "https://news.hada.io/topic?id=31034",
     "date": "2026-07-02"
@@ -833,5 +658,135 @@
     "title": "Katalyst's satellite rescue mission is now in pursuit of NASA's Swift",
     "link": "https://arstechnica.com/space/2026/07/katalysts-satellite-rescue-mission-is-now-in-pursuit-of-nasas-swift/",
     "date": "2026-07-07"
+  },
+  {
+    "title": "EU, 판매되는 모든 차량에 운전자 모니터링 카메라 의무화",
+    "link": "https://news.hada.io/topic?id=31232",
+    "date": "2026-07-08"
+  },
+  {
+    "title": "Chat Control 1.0과 2.0 설명",
+    "link": "https://news.hada.io/topic?id=31231",
+    "date": "2026-07-08"
+  },
+  {
+    "title": "운동복 반바지 조임끈을 더 잘 묶는 방법 [동영상]",
+    "link": "https://news.hada.io/topic?id=31230",
+    "date": "2026-07-08"
+  },
+  {
+    "title": "98%는 그리 많지 않음",
+    "link": "https://news.hada.io/topic?id=31229",
+    "date": "2026-07-08"
+  },
+  {
+    "title": "Microsoft, id Software의 idTech 팀 해고",
+    "link": "https://news.hada.io/topic?id=31228",
+    "date": "2026-07-08"
+  },
+  {
+    "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
+    "link": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+    "date": "2026-07-08"
+  },
+  {
+    "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
+    "link": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+    "date": "2026-07-08"
+  },
+  {
+    "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
+    "link": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+    "date": "2026-07-08"
+  },
+  {
+    "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
+    "link": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
+    "date": "2026-07-08"
+  },
+  {
+    "title": "Claude Cowork expands to mobile and web",
+    "link": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
+    "date": "2026-07-08"
+  },
+  {
+    "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+    "link": "https://openai.com/index/australian-payments-plus",
+    "date": "2026-07-08"
+  },
+  {
+    "title": "MUFG aims to become AI-native with OpenAI",
+    "link": "https://openai.com/index/mufg",
+    "date": "2026-07-08"
+  },
+  {
+    "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+    "date": "2026-07-08"
+  },
+  {
+    "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
+    "link": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
+    "date": "2026-07-08"
+  },
+  {
+    "title": "Ask an AI expert: What exactly is the full stack?",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
+    "date": "2026-07-08"
+  },
+  {
+    "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
+    "link": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
+    "date": "2026-07-08"
+  },
+  {
+    "title": "The foundational elements of AI architecture that IT leaders need to scale",
+    "link": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
+    "date": "2026-07-08"
+  },
+  {
+    "title": "Why worms (and microbes) are catching on as a manure pollution solution",
+    "link": "https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/",
+    "date": "2026-07-08"
+  },
+  {
+    "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+    "link": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+    "date": "2026-07-08"
+  },
+  {
+    "title": "Hugging Face Models on Foundry Managed Compute",
+    "link": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+    "date": "2026-07-08"
+  },
+  {
+    "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+    "link": "https://huggingface.co/blog/skypilot-hf-storage",
+    "date": "2026-07-08"
+  },
+  {
+    "title": "Michigan sees explosive outbreak of diarrheal parasite with over 700 cases",
+    "link": "https://arstechnica.com/health/2026/07/michigan-sees-explosive-outbreak-of-diarrheal-parasite-with-over-700-cases/",
+    "date": "2026-07-08"
+  },
+  {
+    "title": "Data centers’ energy demand threatens Trump’s “Made in America” plan",
+    "link": "https://arstechnica.com/tech-policy/2026/07/us-manufacturers-energy-costs-soar-because-of-ai-data-center-demand/",
+    "date": "2026-07-08"
+  },
+  {
+    "title": "Surprisingly large number of people may have marker for tick-linked meat allergy",
+    "link": "https://arstechnica.com/health/2026/07/surprisingly-large-number-of-people-may-have-marker-for-tick-linked-meat-allergy/",
+    "date": "2026-07-08"
+  },
+  {
+    "title": "SCOTUS lets Texas enforce app store law that Big Tech calls \"censorship regime\"",
+    "link": "https://arstechnica.com/tech-policy/2026/07/supreme-court-lets-texas-enforce-age-verification-law-on-app-stores/",
+    "date": "2026-07-08"
+  },
+  {
+    "title": "Bethesda, id Software reportedly hit hard by Microsoft layoffs",
+    "link": "https://arstechnica.com/gaming/2026/07/bethesda-id-software-reportedly-hit-hard-by-microsoft-layoffs/",
+    "date": "2026-07-08"
   }
 ]
