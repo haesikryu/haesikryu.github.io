@@ -698,5 +698,60 @@
     "title": "NHS AI blood test could reduce invasive womb cancer checks",
     "link": "https://www.artificialintelligence-news.com/news/nhs-ai-blood-test-womb-cancer-checks/",
     "date": "2026-07-10"
+  },
+  {
+    "title": "Show HN: 느린 컴퓨터에서 GLM 5.2 실행하기",
+    "link": "https://news.hada.io/topic?id=31297",
+    "date": "2026-07-10"
+  },
+  {
+    "title": "Postgres를 Rust로 재작성, 이제 Postgres 회귀 테스트 100% 통과",
+    "link": "https://news.hada.io/topic?id=31296",
+    "date": "2026-07-10"
+  },
+  {
+    "title": "Show GN: TetherMoon - 오픈소스 테더링 툴",
+    "link": "https://news.hada.io/topic?id=31295",
+    "date": "2026-07-10"
+  },
+  {
+    "title": "미첼 하시모토 인터뷰: Ghostty, Zig, 오픈소스 유지보수",
+    "link": "https://news.hada.io/topic?id=31294",
+    "date": "2026-07-10"
+  },
+  {
+    "title": "Show GN: 혹시 토익 고사장 하나씩 찾다가 지치셨나요?",
+    "link": "https://news.hada.io/topic?id=31293",
+    "date": "2026-07-10"
+  },
+  {
+    "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+    "link": "https://openai.com/index/deutsche-telekom",
+    "date": "2026-07-10"
+  },
+  {
+    "title": "The latest AI news we announced in June 2026",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
+    "date": "2026-07-10"
+  },
+  {
+    "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+    "link": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
+    "date": "2026-07-10"
+  },
+  {
+    "title": "Sperm donors need limits, says a European fertility group",
+    "link": "https://www.technologyreview.com/2026/07/10/1140289/sperm-donors-need-limits-says-a-european-fertility-group/",
+    "date": "2026-07-10"
+  },
+  {
+    "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+    "link": "https://huggingface.co/blog/torch-attention-profile",
+    "date": "2026-07-10"
+  },
+  {
+    "title": "How to shrink the token budget without shrinking the team",
+    "link": "https://www.artificialintelligence-news.com/news/shrink-token-budget-not-team/",
+    "date": "2026-07-10"
   }
 ]
