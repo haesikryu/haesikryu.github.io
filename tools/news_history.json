@@ -1,70 +1,5 @@
 [
   {
-    "title": "Command &amp; Conquer Generals, Fable로 macOS·iPhone·iPad 네이티브 포팅",
-    "link": "https://news.hada.io/topic?id=31138",
-    "date": "2026-07-05"
-  },
-  {
-    "title": "Linux htop/top 화면에 보이는 값들 해설 (2019)",
-    "link": "https://news.hada.io/topic?id=31136",
-    "date": "2026-07-05"
-  },
-  {
-    "title": "YouTube 크리에이터의 비공개 영상 유출",
-    "link": "https://news.hada.io/topic?id=31135",
-    "date": "2026-07-05"
-  },
-  {
-    "title": "MemNixFS - 리눅스 메모리 덤프를 파일시스템으로 변환해 조사하는 도구",
-    "link": "https://news.hada.io/topic?id=31134",
-    "date": "2026-07-05"
-  },
-  {
-    "title": "Show GN: Cluedoc: 코드베이스 이해를 돕는 문서 작성 에이전트 스킬",
-    "link": "https://news.hada.io/topic?id=31133",
-    "date": "2026-07-05"
-  },
-  {
-    "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
-    "link": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
-    "date": "2026-07-05"
-  },
-  {
-    "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
-    "link": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
-    "date": "2026-07-05"
-  },
-  {
-    "title": "Alibaba reportedly bans employees from using Claude Code",
-    "link": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
-    "date": "2026-07-05"
-  },
-  {
-    "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
-    "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
-    "date": "2026-07-05"
-  },
-  {
-    "title": "Review: Supergirl is not the disaster its low box office suggests",
-    "link": "https://arstechnica.com/culture/2026/07/review-supergirl-is-not-the-disaster-its-low-box-office-suggests/",
-    "date": "2026-07-05"
-  },
-  {
-    "title": "When the ability to smell goes away",
-    "link": "https://arstechnica.com/science/2026/07/when-the-ability-to-smell-goes-away/",
-    "date": "2026-07-05"
-  },
-  {
-    "title": "A martian rock has lots of carbon on it, and it's not clear why",
-    "link": "https://arstechnica.com/science/2026/07/a-martian-rock-has-lots-of-carbon-on-it-and-its-not-clear-why/",
-    "date": "2026-07-05"
-  },
-  {
-    "title": "Google Books 또는 유사한 전체 도서 스캔에 20만 달러 보상금 제시(2025)",
-    "link": "https://news.hada.io/topic?id=31139",
-    "date": "2026-07-05"
-  },
-  {
     "title": "Rayfish: Iroh 기반 P2P VPN",
     "link": "https://news.hada.io/topic?id=31175",
     "date": "2026-07-06"
@@ -748,5 +683,45 @@
     "title": "양극성 LISP 프로그래머",
     "link": "https://news.hada.io/topic?id=31319",
     "date": "2026-07-11"
+  },
+  {
+    "title": "Show GN: 어느 사이트든 헬스체크 &amp; 소유자 공지 및 댓글 소통 가능한 상태페이지",
+    "link": "https://news.hada.io/topic?id=31345",
+    "date": "2026-07-12"
+  },
+  {
+    "title": "SQLite에서는 STRICT 테이블을 우선 사용하라",
+    "link": "https://news.hada.io/topic?id=31344",
+    "date": "2026-07-12"
+  },
+  {
+    "title": "Ghost Font - 사람은 읽지만 AI는 읽기 어려운 글꼴",
+    "link": "https://news.hada.io/topic?id=31343",
+    "date": "2026-07-12"
+  },
+  {
+    "title": "GPT-5.6, Grok 4.5, Claude, Muse Spark로 동일한 앱 4개를 만든 결과",
+    "link": "https://news.hada.io/topic?id=31342",
+    "date": "2026-07-12"
+  },
+  {
+    "title": "미국 여성 조정 선수, 캘리포니아에서 하와이까지 역사적 단독 항해 완주",
+    "link": "https://news.hada.io/topic?id=31341",
+    "date": "2026-07-12"
+  },
+  {
+    "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+    "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+    "date": "2026-07-12"
+  },
+  {
+    "title": "A Jupiter-size planet that escaped its star's death",
+    "link": "https://arstechnica.com/science/2026/07/a-jupiter-size-planet-that-escaped-its-stars-death/",
+    "date": "2026-07-12"
+  },
+  {
+    "title": "Overhaul of public lands grazing regulations seeks to cut public involvement",
+    "link": "https://arstechnica.com/tech-policy/2026/07/overhaul-of-public-lands-grazing-regulations-seeks-to-cut-public-involvement/",
+    "date": "2026-07-12"
   }
 ]
