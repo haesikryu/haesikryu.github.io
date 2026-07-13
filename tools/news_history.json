@@ -1,70 +1,5 @@
 [
   {
-    "title": "Rayfish: Iroh 기반 P2P VPN",
-    "link": "https://news.hada.io/topic?id=31175",
-    "date": "2026-07-06"
-  },
-  {
-    "title": "Show GN: Jetendard 폰트 (JetBrains Mono Nerd Font + Pretendard)",
-    "link": "https://news.hada.io/topic?id=31174",
-    "date": "2026-07-06"
-  },
-  {
-    "title": "많이 조회되지 않은 콘텐츠",
-    "link": "https://news.hada.io/topic?id=31173",
-    "date": "2026-07-06"
-  },
-  {
-    "title": "Flipper Zero 개발의 미래",
-    "link": "https://news.hada.io/topic?id=31172",
-    "date": "2026-07-06"
-  },
-  {
-    "title": "덜한 것이 더 낫다, 대체로",
-    "link": "https://news.hada.io/topic?id=31170",
-    "date": "2026-07-06"
-  },
-  {
-    "title": "Amazon will stop accepting new customers for Mechanical Turk",
-    "link": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
-    "date": "2026-07-06"
-  },
-  {
-    "title": "South Korea’s hottest new bachelors are chip workers",
-    "link": "https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/",
-    "date": "2026-07-06"
-  },
-  {
-    "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
-    "link": "https://huggingface.co/blog/lerobot-release-v060",
-    "date": "2026-07-06"
-  },
-  {
-    "title": "🤗 Kernels: Major Updates",
-    "link": "https://huggingface.co/blog/revamped-kernels",
-    "date": "2026-07-06"
-  },
-  {
-    "title": "The Czinger 21C might be the wildest car we drive all year",
-    "link": "https://arstechnica.com/cars/2026/07/the-czinger-21c-might-be-the-wildest-car-we-drive-all-year/",
-    "date": "2026-07-06"
-  },
-  {
-    "title": "Chemical accidents rise as Trump administration proposes weakening safety rules",
-    "link": "https://arstechnica.com/science/2026/07/chemical-accidents-rise-as-trump-administration-proposes-weakening-safety-rules/",
-    "date": "2026-07-06"
-  },
-  {
-    "title": "The missing 500 million: Cosmic bombardment melted Earth's first crust",
-    "link": "https://arstechnica.com/science/2026/07/the-missing-500-million-cosmic-bombardment-melted-earths-first-crust/",
-    "date": "2026-07-06"
-  },
-  {
-    "title": "China’s AI companion rules: what Beijing is really going after",
-    "link": "https://www.artificialintelligence-news.com/news/china-ai-companion-rules/",
-    "date": "2026-07-06"
-  },
-  {
     "title": "CoMaps - 오픈소스 오프라인 지도",
     "link": "https://news.hada.io/topic?id=31200",
     "date": "2026-07-07"
@@ -723,5 +658,35 @@
     "title": "Overhaul of public lands grazing regulations seeks to cut public involvement",
     "link": "https://arstechnica.com/tech-policy/2026/07/overhaul-of-public-lands-grazing-regulations-seeks-to-cut-public-involvement/",
     "date": "2026-07-12"
+  },
+  {
+    "title": "책을 더 많이 읽는 방법",
+    "link": "https://news.hada.io/topic?id=31382",
+    "date": "2026-07-13"
+  },
+  {
+    "title": "AI 토큰은 데이터센터를 어떻게 여행하는가",
+    "link": "https://news.hada.io/topic?id=31381",
+    "date": "2026-07-13"
+  },
+  {
+    "title": "Chromium 148부터 Math.tanh로 기반 OS를 식별할 수 있음",
+    "link": "https://news.hada.io/topic?id=31380",
+    "date": "2026-07-13"
+  },
+  {
+    "title": "Ghostel.el - libghostty 기반 Emacs 터미널 에뮬레이터",
+    "link": "https://news.hada.io/topic?id=31379",
+    "date": "2026-07-13"
+  },
+  {
+    "title": "LLM은 사랑하지만 과대광고는 싫다",
+    "link": "https://news.hada.io/topic?id=31378",
+    "date": "2026-07-13"
+  },
+  {
+    "title": "The real mystery behind Moana: After 1,700 years, why did Polynesians suddenly sail east?",
+    "link": "https://arstechnica.com/culture/2026/07/the-real-mystery-behind-moana-after-1700-years-why-did-polynesians-suddenly-sail-east/",
+    "date": "2026-07-13"
   }
 ]
