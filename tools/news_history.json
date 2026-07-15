@@ -1,185 +1,5 @@
 [
   {
-    "title": "EU, 판매되는 모든 차량에 운전자 모니터링 카메라 의무화",
-    "link": "https://news.hada.io/topic?id=31232",
-    "date": "2026-07-08"
-  },
-  {
-    "title": "Chat Control 1.0과 2.0 설명",
-    "link": "https://news.hada.io/topic?id=31231",
-    "date": "2026-07-08"
-  },
-  {
-    "title": "운동복 반바지 조임끈을 더 잘 묶는 방법 [동영상]",
-    "link": "https://news.hada.io/topic?id=31230",
-    "date": "2026-07-08"
-  },
-  {
-    "title": "98%는 그리 많지 않음",
-    "link": "https://news.hada.io/topic?id=31229",
-    "date": "2026-07-08"
-  },
-  {
-    "title": "Microsoft, id Software의 idTech 팀 해고",
-    "link": "https://news.hada.io/topic?id=31228",
-    "date": "2026-07-08"
-  },
-  {
-    "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
-    "link": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
-    "date": "2026-07-08"
-  },
-  {
-    "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
-    "link": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
-    "date": "2026-07-08"
-  },
-  {
-    "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
-    "link": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
-    "date": "2026-07-08"
-  },
-  {
-    "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
-    "link": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
-    "date": "2026-07-08"
-  },
-  {
-    "title": "Claude Cowork expands to mobile and web",
-    "link": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
-    "date": "2026-07-08"
-  },
-  {
-    "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
-    "link": "https://openai.com/index/australian-payments-plus",
-    "date": "2026-07-08"
-  },
-  {
-    "title": "MUFG aims to become AI-native with OpenAI",
-    "link": "https://openai.com/index/mufg",
-    "date": "2026-07-08"
-  },
-  {
-    "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
-    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
-    "date": "2026-07-08"
-  },
-  {
-    "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
-    "link": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
-    "date": "2026-07-08"
-  },
-  {
-    "title": "Ask an AI expert: What exactly is the full stack?",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
-    "date": "2026-07-08"
-  },
-  {
-    "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
-    "link": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
-    "date": "2026-07-08"
-  },
-  {
-    "title": "The foundational elements of AI architecture that IT leaders need to scale",
-    "link": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
-    "date": "2026-07-08"
-  },
-  {
-    "title": "Why worms (and microbes) are catching on as a manure pollution solution",
-    "link": "https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/",
-    "date": "2026-07-08"
-  },
-  {
-    "title": "From Hugging Face to Amazon SageMaker Studio in one click",
-    "link": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
-    "date": "2026-07-08"
-  },
-  {
-    "title": "Hugging Face Models on Foundry Managed Compute",
-    "link": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-    "date": "2026-07-08"
-  },
-  {
-    "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
-    "link": "https://huggingface.co/blog/skypilot-hf-storage",
-    "date": "2026-07-08"
-  },
-  {
-    "title": "Michigan sees explosive outbreak of diarrheal parasite with over 700 cases",
-    "link": "https://arstechnica.com/health/2026/07/michigan-sees-explosive-outbreak-of-diarrheal-parasite-with-over-700-cases/",
-    "date": "2026-07-08"
-  },
-  {
-    "title": "Data centers’ energy demand threatens Trump’s “Made in America” plan",
-    "link": "https://arstechnica.com/tech-policy/2026/07/us-manufacturers-energy-costs-soar-because-of-ai-data-center-demand/",
-    "date": "2026-07-08"
-  },
-  {
-    "title": "Surprisingly large number of people may have marker for tick-linked meat allergy",
-    "link": "https://arstechnica.com/health/2026/07/surprisingly-large-number-of-people-may-have-marker-for-tick-linked-meat-allergy/",
-    "date": "2026-07-08"
-  },
-  {
-    "title": "SCOTUS lets Texas enforce app store law that Big Tech calls \"censorship regime\"",
-    "link": "https://arstechnica.com/tech-policy/2026/07/supreme-court-lets-texas-enforce-age-verification-law-on-app-stores/",
-    "date": "2026-07-08"
-  },
-  {
-    "title": "Bethesda, id Software reportedly hit hard by Microsoft layoffs",
-    "link": "https://arstechnica.com/gaming/2026/07/bethesda-id-software-reportedly-hit-hard-by-microsoft-layoffs/",
-    "date": "2026-07-08"
-  },
-  {
-    "title": "Trusted Publishing을 패키지 신뢰 신호로 보면 안 됨",
-    "link": "https://news.hada.io/topic?id=31238",
-    "date": "2026-07-08"
-  },
-  {
-    "title": "Dua Lipa, 포르투갈에 금서·검열 도서 도서관 개관",
-    "link": "https://news.hada.io/topic?id=31233",
-    "date": "2026-07-08"
-  },
-  {
-    "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
-    "link": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
-    "date": "2026-07-08"
-  },
-  {
-    "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
-    "link": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
-    "date": "2026-07-08"
-  },
-  {
-    "title": "How ChatGPT adoption has expanded",
-    "link": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-    "date": "2026-07-08"
-  },
-  {
-    "title": "Core dump epidemiology: fixing an 18-year-old bug",
-    "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-    "date": "2026-07-08"
-  },
-  {
-    "title": "Introducing GeneBench-Pro",
-    "link": "https://openai.com/index/introducing-genebench-pro",
-    "date": "2026-07-08"
-  },
-  {
-    "title": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
-    "link": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
-    "date": "2026-07-08"
-  },
-  {
-    "title": "Insilico Medicine advances AI drug for IPF to Phase III trials",
-    "link": "https://www.artificialintelligence-news.com/news/insilico-medicine-advances-ai-drug-for-ipf-to-phase-iii-trials/",
-    "date": "2026-07-08"
-  },
-  {
-    "title": "L’Oreal, Mondelez, and Nestle use AI to speed product development",
-    "link": "https://www.artificialintelligence-news.com/news/ai-product-development-loreal-mondelez-nestle/",
-    "date": "2026-07-08"
-  },
-  {
     "title": "코딩 평가에서 신호와 잡음 분리하기",
     "link": "https://news.hada.io/topic?id=31291",
     "date": "2026-07-10"
@@ -748,5 +568,115 @@
     "title": "SpaceX is gearing up for Starship's 13th test flight later this week",
     "link": "https://arstechnica.com/space/2026/07/spacex-is-gearing-up-for-starships-13th-test-flight-later-this-week/",
     "date": "2026-07-14"
+  },
+  {
+    "title": "탑은 계속 높아진다",
+    "link": "https://news.hada.io/topic?id=31451",
+    "date": "2026-07-15"
+  },
+  {
+    "title": "Bonsai 27B - 휴대폰에서 실행되는 27B급 모델",
+    "link": "https://news.hada.io/topic?id=31450",
+    "date": "2026-07-15"
+  },
+  {
+    "title": "Codex가 서브에이전트 프롬프트 암호화를 시작함",
+    "link": "https://news.hada.io/topic?id=31449",
+    "date": "2026-07-15"
+  },
+  {
+    "title": "Claude가 ‘load-bearing’을 말하지 않게 만드는 방법",
+    "link": "https://news.hada.io/topic?id=31448",
+    "date": "2026-07-15"
+  },
+  {
+    "title": "유럽의 “연령 확인” “앱”은 모두에게 Android 또는 iOS 사용을 강요함",
+    "link": "https://news.hada.io/topic?id=31447",
+    "date": "2026-07-15"
+  },
+  {
+    "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
+    "link": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
+    "date": "2026-07-15"
+  },
+  {
+    "title": "Lorde says AI glasses are ‘not sexy’",
+    "link": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
+    "date": "2026-07-15"
+  },
+  {
+    "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
+    "link": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+    "date": "2026-07-15"
+  },
+  {
+    "title": "OpenAI pushes back on Apple trade secret lawsuit",
+    "link": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
+    "date": "2026-07-15"
+  },
+  {
+    "title": "OpenAI’s new flagship model deletes files on its own, people keep warning",
+    "link": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
+    "date": "2026-07-15"
+  },
+  {
+    "title": "How to manage AI investments in the agentic era",
+    "link": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+    "date": "2026-07-15"
+  },
+  {
+    "title": "How data science teams use ChatGPT Work",
+    "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+    "date": "2026-07-15"
+  },
+  {
+    "title": "How sales teams use ChatGPT Work",
+    "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+    "date": "2026-07-15"
+  },
+  {
+    "title": "Celebrating 25 years of visual search innovation",
+    "link": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
+    "date": "2026-07-15"
+  },
+  {
+    "title": "The Download: Claude’s inner workings, and the future of world models",
+    "link": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
+    "date": "2026-07-15"
+  },
+  {
+    "title": "Microsoft’s Secure Boot has been broken for a decade and no one noticed until now",
+    "link": "https://arstechnica.com/security/2026/07/microsoft-secure-boot-has-been-broken-for-most-of-its-existence/",
+    "date": "2026-07-15"
+  },
+  {
+    "title": "Trump admin puts Americans in Congo on \"do-not-board\" list, barring return",
+    "link": "https://arstechnica.com/health/2026/07/americans-in-congo-barred-from-returning-home-amid-ebola-outbreak/",
+    "date": "2026-07-15"
+  },
+  {
+    "title": "Lawsuit claims Meta's layoff decisions were made by AI, not humans",
+    "link": "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/",
+    "date": "2026-07-15"
+  },
+  {
+    "title": "Probe into explosive diarrheal cases points to Taco Bell and bad lettuce",
+    "link": "https://arstechnica.com/health/2026/07/taco-bell-eyed-in-explosive-diarrheal-outbreak-leafy-greens-suspected/",
+    "date": "2026-07-15"
+  },
+  {
+    "title": "US military sent explosive drone boats into combat for the first time",
+    "link": "https://arstechnica.com/ai/2026/07/us-military-sent-explosive-drone-boats-into-combat-for-the-first-time/",
+    "date": "2026-07-15"
+  },
+  {
+    "title": "AWS and Bluesight build AI for hospital 340B compliance",
+    "link": "https://www.artificialintelligence-news.com/news/aws-and-bluesight-build-ai-for-hospital-340b-compliance/",
+    "date": "2026-07-15"
+  },
+  {
+    "title": "AI agent crawlers now need permission. Here’s how to get it",
+    "link": "https://www.artificialintelligence-news.com/news/ai-agent-crawlers-cloudflare-rules/",
+    "date": "2026-07-15"
   }
 ]
