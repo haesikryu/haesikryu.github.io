@@ -1,205 +1,5 @@
 [
   {
-    "title": "코딩 평가에서 신호와 잡음 분리하기",
-    "link": "https://news.hada.io/topic?id=31291",
-    "date": "2026-07-10"
-  },
-  {
-    "title": "Tencent, 오픈소스 모델 Hy3 공개",
-    "link": "https://news.hada.io/topic?id=31290",
-    "date": "2026-07-10"
-  },
-  {
-    "title": "PlayStation은 3년 동안 사용하지 않을 경우 모든 디지털 게임을 삭제할 수 있습니다 (EU 기준)",
-    "link": "https://news.hada.io/topic?id=31289",
-    "date": "2026-07-10"
-  },
-  {
-    "title": "Microsoft, AI 에이전트용 시각화 언어 Flint 공개",
-    "link": "https://news.hada.io/topic?id=31287",
-    "date": "2026-07-10"
-  },
-  {
-    "title": "LLM 번아웃이 온 것 같아요",
-    "link": "https://news.hada.io/topic?id=31286",
-    "date": "2026-07-10"
-  },
-  {
-    "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
-    "link": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
-    "date": "2026-07-10"
-  },
-  {
-    "title": "Fidji Simo steps down from OpenAI’s no. 2 role",
-    "link": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
-    "date": "2026-07-10"
-  },
-  {
-    "title": "OpenAI launches its new family of models with GPT-5.6",
-    "link": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
-    "date": "2026-07-10"
-  },
-  {
-    "title": "An AI agent startup just let its agent run its $100M fundraise",
-    "link": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
-    "date": "2026-07-10"
-  },
-  {
-    "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
-    "link": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
-    "date": "2026-07-10"
-  },
-  {
-    "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-    "link": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-    "date": "2026-07-10"
-  },
-  {
-    "title": "ChatGPT is now a partner for your most ambitious work",
-    "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-    "date": "2026-07-10"
-  },
-  {
-    "title": "GPT-5.5 Bio Bug Bounty",
-    "link": "https://openai.com/index/bio-bug-bounty",
-    "date": "2026-07-10"
-  },
-  {
-    "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-    "link": "https://openai.com/index/gpt-5-6",
-    "date": "2026-07-10"
-  },
-  {
-    "title": "Our approach to government and national security partnerships",
-    "link": "https://openai.com/index/government-national-security-partnerships",
-    "date": "2026-07-10"
-  },
-  {
-    "title": "Anthropic found a hidden space where Claude puzzles over concepts",
-    "link": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
-    "date": "2026-07-10"
-  },
-  {
-    "title": "The Download: a nuclear landmark, and China eyes Nvidia chips",
-    "link": "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/",
-    "date": "2026-07-10"
-  },
-  {
-    "title": "Four nuclear reactors hit a big milestone in the US",
-    "link": "https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/",
-    "date": "2026-07-10"
-  },
-  {
-    "title": "EmTech AI 2026: The Rise of the AI Platform",
-    "link": "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/",
-    "date": "2026-07-10"
-  },
-  {
-    "title": "The Download: worms fight pollution, and geoengineering faces reality",
-    "link": "https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/",
-    "date": "2026-07-10"
-  },
-  {
-    "title": "Data for Agents",
-    "link": "https://huggingface.co/blog/nvidia/open-data-for-agents",
-    "date": "2026-07-10"
-  },
-  {
-    "title": "Native-speed vLLM transformers modeling backend",
-    "link": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
-    "date": "2026-07-10"
-  },
-  {
-    "title": "Flores Hobbits' eating habits offer clues about their evolutionary past",
-    "link": "https://arstechnica.com/science/2026/07/flores-hobbits-scavenged-komodo-dragons-elephant-kills-study-suggests/",
-    "date": "2026-07-10"
-  },
-  {
-    "title": "Michigan's explosive outbreak of diarrheal parasite jumps to over 1,200 cases",
-    "link": "https://arstechnica.com/health/2026/07/michigans-explosive-outbreak-of-diarrheal-parasite-jumps-to-over-1200-cases/",
-    "date": "2026-07-10"
-  },
-  {
-    "title": "OpenAI wants its new tool to do your work for you and with you",
-    "link": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/",
-    "date": "2026-07-10"
-  },
-  {
-    "title": "Patch for Windows Defender 0-day could allow attackers to fill hard disk",
-    "link": "https://arstechnica.com/security/2026/07/patch-for-windows-defender-0-day-could-allow-attackers-to-fill-hard-disk/",
-    "date": "2026-07-10"
-  },
-  {
-    "title": "Allstate accuses Broadcom of auditing it because it quit VMware, CA",
-    "link": "https://arstechnica.com/information-technology/2026/07/allstate-accuses-broadcom-of-auditing-it-because-it-quit-vmware-ca/",
-    "date": "2026-07-10"
-  },
-  {
-    "title": "AWS GraphRAG deployment cuts drug research cycles by 87%",
-    "link": "https://www.artificialintelligence-news.com/news/aws-graphrag-deployment-cuts-drug-research-cycles-by-87/",
-    "date": "2026-07-10"
-  },
-  {
-    "title": "NHS AI blood test could reduce invasive womb cancer checks",
-    "link": "https://www.artificialintelligence-news.com/news/nhs-ai-blood-test-womb-cancer-checks/",
-    "date": "2026-07-10"
-  },
-  {
-    "title": "Show HN: 느린 컴퓨터에서 GLM 5.2 실행하기",
-    "link": "https://news.hada.io/topic?id=31297",
-    "date": "2026-07-10"
-  },
-  {
-    "title": "Postgres를 Rust로 재작성, 이제 Postgres 회귀 테스트 100% 통과",
-    "link": "https://news.hada.io/topic?id=31296",
-    "date": "2026-07-10"
-  },
-  {
-    "title": "Show GN: TetherMoon - 오픈소스 테더링 툴",
-    "link": "https://news.hada.io/topic?id=31295",
-    "date": "2026-07-10"
-  },
-  {
-    "title": "미첼 하시모토 인터뷰: Ghostty, Zig, 오픈소스 유지보수",
-    "link": "https://news.hada.io/topic?id=31294",
-    "date": "2026-07-10"
-  },
-  {
-    "title": "Show GN: 혹시 토익 고사장 하나씩 찾다가 지치셨나요?",
-    "link": "https://news.hada.io/topic?id=31293",
-    "date": "2026-07-10"
-  },
-  {
-    "title": "How Deutsche Telekom is rewiring telecommunications with AI",
-    "link": "https://openai.com/index/deutsche-telekom",
-    "date": "2026-07-10"
-  },
-  {
-    "title": "The latest AI news we announced in June 2026",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
-    "date": "2026-07-10"
-  },
-  {
-    "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
-    "link": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
-    "date": "2026-07-10"
-  },
-  {
-    "title": "Sperm donors need limits, says a European fertility group",
-    "link": "https://www.technologyreview.com/2026/07/10/1140289/sperm-donors-need-limits-says-a-european-fertility-group/",
-    "date": "2026-07-10"
-  },
-  {
-    "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
-    "link": "https://huggingface.co/blog/torch-attention-profile",
-    "date": "2026-07-10"
-  },
-  {
-    "title": "How to shrink the token budget without shrinking the team",
-    "link": "https://www.artificialintelligence-news.com/news/shrink-token-budget-not-team/",
-    "date": "2026-07-10"
-  },
-  {
     "title": "Apple, OpenAI를 상대로 소송 제기하며 전 직원들이 영업비밀을 훔쳤다고 주장",
     "link": "https://news.hada.io/topic?id=31318",
     "date": "2026-07-11"
@@ -848,5 +648,150 @@
     "title": "Nokia’s AI-RAN platform: a radio comeback that runs on NVIDIA",
     "link": "https://www.artificialintelligence-news.com/news/nokia-ai-ran-platform-nvidia/",
     "date": "2026-07-16"
+  },
+  {
+    "title": "Pandas 창시자가 말하는 AI·Apache Arrow·소프트웨어 엔지니어링의 미래 [유튜브]",
+    "link": "https://news.hada.io/topic?id=31516",
+    "date": "2026-07-17"
+  },
+  {
+    "title": "Patreon이 팬아웃으로 알림 시스템을 확장한 방법",
+    "link": "https://news.hada.io/topic?id=31515",
+    "date": "2026-07-17"
+  },
+  {
+    "title": "개발자를 해킹하는 LinkedIn 채용 과제 사기",
+    "link": "https://news.hada.io/topic?id=31514",
+    "date": "2026-07-17"
+  },
+  {
+    "title": "Decoy Font: 입력 내용을 숨기는 TTF 글꼴",
+    "link": "https://news.hada.io/topic?id=31513",
+    "date": "2026-07-17"
+  },
+  {
+    "title": "OnePlus, 미국·유럽 운영 중단",
+    "link": "https://news.hada.io/topic?id=31512",
+    "date": "2026-07-17"
+  },
+  {
+    "title": "Google Vids now lets you star in your own AI videos",
+    "link": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+    "date": "2026-07-17"
+  },
+  {
+    "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
+    "link": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
+    "date": "2026-07-17"
+  },
+  {
+    "title": "Google’s AI Mode now lets you link and interact with select apps",
+    "link": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
+    "date": "2026-07-17"
+  },
+  {
+    "title": "Yes, you can now order DoorDash from the command line",
+    "link": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
+    "date": "2026-07-17"
+  },
+  {
+    "title": "Why is OpenAI selling a ChatGPT basketball?",
+    "link": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
+    "date": "2026-07-17"
+  },
+  {
+    "title": "Why teens deserve access to safe AI",
+    "link": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+    "date": "2026-07-17"
+  },
+  {
+    "title": "How Cars24 scales conversations and builds faster with OpenAI",
+    "link": "https://openai.com/index/cars24",
+    "date": "2026-07-17"
+  },
+  {
+    "title": "Connect more of your apps to Search",
+    "link": "https://blog.google/products-and-platforms/products/search/connected-apps/",
+    "date": "2026-07-17"
+  },
+  {
+    "title": "Create, edit and star in videos with two Google Vids updates",
+    "link": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+    "date": "2026-07-17"
+  },
+  {
+    "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+    "link": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+    "date": "2026-07-17"
+  },
+  {
+    "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+    "link": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+    "date": "2026-07-17"
+  },
+  {
+    "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
+    "link": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
+    "date": "2026-07-17"
+  },
+  {
+    "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
+    "link": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+    "date": "2026-07-17"
+  },
+  {
+    "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
+    "link": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
+    "date": "2026-07-17"
+  },
+  {
+    "title": "Why heat pumps are still so hot in the US",
+    "link": "https://www.technologyreview.com/2026/07/16/1140505/heat-pump-sales-us/",
+    "date": "2026-07-17"
+  },
+  {
+    "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+    "date": "2026-07-17"
+  },
+  {
+    "title": "Newer Models, Same Advantage",
+    "link": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+    "date": "2026-07-17"
+  },
+  {
+    "title": "Security incident disclosure — July 2026",
+    "link": "https://huggingface.co/blog/security-incident-july-2026",
+    "date": "2026-07-17"
+  },
+  {
+    "title": "SpaceX scrubs Starship launch after some of its engines didn't start",
+    "link": "https://arstechnica.com/space/2026/07/spacex-scrubs-starship-launch-after-some-of-its-engines-didnt-start/",
+    "date": "2026-07-17"
+  },
+  {
+    "title": "Two Trump health nominees crash and burn in tense Senate hearing",
+    "link": "https://arstechnica.com/health/2026/07/two-trump-health-nominees-crash-and-burn-in-tense-senate-hearing/",
+    "date": "2026-07-17"
+  },
+  {
+    "title": "HP fined 1.4 billion rupees for “cartelization” of ink cartridges, toner, PCs",
+    "link": "https://arstechnica.com/gadgets/2026/07/hp-fined-1-4-billion-rupees-for-cartelization-of-ink-cartridges-toner-pcs/",
+    "date": "2026-07-17"
+  },
+  {
+    "title": "T-Mobile bungled forced plan migration, canceling some users' free lines",
+    "link": "https://arstechnica.com/tech-policy/2026/07/t-mobile-bungled-forced-plan-migration-canceling-some-users-free-lines/",
+    "date": "2026-07-17"
+  },
+  {
+    "title": "It's official: EU will force Google to share search data and open up AI on Android",
+    "link": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/",
+    "date": "2026-07-17"
+  },
+  {
+    "title": "Examining Google DeepMind’s AI bioresilience push",
+    "link": "https://www.artificialintelligence-news.com/news/examining-google-deepmind-ai-bioresilience-push/",
+    "date": "2026-07-17"
   }
 ]
