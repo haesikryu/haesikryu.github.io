@@ -1,100 +1,5 @@
 [
   {
-    "title": "Apple, OpenAI를 상대로 소송 제기하며 전 직원들이 영업비밀을 훔쳤다고 주장",
-    "link": "https://news.hada.io/topic?id=31318",
-    "date": "2026-07-11"
-  },
-  {
-    "title": "뉴욕시, 기만적 구독 관행 금지 예정",
-    "link": "https://news.hada.io/topic?id=31317",
-    "date": "2026-07-11"
-  },
-  {
-    "title": "QuadRF는 드론을 포착하고 벽 너머 WiFi를 볼 수 있음",
-    "link": "https://news.hada.io/topic?id=31316",
-    "date": "2026-07-11"
-  },
-  {
-    "title": "fenic - 사람과 에이전트를 위한 시맨틱 데이터프레임(Semantic DataFrames)",
-    "link": "https://news.hada.io/topic?id=31315",
-    "date": "2026-07-11"
-  },
-  {
-    "title": "Cpp2Rust: C++를 안전한 Rust로 자동 번역",
-    "link": "https://news.hada.io/topic?id=31314",
-    "date": "2026-07-11"
-  },
-  {
-    "title": "Meta removes controversial AI feature on Instagram after backlash",
-    "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
-    "date": "2026-07-11"
-  },
-  {
-    "title": "Apple sues OpenAI over alleged trade secret theft",
-    "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
-    "date": "2026-07-11"
-  },
-  {
-    "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
-    "link": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
-    "date": "2026-07-11"
-  },
-  {
-    "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
-    "link": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
-    "date": "2026-07-11"
-  },
-  {
-    "title": "Hugging Face’s CEO on why companies are done renting their AI",
-    "link": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
-    "date": "2026-07-11"
-  },
-  {
-    "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
-    "link": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
-    "date": "2026-07-11"
-  },
-  {
-    "title": "Quantum error correction can constantly recalibrate a processor",
-    "link": "https://arstechnica.com/science/2026/07/quantum-error-correction-can-constantly-recalibrate-a-processor/",
-    "date": "2026-07-11"
-  },
-  {
-    "title": "Increased drone surveillance of illegal July 4th fireworks led to $100K fine",
-    "link": "https://arstechnica.com/gadgets/2026/07/on-americas-250th-more-cities-used-drone-surveillance-to-spot-illegal-fireworks/",
-    "date": "2026-07-11"
-  },
-  {
-    "title": "China recovered its first reusable rocket and showed a new way to do it",
-    "link": "https://arstechnica.com/space/2026/07/china-recovered-its-first-reusable-rocket-and-showed-a-new-way-to-do-it/",
-    "date": "2026-07-11"
-  },
-  {
-    "title": "Check out the first images of Quest shipwreck",
-    "link": "https://arstechnica.com/science/2026/07/expedition-captures-first-images-of-shackletons-last-ship/",
-    "date": "2026-07-11"
-  },
-  {
-    "title": "Ransomware negotiator hired to represent victims was working for the attackers",
-    "link": "https://arstechnica.com/tech-policy/2026/07/ransomware-negotiator-helped-attackers-extort-his-own-clients-gets-6-year-sentence/",
-    "date": "2026-07-11"
-  },
-  {
-    "title": "후기 청동기 시대의 붕괴",
-    "link": "https://news.hada.io/topic?id=31322",
-    "date": "2026-07-11"
-  },
-  {
-    "title": "[pdf] GPT-5.6 Sol Ultra가 제시한 사이클 이중 덮개 추측 증명",
-    "link": "https://news.hada.io/topic?id=31320",
-    "date": "2026-07-11"
-  },
-  {
-    "title": "양극성 LISP 프로그래머",
-    "link": "https://news.hada.io/topic?id=31319",
-    "date": "2026-07-11"
-  },
-  {
     "title": "Show GN: 어느 사이트든 헬스체크 &amp; 소유자 공지 및 댓글 소통 가능한 상태페이지",
     "link": "https://news.hada.io/topic?id=31345",
     "date": "2026-07-12"
@@ -813,5 +718,105 @@
     "title": "The latest AI news we announced in June 2026",
     "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
     "date": "2026-07-17"
+  },
+  {
+    "title": "먼 별의 생명체 거주 가능 영역에 있는 지구형 행성에서 최초로 대기 발견",
+    "link": "https://news.hada.io/topic?id=31539",
+    "date": "2026-07-18"
+  },
+  {
+    "title": "2026년 7월 오픈소스 AI 현황",
+    "link": "https://news.hada.io/topic?id=31538",
+    "date": "2026-07-18"
+  },
+  {
+    "title": "Apple, 법적 서한으로 OpenAI 직원 수십 명 겨냥",
+    "link": "https://news.hada.io/topic?id=31537",
+    "date": "2026-07-18"
+  },
+  {
+    "title": "AGI 평가 과정과 수상자 선정에서 드러난 불일치",
+    "link": "https://news.hada.io/topic?id=31536",
+    "date": "2026-07-18"
+  },
+  {
+    "title": "AWS 예상 청구액이 17억 달러로 표시됨, 평소 사용료는 5달러 미만",
+    "link": "https://news.hada.io/topic?id=31535",
+    "date": "2026-07-18"
+  },
+  {
+    "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
+    "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+    "date": "2026-07-18"
+  },
+  {
+    "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+    "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+    "date": "2026-07-18"
+  },
+  {
+    "title": "The Zoom hack that says, ‘Don’t record me’",
+    "link": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
+    "date": "2026-07-18"
+  },
+  {
+    "title": "Agility Robotics plants its flag in Tesla’s backyard",
+    "link": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
+    "date": "2026-07-18"
+  },
+  {
+    "title": "AI-driven memory crunch jolts India’s smartphone market",
+    "link": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
+    "date": "2026-07-18"
+  },
+  {
+    "title": "A scorecard for the AI age",
+    "link": "https://openai.com/index/a-scorecard-for-the-ai-age",
+    "date": "2026-07-18"
+  },
+  {
+    "title": "The Download: perimenopause misinformation and China’s latest AI leap",
+    "link": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/",
+    "date": "2026-07-18"
+  },
+  {
+    "title": "There’s a lot of hype around perimenopause. Don’t buy it.",
+    "link": "https://www.technologyreview.com/2026/07/17/1140608/theres-a-lot-of-hype-around-perimenopause-dont-buy-it/",
+    "date": "2026-07-18"
+  },
+  {
+    "title": "The risk of weather data sabotage is rising",
+    "link": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
+    "date": "2026-07-18"
+  },
+  {
+    "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+    "link": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+    "date": "2026-07-18"
+  },
+  {
+    "title": "Google-backed satellites for wildfire detection launch as smoke chokes US, Canada",
+    "link": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/",
+    "date": "2026-07-18"
+  },
+  {
+    "title": "The Pentagon's Space Development Agency hasn't moved as fast as anyone would like",
+    "link": "https://arstechnica.com/space/2026/07/the-pentagons-space-development-agency-hasnt-moved-as-fast-as-anyone-would-like/",
+    "date": "2026-07-18"
+  },
+  {
+    "title": "Hegseth wants a \"High-T\" military; doctors call it a clinical minefield",
+    "link": "https://arstechnica.com/health/2026/07/hegseth-wants-a-high-t-military-doctors-call-it-a-clinical-minefield/",
+    "date": "2026-07-18"
+  },
+  {
+    "title": "Taco Bell iceberg lettuce identified as source of cyclosporiasis in 5 states",
+    "link": "https://arstechnica.com/health/2026/07/taco-bell-iceburg-lettuce-identified-as-source-of-cyclosporiasis-in-5-states/",
+    "date": "2026-07-18"
+  },
+  {
+    "title": "Troubling new details emerge on diabetes ouster controversy",
+    "link": "https://arstechnica.com/science/2026/07/troubling-new-details-emerge-on-diabetes-ouster-controversy/",
+    "date": "2026-07-18"
   }
 ]
