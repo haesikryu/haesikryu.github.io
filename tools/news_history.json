@@ -1,45 +1,5 @@
 [
   {
-    "title": "Show GN: 어느 사이트든 헬스체크 &amp; 소유자 공지 및 댓글 소통 가능한 상태페이지",
-    "link": "https://news.hada.io/topic?id=31345",
-    "date": "2026-07-12"
-  },
-  {
-    "title": "SQLite에서는 STRICT 테이블을 우선 사용하라",
-    "link": "https://news.hada.io/topic?id=31344",
-    "date": "2026-07-12"
-  },
-  {
-    "title": "Ghost Font - 사람은 읽지만 AI는 읽기 어려운 글꼴",
-    "link": "https://news.hada.io/topic?id=31343",
-    "date": "2026-07-12"
-  },
-  {
-    "title": "GPT-5.6, Grok 4.5, Claude, Muse Spark로 동일한 앱 4개를 만든 결과",
-    "link": "https://news.hada.io/topic?id=31342",
-    "date": "2026-07-12"
-  },
-  {
-    "title": "미국 여성 조정 선수, 캘리포니아에서 하와이까지 역사적 단독 항해 완주",
-    "link": "https://news.hada.io/topic?id=31341",
-    "date": "2026-07-12"
-  },
-  {
-    "title": "OpenAI bets on families as ChatGPT goes deeper into households",
-    "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
-    "date": "2026-07-12"
-  },
-  {
-    "title": "A Jupiter-size planet that escaped its star's death",
-    "link": "https://arstechnica.com/science/2026/07/a-jupiter-size-planet-that-escaped-its-stars-death/",
-    "date": "2026-07-12"
-  },
-  {
-    "title": "Overhaul of public lands grazing regulations seeks to cut public involvement",
-    "link": "https://arstechnica.com/tech-policy/2026/07/overhaul-of-public-lands-grazing-regulations-seeks-to-cut-public-involvement/",
-    "date": "2026-07-12"
-  },
-  {
     "title": "책을 더 많이 읽는 방법",
     "link": "https://news.hada.io/topic?id=31382",
     "date": "2026-07-13"
@@ -848,5 +808,40 @@
     "title": "Bunkerhill raises $55M to scale agentic AI across health systems",
     "link": "https://www.artificialintelligence-news.com/news/bunkerhill-raises-55m-scale-agentic-ai-health-systems/",
     "date": "2026-07-18"
+  },
+  {
+    "title": "안녕히, 그동안의 모든 Bikeshed에 감사드립니다",
+    "link": "https://news.hada.io/topic?id=31573",
+    "date": "2026-07-19"
+  },
+  {
+    "title": "Lone Lisp를 만든 Matheus Moreira 인터뷰",
+    "link": "https://news.hada.io/topic?id=31572",
+    "date": "2026-07-19"
+  },
+  {
+    "title": "100만 개 키워드가 보여준, AI가 검색에 미치는 영향",
+    "link": "https://news.hada.io/topic?id=31571",
+    "date": "2026-07-19"
+  },
+  {
+    "title": "GPT-5.6이 프롬프트로 볼록 최적화의 30년 공백을 메움",
+    "link": "https://news.hada.io/topic?id=31570",
+    "date": "2026-07-19"
+  },
+  {
+    "title": "Mindwalk - 코딩 에이전트 세션을 코드베이스의 3D 지도 위에서 재생하는 시각화 도구",
+    "link": "https://news.hada.io/topic?id=31569",
+    "date": "2026-07-19"
+  },
+  {
+    "title": "Kimi: Threat or menace?",
+    "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+    "date": "2026-07-19"
+  },
+  {
+    "title": "Will AI fix prior authorization—or make it worse?",
+    "link": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
+    "date": "2026-07-19"
   }
 ]
