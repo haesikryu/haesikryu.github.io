@@ -1,60 +1,5 @@
 [
   {
-    "title": "책을 더 많이 읽는 방법",
-    "link": "https://news.hada.io/topic?id=31382",
-    "date": "2026-07-13"
-  },
-  {
-    "title": "AI 토큰은 데이터센터를 어떻게 여행하는가",
-    "link": "https://news.hada.io/topic?id=31381",
-    "date": "2026-07-13"
-  },
-  {
-    "title": "Chromium 148부터 Math.tanh로 기반 OS를 식별할 수 있음",
-    "link": "https://news.hada.io/topic?id=31380",
-    "date": "2026-07-13"
-  },
-  {
-    "title": "Ghostel.el - libghostty 기반 Emacs 터미널 에뮬레이터",
-    "link": "https://news.hada.io/topic?id=31379",
-    "date": "2026-07-13"
-  },
-  {
-    "title": "LLM은 사랑하지만 과대광고는 싫다",
-    "link": "https://news.hada.io/topic?id=31378",
-    "date": "2026-07-13"
-  },
-  {
-    "title": "The real mystery behind Moana: After 1,700 years, why did Polynesians suddenly sail east?",
-    "link": "https://arstechnica.com/culture/2026/07/the-real-mystery-behind-moana-after-1700-years-why-did-polynesians-suddenly-sail-east/",
-    "date": "2026-07-13"
-  },
-  {
-    "title": "Tiny Emulators - 작은 에뮬레이터 모음",
-    "link": "https://news.hada.io/topic?id=31395",
-    "date": "2026-07-13"
-  },
-  {
-    "title": "Show GN: 귀찮음이 만든 게시판 변경사항 추적기",
-    "link": "https://news.hada.io/topic?id=31394",
-    "date": "2026-07-13"
-  },
-  {
-    "title": "Show GN: 온나라 리마스터 – 정부 온나라 문서시스템을 다크모드·가독성으로 바꾸는 크롬(엣지) 확장",
-    "link": "https://news.hada.io/topic?id=31391",
-    "date": "2026-07-13"
-  },
-  {
-    "title": "gpt-5.6-sol이 PowerShell의 $HOME 변수 충돌로 사용자 홈 디렉터리를 날려버릴 뻔한 건에 대하여",
-    "link": "https://news.hada.io/topic?id=31390",
-    "date": "2026-07-13"
-  },
-  {
-    "title": "Show GN: 정치 커뮤니티에 AI 팩트체크 기능을 붙이며 겪은 시행착오들",
-    "link": "https://news.hada.io/topic?id=31389",
-    "date": "2026-07-13"
-  },
-  {
     "title": "데이터 품질에 관하여 - 기본 원리",
     "link": "https://news.hada.io/topic?id=31428",
     "date": "2026-07-14"
@@ -868,5 +813,60 @@
     "title": "Show GN: 고전 아케이드 게임의 웹 플레이 &amp;  Live kit을 이용한 네트워크 플레이",
     "link": "https://news.hada.io/topic?id=31575",
     "date": "2026-07-19"
+  },
+  {
+    "title": "데이터가 유일한 해자다",
+    "link": "https://news.hada.io/topic?id=31606",
+    "date": "2026-07-20"
+  },
+  {
+    "title": "IPTV보다 더 좋고 저렴한 Castor",
+    "link": "https://news.hada.io/topic?id=31605",
+    "date": "2026-07-20"
+  },
+  {
+    "title": "Supabase가 조사한 2026년 스타트업 현황",
+    "link": "https://news.hada.io/topic?id=31604",
+    "date": "2026-07-20"
+  },
+  {
+    "title": "Claude Code, Rust로 재작성된 Bun 사용",
+    "link": "https://news.hada.io/topic?id=31603",
+    "date": "2026-07-20"
+  },
+  {
+    "title": "AI 광풍이 전 세계의 의사결정을 무너뜨리고 있음",
+    "link": "https://news.hada.io/topic?id=31602",
+    "date": "2026-07-20"
+  },
+  {
+    "title": "What to watch for after Jensen Huang’s Japan visit",
+    "link": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
+    "date": "2026-07-20"
+  },
+  {
+    "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+    "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+    "date": "2026-07-20"
+  },
+  {
+    "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
+    "link": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+    "date": "2026-07-20"
+  },
+  {
+    "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
+    "link": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+    "date": "2026-07-20"
+  },
+  {
+    "title": "India's first privately-developed rocket reaches orbit on dramatic debut launch",
+    "link": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
+    "date": "2026-07-20"
+  },
+  {
+    "title": "As mosquito ranges expand, better monitoring is key to preventing disease",
+    "link": "https://arstechnica.com/science/2026/07/as-mosquito-ranges-expand-better-monitoring-is-key-to-preventing-disease/",
+    "date": "2026-07-20"
   }
 ]
