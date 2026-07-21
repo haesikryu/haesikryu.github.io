@@ -1,185 +1,5 @@
 [
   {
-    "title": "데이터 품질에 관하여 - 기본 원리",
-    "link": "https://news.hada.io/topic?id=31428",
-    "date": "2026-07-14"
-  },
-  {
-    "title": "Climate.gov는 파괴됐지만 공개 데이터가 살렸다",
-    "link": "https://news.hada.io/topic?id=31427",
-    "date": "2026-07-14"
-  },
-  {
-    "title": "LAPD, 감시업체 Flock과의 3년 계약 갱신 않기로",
-    "link": "https://news.hada.io/topic?id=31426",
-    "date": "2026-07-14"
-  },
-  {
-    "title": "영화배우 Sam Neill, 78세로 별세",
-    "link": "https://news.hada.io/topic?id=31425",
-    "date": "2026-07-14"
-  },
-  {
-    "title": "Grok이 사용자 디렉터리 전체를 xAI 서버에 업로드함",
-    "link": "https://news.hada.io/topic?id=31424",
-    "date": "2026-07-14"
-  },
-  {
-    "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
-    "link": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
-    "date": "2026-07-14"
-  },
-  {
-    "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
-    "link": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
-    "date": "2026-07-14"
-  },
-  {
-    "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
-    "link": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
-    "date": "2026-07-14"
-  },
-  {
-    "title": "Satya Nadella has issued a shocking warning to companies using AI",
-    "link": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
-    "date": "2026-07-14"
-  },
-  {
-    "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
-    "link": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
-    "date": "2026-07-14"
-  },
-  {
-    "title": "Getting started with ChatGPT",
-    "link": "https://openai.com/academy/getting-started",
-    "date": "2026-07-14"
-  },
-  {
-    "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
-    "link": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
-    "date": "2026-07-14"
-  },
-  {
-    "title": "The Download: a donor conception cap and world models for AI",
-    "link": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/",
-    "date": "2026-07-14"
-  },
-  {
-    "title": "US continues to shun Ebola-infected citizens; second American sent to Germany",
-    "link": "https://arstechnica.com/health/2026/07/us-continues-to-shun-ebola-infected-citizens-second-american-sent-to-germany/",
-    "date": "2026-07-14"
-  },
-  {
-    "title": "The US government warns that Russia state hackers are coming after your router",
-    "link": "https://arstechnica.com/security/2026/07/the-us-government-warns-that-russia-state-hackers-are-coming-after-your-router/",
-    "date": "2026-07-14"
-  },
-  {
-    "title": "Ukrainian drone strikes forced Russia to stop shipping in vital sea corridor",
-    "link": "https://arstechnica.com/gadgets/2026/07/ukrainian-drone-strikes-forced-russia-to-stop-shipping-in-vital-sea-corridor/",
-    "date": "2026-07-14"
-  },
-  {
-    "title": "California creates $3,500 rebate for new electric vehicle buyers",
-    "link": "https://arstechnica.com/cars/2026/07/first-time-ev-buyers-in-california-can-now-claim-a-new-rebate/",
-    "date": "2026-07-14"
-  },
-  {
-    "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
-    "link": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
-    "date": "2026-07-14"
-  },
-  {
-    "title": "순서대로, 한 번만, 빠르게",
-    "link": "https://news.hada.io/topic?id=31433",
-    "date": "2026-07-14"
-  },
-  {
-    "title": "Papermake - Typst 기반의 셀프 호스팅 가능한 PDF 문서 생성 서버",
-    "link": "https://news.hada.io/topic?id=31432",
-    "date": "2026-07-14"
-  },
-  {
-    "title": "Xcode를 열지 않고 Mac·iOS 앱 빌드와 배포하기",
-    "link": "https://news.hada.io/topic?id=31431",
-    "date": "2026-07-14"
-  },
-  {
-    "title": "Super Dario 공개",
-    "link": "https://news.hada.io/topic?id=31430",
-    "date": "2026-07-14"
-  },
-  {
-    "title": "이해가 새로운 병목이다",
-    "link": "https://news.hada.io/topic?id=31429",
-    "date": "2026-07-14"
-  },
-  {
-    "title": "Fairy 서비스 오픈 및 GeekNews Show GN 연동",
-    "link": "https://news.hada.io/blog/fairy_and_geeknews",
-    "date": "2026-07-14"
-  },
-  {
-    "title": "GeekBadge 시스템을 추가했습니다",
-    "link": "https://news.hada.io/blog/introducing_geekbadge",
-    "date": "2026-07-14"
-  },
-  {
-    "title": "List 가 GeekLists 기능으로 확대 개편 되었습니다.",
-    "link": "https://news.hada.io/blog/GeekLists",
-    "date": "2026-07-14"
-  },
-  {
-    "title": "‘함께 보면 좋은 글’ 기능을 추가했습니다",
-    "link": "https://news.hada.io/blog/related-reads",
-    "date": "2026-07-14"
-  },
-  {
-    "title": "GeekNews를 편하게 구독하는 법",
-    "link": "https://news.hada.io/blog/subscribe_geeknews",
-    "date": "2026-07-14"
-  },
-  {
-    "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
-    "link": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
-    "date": "2026-07-14"
-  },
-  {
-    "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
-    "link": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
-    "date": "2026-07-14"
-  },
-  {
-    "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-    "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-    "date": "2026-07-14"
-  },
-  {
-    "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-    "link": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-    "date": "2026-07-14"
-  },
-  {
-    "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-    "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
-    "date": "2026-07-14"
-  },
-  {
-    "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-    "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-    "date": "2026-07-14"
-  },
-  {
-    "title": "PsiQuantum has a plan to make a massive quantum computer out of light",
-    "link": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/",
-    "date": "2026-07-14"
-  },
-  {
-    "title": "SpaceX is gearing up for Starship's 13th test flight later this week",
-    "link": "https://arstechnica.com/space/2026/07/spacex-is-gearing-up-for-starships-13th-test-flight-later-this-week/",
-    "date": "2026-07-14"
-  },
-  {
     "title": "탑은 계속 높아진다",
     "link": "https://news.hada.io/topic?id=31451",
     "date": "2026-07-15"
@@ -903,5 +723,105 @@
     "title": "Kimi K3 open-weight model: China’s biggest AI is a bet on memory, not compute",
     "link": "https://www.artificialintelligence-news.com/news/kimi-k3-open-weight-model-memory-compute-china/",
     "date": "2026-07-20"
+  },
+  {
+    "title": "OpenCode의 성가시고 불안한 문제들",
+    "link": "https://news.hada.io/topic?id=31641",
+    "date": "2026-07-21"
+  },
+  {
+    "title": "WordPress RCE를 GPT5.6과 25달러로 발견",
+    "link": "https://news.hada.io/topic?id=31640",
+    "date": "2026-07-21"
+  },
+  {
+    "title": "Xiaomi-Robotics-1 - 10만 시간의 실제 데이터로 학습한 로봇 파운데이션 모델",
+    "link": "https://news.hada.io/topic?id=31639",
+    "date": "2026-07-21"
+  },
+  {
+    "title": "EU가 무비자 여행을 대가로 민감한 개인정보를 미국에 넘기려 함",
+    "link": "https://news.hada.io/topic?id=31638",
+    "date": "2026-07-21"
+  },
+  {
+    "title": "해커가 루마니아 토지 등기 데이터베이스를 삭제",
+    "link": "https://news.hada.io/topic?id=31637",
+    "date": "2026-07-21"
+  },
+  {
+    "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
+    "link": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+    "date": "2026-07-21"
+  },
+  {
+    "title": "Trump’s latest AI czar has already resigned",
+    "link": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+    "date": "2026-07-21"
+  },
+  {
+    "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+    "link": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+    "date": "2026-07-21"
+  },
+  {
+    "title": "AI’s most important protocol is getting a little bit easier to use",
+    "link": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+    "date": "2026-07-21"
+  },
+  {
+    "title": "X relaunches a rebuilt Android app after year-long effort",
+    "link": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
+    "date": "2026-07-21"
+  },
+  {
+    "title": "Safety and alignment in an era of long-horizon models",
+    "link": "https://openai.com/index/safety-alignment-long-horizon-models",
+    "date": "2026-07-21"
+  },
+  {
+    "title": "China’s AI models have Trump’s AI world at war with itself",
+    "link": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
+    "date": "2026-07-21"
+  },
+  {
+    "title": "The Download: AI hiring biases, and weather data sabotage",
+    "link": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/",
+    "date": "2026-07-21"
+  },
+  {
+    "title": "Introducing Cosmos 3 Edge",
+    "link": "https://huggingface.co/blog/nvidia/cosmos3edge",
+    "date": "2026-07-21"
+  },
+  {
+    "title": "DA: Cop covered bodycam to snap nude prisoners on his iPhone—but other cams caught him",
+    "link": "https://arstechnica.com/tech-policy/2026/07/cop-charged-with-covering-bodycam-to-photograph-naked-prisoners/",
+    "date": "2026-07-21"
+  },
+  {
+    "title": "Firefighting drones in the works as wildfires plague US nearly year-round",
+    "link": "https://arstechnica.com/ai/2026/07/firefighting-drones-in-the-works-as-wildfires-plague-us-nearly-year-round/",
+    "date": "2026-07-21"
+  },
+  {
+    "title": "Judge halts Paramount's $111B purchase of Warner Bros. in win for US states",
+    "link": "https://arstechnica.com/tech-policy/2026/07/judge-halts-paramounts-111b-purchase-of-warner-bros-in-win-for-us-states/",
+    "date": "2026-07-21"
+  },
+  {
+    "title": "The Space Force is now seeking to buy up to $30 billion in rocket launches",
+    "link": "https://arstechnica.com/space/2026/07/the-space-force-is-now-seeking-to-buy-up-to-30-billion-in-rocket-launches/",
+    "date": "2026-07-21"
+  },
+  {
+    "title": "AT&T loses key ruling in bid to stop offering basic phone service in California",
+    "link": "https://arstechnica.com/tech-policy/2026/07/att-loses-key-ruling-in-bid-to-stop-offering-basic-phone-service-in-california/",
+    "date": "2026-07-21"
+  },
+  {
+    "title": "US public health agencies to test OpenAI and Anthropic AI models",
+    "link": "https://www.artificialintelligence-news.com/news/openai-anthropic-public-health-ai/",
+    "date": "2026-07-21"
   }
 ]
