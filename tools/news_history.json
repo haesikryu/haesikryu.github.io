@@ -1,115 +1,5 @@
 [
   {
-    "title": "탑은 계속 높아진다",
-    "link": "https://news.hada.io/topic?id=31451",
-    "date": "2026-07-15"
-  },
-  {
-    "title": "Bonsai 27B - 휴대폰에서 실행되는 27B급 모델",
-    "link": "https://news.hada.io/topic?id=31450",
-    "date": "2026-07-15"
-  },
-  {
-    "title": "Codex가 서브에이전트 프롬프트 암호화를 시작함",
-    "link": "https://news.hada.io/topic?id=31449",
-    "date": "2026-07-15"
-  },
-  {
-    "title": "Claude가 ‘load-bearing’을 말하지 않게 만드는 방법",
-    "link": "https://news.hada.io/topic?id=31448",
-    "date": "2026-07-15"
-  },
-  {
-    "title": "유럽의 “연령 확인” “앱”은 모두에게 Android 또는 iOS 사용을 강요함",
-    "link": "https://news.hada.io/topic?id=31447",
-    "date": "2026-07-15"
-  },
-  {
-    "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
-    "link": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
-    "date": "2026-07-15"
-  },
-  {
-    "title": "Lorde says AI glasses are ‘not sexy’",
-    "link": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
-    "date": "2026-07-15"
-  },
-  {
-    "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
-    "link": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
-    "date": "2026-07-15"
-  },
-  {
-    "title": "OpenAI pushes back on Apple trade secret lawsuit",
-    "link": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
-    "date": "2026-07-15"
-  },
-  {
-    "title": "OpenAI’s new flagship model deletes files on its own, people keep warning",
-    "link": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
-    "date": "2026-07-15"
-  },
-  {
-    "title": "How to manage AI investments in the agentic era",
-    "link": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-    "date": "2026-07-15"
-  },
-  {
-    "title": "How data science teams use ChatGPT Work",
-    "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-    "date": "2026-07-15"
-  },
-  {
-    "title": "How sales teams use ChatGPT Work",
-    "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-    "date": "2026-07-15"
-  },
-  {
-    "title": "Celebrating 25 years of visual search innovation",
-    "link": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
-    "date": "2026-07-15"
-  },
-  {
-    "title": "The Download: Claude’s inner workings, and the future of world models",
-    "link": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
-    "date": "2026-07-15"
-  },
-  {
-    "title": "Microsoft’s Secure Boot has been broken for a decade and no one noticed until now",
-    "link": "https://arstechnica.com/security/2026/07/microsoft-secure-boot-has-been-broken-for-most-of-its-existence/",
-    "date": "2026-07-15"
-  },
-  {
-    "title": "Trump admin puts Americans in Congo on \"do-not-board\" list, barring return",
-    "link": "https://arstechnica.com/health/2026/07/americans-in-congo-barred-from-returning-home-amid-ebola-outbreak/",
-    "date": "2026-07-15"
-  },
-  {
-    "title": "Lawsuit claims Meta's layoff decisions were made by AI, not humans",
-    "link": "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/",
-    "date": "2026-07-15"
-  },
-  {
-    "title": "Probe into explosive diarrheal cases points to Taco Bell and bad lettuce",
-    "link": "https://arstechnica.com/health/2026/07/taco-bell-eyed-in-explosive-diarrheal-outbreak-leafy-greens-suspected/",
-    "date": "2026-07-15"
-  },
-  {
-    "title": "US military sent explosive drone boats into combat for the first time",
-    "link": "https://arstechnica.com/ai/2026/07/us-military-sent-explosive-drone-boats-into-combat-for-the-first-time/",
-    "date": "2026-07-15"
-  },
-  {
-    "title": "AWS and Bluesight build AI for hospital 340B compliance",
-    "link": "https://www.artificialintelligence-news.com/news/aws-and-bluesight-build-ai-for-hospital-340b-compliance/",
-    "date": "2026-07-15"
-  },
-  {
-    "title": "AI agent crawlers now need permission. Here’s how to get it",
-    "link": "https://www.artificialintelligence-news.com/news/ai-agent-crawlers-cloudflare-rules/",
-    "date": "2026-07-15"
-  },
-  {
     "title": "SpaceX 채권, 발행가보다 10% 하락하여 정크본드 수준이 되어감",
     "link": "https://news.hada.io/topic?id=31481",
     "date": "2026-07-16"
@@ -878,5 +768,130 @@
     "title": "Chinese open-weight models are cheap. Washington is deciding what that costs.",
     "link": "https://www.artificialintelligence-news.com/news/chinese-open-weight-models-policy-risk/",
     "date": "2026-07-21"
+  },
+  {
+    "title": "AI 시대에 번영할 사람들",
+    "link": "https://news.hada.io/topic?id=31683",
+    "date": "2026-07-22"
+  },
+  {
+    "title": "AI 시대의 데이터 관리",
+    "link": "https://news.hada.io/topic?id=31681",
+    "date": "2026-07-22"
+  },
+  {
+    "title": "Flock Safety, 시의회·경찰·대중에게 반복적으로 거짓말해 신뢰를 잃다",
+    "link": "https://news.hada.io/topic?id=31680",
+    "date": "2026-07-22"
+  },
+  {
+    "title": "Malloy - 데이터 관계/변환/모델링을 위한 모던 오픈소스 언어",
+    "link": "https://news.hada.io/topic?id=31679",
+    "date": "2026-07-22"
+  },
+  {
+    "title": "안목은 위임할 수 없다 - AI 시대, 위원회식 디자인의 종말",
+    "link": "https://news.hada.io/topic?id=31678",
+    "date": "2026-07-22"
+  },
+  {
+    "title": "Meta is testing an AI bedtime story app for people with no imagination",
+    "link": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
+    "date": "2026-07-22"
+  },
+  {
+    "title": "OpenAI says Hugging Face was breached by its pre-release models",
+    "link": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
+    "date": "2026-07-22"
+  },
+  {
+    "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
+    "link": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
+    "date": "2026-07-22"
+  },
+  {
+    "title": "AI and the rise of the universal entertainment app",
+    "link": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
+    "date": "2026-07-22"
+  },
+  {
+    "title": "Data centers expected to use 4x more electricity by 2035",
+    "link": "https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/",
+    "date": "2026-07-22"
+  },
+  {
+    "title": "Introducing the ChatGPT for small business program",
+    "link": "https://openai.com/index/introducing-chatgpt-small-business-program",
+    "date": "2026-07-22"
+  },
+  {
+    "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+    "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+    "date": "2026-07-22"
+  },
+  {
+    "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+    "link": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+    "date": "2026-07-22"
+  },
+  {
+    "title": "The Download: Chinese AI divides the White House, and a record copyright payout",
+    "link": "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/",
+    "date": "2026-07-22"
+  },
+  {
+    "title": "Advancing next-gen AI with materials science innovation",
+    "link": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
+    "date": "2026-07-22"
+  },
+  {
+    "title": "The State of Simulation for Physical AI: An Overview",
+    "link": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+    "date": "2026-07-22"
+  },
+  {
+    "title": "Grabette: an open system to record robot-manipulation data",
+    "link": "https://huggingface.co/blog/grabette",
+    "date": "2026-07-22"
+  },
+  {
+    "title": "Range Rover answers the question: \"What if we built a not-SUV?\"",
+    "link": "https://arstechnica.com/cars/2026/07/heres-range-rovers-first-not-suv-the-range-rover-gt/",
+    "date": "2026-07-22"
+  },
+  {
+    "title": "On the run for 20 years, most-wanted fugitive caught hiding as a biotech exec",
+    "link": "https://arstechnica.com/health/2026/07/on-the-run-for-20-years-most-wanted-fugitive-caught-hiding-as-a-biotech-exec/",
+    "date": "2026-07-22"
+  },
+  {
+    "title": "Sony releases one last trailer for Spider-Man: Brand New Day",
+    "link": "https://arstechnica.com/culture/2026/07/sony-releases-one-last-trailer-for-spider-man-brand-new-day/",
+    "date": "2026-07-22"
+  },
+  {
+    "title": "Confusion swirls on source of diarrhea outbreak, but it’s still Taylor Farms",
+    "link": "https://arstechnica.com/health/2026/07/confusion-swirls-on-source-of-diarrhea-outbreak-but-its-still-taylor-farms/",
+    "date": "2026-07-22"
+  },
+  {
+    "title": "Nintendo says users voluntarily paid higher prices, have no right to tariff refunds",
+    "link": "https://arstechnica.com/tech-policy/2026/07/nintendo-customers-have-no-legal-right-to-tariff-refunds-company-tells-judge/",
+    "date": "2026-07-22"
+  },
+  {
+    "title": "Google’s Gemini 3.6 Flash targets enterprise agent token costs",
+    "link": "https://www.artificialintelligence-news.com/news/googles-gemini-3-6-flash-targets-enterprise-agent-token-costs/",
+    "date": "2026-07-22"
+  },
+  {
+    "title": "The AI Slot Machine Effect: Why Generative Feeds Disrupt Deep Work And How to Reclaim Focus",
+    "link": "https://www.artificialintelligence-news.com/news/the-ai-slot-machine-effect-why-generative-feeds-disrupt-deep-work-and-how-to-reclaim-focus/",
+    "date": "2026-07-22"
+  },
+  {
+    "title": "Bristol Myers Squibb buys Nvidia AI system for drug discovery",
+    "link": "https://www.artificialintelligence-news.com/news/bristol-myers-squibb-nvidia-ai-system-drug-discovery/",
+    "date": "2026-07-22"
   }
 ]
