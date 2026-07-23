@@ -1,175 +1,5 @@
 [
   {
-    "title": "SpaceX 채권, 발행가보다 10% 하락하여 정크본드 수준이 되어감",
-    "link": "https://news.hada.io/topic?id=31481",
-    "date": "2026-07-16"
-  },
-  {
-    "title": "소비자 앱을 구축하고 확장하는 법",
-    "link": "https://news.hada.io/topic?id=31480",
-    "date": "2026-07-16"
-  },
-  {
-    "title": "「Machine Learning Study 혼자 해보기」",
-    "link": "https://news.hada.io/topic?id=31479",
-    "date": "2026-07-16"
-  },
-  {
-    "title": "Claude를 속여 사용자의 가장 깊은 비밀을 유출시킨 방법",
-    "link": "https://news.hada.io/topic?id=31478",
-    "date": "2026-07-16"
-  },
-  {
-    "title": "Inkling: Thinking Machines Lab의 오픈 웨이트 모델",
-    "link": "https://news.hada.io/topic?id=31477",
-    "date": "2026-07-16"
-  },
-  {
-    "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
-    "link": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
-    "date": "2026-07-16"
-  },
-  {
-    "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
-    "link": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
-    "date": "2026-07-16"
-  },
-  {
-    "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
-    "link": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
-    "date": "2026-07-16"
-  },
-  {
-    "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
-    "link": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
-    "date": "2026-07-16"
-  },
-  {
-    "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
-    "link": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
-    "date": "2026-07-16"
-  },
-  {
-    "title": "The US is advancing AI safety through state and federal action",
-    "link": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-    "date": "2026-07-16"
-  },
-  {
-    "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
-    "link": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-    "date": "2026-07-16"
-  },
-  {
-    "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
-    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
-    "date": "2026-07-16"
-  },
-  {
-    "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
-    "link": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
-    "date": "2026-07-16"
-  },
-  {
-    "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
-    "link": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
-    "date": "2026-07-16"
-  },
-  {
-    "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
-    "link": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
-    "date": "2026-07-16"
-  },
-  {
-    "title": "The Download: a useful quantum machine and a record-breaking subsea tunnel",
-    "link": "https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/",
-    "date": "2026-07-16"
-  },
-  {
-    "title": "What building Shippy taught us about building agents",
-    "link": "https://huggingface.co/blog/allenai/shippy-tech-blog",
-    "date": "2026-07-16"
-  },
-  {
-    "title": "Model Routing Is Simple. Until It Isn’t.",
-    "link": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
-    "date": "2026-07-16"
-  },
-  {
-    "title": "Welcome Inkling by Thinking Machines",
-    "link": "https://huggingface.co/blog/thinkingmachines-inkling",
-    "date": "2026-07-16"
-  },
-  {
-    "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
-    "link": "https://huggingface.co/blog/real-world-voiceeq",
-    "date": "2026-07-16"
-  },
-  {
-    "title": "Hundreds rally at Bethesda HQ to protest Xbox layoffs, and Ars was there",
-    "link": "https://arstechnica.com/gaming/2026/07/hundreds-rally-at-bethesda-hq-to-protest-xbox-layoffs-and-ars-was-there/",
-    "date": "2026-07-16"
-  },
-  {
-    "title": "Buzz Aldrin sells famous felt-tip pen that helped launch Apollo from the Moon",
-    "link": "https://arstechnica.com/space/2026/07/apollo-11s-broken-switch-and-mission-saving-pen-sell-for-860k/",
-    "date": "2026-07-16"
-  },
-  {
-    "title": "Sheetz is quitting VMware, migrating 11,000 virtual machines",
-    "link": "https://arstechnica.com/information-technology/2026/07/sheetz-moves-838-stores-off-vmware-broadcom-created-too-much-uncertainty/",
-    "date": "2026-07-16"
-  },
-  {
-    "title": "Judge: Trump can’t deport researchers just for working in content moderation",
-    "link": "https://arstechnica.com/tech-policy/2026/07/judge-trump-cant-deport-researchers-just-for-working-in-content-moderation/",
-    "date": "2026-07-16"
-  },
-  {
-    "title": "Engineer identifies and explains every '90s computer seen in Jurassic Park",
-    "link": "https://arstechnica.com/gadgets/2026/07/engineer-identifies-and-explains-every-90s-computer-seen-in-jurassic-park/",
-    "date": "2026-07-16"
-  },
-  {
-    "title": "Microsoft, 끌 수 없는 Windows GDID 기기 식별자 확인… FBI 사건 서류에 기록",
-    "link": "https://news.hada.io/topic?id=31494",
-    "date": "2026-07-16"
-  },
-  {
-    "title": "FreeBSD 16, 기본 시스템에서 마지막 GPL 코드 제거",
-    "link": "https://news.hada.io/topic?id=31493",
-    "date": "2026-07-16"
-  },
-  {
-    "title": "Grok Build가 오픈 소스로 공개됨",
-    "link": "https://news.hada.io/topic?id=31492",
-    "date": "2026-07-16"
-  },
-  {
-    "title": "Hackney 라이딩 서비스 비교 앱",
-    "link": "https://news.hada.io/topic?id=31491",
-    "date": "2026-07-16"
-  },
-  {
-    "title": "앤트로픽·블랙스톤, 15억 달러 규모 &#039;AI 구현&#039; 합작사 Ode 출범",
-    "link": "https://news.hada.io/topic?id=31490",
-    "date": "2026-07-16"
-  },
-  {
-    "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
-    "link": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
-    "date": "2026-07-16"
-  },
-  {
-    "title": "Neko Health raises $700 million to expand AI body scans in the US",
-    "link": "https://www.artificialintelligence-news.com/news/neko-health-700m-ai-body-scans-us/",
-    "date": "2026-07-16"
-  },
-  {
-    "title": "Nokia’s AI-RAN platform: a radio comeback that runs on NVIDIA",
-    "link": "https://www.artificialintelligence-news.com/news/nokia-ai-ran-platform-nvidia/",
-    "date": "2026-07-16"
-  },
-  {
     "title": "Pandas 창시자가 말하는 AI·Apache Arrow·소프트웨어 엔지니어링의 미래 [유튜브]",
     "link": "https://news.hada.io/topic?id=31516",
     "date": "2026-07-17"
@@ -938,5 +768,120 @@
     "title": "Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own",
     "link": "https://www.technologyreview.com/2026/07/22/1140701/shape-shifting-mirrors-roman-space-telescope/",
     "date": "2026-07-22"
+  },
+  {
+    "title": "SIMD로 충돌 감지 가속하기",
+    "link": "https://news.hada.io/topic?id=31717",
+    "date": "2026-07-23"
+  },
+  {
+    "title": "Passkey는 소비자 심리를 전혀 이해하지 못한 엔지니어들이 만들었다",
+    "link": "https://news.hada.io/topic?id=31716",
+    "date": "2026-07-23"
+  },
+  {
+    "title": "디자이너들은 잘못된 싸움을 위해 칼을 갈고 있다",
+    "link": "https://news.hada.io/topic?id=31715",
+    "date": "2026-07-23"
+  },
+  {
+    "title": "John C. Dvorak 별세",
+    "link": "https://news.hada.io/topic?id=31714",
+    "date": "2026-07-23"
+  },
+  {
+    "title": "Terrence Tao의 Jacobian 추측 반례에 관한 ChatGPT 대화",
+    "link": "https://news.hada.io/topic?id=31713",
+    "date": "2026-07-23"
+  },
+  {
+    "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
+    "link": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
+    "date": "2026-07-23"
+  },
+  {
+    "title": "Google justifies its massive AI spending with a booming cloud business",
+    "link": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+    "date": "2026-07-23"
+  },
+  {
+    "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
+    "link": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+    "date": "2026-07-23"
+  },
+  {
+    "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+    "link": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+    "date": "2026-07-23"
+  },
+  {
+    "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
+    "link": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
+    "date": "2026-07-23"
+  },
+  {
+    "title": "Building AI infrastructure with the Effingham County community",
+    "link": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+    "date": "2026-07-23"
+  },
+  {
+    "title": "How news organizations are using AI to advance their vital missions",
+    "link": "https://openai.com/index/how-news-organizations-are-using-ai",
+    "date": "2026-07-23"
+  },
+  {
+    "title": "Advancing the next era of national science",
+    "link": "https://openai.com/index/advancing-the-next-era-of-national-science",
+    "date": "2026-07-23"
+  },
+  {
+    "title": "Introducing OpenAI Presence",
+    "link": "https://openai.com/index/introducing-openai-presence",
+    "date": "2026-07-23"
+  },
+  {
+    "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+    "link": "https://openai.com/index/ntt-data",
+    "date": "2026-07-23"
+  },
+  {
+    "title": "3 Google updates from Galaxy Unpacked 2026",
+    "link": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
+    "date": "2026-07-23"
+  },
+  {
+    "title": "The Download: NASA’s new space telescope and OpenAI’s autonomous hacker",
+    "link": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
+    "date": "2026-07-23"
+  },
+  {
+    "title": "Sales were up at Tesla but so were costs and spending",
+    "link": "https://arstechnica.com/cars/2026/07/teslas-revenues-are-up-but-profits-squeezed-as-musk-spends-on-ai/",
+    "date": "2026-07-23"
+  },
+  {
+    "title": "Microsoft brings original Xbox backward compatibility to Windows PCs",
+    "link": "https://arstechnica.com/gaming/2026/07/microsoft-brings-original-xbox-backward-compatibility-to-windows-pcs/",
+    "date": "2026-07-23"
+  },
+  {
+    "title": "ISPs' long nightmare of having to list all the fees they charge is finally over",
+    "link": "https://arstechnica.com/tech-policy/2026/07/isps-long-nightmare-of-having-to-list-all-the-fees-they-charge-is-finally-over/",
+    "date": "2026-07-23"
+  },
+  {
+    "title": "Clayface trailer leans into the body horror",
+    "link": "https://arstechnica.com/culture/2026/07/clayface-trailer-leans-into-the-body-horror/",
+    "date": "2026-07-23"
+  },
+  {
+    "title": "Hyundai claims humanoid robot plan is not part of talks with striking workers",
+    "link": "https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/",
+    "date": "2026-07-23"
+  },
+  {
+    "title": "SenseTime’s Galaxy Project targets domestic AI chip scale-up",
+    "link": "https://www.artificialintelligence-news.com/news/sensetimes-galaxy-project-targets-domestic-ai-chip-scale-up/",
+    "date": "2026-07-23"
   }
 ]
