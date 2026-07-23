@@ -883,5 +883,50 @@
     "title": "SenseTime’s Galaxy Project targets domestic AI chip scale-up",
     "link": "https://www.artificialintelligence-news.com/news/sensetimes-galaxy-project-targets-domestic-ai-chip-scale-up/",
     "date": "2026-07-23"
+  },
+  {
+    "title": "Ask GN: 구글 크롬 확장 프로그램 개인적으로 만들어서 쓰고 계신것 있으신가요?",
+    "link": "https://news.hada.io/topic?id=31727",
+    "date": "2026-07-23"
+  },
+  {
+    "title": "GigaToken - 언어 모델 토큰화를 약 1,000배 가속",
+    "link": "https://news.hada.io/topic?id=31724",
+    "date": "2026-07-23"
+  },
+  {
+    "title": "Show GN: 로컬 LLM 에이전트 개발과 테스트를 한곳에서, 툴 검색과 HITL, MCP 연동까지 (한국 통계 MCP 데모)",
+    "link": "https://news.hada.io/topic?id=31719",
+    "date": "2026-07-23"
+  },
+  {
+    "title": "45권의 기술 서적에서 얻은 핵심 인사이트",
+    "link": "https://news.hada.io/topic?id=31718",
+    "date": "2026-07-23"
+  },
+  {
+    "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
+    "link": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
+    "date": "2026-07-23"
+  },
+  {
+    "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+    "date": "2026-07-23"
+  },
+  {
+    "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
+    "link": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
+    "date": "2026-07-23"
+  },
+  {
+    "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+    "link": "https://huggingface.co/blog/nunchaku-diffusers",
+    "date": "2026-07-23"
+  },
+  {
+    "title": "Orcas team up to ram sunfish until they explode",
+    "link": "https://arstechnica.com/science/2026/07/orcas-team-up-to-ram-sunfish-until-they-explode/",
+    "date": "2026-07-23"
   }
 ]
