@@ -1,170 +1,5 @@
 [
   {
-    "title": "Pandas 창시자가 말하는 AI·Apache Arrow·소프트웨어 엔지니어링의 미래 [유튜브]",
-    "link": "https://news.hada.io/topic?id=31516",
-    "date": "2026-07-17"
-  },
-  {
-    "title": "Patreon이 팬아웃으로 알림 시스템을 확장한 방법",
-    "link": "https://news.hada.io/topic?id=31515",
-    "date": "2026-07-17"
-  },
-  {
-    "title": "개발자를 해킹하는 LinkedIn 채용 과제 사기",
-    "link": "https://news.hada.io/topic?id=31514",
-    "date": "2026-07-17"
-  },
-  {
-    "title": "Decoy Font: 입력 내용을 숨기는 TTF 글꼴",
-    "link": "https://news.hada.io/topic?id=31513",
-    "date": "2026-07-17"
-  },
-  {
-    "title": "OnePlus, 미국·유럽 운영 중단",
-    "link": "https://news.hada.io/topic?id=31512",
-    "date": "2026-07-17"
-  },
-  {
-    "title": "Google Vids now lets you star in your own AI videos",
-    "link": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
-    "date": "2026-07-17"
-  },
-  {
-    "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
-    "link": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
-    "date": "2026-07-17"
-  },
-  {
-    "title": "Google’s AI Mode now lets you link and interact with select apps",
-    "link": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
-    "date": "2026-07-17"
-  },
-  {
-    "title": "Yes, you can now order DoorDash from the command line",
-    "link": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
-    "date": "2026-07-17"
-  },
-  {
-    "title": "Why is OpenAI selling a ChatGPT basketball?",
-    "link": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
-    "date": "2026-07-17"
-  },
-  {
-    "title": "Why teens deserve access to safe AI",
-    "link": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-    "date": "2026-07-17"
-  },
-  {
-    "title": "How Cars24 scales conversations and builds faster with OpenAI",
-    "link": "https://openai.com/index/cars24",
-    "date": "2026-07-17"
-  },
-  {
-    "title": "Connect more of your apps to Search",
-    "link": "https://blog.google/products-and-platforms/products/search/connected-apps/",
-    "date": "2026-07-17"
-  },
-  {
-    "title": "Create, edit and star in videos with two Google Vids updates",
-    "link": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
-    "date": "2026-07-17"
-  },
-  {
-    "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
-    "link": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
-    "date": "2026-07-17"
-  },
-  {
-    "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
-    "link": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
-    "date": "2026-07-17"
-  },
-  {
-    "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
-    "link": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
-    "date": "2026-07-17"
-  },
-  {
-    "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
-    "link": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
-    "date": "2026-07-17"
-  },
-  {
-    "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
-    "link": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
-    "date": "2026-07-17"
-  },
-  {
-    "title": "Why heat pumps are still so hot in the US",
-    "link": "https://www.technologyreview.com/2026/07/16/1140505/heat-pump-sales-us/",
-    "date": "2026-07-17"
-  },
-  {
-    "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
-    "link": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
-    "date": "2026-07-17"
-  },
-  {
-    "title": "Newer Models, Same Advantage",
-    "link": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
-    "date": "2026-07-17"
-  },
-  {
-    "title": "Security incident disclosure — July 2026",
-    "link": "https://huggingface.co/blog/security-incident-july-2026",
-    "date": "2026-07-17"
-  },
-  {
-    "title": "SpaceX scrubs Starship launch after some of its engines didn't start",
-    "link": "https://arstechnica.com/space/2026/07/spacex-scrubs-starship-launch-after-some-of-its-engines-didnt-start/",
-    "date": "2026-07-17"
-  },
-  {
-    "title": "Two Trump health nominees crash and burn in tense Senate hearing",
-    "link": "https://arstechnica.com/health/2026/07/two-trump-health-nominees-crash-and-burn-in-tense-senate-hearing/",
-    "date": "2026-07-17"
-  },
-  {
-    "title": "HP fined 1.4 billion rupees for “cartelization” of ink cartridges, toner, PCs",
-    "link": "https://arstechnica.com/gadgets/2026/07/hp-fined-1-4-billion-rupees-for-cartelization-of-ink-cartridges-toner-pcs/",
-    "date": "2026-07-17"
-  },
-  {
-    "title": "T-Mobile bungled forced plan migration, canceling some users' free lines",
-    "link": "https://arstechnica.com/tech-policy/2026/07/t-mobile-bungled-forced-plan-migration-canceling-some-users-free-lines/",
-    "date": "2026-07-17"
-  },
-  {
-    "title": "It's official: EU will force Google to share search data and open up AI on Android",
-    "link": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/",
-    "date": "2026-07-17"
-  },
-  {
-    "title": "Examining Google DeepMind’s AI bioresilience push",
-    "link": "https://www.artificialintelligence-news.com/news/examining-google-deepmind-ai-bioresilience-push/",
-    "date": "2026-07-17"
-  },
-  {
-    "title": "Show GN: 코드 대신 한국어 명세를 커밋하고 있습니다 — 명세 3장으로 PWA 앱+서버",
-    "link": "https://news.hada.io/topic?id=31521",
-    "date": "2026-07-17"
-  },
-  {
-    "title": "우리는 떼돈을 벌게 될 것이다",
-    "link": "https://news.hada.io/topic?id=31518",
-    "date": "2026-07-17"
-  },
-  {
-    "title": "Uber, 독일 딜리버리 히어로(배달의 민족 모회사) 약 22조원에 인수",
-    "link": "https://news.hada.io/topic?id=31517",
-    "date": "2026-07-17"
-  },
-  {
-    "title": "The latest AI news we announced in June 2026",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
-    "date": "2026-07-17"
-  },
-  {
     "title": "먼 별의 생명체 거주 가능 영역에 있는 지구형 행성에서 최초로 대기 발견",
     "link": "https://news.hada.io/topic?id=31539",
     "date": "2026-07-18"
@@ -928,5 +763,140 @@
     "title": "Orcas team up to ram sunfish until they explode",
     "link": "https://arstechnica.com/science/2026/07/orcas-team-up-to-ram-sunfish-until-they-explode/",
     "date": "2026-07-23"
+  },
+  {
+    "title": "ChatGPT, 개인 건강 데이터를 일반 대화에 통합하는 Health 출시",
+    "link": "https://news.hada.io/topic?id=31752",
+    "date": "2026-07-24"
+  },
+  {
+    "title": "자율주행 기업",
+    "link": "https://news.hada.io/topic?id=31751",
+    "date": "2026-07-24"
+  },
+  {
+    "title": "Reddit, 연 900억원($60m) 계약 만료 앞두고 Google AI 접근 차단 검토",
+    "link": "https://news.hada.io/topic?id=31750",
+    "date": "2026-07-24"
+  },
+  {
+    "title": "AI 기업들이 감추려는 막대한 부외부채",
+    "link": "https://news.hada.io/topic?id=31749",
+    "date": "2026-07-24"
+  },
+  {
+    "title": "스타트업 창업자들, 미국 정부에 중국 오픈 웨이트 AI 차단 중단 촉구",
+    "link": "https://news.hada.io/topic?id=31748",
+    "date": "2026-07-24"
+  },
+  {
+    "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+    "link": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+    "date": "2026-07-24"
+  },
+  {
+    "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
+    "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+    "date": "2026-07-24"
+  },
+  {
+    "title": "Anthropic updates Claude voice mode with more capable models",
+    "link": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+    "date": "2026-07-24"
+  },
+  {
+    "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
+    "link": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
+    "date": "2026-07-24"
+  },
+  {
+    "title": "Runway launches AI model router as generative media gets crowded",
+    "link": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
+    "date": "2026-07-24"
+  },
+  {
+    "title": "Launching Health in ChatGPT",
+    "link": "https://openai.com/index/health-in-chatgpt",
+    "date": "2026-07-24"
+  },
+  {
+    "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+    "link": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+    "date": "2026-07-24"
+  },
+  {
+    "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+    "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+    "date": "2026-07-24"
+  },
+  {
+    "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+    "link": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+    "date": "2026-07-24"
+  },
+  {
+    "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+    "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+    "date": "2026-07-24"
+  },
+  {
+    "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+    "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+    "date": "2026-07-24"
+  },
+  {
+    "title": "Supercooled kidneys have been transplanted into pigs in a “landmark achievement”",
+    "link": "https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/",
+    "date": "2026-07-24"
+  },
+  {
+    "title": "The Download: energy transmission and US threats against Chinese AI",
+    "link": "https://www.technologyreview.com/2026/07/23/1140753/the-download-energy-transmission-and-us-threats-chinese-ai/",
+    "date": "2026-07-24"
+  },
+  {
+    "title": "How AI helps scientists design the next generation of medicines",
+    "link": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
+    "date": "2026-07-24"
+  },
+  {
+    "title": "The power line that could reshape New York’s grid is hitting snags",
+    "link": "https://www.technologyreview.com/2026/07/23/1140739/power-line-grid-chpe/",
+    "date": "2026-07-24"
+  },
+  {
+    "title": "Microsoft responds to LG monitors installing McAfee ads on Windows",
+    "link": "https://arstechnica.com/gadgets/2026/07/microsoft-responds-to-lg-monitors-installing-mcafee-ads-on-windows/",
+    "date": "2026-07-24"
+  },
+  {
+    "title": "FDA reports new outbreak of explosive diarrhea with 72 cases identified",
+    "link": "https://arstechnica.com/health/2026/07/fda-reports-new-outbreak-of-explosive-diarrhea-with-72-cases-identified/",
+    "date": "2026-07-24"
+  },
+  {
+    "title": "Forgot your Google password? Now you can log in with a selfie.",
+    "link": "https://arstechnica.com/gadgets/2026/07/google-now-lets-you-log-into-your-account-with-a-selfie/",
+    "date": "2026-07-24"
+  },
+  {
+    "title": "AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems",
+    "link": "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/",
+    "date": "2026-07-24"
+  },
+  {
+    "title": "Final Coyote vs. Acme trailer drops at SDCC",
+    "link": "https://arstechnica.com/culture/2026/07/final-coyote-vs-acme-trailer-drops-at-sdcc/",
+    "date": "2026-07-24"
+  },
+  {
+    "title": "Nvidia bets physical AI can solve healthcare robotics’ data problem",
+    "link": "https://www.artificialintelligence-news.com/news/nvidia-bets-physical-ai-solve-healthcare-robotics-data-problem/",
+    "date": "2026-07-24"
+  },
+  {
+    "title": "AMD to invest up to $5 billion in Anthropic under AI infrastructure deal",
+    "link": "https://www.artificialintelligence-news.com/news/amd-anthropic-ai-infrastructure-deal/",
+    "date": "2026-07-24"
   }
 ]
