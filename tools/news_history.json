@@ -1,135 +1,5 @@
 [
   {
-    "title": "먼 별의 생명체 거주 가능 영역에 있는 지구형 행성에서 최초로 대기 발견",
-    "link": "https://news.hada.io/topic?id=31539",
-    "date": "2026-07-18"
-  },
-  {
-    "title": "2026년 7월 오픈소스 AI 현황",
-    "link": "https://news.hada.io/topic?id=31538",
-    "date": "2026-07-18"
-  },
-  {
-    "title": "Apple, 법적 서한으로 OpenAI 직원 수십 명 겨냥",
-    "link": "https://news.hada.io/topic?id=31537",
-    "date": "2026-07-18"
-  },
-  {
-    "title": "AGI 평가 과정과 수상자 선정에서 드러난 불일치",
-    "link": "https://news.hada.io/topic?id=31536",
-    "date": "2026-07-18"
-  },
-  {
-    "title": "AWS 예상 청구액이 17억 달러로 표시됨, 평소 사용료는 5달러 미만",
-    "link": "https://news.hada.io/topic?id=31535",
-    "date": "2026-07-18"
-  },
-  {
-    "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
-    "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
-    "date": "2026-07-18"
-  },
-  {
-    "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
-    "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
-    "date": "2026-07-18"
-  },
-  {
-    "title": "The Zoom hack that says, ‘Don’t record me’",
-    "link": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
-    "date": "2026-07-18"
-  },
-  {
-    "title": "Agility Robotics plants its flag in Tesla’s backyard",
-    "link": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
-    "date": "2026-07-18"
-  },
-  {
-    "title": "AI-driven memory crunch jolts India’s smartphone market",
-    "link": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
-    "date": "2026-07-18"
-  },
-  {
-    "title": "A scorecard for the AI age",
-    "link": "https://openai.com/index/a-scorecard-for-the-ai-age",
-    "date": "2026-07-18"
-  },
-  {
-    "title": "The Download: perimenopause misinformation and China’s latest AI leap",
-    "link": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/",
-    "date": "2026-07-18"
-  },
-  {
-    "title": "There’s a lot of hype around perimenopause. Don’t buy it.",
-    "link": "https://www.technologyreview.com/2026/07/17/1140608/theres-a-lot-of-hype-around-perimenopause-dont-buy-it/",
-    "date": "2026-07-18"
-  },
-  {
-    "title": "The risk of weather data sabotage is rising",
-    "link": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
-    "date": "2026-07-18"
-  },
-  {
-    "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-    "link": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-    "date": "2026-07-18"
-  },
-  {
-    "title": "Google-backed satellites for wildfire detection launch as smoke chokes US, Canada",
-    "link": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/",
-    "date": "2026-07-18"
-  },
-  {
-    "title": "The Pentagon's Space Development Agency hasn't moved as fast as anyone would like",
-    "link": "https://arstechnica.com/space/2026/07/the-pentagons-space-development-agency-hasnt-moved-as-fast-as-anyone-would-like/",
-    "date": "2026-07-18"
-  },
-  {
-    "title": "Hegseth wants a \"High-T\" military; doctors call it a clinical minefield",
-    "link": "https://arstechnica.com/health/2026/07/hegseth-wants-a-high-t-military-doctors-call-it-a-clinical-minefield/",
-    "date": "2026-07-18"
-  },
-  {
-    "title": "Taco Bell iceberg lettuce identified as source of cyclosporiasis in 5 states",
-    "link": "https://arstechnica.com/health/2026/07/taco-bell-iceburg-lettuce-identified-as-source-of-cyclosporiasis-in-5-states/",
-    "date": "2026-07-18"
-  },
-  {
-    "title": "Troubling new details emerge on diabetes ouster controversy",
-    "link": "https://arstechnica.com/science/2026/07/troubling-new-details-emerge-on-diabetes-ouster-controversy/",
-    "date": "2026-07-18"
-  },
-  {
-    "title": "Claude Fable 5, 7월 20일부터 Max/Team Premium 요금제에 기본 포함",
-    "link": "https://news.hada.io/topic?id=31545",
-    "date": "2026-07-18"
-  },
-  {
-    "title": "결함투성이 탑, 바이브 멀미, 그리고 바이브 봅슬레이",
-    "link": "https://news.hada.io/topic?id=31542",
-    "date": "2026-07-18"
-  },
-  {
-    "title": "Kaiser 간호사들 “AI 감시가 업무와 환자 돌봄을 악화”",
-    "link": "https://news.hada.io/topic?id=31541",
-    "date": "2026-07-18"
-  },
-  {
-    "title": "HN의 15년 지지가 평생의 일로 이어진 Recurse Center",
-    "link": "https://news.hada.io/topic?id=31540",
-    "date": "2026-07-18"
-  },
-  {
-    "title": "Neil Rimer thinks the AI money is coming back out",
-    "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
-    "date": "2026-07-18"
-  },
-  {
-    "title": "Bunkerhill raises $55M to scale agentic AI across health systems",
-    "link": "https://www.artificialintelligence-news.com/news/bunkerhill-raises-55m-scale-agentic-ai-health-systems/",
-    "date": "2026-07-18"
-  },
-  {
     "title": "안녕히, 그동안의 모든 Bikeshed에 감사드립니다",
     "link": "https://news.hada.io/topic?id=31573",
     "date": "2026-07-19"
@@ -948,5 +818,90 @@
     "title": "OpenAI Presence sells enterprise AI agents with engineers attached",
     "link": "https://www.artificialintelligence-news.com/news/openai-presence-enterprise-ai-agents/",
     "date": "2026-07-24"
+  },
+  {
+    "title": "databasement - 웹UI 기반 셀프호스팅 DB 백업 관리자",
+    "link": "https://news.hada.io/topic?id=31799",
+    "date": "2026-07-25"
+  },
+  {
+    "title": "블랙 필을 먹지 마라",
+    "link": "https://news.hada.io/topic?id=31798",
+    "date": "2026-07-25"
+  },
+  {
+    "title": "Substack의 AI 투명성 도구를 둘러싼 작가들의 반응",
+    "link": "https://news.hada.io/topic?id=31797",
+    "date": "2026-07-25"
+  },
+  {
+    "title": "AI 투자 실패로 Oracle, 직원 2만 1,000명 해고",
+    "link": "https://news.hada.io/topic?id=31796",
+    "date": "2026-07-25"
+  },
+  {
+    "title": "Sony가 클래식 Walkman을 다시 출시할 수 없는 이유",
+    "link": "https://news.hada.io/topic?id=31795",
+    "date": "2026-07-25"
+  },
+  {
+    "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+    "link": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+    "date": "2026-07-25"
+  },
+  {
+    "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+    "link": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+    "date": "2026-07-25"
+  },
+  {
+    "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
+    "link": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+    "date": "2026-07-25"
+  },
+  {
+    "title": "Anthropic launches Opus 5",
+    "link": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
+    "date": "2026-07-25"
+  },
+  {
+    "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
+    "link": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
+    "date": "2026-07-25"
+  },
+  {
+    "title": "The quest to keep organs alive outside the body",
+    "link": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/",
+    "date": "2026-07-25"
+  },
+  {
+    "title": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
+    "link": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/",
+    "date": "2026-07-25"
+  },
+  {
+    "title": "Wildfire forces evacuation of NASA's Deep Space Network complex in Spain",
+    "link": "https://arstechnica.com/space/2026/07/wildfire-forces-evacuation-of-nasas-deep-space-network-complex-in-spain/",
+    "date": "2026-07-25"
+  },
+  {
+    "title": "Paramount/WBD merger delayed for months as states' lawsuit moves toward trial",
+    "link": "https://arstechnica.com/tech-policy/2026/07/after-court-loss-paramount-agrees-to-delay-warner-bros-merger-until-trial/",
+    "date": "2026-07-25"
+  },
+  {
+    "title": "Canadian legislator reads out apparent LLM response in floor speech",
+    "link": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
+    "date": "2026-07-25"
+  },
+  {
+    "title": "Anthropic's Opus 5 is about token efficiency, not a capability leap",
+    "link": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/",
+    "date": "2026-07-25"
+  },
+  {
+    "title": "Roku raises streaming stick prices by up to 60 percent",
+    "link": "https://arstechnica.com/gadgets/2026/07/roku-raises-streaming-stick-prices-by-up-to-60-percent/",
+    "date": "2026-07-25"
   }
 ]
