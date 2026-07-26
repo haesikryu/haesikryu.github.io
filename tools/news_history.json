@@ -1,65 +1,5 @@
 [
   {
-    "title": "안녕히, 그동안의 모든 Bikeshed에 감사드립니다",
-    "link": "https://news.hada.io/topic?id=31573",
-    "date": "2026-07-19"
-  },
-  {
-    "title": "Lone Lisp를 만든 Matheus Moreira 인터뷰",
-    "link": "https://news.hada.io/topic?id=31572",
-    "date": "2026-07-19"
-  },
-  {
-    "title": "100만 개 키워드가 보여준, AI가 검색에 미치는 영향",
-    "link": "https://news.hada.io/topic?id=31571",
-    "date": "2026-07-19"
-  },
-  {
-    "title": "GPT-5.6이 프롬프트로 볼록 최적화의 30년 공백을 메움",
-    "link": "https://news.hada.io/topic?id=31570",
-    "date": "2026-07-19"
-  },
-  {
-    "title": "Mindwalk - 코딩 에이전트 세션을 코드베이스의 3D 지도 위에서 재생하는 시각화 도구",
-    "link": "https://news.hada.io/topic?id=31569",
-    "date": "2026-07-19"
-  },
-  {
-    "title": "Kimi: Threat or menace?",
-    "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
-    "date": "2026-07-19"
-  },
-  {
-    "title": "Will AI fix prior authorization—or make it worse?",
-    "link": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
-    "date": "2026-07-19"
-  },
-  {
-    "title": "Show GN: Kaileron - 회원가입 없이 즐기는 MAME 롤백 넷플레이",
-    "link": "https://news.hada.io/topic?id=31580",
-    "date": "2026-07-19"
-  },
-  {
-    "title": "AI 코드 검토가 타당한 반론이 될 수 없는 이유",
-    "link": "https://news.hada.io/topic?id=31578",
-    "date": "2026-07-19"
-  },
-  {
-    "title": "만들면 사람들이 찾아온다",
-    "link": "https://news.hada.io/topic?id=31577",
-    "date": "2026-07-19"
-  },
-  {
-    "title": "Mamdani 뉴욕시장, 임대 광고에 AI 이미지를 몰래 사용할 수 없다고 밝혀",
-    "link": "https://news.hada.io/topic?id=31576",
-    "date": "2026-07-19"
-  },
-  {
-    "title": "Show GN: 고전 아케이드 게임의 웹 플레이 &amp;  Live kit을 이용한 네트워크 플레이",
-    "link": "https://news.hada.io/topic?id=31575",
-    "date": "2026-07-19"
-  },
-  {
     "title": "데이터가 유일한 해자다",
     "link": "https://news.hada.io/topic?id=31606",
     "date": "2026-07-20"
@@ -903,5 +843,70 @@
     "title": "Roku raises streaming stick prices by up to 60 percent",
     "link": "https://arstechnica.com/gadgets/2026/07/roku-raises-streaming-stick-prices-by-up-to-60-percent/",
     "date": "2026-07-25"
+  },
+  {
+    "title": "하드 드라이브가 늘 가득 차는 이유",
+    "link": "https://news.hada.io/topic?id=31819",
+    "date": "2026-07-26"
+  },
+  {
+    "title": "인터페이스가 화면을 벗어나고 있다 - 채팅, 음성, 에이전트형 AI가 바꾸는 UX",
+    "link": "https://news.hada.io/topic?id=31818",
+    "date": "2026-07-26"
+  },
+  {
+    "title": "Hannah Fry, 2026년 수학 대중화 공로로 Leelavati Prize 수상",
+    "link": "https://news.hada.io/topic?id=31817",
+    "date": "2026-07-26"
+  },
+  {
+    "title": "neko-master - 네트워크 트래픽 시각화 및 분석용 대시보드",
+    "link": "https://news.hada.io/topic?id=31816",
+    "date": "2026-07-26"
+  },
+  {
+    "title": "stinkpot - SQLite 기반 Bash 셸 히스토리 검색기",
+    "link": "https://news.hada.io/topic?id=31815",
+    "date": "2026-07-26"
+  },
+  {
+    "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
+    "link": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+    "date": "2026-07-26"
+  },
+  {
+    "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+    "link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+    "date": "2026-07-26"
+  },
+  {
+    "title": "SDCC teaser gives us our first good look at Blade Runner 2099",
+    "link": "https://arstechnica.com/culture/2026/07/sdcc-teaser-gives-us-our-first-good-look-at-blade-runner-2099/",
+    "date": "2026-07-26"
+  },
+  {
+    "title": "SpaceX eyes tower catch for next Starship after auspicious end to 13th flight",
+    "link": "https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/",
+    "date": "2026-07-26"
+  },
+  {
+    "title": "With help from data, art museums are reframing the visitor experience",
+    "link": "https://arstechnica.com/culture/2026/07/with-help-from-data-art-museums-are-reframing-the-visitor-experience/",
+    "date": "2026-07-26"
+  },
+  {
+    "title": "Big Tech accused of stonewalling European social media researchers",
+    "link": "https://arstechnica.com/tech-policy/2026/07/big-tech-accused-of-stonewalling-european-social-media-researchers/",
+    "date": "2026-07-26"
+  },
+  {
+    "title": "Meta, Microsoft, Nvidia, IBM, and others back open-weight AI",
+    "link": "https://www.artificialintelligence-news.com/news/meta-microsoft-nvidia-ibm-others-back-open-weight-ai/",
+    "date": "2026-07-26"
+  },
+  {
+    "title": "OpenAI pushes ChatGPT into patient health records",
+    "link": "https://www.artificialintelligence-news.com/news/openai-pushes-chatgpt-into-patient-health-records/",
+    "date": "2026-07-26"
   }
 ]
