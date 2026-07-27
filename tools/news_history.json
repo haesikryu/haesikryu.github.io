@@ -1,95 +1,5 @@
 [
   {
-    "title": "데이터가 유일한 해자다",
-    "link": "https://news.hada.io/topic?id=31606",
-    "date": "2026-07-20"
-  },
-  {
-    "title": "IPTV보다 더 좋고 저렴한 Castor",
-    "link": "https://news.hada.io/topic?id=31605",
-    "date": "2026-07-20"
-  },
-  {
-    "title": "Supabase가 조사한 2026년 스타트업 현황",
-    "link": "https://news.hada.io/topic?id=31604",
-    "date": "2026-07-20"
-  },
-  {
-    "title": "Claude Code, Rust로 재작성된 Bun 사용",
-    "link": "https://news.hada.io/topic?id=31603",
-    "date": "2026-07-20"
-  },
-  {
-    "title": "AI 광풍이 전 세계의 의사결정을 무너뜨리고 있음",
-    "link": "https://news.hada.io/topic?id=31602",
-    "date": "2026-07-20"
-  },
-  {
-    "title": "What to watch for after Jensen Huang’s Japan visit",
-    "link": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
-    "date": "2026-07-20"
-  },
-  {
-    "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
-    "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
-    "date": "2026-07-20"
-  },
-  {
-    "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
-    "link": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
-    "date": "2026-07-20"
-  },
-  {
-    "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
-    "link": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
-    "date": "2026-07-20"
-  },
-  {
-    "title": "India's first privately-developed rocket reaches orbit on dramatic debut launch",
-    "link": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
-    "date": "2026-07-20"
-  },
-  {
-    "title": "As mosquito ranges expand, better monitoring is key to preventing disease",
-    "link": "https://arstechnica.com/science/2026/07/as-mosquito-ranges-expand-better-monitoring-is-key-to-preventing-disease/",
-    "date": "2026-07-20"
-  },
-  {
-    "title": "Show GN: sessionhub - 흩어진 Claude Code, Codex 세션을 한 곳에서 검색",
-    "link": "https://news.hada.io/topic?id=31617",
-    "date": "2026-07-20"
-  },
-  {
-    "title": "Show GN: Oshiette(오시에떼) - 나만의 캐릭터와 대화하듯 즐기는 메신저형 비주얼 노벨",
-    "link": "https://news.hada.io/topic?id=31616",
-    "date": "2026-07-20"
-  },
-  {
-    "title": "AI 조언을 받으면 정확도는 3분의 1로 떨어지고 자신감은 2배 이상 높아짐",
-    "link": "https://news.hada.io/topic?id=31614",
-    "date": "2026-07-20"
-  },
-  {
-    "title": "OpenAI, Codex 모델 컨텍스트 크기를 372k에서 272k로 축소",
-    "link": "https://news.hada.io/topic?id=31611",
-    "date": "2026-07-20"
-  },
-  {
-    "title": "합성 소비자, 실전 활용 가능성을 입증하다",
-    "link": "https://news.hada.io/topic?id=31609",
-    "date": "2026-07-20"
-  },
-  {
-    "title": "AI is more likely than humans to form biases when hiring",
-    "link": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
-    "date": "2026-07-20"
-  },
-  {
-    "title": "Kimi K3 open-weight model: China’s biggest AI is a bet on memory, not compute",
-    "link": "https://www.artificialintelligence-news.com/news/kimi-k3-open-weight-model-memory-compute-china/",
-    "date": "2026-07-20"
-  },
-  {
     "title": "OpenCode의 성가시고 불안한 문제들",
     "link": "https://news.hada.io/topic?id=31641",
     "date": "2026-07-21"
@@ -928,5 +838,50 @@
     "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
     "link": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
     "date": "2026-07-26"
+  },
+  {
+    "title": "Cloudflare, 고객별 AI 트래픽 제어 옵션 공개",
+    "link": "https://news.hada.io/topic?id=31857",
+    "date": "2026-07-27"
+  },
+  {
+    "title": "Netflix의 사내 LLM 서빙 플랫폼",
+    "link": "https://news.hada.io/topic?id=31856",
+    "date": "2026-07-27"
+  },
+  {
+    "title": "Claude Code로 대규모 코드 마이그레이션을 수행한 방법",
+    "link": "https://news.hada.io/topic?id=31855",
+    "date": "2026-07-27"
+  },
+  {
+    "title": "런던 개트윅 공항, 로봇 주차 서비스 출시",
+    "link": "https://news.hada.io/topic?id=31854",
+    "date": "2026-07-27"
+  },
+  {
+    "title": "Google, 141조원 규모의 SpaceX 주식 보유 공개…지분 6%",
+    "link": "https://news.hada.io/topic?id=31853",
+    "date": "2026-07-27"
+  },
+  {
+    "title": "Are brain waves the next unlock for physical AI?",
+    "link": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+    "date": "2026-07-27"
+  },
+  {
+    "title": "Making sense of the panic over Chinese AI",
+    "link": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+    "date": "2026-07-27"
+  },
+  {
+    "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+    "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+    "date": "2026-07-27"
+  },
+  {
+    "title": "First teaser for Apple TV's Neuromancer debuts at SDCC",
+    "link": "https://arstechnica.com/culture/2026/07/first-teaser-for-apple-tvs-neuromancer-debuts-at-sdcc/",
+    "date": "2026-07-27"
   }
 ]
