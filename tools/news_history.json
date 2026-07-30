@@ -1,165 +1,5 @@
 [
   {
-    "title": "SIMD로 충돌 감지 가속하기",
-    "link": "https://news.hada.io/topic?id=31717",
-    "date": "2026-07-23"
-  },
-  {
-    "title": "Passkey는 소비자 심리를 전혀 이해하지 못한 엔지니어들이 만들었다",
-    "link": "https://news.hada.io/topic?id=31716",
-    "date": "2026-07-23"
-  },
-  {
-    "title": "디자이너들은 잘못된 싸움을 위해 칼을 갈고 있다",
-    "link": "https://news.hada.io/topic?id=31715",
-    "date": "2026-07-23"
-  },
-  {
-    "title": "John C. Dvorak 별세",
-    "link": "https://news.hada.io/topic?id=31714",
-    "date": "2026-07-23"
-  },
-  {
-    "title": "Terrence Tao의 Jacobian 추측 반례에 관한 ChatGPT 대화",
-    "link": "https://news.hada.io/topic?id=31713",
-    "date": "2026-07-23"
-  },
-  {
-    "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
-    "link": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
-    "date": "2026-07-23"
-  },
-  {
-    "title": "Google justifies its massive AI spending with a booming cloud business",
-    "link": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
-    "date": "2026-07-23"
-  },
-  {
-    "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
-    "link": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
-    "date": "2026-07-23"
-  },
-  {
-    "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
-    "link": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
-    "date": "2026-07-23"
-  },
-  {
-    "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
-    "link": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
-    "date": "2026-07-23"
-  },
-  {
-    "title": "Building AI infrastructure with the Effingham County community",
-    "link": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-    "date": "2026-07-23"
-  },
-  {
-    "title": "How news organizations are using AI to advance their vital missions",
-    "link": "https://openai.com/index/how-news-organizations-are-using-ai",
-    "date": "2026-07-23"
-  },
-  {
-    "title": "Advancing the next era of national science",
-    "link": "https://openai.com/index/advancing-the-next-era-of-national-science",
-    "date": "2026-07-23"
-  },
-  {
-    "title": "Introducing OpenAI Presence",
-    "link": "https://openai.com/index/introducing-openai-presence",
-    "date": "2026-07-23"
-  },
-  {
-    "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
-    "link": "https://openai.com/index/ntt-data",
-    "date": "2026-07-23"
-  },
-  {
-    "title": "3 Google updates from Galaxy Unpacked 2026",
-    "link": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
-    "date": "2026-07-23"
-  },
-  {
-    "title": "The Download: NASA’s new space telescope and OpenAI’s autonomous hacker",
-    "link": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
-    "date": "2026-07-23"
-  },
-  {
-    "title": "Sales were up at Tesla but so were costs and spending",
-    "link": "https://arstechnica.com/cars/2026/07/teslas-revenues-are-up-but-profits-squeezed-as-musk-spends-on-ai/",
-    "date": "2026-07-23"
-  },
-  {
-    "title": "Microsoft brings original Xbox backward compatibility to Windows PCs",
-    "link": "https://arstechnica.com/gaming/2026/07/microsoft-brings-original-xbox-backward-compatibility-to-windows-pcs/",
-    "date": "2026-07-23"
-  },
-  {
-    "title": "ISPs' long nightmare of having to list all the fees they charge is finally over",
-    "link": "https://arstechnica.com/tech-policy/2026/07/isps-long-nightmare-of-having-to-list-all-the-fees-they-charge-is-finally-over/",
-    "date": "2026-07-23"
-  },
-  {
-    "title": "Clayface trailer leans into the body horror",
-    "link": "https://arstechnica.com/culture/2026/07/clayface-trailer-leans-into-the-body-horror/",
-    "date": "2026-07-23"
-  },
-  {
-    "title": "Hyundai claims humanoid robot plan is not part of talks with striking workers",
-    "link": "https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/",
-    "date": "2026-07-23"
-  },
-  {
-    "title": "SenseTime’s Galaxy Project targets domestic AI chip scale-up",
-    "link": "https://www.artificialintelligence-news.com/news/sensetimes-galaxy-project-targets-domestic-ai-chip-scale-up/",
-    "date": "2026-07-23"
-  },
-  {
-    "title": "Ask GN: 구글 크롬 확장 프로그램 개인적으로 만들어서 쓰고 계신것 있으신가요?",
-    "link": "https://news.hada.io/topic?id=31727",
-    "date": "2026-07-23"
-  },
-  {
-    "title": "GigaToken - 언어 모델 토큰화를 약 1,000배 가속",
-    "link": "https://news.hada.io/topic?id=31724",
-    "date": "2026-07-23"
-  },
-  {
-    "title": "Show GN: 로컬 LLM 에이전트 개발과 테스트를 한곳에서, 툴 검색과 HITL, MCP 연동까지 (한국 통계 MCP 데모)",
-    "link": "https://news.hada.io/topic?id=31719",
-    "date": "2026-07-23"
-  },
-  {
-    "title": "45권의 기술 서적에서 얻은 핵심 인사이트",
-    "link": "https://news.hada.io/topic?id=31718",
-    "date": "2026-07-23"
-  },
-  {
-    "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
-    "link": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
-    "date": "2026-07-23"
-  },
-  {
-    "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
-    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
-    "date": "2026-07-23"
-  },
-  {
-    "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
-    "link": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
-    "date": "2026-07-23"
-  },
-  {
-    "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-    "link": "https://huggingface.co/blog/nunchaku-diffusers",
-    "date": "2026-07-23"
-  },
-  {
-    "title": "Orcas team up to ram sunfish until they explode",
-    "link": "https://arstechnica.com/science/2026/07/orcas-team-up-to-ram-sunfish-until-they-explode/",
-    "date": "2026-07-23"
-  },
-  {
     "title": "ChatGPT, 개인 건강 데이터를 일반 대화에 통합하는 Health 출시",
     "link": "https://news.hada.io/topic?id=31752",
     "date": "2026-07-24"
@@ -883,5 +723,135 @@
     "title": "America’s AI Investment Boom Is Reshaping the Economy",
     "link": "https://www.artificialintelligence-news.com/news/americas-ai-investment-boom-is-reshaping-the-economy/",
     "date": "2026-07-29"
+  },
+  {
+    "title": "명확한 시야, 풀스택이면 정말 이길 수 있을까?",
+    "link": "https://news.hada.io/topic?id=31970",
+    "date": "2026-07-30"
+  },
+  {
+    "title": "매니저가 된다는 것의 진실",
+    "link": "https://news.hada.io/topic?id=31969",
+    "date": "2026-07-30"
+  },
+  {
+    "title": "Vision Pro로 완공 전 집을 실물 크기로 둘러보기",
+    "link": "https://news.hada.io/topic?id=31968",
+    "date": "2026-07-30"
+  },
+  {
+    "title": "satteri - JavaScript 생태계를 위한 고성능 Markdown 및 MDX 처리기",
+    "link": "https://news.hada.io/topic?id=31967",
+    "date": "2026-07-30"
+  },
+  {
+    "title": "업무별로 고르는 AI 도구 가이드",
+    "link": "https://news.hada.io/topic?id=31966",
+    "date": "2026-07-30"
+  },
+  {
+    "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+    "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+    "date": "2026-07-30"
+  },
+  {
+    "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+    "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+    "date": "2026-07-30"
+  },
+  {
+    "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+    "link": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+    "date": "2026-07-30"
+  },
+  {
+    "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
+    "link": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
+    "date": "2026-07-30"
+  },
+  {
+    "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
+    "date": "2026-07-30"
+  },
+  {
+    "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+    "link": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+    "date": "2026-07-30"
+  },
+  {
+    "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+    "link": "https://openai.com/index/chatgpt-for-academic-researchers",
+    "date": "2026-07-30"
+  },
+  {
+    "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+    "link": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+    "date": "2026-07-30"
+  },
+  {
+    "title": "How an overlooked geothermal plant got a second chance",
+    "link": "https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/",
+    "date": "2026-07-30"
+  },
+  {
+    "title": "The Download: a chip talent battle, and deflating AI hype",
+    "link": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/",
+    "date": "2026-07-30"
+  },
+  {
+    "title": "The AI Hype Index: Unsexy AI",
+    "link": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
+    "date": "2026-07-30"
+  },
+  {
+    "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
+    "link": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
+    "date": "2026-07-30"
+  },
+  {
+    "title": "Musk went to “war,” sought jail time for X ad boycotts—but case ends with a whimper",
+    "link": "https://arstechnica.com/tech-policy/2026/07/musk-went-to-war-sought-jail-time-for-x-ad-boycotts-but-case-ends-with-a-whimper/",
+    "date": "2026-07-30"
+  },
+  {
+    "title": "Who wins and who loses after US bans foreign robots?",
+    "link": "https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/",
+    "date": "2026-07-30"
+  },
+  {
+    "title": "Comcast store punished low sales by smashing pies in workers' faces, lawsuit claims",
+    "link": "https://arstechnica.com/tech-policy/2026/07/comcast-store-punished-low-sales-by-smashing-pies-in-workers-faces-lawsuit-claims/",
+    "date": "2026-07-30"
+  },
+  {
+    "title": "Customize Ars your way with an Ars Pro subscription",
+    "link": "https://arstechnica.com/staff/2026/07/customize-ars-your-way-with-an-ars-pro-subscription/",
+    "date": "2026-07-30"
+  },
+  {
+    "title": "Meta Bets Its Next Revenue Line on Personal AI Agents",
+    "link": "https://www.unite.ai/meta-bets-its-next-revenue-line-on-personal-ai-agents/",
+    "date": "2026-07-30"
+  },
+  {
+    "title": "Lumo AI Review: This AI Chatbot Keeps My Data Private",
+    "link": "https://www.unite.ai/lumo-ai-review/",
+    "date": "2026-07-30"
+  },
+  {
+    "title": "Shahid Hanif, CEO and Co-Founder of Shufti – Interview Series",
+    "link": "https://www.unite.ai/shahid-hanif-ceo-and-co-founder-of-shufti-interview-series/",
+    "date": "2026-07-30"
+  },
+  {
+    "title": "ChipAgents Expands Series A to $134 Million as AI Agents Move Deeper Into Semiconductor Design",
+    "link": "https://www.unite.ai/chipagents-expands-series-a-to-134-million-as-ai-agents-move-deeper-into-semiconductor-design/",
+    "date": "2026-07-30"
+  },
+  {
+    "title": "groundcover Raises $100 Million Series C to Scale AI-Era Observability Platform",
+    "link": "https://www.unite.ai/groundcover-raises-100-million-series-c-to-scale-ai-era-observability-platform/",
+    "date": "2026-07-30"
   }
 ]
