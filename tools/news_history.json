@@ -1,190 +1,5 @@
 [
   {
-    "title": "ChatGPT, 개인 건강 데이터를 일반 대화에 통합하는 Health 출시",
-    "link": "https://news.hada.io/topic?id=31752",
-    "date": "2026-07-24"
-  },
-  {
-    "title": "자율주행 기업",
-    "link": "https://news.hada.io/topic?id=31751",
-    "date": "2026-07-24"
-  },
-  {
-    "title": "Reddit, 연 900억원($60m) 계약 만료 앞두고 Google AI 접근 차단 검토",
-    "link": "https://news.hada.io/topic?id=31750",
-    "date": "2026-07-24"
-  },
-  {
-    "title": "AI 기업들이 감추려는 막대한 부외부채",
-    "link": "https://news.hada.io/topic?id=31749",
-    "date": "2026-07-24"
-  },
-  {
-    "title": "스타트업 창업자들, 미국 정부에 중국 오픈 웨이트 AI 차단 중단 촉구",
-    "link": "https://news.hada.io/topic?id=31748",
-    "date": "2026-07-24"
-  },
-  {
-    "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
-    "link": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
-    "date": "2026-07-24"
-  },
-  {
-    "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
-    "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
-    "date": "2026-07-24"
-  },
-  {
-    "title": "Anthropic updates Claude voice mode with more capable models",
-    "link": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
-    "date": "2026-07-24"
-  },
-  {
-    "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
-    "link": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
-    "date": "2026-07-24"
-  },
-  {
-    "title": "Runway launches AI model router as generative media gets crowded",
-    "link": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
-    "date": "2026-07-24"
-  },
-  {
-    "title": "Launching Health in ChatGPT",
-    "link": "https://openai.com/index/health-in-chatgpt",
-    "date": "2026-07-24"
-  },
-  {
-    "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
-    "link": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
-    "date": "2026-07-24"
-  },
-  {
-    "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-    "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-    "date": "2026-07-24"
-  },
-  {
-    "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-    "link": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-    "date": "2026-07-24"
-  },
-  {
-    "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-    "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
-    "date": "2026-07-24"
-  },
-  {
-    "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-    "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-    "date": "2026-07-24"
-  },
-  {
-    "title": "Supercooled kidneys have been transplanted into pigs in a “landmark achievement”",
-    "link": "https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/",
-    "date": "2026-07-24"
-  },
-  {
-    "title": "The Download: energy transmission and US threats against Chinese AI",
-    "link": "https://www.technologyreview.com/2026/07/23/1140753/the-download-energy-transmission-and-us-threats-chinese-ai/",
-    "date": "2026-07-24"
-  },
-  {
-    "title": "How AI helps scientists design the next generation of medicines",
-    "link": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
-    "date": "2026-07-24"
-  },
-  {
-    "title": "The power line that could reshape New York’s grid is hitting snags",
-    "link": "https://www.technologyreview.com/2026/07/23/1140739/power-line-grid-chpe/",
-    "date": "2026-07-24"
-  },
-  {
-    "title": "Microsoft responds to LG monitors installing McAfee ads on Windows",
-    "link": "https://arstechnica.com/gadgets/2026/07/microsoft-responds-to-lg-monitors-installing-mcafee-ads-on-windows/",
-    "date": "2026-07-24"
-  },
-  {
-    "title": "FDA reports new outbreak of explosive diarrhea with 72 cases identified",
-    "link": "https://arstechnica.com/health/2026/07/fda-reports-new-outbreak-of-explosive-diarrhea-with-72-cases-identified/",
-    "date": "2026-07-24"
-  },
-  {
-    "title": "Forgot your Google password? Now you can log in with a selfie.",
-    "link": "https://arstechnica.com/gadgets/2026/07/google-now-lets-you-log-into-your-account-with-a-selfie/",
-    "date": "2026-07-24"
-  },
-  {
-    "title": "AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems",
-    "link": "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/",
-    "date": "2026-07-24"
-  },
-  {
-    "title": "Final Coyote vs. Acme trailer drops at SDCC",
-    "link": "https://arstechnica.com/culture/2026/07/final-coyote-vs-acme-trailer-drops-at-sdcc/",
-    "date": "2026-07-24"
-  },
-  {
-    "title": "Nvidia bets physical AI can solve healthcare robotics’ data problem",
-    "link": "https://www.artificialintelligence-news.com/news/nvidia-bets-physical-ai-solve-healthcare-robotics-data-problem/",
-    "date": "2026-07-24"
-  },
-  {
-    "title": "AMD to invest up to $5 billion in Anthropic under AI infrastructure deal",
-    "link": "https://www.artificialintelligence-news.com/news/amd-anthropic-ai-infrastructure-deal/",
-    "date": "2026-07-24"
-  },
-  {
-    "title": "Show GN: GridOS : 한·일·대만·중국·미국의 인프라를 한 지도에서",
-    "link": "https://news.hada.io/topic?id=31764",
-    "date": "2026-07-24"
-  },
-  {
-    "title": "OpenAI의 우발적 Hugging Face 공격, 현실이 된 공상과학",
-    "link": "https://news.hada.io/topic?id=31763",
-    "date": "2026-07-24"
-  },
-  {
-    "title": "창업가가 반드시 집중해야 하는 4가지 역량",
-    "link": "https://news.hada.io/topic?id=31762",
-    "date": "2026-07-24"
-  },
-  {
-    "title": "ChatGPT Voice 가 데스크톱 앱에도 도입됨",
-    "link": "https://news.hada.io/topic?id=31761",
-    "date": "2026-07-24"
-  },
-  {
-    "title": "Show GN: AI Native 증권사를 만들고 있습니다 - Carry AI",
-    "link": "https://news.hada.io/topic?id=31760",
-    "date": "2026-07-24"
-  },
-  {
-    "title": "Connect more of your apps to Search",
-    "link": "https://blog.google/products-and-platforms/products/search/connected-apps/",
-    "date": "2026-07-24"
-  },
-  {
-    "title": "Create, edit and star in videos with two Google Vids updates",
-    "link": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
-    "date": "2026-07-24"
-  },
-  {
-    "title": "Newer Models, Same Advantage",
-    "link": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
-    "date": "2026-07-24"
-  },
-  {
-    "title": "Security incident disclosure — July 2026",
-    "link": "https://huggingface.co/blog/security-incident-july-2026",
-    "date": "2026-07-24"
-  },
-  {
-    "title": "OpenAI Presence sells enterprise AI agents with engineers attached",
-    "link": "https://www.artificialintelligence-news.com/news/openai-presence-enterprise-ai-agents/",
-    "date": "2026-07-24"
-  },
-  {
     "title": "databasement - 웹UI 기반 셀프호스팅 DB 백업 관리자",
     "link": "https://news.hada.io/topic?id=31799",
     "date": "2026-07-25"
@@ -898,5 +713,140 @@
     "title": "Google AI Overviews become more common in search",
     "link": "https://www.artificialintelligence-news.com/news/google-ai-overviews-us-searches/",
     "date": "2026-07-30"
+  },
+  {
+    "title": "Show GN: FlowCraft – 메타프롬프트를 그래프로 시각화하고 그래프 기반 실행 프롬프트로 변환하는 도구",
+    "link": "https://news.hada.io/topic?id=32007",
+    "date": "2026-07-31"
+  },
+  {
+    "title": "Google, 2026년 말까지 Android 연령 확인을 전 세계로 확대",
+    "link": "https://news.hada.io/topic?id=32006",
+    "date": "2026-07-31"
+  },
+  {
+    "title": "termcn - Ink와 OpenTUI 기반의 아름다운 터미널 UI 컴포넌트",
+    "link": "https://news.hada.io/topic?id=32005",
+    "date": "2026-07-31"
+  },
+  {
+    "title": "AI 미학",
+    "link": "https://news.hada.io/topic?id=32004",
+    "date": "2026-07-31"
+  },
+  {
+    "title": "가장 즐겁게 작업한 사이드 프로젝트는 무엇인가요?",
+    "link": "https://news.hada.io/topic?id=32003",
+    "date": "2026-07-31"
+  },
+  {
+    "title": "Anthropic says its own AI models breached three companies during security tests",
+    "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+    "date": "2026-07-31"
+  },
+  {
+    "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+    "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+    "date": "2026-07-31"
+  },
+  {
+    "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
+    "link": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
+    "date": "2026-07-31"
+  },
+  {
+    "title": "Investors love AI, as long as you’re a cloud host",
+    "link": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
+    "date": "2026-07-31"
+  },
+  {
+    "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
+    "link": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+    "date": "2026-07-31"
+  },
+  {
+    "title": "Advancing the price-performance frontier with GPT-5.6",
+    "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+    "date": "2026-07-31"
+  },
+  {
+    "title": "Montana’s plan to become an experimental medical hub just pushed forward",
+    "link": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/",
+    "date": "2026-07-31"
+  },
+  {
+    "title": "The Download: tricking LLMs, and reviving geothermal plants",
+    "link": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
+    "date": "2026-07-31"
+  },
+  {
+    "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+    "link": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+    "date": "2026-07-31"
+  },
+  {
+    "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+    "link": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+    "date": "2026-07-31"
+  },
+  {
+    "title": "Tim Cook passes the baton in Apple's Q3 2026 earnings call",
+    "link": "https://arstechnica.com/gadgets/2026/07/tim-cooks-last-earnings-call-strong-iphone-sales-but-memory-costs-loom-large/",
+    "date": "2026-07-31"
+  },
+  {
+    "title": "Max-severity Exchange server flaw under active exploitation by Kremlin hackers",
+    "link": "https://arstechnica.com/security/2026/07/kremlin-hackers-are-exploiting-exchange-flaw-to-backdoor-unpatched-networks/",
+    "date": "2026-07-31"
+  },
+  {
+    "title": "Trump FCC faces blowback in attempt to police speech on broadcast TV",
+    "link": "https://arstechnica.com/tech-policy/2026/07/trump-fccs-war-on-abc-slammed-by-both-conservatives-and-liberals/",
+    "date": "2026-07-31"
+  },
+  {
+    "title": "Iran struck Amazon data centers again amid widening war, satellites show",
+    "link": "https://arstechnica.com/gadgets/2026/07/satellites-spot-new-war-damage-to-amazon-data-centers-and-saudi-oil-site/",
+    "date": "2026-07-31"
+  },
+  {
+    "title": "Just because a game is on disc doesn’t mean it will work in the future",
+    "link": "https://arstechnica.com/gaming/2026/07/the-disc-is-not-the-game-physical-releases-increasingly-require-extra-downloads/",
+    "date": "2026-07-31"
+  },
+  {
+    "title": "OpenAI Cuts API Prices on Its Two Cheaper GPT-5.6 Tiers",
+    "link": "https://www.unite.ai/openai-cuts-api-prices-on-its-two-cheaper-gpt-5-6-tiers/",
+    "date": "2026-07-31"
+  },
+  {
+    "title": "Arun Hiremath, Chief Business Officer and Co-Founder of EvoluteIQ – Interview Series",
+    "link": "https://www.unite.ai/arun-hiremath-chief-business-officer-and-co-founder-of-evoluteiq-interview-series/",
+    "date": "2026-07-31"
+  },
+  {
+    "title": "Bloom Security Emerges from Stealth with $20M to Secure the AI-Native Endpoint",
+    "link": "https://www.unite.ai/bloom-security-emerges-from-stealth-with-20m-to-secure-the-ai-native-endpoint/",
+    "date": "2026-07-31"
+  },
+  {
+    "title": "Simile Raises More Than $200 Million at a $2 Billion Valuation to Scale Human Behavior Simulations",
+    "link": "https://www.unite.ai/simile-raises-more-than-200-million-at-a-2-billion-valuation-to-scale-human-behavior-simulations/",
+    "date": "2026-07-31"
+  },
+  {
+    "title": "Altman Meets the Officials Designing Washington’s AI Cyber Tests",
+    "link": "https://www.unite.ai/altman-meets-the-officials-designing-washingtons-ai-cyber-tests/",
+    "date": "2026-07-31"
+  },
+  {
+    "title": "Zuckerberg details Meta’s personal AI superintelligence strategy",
+    "link": "https://www.artificialintelligence-news.com/news/zuckerberg-details-meta-personal-ai-superintelligence-strategy/",
+    "date": "2026-07-31"
+  },
+  {
+    "title": "How AI is Changing Linux VPS Security for Businesses",
+    "link": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-linux-vps-security-for-businesses/",
+    "date": "2026-07-31"
   }
 ]
