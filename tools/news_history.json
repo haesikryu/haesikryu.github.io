@@ -1,90 +1,5 @@
 [
   {
-    "title": "하드 드라이브가 늘 가득 차는 이유",
-    "link": "https://news.hada.io/topic?id=31819",
-    "date": "2026-07-26"
-  },
-  {
-    "title": "인터페이스가 화면을 벗어나고 있다 - 채팅, 음성, 에이전트형 AI가 바꾸는 UX",
-    "link": "https://news.hada.io/topic?id=31818",
-    "date": "2026-07-26"
-  },
-  {
-    "title": "Hannah Fry, 2026년 수학 대중화 공로로 Leelavati Prize 수상",
-    "link": "https://news.hada.io/topic?id=31817",
-    "date": "2026-07-26"
-  },
-  {
-    "title": "neko-master - 네트워크 트래픽 시각화 및 분석용 대시보드",
-    "link": "https://news.hada.io/topic?id=31816",
-    "date": "2026-07-26"
-  },
-  {
-    "title": "stinkpot - SQLite 기반 Bash 셸 히스토리 검색기",
-    "link": "https://news.hada.io/topic?id=31815",
-    "date": "2026-07-26"
-  },
-  {
-    "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
-    "link": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
-    "date": "2026-07-26"
-  },
-  {
-    "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
-    "link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
-    "date": "2026-07-26"
-  },
-  {
-    "title": "SDCC teaser gives us our first good look at Blade Runner 2099",
-    "link": "https://arstechnica.com/culture/2026/07/sdcc-teaser-gives-us-our-first-good-look-at-blade-runner-2099/",
-    "date": "2026-07-26"
-  },
-  {
-    "title": "SpaceX eyes tower catch for next Starship after auspicious end to 13th flight",
-    "link": "https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/",
-    "date": "2026-07-26"
-  },
-  {
-    "title": "With help from data, art museums are reframing the visitor experience",
-    "link": "https://arstechnica.com/culture/2026/07/with-help-from-data-art-museums-are-reframing-the-visitor-experience/",
-    "date": "2026-07-26"
-  },
-  {
-    "title": "Big Tech accused of stonewalling European social media researchers",
-    "link": "https://arstechnica.com/tech-policy/2026/07/big-tech-accused-of-stonewalling-european-social-media-researchers/",
-    "date": "2026-07-26"
-  },
-  {
-    "title": "Meta, Microsoft, Nvidia, IBM, and others back open-weight AI",
-    "link": "https://www.artificialintelligence-news.com/news/meta-microsoft-nvidia-ibm-others-back-open-weight-ai/",
-    "date": "2026-07-26"
-  },
-  {
-    "title": "OpenAI pushes ChatGPT into patient health records",
-    "link": "https://www.artificialintelligence-news.com/news/openai-pushes-chatgpt-into-patient-health-records/",
-    "date": "2026-07-26"
-  },
-  {
-    "title": "젠슨황의 Open Weights and American AI Leadership에 담긴 의미",
-    "link": "https://news.hada.io/topic?id=31824",
-    "date": "2026-07-26"
-  },
-  {
-    "title": "메모리 안전성 절대주의자들",
-    "link": "https://news.hada.io/topic?id=31822",
-    "date": "2026-07-26"
-  },
-  {
-    "title": "면접 후 연락이 끊겼나요?",
-    "link": "https://news.hada.io/topic?id=31821",
-    "date": "2026-07-26"
-  },
-  {
-    "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
-    "link": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-    "date": "2026-07-26"
-  },
-  {
     "title": "Cloudflare, 고객별 AI 트래픽 제어 옵션 공개",
     "link": "https://news.hada.io/topic?id=31857",
     "date": "2026-07-27"
@@ -968,5 +883,80 @@
     "title": "OpenAI aligns safety practices with EU AI Act’s GPAI Code",
     "link": "https://www.artificialintelligence-news.com/news/openai-aligns-safety-practices-with-eu-ai-act-gpai-code/",
     "date": "2026-08-01"
+  },
+  {
+    "title": "Flint - AI 시대를 위한 시각화 언어",
+    "link": "https://news.hada.io/topic?id=32048",
+    "date": "2026-08-02"
+  },
+  {
+    "title": "Lexxy - Rails를 위한 현대적인 리치 텍스트 에디터",
+    "link": "https://news.hada.io/topic?id=32047",
+    "date": "2026-08-02"
+  },
+  {
+    "title": "감시 조약으로 위장한 유엔 사이버범죄협약에 캐나다가 서명",
+    "link": "https://news.hada.io/topic?id=32046",
+    "date": "2026-08-02"
+  },
+  {
+    "title": "Cursor, 사용량 페이지와 CSV에서 비용 정보 제거",
+    "link": "https://news.hada.io/topic?id=32045",
+    "date": "2026-08-02"
+  },
+  {
+    "title": "AI가 작동하는 제품까지 만들어주지는 않는다, 그건 여전히 당신의 일이다",
+    "link": "https://news.hada.io/topic?id=32044",
+    "date": "2026-08-02"
+  },
+  {
+    "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+    "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+    "date": "2026-08-02"
+  },
+  {
+    "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+    "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+    "date": "2026-08-02"
+  },
+  {
+    "title": "Sam Altman is still making the case for parenting via ChatGPT",
+    "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+    "date": "2026-08-02"
+  },
+  {
+    "title": "This $9 key physically locks your most addictive apps",
+    "link": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
+    "date": "2026-08-02"
+  },
+  {
+    "title": "Here's how engineers plan to save the satellite sent to save NASA's Swift mission",
+    "link": "https://arstechnica.com/space/2026/08/heres-how-engineers-plan-to-save-the-satellite-sent-to-save-nasas-swift-mission/",
+    "date": "2026-08-02"
+  },
+  {
+    "title": "Review: Yes, we're still arguing about Nolan's The Odyssey",
+    "link": "https://arstechnica.com/culture/2026/08/review-yes-were-still-arguing-about-nolans-the-odyssey/",
+    "date": "2026-08-02"
+  },
+  {
+    "title": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
+    "link": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
+    "date": "2026-08-02"
+  },
+  {
+    "title": "After noise complaints, judge orders Waymo to stop overnight charging in Santa Monica",
+    "link": "https://arstechnica.com/tech-policy/2026/08/after-noise-complaints-judge-orders-waymo-to-stop-overnight-charging-in-santa-monica/",
+    "date": "2026-08-02"
+  },
+  {
+    "title": "Defcon's new badge is a security key you can see inside",
+    "link": "https://arstechnica.com/security/2026/08/defcons-new-badge-is-a-security-key-you-can-see-inside/",
+    "date": "2026-08-02"
+  },
+  {
+    "title": "The Labs Just Proved Your Agent’s Sandbox Is Only a Suggestion",
+    "link": "https://www.unite.ai/the-labs-just-proved-your-agents-sandbox-is-only-a-suggestion/",
+    "date": "2026-08-02"
   }
 ]
