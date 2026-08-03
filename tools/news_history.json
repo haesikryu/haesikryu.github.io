@@ -1,50 +1,5 @@
 [
   {
-    "title": "Cloudflare, 고객별 AI 트래픽 제어 옵션 공개",
-    "link": "https://news.hada.io/topic?id=31857",
-    "date": "2026-07-27"
-  },
-  {
-    "title": "Netflix의 사내 LLM 서빙 플랫폼",
-    "link": "https://news.hada.io/topic?id=31856",
-    "date": "2026-07-27"
-  },
-  {
-    "title": "Claude Code로 대규모 코드 마이그레이션을 수행한 방법",
-    "link": "https://news.hada.io/topic?id=31855",
-    "date": "2026-07-27"
-  },
-  {
-    "title": "런던 개트윅 공항, 로봇 주차 서비스 출시",
-    "link": "https://news.hada.io/topic?id=31854",
-    "date": "2026-07-27"
-  },
-  {
-    "title": "Google, 141조원 규모의 SpaceX 주식 보유 공개…지분 6%",
-    "link": "https://news.hada.io/topic?id=31853",
-    "date": "2026-07-27"
-  },
-  {
-    "title": "Are brain waves the next unlock for physical AI?",
-    "link": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
-    "date": "2026-07-27"
-  },
-  {
-    "title": "Making sense of the panic over Chinese AI",
-    "link": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
-    "date": "2026-07-27"
-  },
-  {
-    "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
-    "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
-    "date": "2026-07-27"
-  },
-  {
-    "title": "First teaser for Apple TV's Neuromancer debuts at SDCC",
-    "link": "https://arstechnica.com/culture/2026/07/first-teaser-for-apple-tvs-neuromancer-debuts-at-sdcc/",
-    "date": "2026-07-27"
-  },
-  {
     "title": "Decathlon 독일, decathlon.de에 Wero 결제 도입",
     "link": "https://news.hada.io/topic?id=31901",
     "date": "2026-07-28"
@@ -983,5 +938,35 @@
     "title": "NetBSD 11.0 출시",
     "link": "https://news.hada.io/topic?id=32052",
     "date": "2026-08-02"
+  },
+  {
+    "title": "Google이 RSS 피드 확산을 무너뜨리는 데 기여한 과정(2023)",
+    "link": "https://news.hada.io/topic?id=32079",
+    "date": "2026-08-03"
+  },
+  {
+    "title": "agent-device - AI 에이전트가 iOS/Android 기기를 제어하도록 돕는 CLI",
+    "link": "https://news.hada.io/topic?id=32078",
+    "date": "2026-08-03"
+  },
+  {
+    "title": "C에서 sizeof가 놀라울 정도로 파싱하기 어려운 이유",
+    "link": "https://news.hada.io/topic?id=32077",
+    "date": "2026-08-03"
+  },
+  {
+    "title": "자동화하지 말고, 완전히 없애버려라",
+    "link": "https://news.hada.io/topic?id=32076",
+    "date": "2026-08-03"
+  },
+  {
+    "title": "가장 빠른 AI-First 기업은 실제로 어떻게 일하는가",
+    "link": "https://news.hada.io/topic?id=32075",
+    "date": "2026-08-03"
+  },
+  {
+    "title": "Sam Altman and AI’s decel debate",
+    "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+    "date": "2026-08-03"
   }
 ]
