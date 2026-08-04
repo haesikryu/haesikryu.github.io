@@ -1,170 +1,5 @@
 [
   {
-    "title": "Decathlon 독일, decathlon.de에 Wero 결제 도입",
-    "link": "https://news.hada.io/topic?id=31901",
-    "date": "2026-07-28"
-  },
-  {
-    "title": "오픈 웨이트 모델에 대한 Anthropic의 입장",
-    "link": "https://news.hada.io/topic?id=31900",
-    "date": "2026-07-28"
-  },
-  {
-    "title": "개발자를 위한 데이터 도구 지형 가이드",
-    "link": "https://news.hada.io/topic?id=31899",
-    "date": "2026-07-28"
-  },
-  {
-    "title": "Kimi-K3 기술 보고서 [PDF]",
-    "link": "https://news.hada.io/topic?id=31898",
-    "date": "2026-07-28"
-  },
-  {
-    "title": "Bun의 Rust 재작성은 어떻게 진행되고 있나?",
-    "link": "https://news.hada.io/topic?id=31897",
-    "date": "2026-07-28"
-  },
-  {
-    "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
-    "link": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
-    "date": "2026-07-28"
-  },
-  {
-    "title": "Satya Nadella says companies that trust one AI for everything may not survive",
-    "link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
-    "date": "2026-07-28"
-  },
-  {
-    "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
-    "link": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
-    "date": "2026-07-28"
-  },
-  {
-    "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
-    "link": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
-    "date": "2026-07-28"
-  },
-  {
-    "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
-    "link": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
-    "date": "2026-07-28"
-  },
-  {
-    "title": "How AI is expanding what people do at work",
-    "link": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-    "date": "2026-07-28"
-  },
-  {
-    "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
-    "link": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
-    "date": "2026-07-28"
-  },
-  {
-    "title": "How lasers could help provide fuel for nuclear reactors",
-    "link": "https://www.technologyreview.com/2026/07/27/1140798/laser-nuclear-enrichment/",
-    "date": "2026-07-28"
-  },
-  {
-    "title": "The Download: lasers for nuclear fuel, and organ preservation advances",
-    "link": "https://www.technologyreview.com/2026/07/27/1140833/the-download-lasers-nuclear-organ-preservation/",
-    "date": "2026-07-28"
-  },
-  {
-    "title": "The path to artificial superintelligence",
-    "link": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
-    "date": "2026-07-28"
-  },
-  {
-    "title": "Closing the data loop in AI-driven drug discovery",
-    "link": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
-    "date": "2026-07-28"
-  },
-  {
-    "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-    "link": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
-    "date": "2026-07-28"
-  },
-  {
-    "title": "Microsoft unveils AI security tools it says outperform competing platforms",
-    "link": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
-    "date": "2026-07-28"
-  },
-  {
-    "title": "Trump admin exempts SpaceX's Starlink from FCC ban on foreign-made routers",
-    "link": "https://arstechnica.com/tech-policy/2026/07/starlink-gets-exemption-from-fcc-ban-on-routers-made-outside-the-us/",
-    "date": "2026-07-28"
-  },
-  {
-    "title": "Epic diarrhea outbreak has 40% of Americans avoiding fruits and veggies",
-    "link": "https://arstechnica.com/health/2026/07/epic-diarrhea-outbreak-has-40-of-americans-avoiding-fruits-and-veggies/",
-    "date": "2026-07-28"
-  },
-  {
-    "title": "iOS and macOS 26.6 arrive today, paving the way for iOS and macOS 27",
-    "link": "https://arstechnica.com/gadgets/2026/07/ios-and-macos-26-6-arrive-today-paving-the-way-for-ios-and-macos-27/",
-    "date": "2026-07-28"
-  },
-  {
-    "title": "A missing underscore sent innocent man to prison for 18 months",
-    "link": "https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/",
-    "date": "2026-07-28"
-  },
-  {
-    "title": "법원, Google이 스크래핑을 DMCA로 막으려던 시도를 기각",
-    "link": "https://news.hada.io/topic?id=31907",
-    "date": "2026-07-28"
-  },
-  {
-    "title": "Show GN: Reeca AI – 이력서 분석부터 채용공고 추천, 자기소개서, 모의면접까지 연결한 AI 취업 준비 서비스",
-    "link": "https://news.hada.io/topic?id=31906",
-    "date": "2026-07-28"
-  },
-  {
-    "title": "Show GN: Sukurini - macOS 메뉴 바에서 꺼내 쓰는 스크린샷 매니저",
-    "link": "https://news.hada.io/topic?id=31904",
-    "date": "2026-07-28"
-  },
-  {
-    "title": "Show GN: react-native-pure-chart 2.0.0 - SVG/Skia 없이 View만으로 차트 그리는 라이브러리, 9년 만에 AI 에이...",
-    "link": "https://news.hada.io/topic?id=31902",
-    "date": "2026-07-28"
-  },
-  {
-    "title": "Fairy 서비스 오픈 및 GeekNews Show GN 연동",
-    "link": "https://news.hada.io/blog/fairy_and_geeknews",
-    "date": "2026-07-28"
-  },
-  {
-    "title": "GeekBadge 시스템을 추가했습니다",
-    "link": "https://news.hada.io/blog/introducing_geekbadge",
-    "date": "2026-07-28"
-  },
-  {
-    "title": "List 가 GeekLists 기능으로 확대 개편 되었습니다.",
-    "link": "https://news.hada.io/blog/GeekLists",
-    "date": "2026-07-28"
-  },
-  {
-    "title": "‘함께 보면 좋은 글’ 기능을 추가했습니다",
-    "link": "https://news.hada.io/blog/related-reads",
-    "date": "2026-07-28"
-  },
-  {
-    "title": "GeekNews를 편하게 구독하는 법",
-    "link": "https://news.hada.io/blog/subscribe_geeknews",
-    "date": "2026-07-28"
-  },
-  {
-    "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
-    "link": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
-    "date": "2026-07-28"
-  },
-  {
-    "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
-    "link": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
-    "date": "2026-07-28"
-  },
-  {
     "title": "업그레이드된 Go-To-Market 플레이북",
     "link": "https://news.hada.io/topic?id=31934",
     "date": "2026-07-29"
@@ -1028,5 +863,125 @@
     "title": "Why biological data matters more in AI drug discovery",
     "link": "https://www.artificialintelligence-news.com/news/gsk-relation-therapeutics-ai-drug-discovery-biological-data/",
     "date": "2026-08-03"
+  },
+  {
+    "title": "구글 서치 콘솔, X/인스타그램/틱톡/유튜브를 통한 유입 트래픽도 지원 시작",
+    "link": "https://news.hada.io/topic?id=32128",
+    "date": "2026-08-04"
+  },
+  {
+    "title": "안목, 판단 그리고 AI",
+    "link": "https://news.hada.io/topic?id=32127",
+    "date": "2026-08-04"
+  },
+  {
+    "title": "Show GN: maxt – 거래소와 언어가 달라도 일관된 방식으로 사용하는 멀티 언어 거래소 SDK",
+    "link": "https://news.hada.io/topic?id=32126",
+    "date": "2026-08-04"
+  },
+  {
+    "title": "크래프톤, 21B 한영 이중언어 음성 AI 모델 &#039;A.X K2 Raon-Speech&#039; 공개",
+    "link": "https://news.hada.io/topic?id=32125",
+    "date": "2026-08-04"
+  },
+  {
+    "title": "카카오, &#039;카나나-2&#039;의 경량 모델 4종 오픈소스로 공개",
+    "link": "https://news.hada.io/topic?id=32124",
+    "date": "2026-08-04"
+  },
+  {
+    "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+    "link": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+    "date": "2026-08-04"
+  },
+  {
+    "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+    "link": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+    "date": "2026-08-04"
+  },
+  {
+    "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
+    "link": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+    "date": "2026-08-04"
+  },
+  {
+    "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
+    "link": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+    "date": "2026-08-04"
+  },
+  {
+    "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+    "link": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+    "date": "2026-08-04"
+  },
+  {
+    "title": "How we built a realtime system for responsive voice AI in six months",
+    "link": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+    "date": "2026-08-04"
+  },
+  {
+    "title": "Circles powers telco personalization with OpenAI technology",
+    "link": "https://openai.com/index/circles",
+    "date": "2026-08-04"
+  },
+  {
+    "title": "Trump’s AI protectionism has come for robotics",
+    "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+    "date": "2026-08-04"
+  },
+  {
+    "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
+    "link": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
+    "date": "2026-08-04"
+  },
+  {
+    "title": "US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own",
+    "link": "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/",
+    "date": "2026-08-04"
+  },
+  {
+    "title": "Research roundup: 6 cool science stories we almost missed",
+    "link": "https://arstechnica.com/science/2026/08/research-roundup-6-cool-science-stories-we-almost-missed-5/",
+    "date": "2026-08-04"
+  },
+  {
+    "title": "Lego deploys Hubble Space Telescope as detailed desktop model",
+    "link": "https://arstechnica.com/space/2026/08/lego-deploys-hubble-space-telescope-as-detailed-desktop-model/",
+    "date": "2026-08-04"
+  },
+  {
+    "title": "An AI-supervised remote exam went so badly that 58,000 students must retake it",
+    "link": "https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/",
+    "date": "2026-08-04"
+  },
+  {
+    "title": "2026 Volkswagen Jetta Sport: The cheap car isn't completely extinct yet",
+    "link": "https://arstechnica.com/cars/2026/08/2026-volkswagen-jetta-sport-the-cheap-car-isnt-completely-extinct-yet/",
+    "date": "2026-08-04"
+  },
+  {
+    "title": "EXL Completes iMerit Acquisition to Expand Its End-to-End Enterprise AI Capabilities",
+    "link": "https://www.unite.ai/exl-completes-imerit-acquisition-to-expand-its-end-to-end-enterprise-ai-capabilities/",
+    "date": "2026-08-04"
+  },
+  {
+    "title": "House Homeland Security Panel Calls Altman In Over OpenAI Breach",
+    "link": "https://www.unite.ai/house-homeland-security-panel-calls-altman-in-over-openai-breach/",
+    "date": "2026-08-04"
+  },
+  {
+    "title": "Horizon3 Raises $250 Million Series E at Over $2 Billion Valuation to Expand Autonomous AI Penetration Testing",
+    "link": "https://www.unite.ai/horizon3-raises-250-million-series-e-at-over-2-billion-valuation-to-expand-autonomous-ai-penetration-testing/",
+    "date": "2026-08-04"
+  },
+  {
+    "title": "Why AI Success Depends on Better Workflows, Not More AI Tools",
+    "link": "https://www.unite.ai/purpose-built-ai-financial-institutions/",
+    "date": "2026-08-04"
+  },
+  {
+    "title": "Zenity Raises $125 Million as Enterprises Confront the Security Risks of Autonomous AI Agents",
+    "link": "https://www.unite.ai/zenity-raises-125-million-as-enterprises-confront-the-security-risks-of-autonomous-ai-agents/",
+    "date": "2026-08-04"
   }
 ]
