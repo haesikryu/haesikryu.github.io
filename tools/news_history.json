@@ -1,165 +1,5 @@
 [
   {
-    "title": "업그레이드된 Go-To-Market 플레이북",
-    "link": "https://news.hada.io/topic?id=31934",
-    "date": "2026-07-29"
-  },
-  {
-    "title": "오픈 소스 c++라이브러리 목록",
-    "link": "https://news.hada.io/topic?id=31933",
-    "date": "2026-07-29"
-  },
-  {
-    "title": "기업은 왜 자신도 모르게 제품-시장 적합성을 잃게 될까",
-    "link": "https://news.hada.io/topic?id=31932",
-    "date": "2026-07-29"
-  },
-  {
-    "title": "프론티어 AI가 반도체 산업을 닮아가는 이유",
-    "link": "https://news.hada.io/topic?id=31931",
-    "date": "2026-07-29"
-  },
-  {
-    "title": "Openship - 내장 CI/CD를 갖춘 셀프 호스팅 배포 플랫폼",
-    "link": "https://news.hada.io/topic?id=31930",
-    "date": "2026-07-29"
-  },
-  {
-    "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
-    "link": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
-    "date": "2026-07-29"
-  },
-  {
-    "title": "Bot-detection startup Spur nabs $200M from Insight",
-    "link": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
-    "date": "2026-07-29"
-  },
-  {
-    "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
-    "link": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
-    "date": "2026-07-29"
-  },
-  {
-    "title": "Sam Altman is ready to decelerate",
-    "link": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
-    "date": "2026-07-29"
-  },
-  {
-    "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
-    "link": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/",
-    "date": "2026-07-29"
-  },
-  {
-    "title": "Scientific computing in the age of agentic AI",
-    "link": "https://openai.com/index/scientific-computing-agentic-ai",
-    "date": "2026-07-29"
-  },
-  {
-    "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
-    "date": "2026-07-29"
-  },
-  {
-    "title": "5 ways AI Mode in Search helps you enjoy the real world",
-    "link": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
-    "date": "2026-07-29"
-  },
-  {
-    "title": "5 ways to host the ultimate dinner party with Google Search",
-    "link": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
-    "date": "2026-07-29"
-  },
-  {
-    "title": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
-    "link": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/",
-    "date": "2026-07-29"
-  },
-  {
-    "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
-    "link": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
-    "date": "2026-07-29"
-  },
-  {
-    "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
-    "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
-    "date": "2026-07-29"
-  },
-  {
-    "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
-    "link": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-    "date": "2026-07-29"
-  },
-  {
-    "title": "Audi has a new flagship designed with the US in mind: The 2027 Q9",
-    "link": "https://arstechnica.com/cars/2026/07/audi-has-a-new-flagship-designed-with-the-us-in-mind-the-2027-q9/",
-    "date": "2026-07-29"
-  },
-  {
-    "title": "Reaction wheel failures leave Swift rescue mission spinning in orbit",
-    "link": "https://arstechnica.com/space/2026/07/reaction-wheel-failures-leave-swift-rescue-mission-spinning-in-orbit/",
-    "date": "2026-07-29"
-  },
-  {
-    "title": "College lab class ends with 32 people on antibiotics for deadly germ exposure",
-    "link": "https://arstechnica.com/health/2026/07/college-lab-class-ends-with-32-people-on-antibiotics-for-deadly-germ-exposure/",
-    "date": "2026-07-29"
-  },
-  {
-    "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
-    "link": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
-    "date": "2026-07-29"
-  },
-  {
-    "title": "eBay pays $46M to journalists it targeted in bizarre harassment campaign",
-    "link": "https://arstechnica.com/tech-policy/2026/07/ebay-former-execs-pay-56m-to-settle-bloody-pig-mask-harassment-case/",
-    "date": "2026-07-29"
-  },
-  {
-    "title": "OpenAI and Anthropic Back Employee Call to Pace AI Progress",
-    "link": "https://www.unite.ai/openai-and-anthropic-back-employee-call-to-pace-ai-progress/",
-    "date": "2026-07-29"
-  },
-  {
-    "title": "Hugging Face Traces the Rogue Agent to a Hijacked Sandbox",
-    "link": "https://www.unite.ai/hugging-face-traces-the-rogue-agent-to-a-hijacked-sandbox/",
-    "date": "2026-07-29"
-  },
-  {
-    "title": "Mate Security Raises $35M to Build an Open Foundation for AI Security Operations",
-    "link": "https://www.unite.ai/mate-security-raises-35m-to-build-an-open-foundation-for-ai-security-operations/",
-    "date": "2026-07-29"
-  },
-  {
-    "title": "FBI Expects Adversaries to Turn Frontier AI on Software Bugs",
-    "link": "https://www.unite.ai/fbi-expects-adversaries-to-turn-frontier-ai-on-software-bugs/",
-    "date": "2026-07-29"
-  },
-  {
-    "title": "Ono Pharmaceutical Rolls Out Agentic AI Across Drug Discovery",
-    "link": "https://www.unite.ai/ono-pharmaceutical-rolls-out-agentic-ai-across-drug-discovery/",
-    "date": "2026-07-29"
-  },
-  {
-    "title": "Guardoc Health processes clinical documentation using Amazon Nova models",
-    "link": "https://www.artificialintelligence-news.com/news/guardoc-health-processes-clinical-documentation-using-amazon-nova-models/",
-    "date": "2026-07-29"
-  },
-  {
-    "title": "Armenia’s AI Bet Is Not Chip Manufacturing. It Is Compute Sovereignty",
-    "link": "https://www.artificialintelligence-news.com/news/armenias-ai-bet-is-not-chip-manufacturing-it-is-compute-sovereignty/",
-    "date": "2026-07-29"
-  },
-  {
-    "title": "How AI is shortening drug discovery timelines in China",
-    "link": "https://www.artificialintelligence-news.com/news/ai-drug-discovery-china/",
-    "date": "2026-07-29"
-  },
-  {
-    "title": "America’s AI Investment Boom Is Reshaping the Economy",
-    "link": "https://www.artificialintelligence-news.com/news/americas-ai-investment-boom-is-reshaping-the-economy/",
-    "date": "2026-07-29"
-  },
-  {
     "title": "명확한 시야, 풀스택이면 정말 이길 수 있을까?",
     "link": "https://news.hada.io/topic?id=31970",
     "date": "2026-07-30"
@@ -1043,5 +883,135 @@
     "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
     "link": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
     "date": "2026-08-04"
+  },
+  {
+    "title": "디자인 시스템의 미래 [유튜브]",
+    "link": "https://news.hada.io/topic?id=32162",
+    "date": "2026-08-05"
+  },
+  {
+    "title": "Bending Spoons, Airtable을 12억 8000만 달러에 인수",
+    "link": "https://news.hada.io/topic?id=32161",
+    "date": "2026-08-05"
+  },
+  {
+    "title": "모든 사용자 인터페이스를 구성하는 10가지 GUI 디자인 요소",
+    "link": "https://news.hada.io/topic?id=32160",
+    "date": "2026-08-05"
+  },
+  {
+    "title": "Netflix가 AI 시대에 전문가보다 시스템 사고형 인재에 베팅하는 이유 (유튜브)",
+    "link": "https://news.hada.io/topic?id=32159",
+    "date": "2026-08-05"
+  },
+  {
+    "title": "Apple, 더 많은 전 직원이 기밀 데이터를 OpenAI로 가져갔을 가능성 제기",
+    "link": "https://news.hada.io/topic?id=32158",
+    "date": "2026-08-05"
+  },
+  {
+    "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
+    "link": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
+    "date": "2026-08-05"
+  },
+  {
+    "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+    "link": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+    "date": "2026-08-05"
+  },
+  {
+    "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+    "link": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+    "date": "2026-08-05"
+  },
+  {
+    "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
+    "link": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
+    "date": "2026-08-05"
+  },
+  {
+    "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
+    "link": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+    "date": "2026-08-05"
+  },
+  {
+    "title": "Third-party cyber evaluations involving OpenAI models",
+    "link": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+    "date": "2026-08-05"
+  },
+  {
+    "title": "New ways to learn and teach with ChatGPT Work and Codex",
+    "link": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+    "date": "2026-08-05"
+  },
+  {
+    "title": "The latest AI news we announced in July 2026",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+    "date": "2026-08-05"
+  },
+  {
+    "title": "Inside our 353,000-person vibe coding course",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
+    "date": "2026-08-05"
+  },
+  {
+    "title": "The Download: US robot restrictions, and ICE’s DNA grab",
+    "link": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
+    "date": "2026-08-05"
+  },
+  {
+    "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+    "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+    "date": "2026-08-05"
+  },
+  {
+    "title": "Senators demand crackdown on wildfire \"prediction markets\"",
+    "link": "https://arstechnica.com/tech-policy/2026/08/senators-demand-crackdown-on-wildfire-prediction-markets/",
+    "date": "2026-08-05"
+  },
+  {
+    "title": "Trump killed the Digital Equity Act, but US was forced to bring part of it back",
+    "link": "https://arstechnica.com/tech-policy/2026/08/trump-forced-to-reinstate-broadband-grants-but-court-lets-us-scrap-race-criteria/",
+    "date": "2026-08-05"
+  },
+  {
+    "title": "Texas halts data center connections to power grid amid overwhelming demand",
+    "link": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/",
+    "date": "2026-08-05"
+  },
+  {
+    "title": "China is Tesla's cash cow, but for how much longer?",
+    "link": "https://arstechnica.com/cars/2026/08/china-is-teslas-cash-cow-but-for-how-much-longer/",
+    "date": "2026-08-05"
+  },
+  {
+    "title": "The Pixel 11's \"glow\" feature is actually called HiLight—here's what it does",
+    "link": "https://arstechnica.com/gadgets/2026/08/the-pixel-11s-glow-feature-is-actually-called-hilight-heres-what-it-does/",
+    "date": "2026-08-05"
+  },
+  {
+    "title": "TIER IV and Astemo Plan Development Platform for End-to-End Self-Driving AI",
+    "link": "https://www.unite.ai/tier-iv-and-astemo-plan-development-platform-for-end-to-end-self-driving-ai/",
+    "date": "2026-08-05"
+  },
+  {
+    "title": "SpaceX’s Cloud Business Tripled Its Revenue and It Still Loses Money",
+    "link": "https://www.unite.ai/spacexs-cloud-business-tripled-its-revenue-and-it-still-loses-money/",
+    "date": "2026-08-05"
+  },
+  {
+    "title": "Waymo Drops the Dallas Waitlist as Freeway and Airport Testing Looms",
+    "link": "https://www.unite.ai/waymo-drops-the-dallas-waitlist-as-freeway-and-airport-testing-looms/",
+    "date": "2026-08-05"
+  },
+  {
+    "title": "Mistral’s Shieldstral Packs Policy-Adaptive Safety Screening Into 3B Parameters",
+    "link": "https://www.unite.ai/mistrals-shieldstral-packs-policy-adaptive-safety-screening-into-3b-parameters/",
+    "date": "2026-08-05"
+  },
+  {
+    "title": "Amazon Bedrock Gets Built-In Web Search for Grounded Model Responses",
+    "link": "https://www.unite.ai/amazon-bedrock-gets-built-in-web-search-for-grounded-model-responses/",
+    "date": "2026-08-05"
   }
 ]
