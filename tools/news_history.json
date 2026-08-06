@@ -1,180 +1,5 @@
 [
   {
-    "title": "명확한 시야, 풀스택이면 정말 이길 수 있을까?",
-    "link": "https://news.hada.io/topic?id=31970",
-    "date": "2026-07-30"
-  },
-  {
-    "title": "매니저가 된다는 것의 진실",
-    "link": "https://news.hada.io/topic?id=31969",
-    "date": "2026-07-30"
-  },
-  {
-    "title": "Vision Pro로 완공 전 집을 실물 크기로 둘러보기",
-    "link": "https://news.hada.io/topic?id=31968",
-    "date": "2026-07-30"
-  },
-  {
-    "title": "satteri - JavaScript 생태계를 위한 고성능 Markdown 및 MDX 처리기",
-    "link": "https://news.hada.io/topic?id=31967",
-    "date": "2026-07-30"
-  },
-  {
-    "title": "업무별로 고르는 AI 도구 가이드",
-    "link": "https://news.hada.io/topic?id=31966",
-    "date": "2026-07-30"
-  },
-  {
-    "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
-    "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
-    "date": "2026-07-30"
-  },
-  {
-    "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
-    "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
-    "date": "2026-07-30"
-  },
-  {
-    "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
-    "link": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
-    "date": "2026-07-30"
-  },
-  {
-    "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
-    "link": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
-    "date": "2026-07-30"
-  },
-  {
-    "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
-    "date": "2026-07-30"
-  },
-  {
-    "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-    "link": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-    "date": "2026-07-30"
-  },
-  {
-    "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-    "link": "https://openai.com/index/chatgpt-for-academic-researchers",
-    "date": "2026-07-30"
-  },
-  {
-    "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-    "link": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-    "date": "2026-07-30"
-  },
-  {
-    "title": "How an overlooked geothermal plant got a second chance",
-    "link": "https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/",
-    "date": "2026-07-30"
-  },
-  {
-    "title": "The Download: a chip talent battle, and deflating AI hype",
-    "link": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/",
-    "date": "2026-07-30"
-  },
-  {
-    "title": "The AI Hype Index: Unsexy AI",
-    "link": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
-    "date": "2026-07-30"
-  },
-  {
-    "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
-    "link": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
-    "date": "2026-07-30"
-  },
-  {
-    "title": "Musk went to “war,” sought jail time for X ad boycotts—but case ends with a whimper",
-    "link": "https://arstechnica.com/tech-policy/2026/07/musk-went-to-war-sought-jail-time-for-x-ad-boycotts-but-case-ends-with-a-whimper/",
-    "date": "2026-07-30"
-  },
-  {
-    "title": "Who wins and who loses after US bans foreign robots?",
-    "link": "https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/",
-    "date": "2026-07-30"
-  },
-  {
-    "title": "Comcast store punished low sales by smashing pies in workers' faces, lawsuit claims",
-    "link": "https://arstechnica.com/tech-policy/2026/07/comcast-store-punished-low-sales-by-smashing-pies-in-workers-faces-lawsuit-claims/",
-    "date": "2026-07-30"
-  },
-  {
-    "title": "Customize Ars your way with an Ars Pro subscription",
-    "link": "https://arstechnica.com/staff/2026/07/customize-ars-your-way-with-an-ars-pro-subscription/",
-    "date": "2026-07-30"
-  },
-  {
-    "title": "Meta Bets Its Next Revenue Line on Personal AI Agents",
-    "link": "https://www.unite.ai/meta-bets-its-next-revenue-line-on-personal-ai-agents/",
-    "date": "2026-07-30"
-  },
-  {
-    "title": "Lumo AI Review: This AI Chatbot Keeps My Data Private",
-    "link": "https://www.unite.ai/lumo-ai-review/",
-    "date": "2026-07-30"
-  },
-  {
-    "title": "Shahid Hanif, CEO and Co-Founder of Shufti – Interview Series",
-    "link": "https://www.unite.ai/shahid-hanif-ceo-and-co-founder-of-shufti-interview-series/",
-    "date": "2026-07-30"
-  },
-  {
-    "title": "ChipAgents Expands Series A to $134 Million as AI Agents Move Deeper Into Semiconductor Design",
-    "link": "https://www.unite.ai/chipagents-expands-series-a-to-134-million-as-ai-agents-move-deeper-into-semiconductor-design/",
-    "date": "2026-07-30"
-  },
-  {
-    "title": "groundcover Raises $100 Million Series C to Scale AI-Era Observability Platform",
-    "link": "https://www.unite.ai/groundcover-raises-100-million-series-c-to-scale-ai-era-observability-platform/",
-    "date": "2026-07-30"
-  },
-  {
-    "title": "AI 주요 스타트업들은 연구 결과를 거의 공개하지 않음",
-    "link": "https://news.hada.io/topic?id=31981",
-    "date": "2026-07-30"
-  },
-  {
-    "title": "Keychron, 최초의 게이밍 마우스용 오픈소스 펌웨어 발표",
-    "link": "https://news.hada.io/topic?id=31977",
-    "date": "2026-07-30"
-  },
-  {
-    "title": "매출 18%, 이익 57%… 아마존의 본체는 AWS다",
-    "link": "https://news.hada.io/topic?id=31976",
-    "date": "2026-07-30"
-  },
-  {
-    "title": "darktable: 오픈소스 RAW 사진 워크플로 도구",
-    "link": "https://news.hada.io/topic?id=31975",
-    "date": "2026-07-30"
-  },
-  {
-    "title": "프런티어 랩 에이전트 침입 해부: 2026년 7월 사건 타임라인",
-    "link": "https://news.hada.io/topic?id=31974",
-    "date": "2026-07-30"
-  },
-  {
-    "title": "3 Google updates from Galaxy Unpacked 2026",
-    "link": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
-    "date": "2026-07-30"
-  },
-  {
-    "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-    "link": "https://huggingface.co/blog/nunchaku-diffusers",
-    "date": "2026-07-30"
-  },
-  {
-    "title": "OpenAI report links coding agents to faster science software builds",
-    "link": "https://www.artificialintelligence-news.com/news/openai-report-coding-agents-faster-science-software-builds/",
-    "date": "2026-07-30"
-  },
-  {
-    "title": "Google AI Overviews become more common in search",
-    "link": "https://www.artificialintelligence-news.com/news/google-ai-overviews-us-searches/",
-    "date": "2026-07-30"
-  },
-  {
     "title": "Show GN: FlowCraft – 메타프롬프트를 그래프로 시각화하고 그래프 기반 실행 프롬프트로 변환하는 도구",
     "link": "https://news.hada.io/topic?id=32007",
     "date": "2026-07-31"
@@ -1013,5 +838,145 @@
     "title": "Amazon Bedrock Gets Built-In Web Search for Grounded Model Responses",
     "link": "https://www.unite.ai/amazon-bedrock-gets-built-in-web-search-for-grounded-model-responses/",
     "date": "2026-08-05"
+  },
+  {
+    "title": "Show GN: 주가예측 AI 에이전트를 위한 무료 도구 공개 (LDBD)",
+    "link": "https://news.hada.io/topic?id=32193",
+    "date": "2026-08-06"
+  },
+  {
+    "title": "late.sh - 개발자를 위한 아늑한 터미널 클럽하우스",
+    "link": "https://news.hada.io/topic?id=32192",
+    "date": "2026-08-06"
+  },
+  {
+    "title": "공세적 인터넷 태세",
+    "link": "https://news.hada.io/topic?id=32191",
+    "date": "2026-08-06"
+  },
+  {
+    "title": "rust-lang/rust가 LLM 사용 정책을 도입함",
+    "link": "https://news.hada.io/topic?id=32190",
+    "date": "2026-08-06"
+  },
+  {
+    "title": "Show GN: Ephemeral System Prompt - 실행마다 달라지는 지시사항을 넣고도 프롬프트 캐시 유지하기",
+    "link": "https://news.hada.io/topic?id=32189",
+    "date": "2026-08-06"
+  },
+  {
+    "title": "Meta launches Muse Code, an AI agent for large code bases",
+    "link": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+    "date": "2026-08-06"
+  },
+  {
+    "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
+    "link": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
+    "date": "2026-08-06"
+  },
+  {
+    "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+    "link": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+    "date": "2026-08-06"
+  },
+  {
+    "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
+    "link": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
+    "date": "2026-08-06"
+  },
+  {
+    "title": "Hark previews its browser use agent for completing tasks",
+    "link": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
+    "date": "2026-08-06"
+  },
+  {
+    "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+    "date": "2026-08-06"
+  },
+  {
+    "title": "5 ways AI Mode in Search helps you enjoy the real world",
+    "link": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+    "date": "2026-08-06"
+  },
+  {
+    "title": "5 ways to host the ultimate dinner party with Google Search",
+    "link": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
+    "date": "2026-08-06"
+  },
+  {
+    "title": "Puzzle Corner",
+    "link": "https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/",
+    "date": "2026-08-06"
+  },
+  {
+    "title": "The Download: NASA’s new telescope and Chinese tech import curbs",
+    "link": "https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/",
+    "date": "2026-08-06"
+  },
+  {
+    "title": "NASA’s new dark-energy space telescope can also detect killer asteroids",
+    "link": "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/",
+    "date": "2026-08-06"
+  },
+  {
+    "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+    "link": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+    "date": "2026-08-06"
+  },
+  {
+    "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+    "link": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+    "date": "2026-08-06"
+  },
+  {
+    "title": "Thousands of servers can be backdoored by exploiting buggy motherboard controllers",
+    "link": "https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/",
+    "date": "2026-08-06"
+  },
+  {
+    "title": "Schwartz confirmed as CDC director after bungling confirmation hearing",
+    "link": "https://arstechnica.com/health/2026/08/schwartz-confirmed-as-cdc-director-after-bungling-confirmation-hearing/",
+    "date": "2026-08-06"
+  },
+  {
+    "title": "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project",
+    "link": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
+    "date": "2026-08-06"
+  },
+  {
+    "title": "Reddit signals ominous upcoming \"changes” for old.reddit.com",
+    "link": "https://arstechnica.com/gadgets/2026/08/reddit-signals-ominous-upcoming-changes-for-old-reddit-com/",
+    "date": "2026-08-06"
+  },
+  {
+    "title": "Hank Green found the AI problem that YouTube labels can’t catch",
+    "link": "https://arstechnica.com/ai/2026/08/hank-green-found-the-ai-problem-that-youtube-labels-cant-catch/",
+    "date": "2026-08-06"
+  },
+  {
+    "title": "Meta Ships Muse Code Coding Agent With Co-Trained Muse Spark 1.2 Model",
+    "link": "https://www.unite.ai/meta-ships-muse-code-coding-agent-with-co-trained-muse-spark-1-2-model/",
+    "date": "2026-08-06"
+  },
+  {
+    "title": "SkinBit Raises $6M Pre-Seed to Improve Early Skin Cancer Detection Through Full-Body Imaging",
+    "link": "https://www.unite.ai/skinbit-raises-6m-pre-seed-to-improve-early-skin-cancer-detection-through-full-body-imaging/",
+    "date": "2026-08-06"
+  },
+  {
+    "title": "Wordsmith Extends Series B With $14 Million to Scale AI for In-House Legal Teams",
+    "link": "https://www.unite.ai/wordsmith-extends-series-b-with-14-million-to-scale-ai-for-in-house-legal-teams/",
+    "date": "2026-08-06"
+  },
+  {
+    "title": "Anthropic Puts Inline Data Loss Prevention Inside Claude Enterprise",
+    "link": "https://www.unite.ai/anthropic-puts-inline-data-loss-prevention-inside-claude-enterprise/",
+    "date": "2026-08-06"
+  },
+  {
+    "title": "Jeff Dean Leaves Google to Automate the Scientific Method With Discovery Loop",
+    "link": "https://www.unite.ai/jeff-dean-leaves-google-to-automate-the-scientific-method-with-discovery-loop/",
+    "date": "2026-08-06"
   }
 ]
