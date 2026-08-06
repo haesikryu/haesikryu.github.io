@@ -8,5 +8,6 @@
   id="rag-chat-root"
   data-baseurl="{{ site.baseurl | default: '' }}"
   data-proxy-url="{% if site.rag_chat %}{{ site.rag_chat.proxy_url | default: '' | strip }}{% endif %}"
+  data-chat-enabled="{% if site.rag_chat.enabled == false %}false{% else %}true{% endif %}"
 ></div>
 <script type="module" src="{{ '/assets/js/rag/embed.js' | relative_url }}"></script>

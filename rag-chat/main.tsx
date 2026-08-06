@@ -22,11 +22,12 @@ function readRagDataset(el: HTMLElement) {
   return {
     baseUrl: el.getAttribute("data-baseurl") ?? "",
     proxyUrl: (el.getAttribute("data-proxy-url") ?? "").trim(),
+    chatEnabled: el.getAttribute("data-chat-enabled") !== "false",
   };
 }
 
 if (islandsEl && ragRootEl) {
-  const { baseUrl, proxyUrl } = readRagDataset(ragRootEl);
+  const { baseUrl, proxyUrl, chatEnabled } = readRagDataset(ragRootEl);
   const recInlineEl =
     document.getElementById("recommendation-inline-root") ??
     document.getElementById("recommendation-widget-root");
@@ -40,12 +41,14 @@ if (islandsEl && ragRootEl) {
   createRoot(islandsEl).render(
     <StrictMode>
       <AppProviders>
-        {createPortal(
-          <Suspense fallback={null}>
-            <RagChatbot baseUrl={baseUrl} proxyUrl={proxyUrl || undefined} />
-          </Suspense>,
-          ragRootEl
-        )}
+        {chatEnabled
+          ? createPortal(
+              <Suspense fallback={null}>
+                <RagChatbot baseUrl={baseUrl} proxyUrl={proxyUrl || undefined} />
+              </Suspense>,
+              ragRootEl
+            )
+          : null}
         {recInlineEl
           ? createPortal(
               <PostRecommendationIsland baseUrl={inlineBaseUrl} currentPostUrl={inlinePostUrl} />,
@@ -62,14 +65,16 @@ if (islandsEl && ragRootEl) {
     </StrictMode>
   );
 } else if (ragRootEl) {
-  const { baseUrl, proxyUrl } = readRagDataset(ragRootEl);
-  createRoot(ragRootEl).render(
-    <StrictMode>
-      <AppProviders>
-        <Suspense fallback={null}>
-          <RagChatbot baseUrl={baseUrl} proxyUrl={proxyUrl || undefined} />
-        </Suspense>
-      </AppProviders>
-    </StrictMode>
-  );
+  const { baseUrl, proxyUrl, chatEnabled } = readRagDataset(ragRootEl);
+  if (chatEnabled) {
+    createRoot(ragRootEl).render(
+      <StrictMode>
+        <AppProviders>
+          <Suspense fallback={null}>
+            <RagChatbot baseUrl={baseUrl} proxyUrl={proxyUrl || undefined} />
+          </Suspense>
+        </AppProviders>
+      </StrictMode>
+    );
+  }
 }

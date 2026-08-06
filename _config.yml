@@ -154,8 +154,10 @@ paginate: 10
 baseurl: ""
 
 # RAG 챗봇: Cloudflare Worker 프록시 URL (예: https://blog-rag-proxy.xxx.workers.dev).
-# 비우면 브라우저에서 Gemini API 키를 직접 넣는 모드. 배포 방법은 workers/rag-proxy/README.md 참고.
+# enabled: false 이면 FAB/챗봇만 숨김(추천 위젯은 유지). 배포 방법은 workers/rag-proxy/README.md 참고.
+# proxy_url 비움 = 브라우저에서 Gemini API 키를 직접 넣는 모드.
 rag_chat:
+  enabled: false
   proxy_url: "https://blog-rag-proxy.haesikryu.workers.dev"
 
 # ------------ The following options are not recommended to be modified ------------------
