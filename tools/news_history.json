@@ -1,215 +1,5 @@
 [
   {
-    "title": "Show GN: FlowCraft – 메타프롬프트를 그래프로 시각화하고 그래프 기반 실행 프롬프트로 변환하는 도구",
-    "link": "https://news.hada.io/topic?id=32007",
-    "date": "2026-07-31"
-  },
-  {
-    "title": "Google, 2026년 말까지 Android 연령 확인을 전 세계로 확대",
-    "link": "https://news.hada.io/topic?id=32006",
-    "date": "2026-07-31"
-  },
-  {
-    "title": "termcn - Ink와 OpenTUI 기반의 아름다운 터미널 UI 컴포넌트",
-    "link": "https://news.hada.io/topic?id=32005",
-    "date": "2026-07-31"
-  },
-  {
-    "title": "AI 미학",
-    "link": "https://news.hada.io/topic?id=32004",
-    "date": "2026-07-31"
-  },
-  {
-    "title": "가장 즐겁게 작업한 사이드 프로젝트는 무엇인가요?",
-    "link": "https://news.hada.io/topic?id=32003",
-    "date": "2026-07-31"
-  },
-  {
-    "title": "Anthropic says its own AI models breached three companies during security tests",
-    "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
-    "date": "2026-07-31"
-  },
-  {
-    "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
-    "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
-    "date": "2026-07-31"
-  },
-  {
-    "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
-    "link": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
-    "date": "2026-07-31"
-  },
-  {
-    "title": "Investors love AI, as long as you’re a cloud host",
-    "link": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
-    "date": "2026-07-31"
-  },
-  {
-    "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
-    "link": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
-    "date": "2026-07-31"
-  },
-  {
-    "title": "Advancing the price-performance frontier with GPT-5.6",
-    "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-    "date": "2026-07-31"
-  },
-  {
-    "title": "Montana’s plan to become an experimental medical hub just pushed forward",
-    "link": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/",
-    "date": "2026-07-31"
-  },
-  {
-    "title": "The Download: tricking LLMs, and reviving geothermal plants",
-    "link": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
-    "date": "2026-07-31"
-  },
-  {
-    "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
-    "link": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
-    "date": "2026-07-31"
-  },
-  {
-    "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
-    "link": "https://huggingface.co/blog/Dharma-AI/gpu-management",
-    "date": "2026-07-31"
-  },
-  {
-    "title": "Tim Cook passes the baton in Apple's Q3 2026 earnings call",
-    "link": "https://arstechnica.com/gadgets/2026/07/tim-cooks-last-earnings-call-strong-iphone-sales-but-memory-costs-loom-large/",
-    "date": "2026-07-31"
-  },
-  {
-    "title": "Max-severity Exchange server flaw under active exploitation by Kremlin hackers",
-    "link": "https://arstechnica.com/security/2026/07/kremlin-hackers-are-exploiting-exchange-flaw-to-backdoor-unpatched-networks/",
-    "date": "2026-07-31"
-  },
-  {
-    "title": "Trump FCC faces blowback in attempt to police speech on broadcast TV",
-    "link": "https://arstechnica.com/tech-policy/2026/07/trump-fccs-war-on-abc-slammed-by-both-conservatives-and-liberals/",
-    "date": "2026-07-31"
-  },
-  {
-    "title": "Iran struck Amazon data centers again amid widening war, satellites show",
-    "link": "https://arstechnica.com/gadgets/2026/07/satellites-spot-new-war-damage-to-amazon-data-centers-and-saudi-oil-site/",
-    "date": "2026-07-31"
-  },
-  {
-    "title": "Just because a game is on disc doesn’t mean it will work in the future",
-    "link": "https://arstechnica.com/gaming/2026/07/the-disc-is-not-the-game-physical-releases-increasingly-require-extra-downloads/",
-    "date": "2026-07-31"
-  },
-  {
-    "title": "OpenAI Cuts API Prices on Its Two Cheaper GPT-5.6 Tiers",
-    "link": "https://www.unite.ai/openai-cuts-api-prices-on-its-two-cheaper-gpt-5-6-tiers/",
-    "date": "2026-07-31"
-  },
-  {
-    "title": "Arun Hiremath, Chief Business Officer and Co-Founder of EvoluteIQ – Interview Series",
-    "link": "https://www.unite.ai/arun-hiremath-chief-business-officer-and-co-founder-of-evoluteiq-interview-series/",
-    "date": "2026-07-31"
-  },
-  {
-    "title": "Bloom Security Emerges from Stealth with $20M to Secure the AI-Native Endpoint",
-    "link": "https://www.unite.ai/bloom-security-emerges-from-stealth-with-20m-to-secure-the-ai-native-endpoint/",
-    "date": "2026-07-31"
-  },
-  {
-    "title": "Simile Raises More Than $200 Million at a $2 Billion Valuation to Scale Human Behavior Simulations",
-    "link": "https://www.unite.ai/simile-raises-more-than-200-million-at-a-2-billion-valuation-to-scale-human-behavior-simulations/",
-    "date": "2026-07-31"
-  },
-  {
-    "title": "Altman Meets the Officials Designing Washington’s AI Cyber Tests",
-    "link": "https://www.unite.ai/altman-meets-the-officials-designing-washingtons-ai-cyber-tests/",
-    "date": "2026-07-31"
-  },
-  {
-    "title": "Zuckerberg details Meta’s personal AI superintelligence strategy",
-    "link": "https://www.artificialintelligence-news.com/news/zuckerberg-details-meta-personal-ai-superintelligence-strategy/",
-    "date": "2026-07-31"
-  },
-  {
-    "title": "How AI is Changing Linux VPS Security for Businesses",
-    "link": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-linux-vps-security-for-businesses/",
-    "date": "2026-07-31"
-  },
-  {
-    "title": "GPT 5.6 Sol에게 실제 사업을 맡겼더니 거짓말과 스팸 끝에 447달러를 잃음",
-    "link": "https://news.hada.io/topic?id=32012",
-    "date": "2026-07-31"
-  },
-  {
-    "title": "미첼 하시모토 Superlogical 설립",
-    "link": "https://news.hada.io/topic?id=32011",
-    "date": "2026-07-31"
-  },
-  {
-    "title": "GenRec: Netflix에서의 LLM-native 추천을 향하여",
-    "link": "https://news.hada.io/topic?id=32010",
-    "date": "2026-07-31"
-  },
-  {
-    "title": "90일 동안 2만명 이상의 구독자 증가를 만든 방법",
-    "link": "https://news.hada.io/topic?id=32009",
-    "date": "2026-07-31"
-  },
-  {
-    "title": "Kimi K3 로컬 실행 가이드",
-    "link": "https://news.hada.io/topic?id=32008",
-    "date": "2026-07-31"
-  },
-  {
-    "title": "Advancing responsible AI across Europe",
-    "link": "https://openai.com/index/advancing-responsible-ai-across-europe",
-    "date": "2026-07-31"
-  },
-  {
-    "title": "Univé builds an AI-ready workforce",
-    "link": "https://openai.com/index/unive",
-    "date": "2026-07-31"
-  },
-  {
-    "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
-    "link": "https://openai.com/index/avatarin",
-    "date": "2026-07-31"
-  },
-  {
-    "title": "Connect more of your apps to Search",
-    "link": "https://blog.google/products-and-platforms/products/search/connected-apps/",
-    "date": "2026-07-31"
-  },
-  {
-    "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
-    "link": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
-    "date": "2026-07-31"
-  },
-  {
-    "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-    "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-    "date": "2026-07-31"
-  },
-  {
-    "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-    "link": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-    "date": "2026-07-31"
-  },
-  {
-    "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-    "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
-    "date": "2026-07-31"
-  },
-  {
-    "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-    "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-    "date": "2026-07-31"
-  },
-  {
-    "title": "Montana’s new “right to try” law can’t come soon enough for some",
-    "link": "https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/",
-    "date": "2026-07-31"
-  },
-  {
     "title": "리팩터링이 만드는 경제적 이점",
     "link": "https://news.hada.io/topic?id=32029",
     "date": "2026-08-01"
@@ -1003,5 +793,130 @@
     "title": "Zed DeltaDB 얼리 액세스",
     "link": "https://news.hada.io/topic?id=32195",
     "date": "2026-08-06"
+  },
+  {
+    "title": "GitHub Actions와 Pages에서 가용성 저하 발생",
+    "link": "https://news.hada.io/topic?id=32225",
+    "date": "2026-08-07"
+  },
+  {
+    "title": "AMD, 모델을 실리콘에 새기는 AI 칩 스타트업 Taalas 인수",
+    "link": "https://news.hada.io/topic?id=32224",
+    "date": "2026-08-07"
+  },
+  {
+    "title": "프롬프트로 프로토타입은 만들 수 있어도, 안목까지 만들 수는 없다",
+    "link": "https://news.hada.io/topic?id=32223",
+    "date": "2026-08-07"
+  },
+  {
+    "title": "Shitty - 이상한 이름이지만 진지한 터미널 에뮬레이터",
+    "link": "https://news.hada.io/topic?id=32222",
+    "date": "2026-08-07"
+  },
+  {
+    "title": "Jujutsu 0.44.0 릴리스",
+    "link": "https://news.hada.io/topic?id=32221",
+    "date": "2026-08-07"
+  },
+  {
+    "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+    "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+    "date": "2026-08-07"
+  },
+  {
+    "title": "ChatGPT brings unlimited text chats to free users",
+    "link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+    "date": "2026-08-07"
+  },
+  {
+    "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
+    "link": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
+    "date": "2026-08-07"
+  },
+  {
+    "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
+    "link": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
+    "date": "2026-08-07"
+  },
+  {
+    "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
+    "link": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
+    "date": "2026-08-07"
+  },
+  {
+    "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+    "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+    "date": "2026-08-07"
+  },
+  {
+    "title": "Working with the American Psychological Association on youth mental health and AI",
+    "link": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+    "date": "2026-08-07"
+  },
+  {
+    "title": "From asking to doing: How the world is putting ChatGPT to work",
+    "link": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+    "date": "2026-08-07"
+  },
+  {
+    "title": "The Download: Google’s AI shake-up and Meta’s rogue model",
+    "link": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
+    "date": "2026-08-07"
+  },
+  {
+    "title": "Baseten on Hugging Face Inference Providers 🔥",
+    "link": "https://huggingface.co/blog/baseten",
+    "date": "2026-08-07"
+  },
+  {
+    "title": "Organ donation group accused of trying to take living man's organs faces shutdown",
+    "link": "https://arstechnica.com/health/2026/08/us-to-shutter-organ-donation-group-accused-of-trying-to-take-living-mans-organs/",
+    "date": "2026-08-07"
+  },
+  {
+    "title": "Explosive drone found hovering near Ukrainian cargo aircraft at German airport",
+    "link": "https://arstechnica.com/gadgets/2026/08/germany-disarms-explosive-drone-found-at-airport-hunts-possible-second-drone/",
+    "date": "2026-08-07"
+  },
+  {
+    "title": "X wants to keep suing advertisers, asks 5th Circuit to overrule district judge",
+    "link": "https://arstechnica.com/tech-policy/2026/08/elon-musks-x-isnt-done-suing-advertisers-asks-court-to-revive-boycott-case/",
+    "date": "2026-08-07"
+  },
+  {
+    "title": "Suno hopes to go legit with watermarks for AI-generated music",
+    "link": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/",
+    "date": "2026-08-07"
+  },
+  {
+    "title": "Anthropic will design its own hardware to power Claude",
+    "link": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
+    "date": "2026-08-07"
+  },
+  {
+    "title": "AMD Buys Taalas to Put Hard-Wired AI Models in Its Accelerator Roadmap",
+    "link": "https://www.unite.ai/amd-buys-taalas-to-put-hard-wired-ai-models-in-its-accelerator-roadmap/",
+    "date": "2026-08-07"
+  },
+  {
+    "title": "Microsoft Opens 26 Open Models to Startups Through Fireworks AI on Foundry",
+    "link": "https://www.unite.ai/microsoft-opens-26-open-models-to-startups-through-fireworks-ai-on-foundry/",
+    "date": "2026-08-07"
+  },
+  {
+    "title": "Anthropic’s Silicon Team Is Hiring for Tapeout and Production Ramp",
+    "link": "https://www.unite.ai/anthropics-silicon-team-is-hiring-for-tapeout-and-production-ramp/",
+    "date": "2026-08-07"
+  },
+  {
+    "title": "OpenAI Gives Free ChatGPT Users Unlimited Text Chats on GPT-5.6 Luna",
+    "link": "https://www.unite.ai/openai-gives-free-chatgpt-users-unlimited-text-chats-on-gpt-5-6-luna/",
+    "date": "2026-08-07"
+  },
+  {
+    "title": "Suno Lays Out AI Music Principles After Copyright Fight",
+    "link": "https://www.unite.ai/suno-lays-out-ai-music-principles-after-copyright-fight/",
+    "date": "2026-08-07"
   }
 ]
