@@ -1,135 +1,5 @@
 [
   {
-    "title": "리팩터링이 만드는 경제적 이점",
-    "link": "https://news.hada.io/topic?id=32029",
-    "date": "2026-08-01"
-  },
-  {
-    "title": "shirei - 실용적인 Go 기반 GUI 프레임워크",
-    "link": "https://news.hada.io/topic?id=32028",
-    "date": "2026-08-01"
-  },
-  {
-    "title": "더 작고 일관된 난수 API를 위해 rand를 포크한 이유",
-    "link": "https://news.hada.io/topic?id=32027",
-    "date": "2026-08-01"
-  },
-  {
-    "title": "Go 1.27 대화형 투어",
-    "link": "https://news.hada.io/topic?id=32026",
-    "date": "2026-08-01"
-  },
-  {
-    "title": "Tailscale은 Hugging Face 침입을 막지 못했다",
-    "link": "https://news.hada.io/topic?id=32025",
-    "date": "2026-08-01"
-  },
-  {
-    "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
-    "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
-    "date": "2026-08-01"
-  },
-  {
-    "title": "India is starting to pay for apps, not just download them",
-    "link": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
-    "date": "2026-08-01"
-  },
-  {
-    "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
-    "link": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
-    "date": "2026-08-01"
-  },
-  {
-    "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
-    "link": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
-    "date": "2026-08-01"
-  },
-  {
-    "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
-    "link": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
-    "date": "2026-08-01"
-  },
-  {
-    "title": "Building abundant intelligence",
-    "link": "https://openai.com/index/building-abundant-intelligence",
-    "date": "2026-08-01"
-  },
-  {
-    "title": "Disrupting a Criminal Scam Operation",
-    "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-    "date": "2026-08-01"
-  },
-  {
-    "title": "The Download: Montana’s new experimental drug rules",
-    "link": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
-    "date": "2026-08-01"
-  },
-  {
-    "title": "Not just Neanderthals: Ghost lineage in Africa left its mark on our DNA",
-    "link": "https://arstechnica.com/science/2026/07/not-just-neanderthals-ghost-lineage-in-africa-left-its-mark-on-our-dna/",
-    "date": "2026-08-01"
-  },
-  {
-    "title": "Doctors took a look at man's painful shoulder—they found the joint was missing",
-    "link": "https://arstechnica.com/health/2026/07/doctors-took-a-look-at-mans-painful-shoulder-they-found-the-joint-was-missing/",
-    "date": "2026-08-01"
-  },
-  {
-    "title": "Google plans to exempt sanctioned nations from Android developer verification",
-    "link": "https://arstechnica.com/gadgets/2026/07/google-plans-to-exempt-sanctioned-nations-from-android-developer-verification/",
-    "date": "2026-08-01"
-  },
-  {
-    "title": "Reddit keeps its strange DMCA fight over Google search results alive",
-    "link": "https://arstechnica.com/tech-policy/2026/07/reddit-keeps-weird-dmca-lawsuit-against-web-scraper-alive-despite-googles-loss/",
-    "date": "2026-08-01"
-  },
-  {
-    "title": "Claude published malicious code to the Internet and attacked 3 real companies",
-    "link": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
-    "date": "2026-08-01"
-  },
-  {
-    "title": "Superapp Review: I Built an iOS App With One Prompt",
-    "link": "https://www.unite.ai/superapp-review/",
-    "date": "2026-08-01"
-  },
-  {
-    "title": "OpenAI’s Widened Probe Turns Up More Agent Escapes",
-    "link": "https://www.unite.ai/openais-widened-probe-turns-up-more-agent-escapes/",
-    "date": "2026-08-01"
-  },
-  {
-    "title": "Google Pulls Earth’s AI Image Tool a Day After Launch",
-    "link": "https://www.unite.ai/google-pulls-earths-ai-image-tool-a-day-after-launch/",
-    "date": "2026-08-01"
-  },
-  {
-    "title": "Claude Turned a Cyber Benchmark Into Three Real Intrusions",
-    "link": "https://www.unite.ai/claude-turned-a-cyber-benchmark-into-three-real-intrusions/",
-    "date": "2026-08-01"
-  },
-  {
-    "title": "AI Content Labels Become Mandatory Under EU Law",
-    "link": "https://www.unite.ai/ai-content-labels-become-mandatory-under-eu-law/",
-    "date": "2026-08-01"
-  },
-  {
-    "title": "속도의 종교",
-    "link": "https://news.hada.io/topic?id=32030",
-    "date": "2026-08-01"
-  },
-  {
-    "title": "Ten advances in mathematics and theoretical computer science",
-    "link": "https://openai.com/index/ten-advances-in-mathematics",
-    "date": "2026-08-01"
-  },
-  {
-    "title": "OpenAI aligns safety practices with EU AI Act’s GPAI Code",
-    "link": "https://www.artificialintelligence-news.com/news/openai-aligns-safety-practices-with-eu-ai-act-gpai-code/",
-    "date": "2026-08-01"
-  },
-  {
     "title": "Flint - AI 시대를 위한 시각화 언어",
     "link": "https://news.hada.io/topic?id=32048",
     "date": "2026-08-02"
@@ -973,5 +843,130 @@
     "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
     "link": "https://huggingface.co/blog/Dharma-AI/gpu-management",
     "date": "2026-08-07"
+  },
+  {
+    "title": "AI가 린 스타트업 플레이북을 무너뜨리고 있는가? [유튜브]",
+    "link": "https://news.hada.io/topic?id=32255",
+    "date": "2026-08-08"
+  },
+  {
+    "title": "Paseo - 여러 코딩 에이전트를 데스크톱/모바일에서 관리하는 오케스트레이터",
+    "link": "https://news.hada.io/topic?id=32254",
+    "date": "2026-08-08"
+  },
+  {
+    "title": "Orca - 여러 병렬 코딩 에이전트를 위한 오픈소스 ADE",
+    "link": "https://news.hada.io/topic?id=32253",
+    "date": "2026-08-08"
+  },
+  {
+    "title": "셸의 느낌표는 외침이 아니다: 반복 입력을 줄이는 ! 활용법",
+    "link": "https://news.hada.io/topic?id=32252",
+    "date": "2026-08-08"
+  },
+  {
+    "title": "OpenAI를 떠나 Jurassic Park를 만들다",
+    "link": "https://news.hada.io/topic?id=32251",
+    "date": "2026-08-08"
+  },
+  {
+    "title": "OpenAI says it slowed Astra model development over security concerns",
+    "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+    "date": "2026-08-08"
+  },
+  {
+    "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+    "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+    "date": "2026-08-08"
+  },
+  {
+    "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+    "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+    "date": "2026-08-08"
+  },
+  {
+    "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
+    "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+    "date": "2026-08-08"
+  },
+  {
+    "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
+    "link": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
+    "date": "2026-08-08"
+  },
+  {
+    "title": "Responding to the next frontier of critical cyber capabilities",
+    "link": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+    "date": "2026-08-08"
+  },
+  {
+    "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+    "link": "https://openai.com/index/hsp-gruppe",
+    "date": "2026-08-08"
+  },
+  {
+    "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
+    "link": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
+    "date": "2026-08-08"
+  },
+  {
+    "title": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
+    "link": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/",
+    "date": "2026-08-08"
+  },
+  {
+    "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+    "link": "https://huggingface.co/blog/allenai/tutormoments",
+    "date": "2026-08-08"
+  },
+  {
+    "title": "Europe's free satellite service just made it easier to track wildfires",
+    "link": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/",
+    "date": "2026-08-08"
+  },
+  {
+    "title": "Flesh-eating screwworms feast on humans in Mexico; human cases top 500",
+    "link": "https://arstechnica.com/health/2026/08/flesh-eating-screwworms-feast-on-humans-in-mexico-human-cases-top-500/",
+    "date": "2026-08-08"
+  },
+  {
+    "title": "Judge rules Meta caused \"public nuisance\" and must fund mental health treatment",
+    "link": "https://arstechnica.com/tech-policy/2026/08/meta-ordered-to-pay-567m-to-treat-youth-mental-health-problems-it-helped-create/",
+    "date": "2026-08-08"
+  },
+  {
+    "title": "The ultimate eclipse chase: A Concorde raced against the Moon's shadow",
+    "link": "https://arstechnica.com/science/2026/08/the-ultimate-eclipse-chase-a-concorde-raced-against-the-moons-shadow/",
+    "date": "2026-08-08"
+  },
+  {
+    "title": "New official 30th anniversary Quake mission pack adds new maps and mechanics",
+    "link": "https://arstechnica.com/gaming/2026/08/new-official-30th-anniversary-quake-mission-pack-adds-new-maps-and-mechanics/",
+    "date": "2026-08-08"
+  },
+  {
+    "title": "Microsoft Brings Fourth India Cloud Region Online in Hyderabad",
+    "link": "https://www.unite.ai/microsoft-brings-fourth-india-cloud-region-online-in-hyderabad/",
+    "date": "2026-08-08"
+  },
+  {
+    "title": "OpenAI Says Upcoming Astra Model May Cross Critical Cybersecurity Threshold",
+    "link": "https://www.unite.ai/openai-says-upcoming-astra-model-may-cross-critical-cybersecurity-threshold/",
+    "date": "2026-08-08"
+  },
+  {
+    "title": "Lemma Raises $2.3M Pre-Seed to Tackle Silent AI Agent Failures in Production",
+    "link": "https://www.unite.ai/lemma-raises-2-3m-pre-seed-to-tackle-silent-ai-agent-failures-in-production/",
+    "date": "2026-08-08"
+  },
+  {
+    "title": "Context Speaks to the Interface: The Shift from Developer Productivity to Enterprise Velocity",
+    "link": "https://www.unite.ai/from-developer-productivity-to-enterprise-velocity/",
+    "date": "2026-08-08"
+  },
+  {
+    "title": "Anthropic Retunes Fable 5’s Biology Safeguards, Cutting Blocked Queries 85%",
+    "link": "https://www.unite.ai/anthropic-retunes-fable-5s-biology-safeguards-cutting-blocked-queries-85/",
+    "date": "2026-08-08"
   }
 ]
