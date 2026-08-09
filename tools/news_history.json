@@ -1,105 +1,5 @@
 [
   {
-    "title": "Flint - AI 시대를 위한 시각화 언어",
-    "link": "https://news.hada.io/topic?id=32048",
-    "date": "2026-08-02"
-  },
-  {
-    "title": "Lexxy - Rails를 위한 현대적인 리치 텍스트 에디터",
-    "link": "https://news.hada.io/topic?id=32047",
-    "date": "2026-08-02"
-  },
-  {
-    "title": "감시 조약으로 위장한 유엔 사이버범죄협약에 캐나다가 서명",
-    "link": "https://news.hada.io/topic?id=32046",
-    "date": "2026-08-02"
-  },
-  {
-    "title": "Cursor, 사용량 페이지와 CSV에서 비용 정보 제거",
-    "link": "https://news.hada.io/topic?id=32045",
-    "date": "2026-08-02"
-  },
-  {
-    "title": "AI가 작동하는 제품까지 만들어주지는 않는다, 그건 여전히 당신의 일이다",
-    "link": "https://news.hada.io/topic?id=32044",
-    "date": "2026-08-02"
-  },
-  {
-    "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
-    "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
-    "date": "2026-08-02"
-  },
-  {
-    "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
-    "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
-    "date": "2026-08-02"
-  },
-  {
-    "title": "Sam Altman is still making the case for parenting via ChatGPT",
-    "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
-    "date": "2026-08-02"
-  },
-  {
-    "title": "This $9 key physically locks your most addictive apps",
-    "link": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
-    "date": "2026-08-02"
-  },
-  {
-    "title": "Here's how engineers plan to save the satellite sent to save NASA's Swift mission",
-    "link": "https://arstechnica.com/space/2026/08/heres-how-engineers-plan-to-save-the-satellite-sent-to-save-nasas-swift-mission/",
-    "date": "2026-08-02"
-  },
-  {
-    "title": "Review: Yes, we're still arguing about Nolan's The Odyssey",
-    "link": "https://arstechnica.com/culture/2026/08/review-yes-were-still-arguing-about-nolans-the-odyssey/",
-    "date": "2026-08-02"
-  },
-  {
-    "title": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
-    "link": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
-    "date": "2026-08-02"
-  },
-  {
-    "title": "After noise complaints, judge orders Waymo to stop overnight charging in Santa Monica",
-    "link": "https://arstechnica.com/tech-policy/2026/08/after-noise-complaints-judge-orders-waymo-to-stop-overnight-charging-in-santa-monica/",
-    "date": "2026-08-02"
-  },
-  {
-    "title": "Defcon's new badge is a security key you can see inside",
-    "link": "https://arstechnica.com/security/2026/08/defcons-new-badge-is-a-security-key-you-can-see-inside/",
-    "date": "2026-08-02"
-  },
-  {
-    "title": "The Labs Just Proved Your Agent’s Sandbox Is Only a Suggestion",
-    "link": "https://www.unite.ai/the-labs-just-proved-your-agents-sandbox-is-only-a-suggestion/",
-    "date": "2026-08-02"
-  },
-  {
-    "title": "wiff",
-    "link": "https://news.hada.io/topic?id=32056",
-    "date": "2026-08-02"
-  },
-  {
-    "title": "질문을 제대로 하면 AI 금융 조언은 놀라울 정도로 좋아짐",
-    "link": "https://news.hada.io/topic?id=32055",
-    "date": "2026-08-02"
-  },
-  {
-    "title": "Seedance 2.5 — 30초 원테이크 생성과 유연한 참조",
-    "link": "https://news.hada.io/topic?id=32054",
-    "date": "2026-08-02"
-  },
-  {
-    "title": "바이브코딩 국민스택 Next.js + Supabase에 대한 오해",
-    "link": "https://news.hada.io/topic?id=32053",
-    "date": "2026-08-02"
-  },
-  {
-    "title": "NetBSD 11.0 출시",
-    "link": "https://news.hada.io/topic?id=32052",
-    "date": "2026-08-02"
-  },
-  {
     "title": "Google이 RSS 피드 확산을 무너뜨리는 데 기여한 과정(2023)",
     "link": "https://news.hada.io/topic?id=32079",
     "date": "2026-08-03"
@@ -1003,5 +903,90 @@
     "title": "Claude Cowork Record a Skill: I’m Never Hiring a VA Again",
     "link": "https://www.unite.ai/claude-cowork-review-record-a-skill/",
     "date": "2026-08-08"
+  },
+  {
+    "title": "goshot - 코드 스크린샷 생성기",
+    "link": "https://news.hada.io/topic?id=32282",
+    "date": "2026-08-09"
+  },
+  {
+    "title": "내가 좋아하는 소프트웨어 강연들",
+    "link": "https://news.hada.io/topic?id=32281",
+    "date": "2026-08-09"
+  },
+  {
+    "title": "Sublime Text 같은 편집기는 더 이상 나오지 않는다",
+    "link": "https://news.hada.io/topic?id=32280",
+    "date": "2026-08-09"
+  },
+  {
+    "title": "OpenAI의 우발적 Hugging Face 공격 타임라인",
+    "link": "https://news.hada.io/topic?id=32279",
+    "date": "2026-08-09"
+  },
+  {
+    "title": "DNS에서 도메인 판매 여부를 알리는 _for-sale 레코드",
+    "link": "https://news.hada.io/topic?id=32278",
+    "date": "2026-08-09"
+  },
+  {
+    "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+    "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+    "date": "2026-08-09"
+  },
+  {
+    "title": "OpenAI acquires presentation startup NextSlide",
+    "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+    "date": "2026-08-09"
+  },
+  {
+    "title": "The first self-driving vehicle on Mars has proven to be a smashing success",
+    "link": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/",
+    "date": "2026-08-09"
+  },
+  {
+    "title": "DeepMind’s hurricane breakthrough has surprised weather scientists",
+    "link": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
+    "date": "2026-08-09"
+  },
+  {
+    "title": "Firebird Takes Its AI Factory Platform Global With a 2-Gigawatt Pipeline",
+    "link": "https://www.unite.ai/firebird-takes-its-ai-factory-platform-global-with-a-2-gigawatt-pipeline/",
+    "date": "2026-08-09"
+  },
+  {
+    "title": "OpenAI Acquires NextSlide, the AI Presentation Startup",
+    "link": "https://www.unite.ai/openai-acquires-nextslide-the-ai-presentation-startup/",
+    "date": "2026-08-09"
+  },
+  {
+    "title": "Firebird Opens the CIS Region’s Largest AI Factory in Armenia",
+    "link": "https://www.unite.ai/firebird-opens-the-cis-regions-largest-ai-factory-in-armenia/",
+    "date": "2026-08-09"
+  },
+  {
+    "title": "Stanford Evo 2 AI model generates phages against E. coli",
+    "link": "https://www.artificialintelligence-news.com/news/stanford-evo-2-ai-model-generates-phages-against-e-coli/",
+    "date": "2026-08-09"
+  },
+  {
+    "title": "How AI Is changing Instagram engagement without replacing the human touch",
+    "link": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-instagram-engagement-without-replacing-the-human-touch/",
+    "date": "2026-08-09"
+  },
+  {
+    "title": "Alibaba tests new business model for Qwen open-source AI",
+    "link": "https://www.artificialintelligence-news.com/news/alibaba-qwen-open-source-ai-revenue-sharing/",
+    "date": "2026-08-09"
+  },
+  {
+    "title": "Why health AI interfaces must adapt to user expertise",
+    "link": "https://www.artificialintelligence-news.com/news/why-health-ai-interfaces-must-adapt-to-user-expertise/",
+    "date": "2026-08-09"
+  },
+  {
+    "title": "PRISM2 model uses clinical dialogue to interpret pathology slides",
+    "link": "https://www.artificialintelligence-news.com/news/prism2-model-clinical-dialogue-interpret-pathology-slides/",
+    "date": "2026-08-09"
   }
 ]
