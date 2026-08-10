@@ -1,95 +1,5 @@
 [
   {
-    "title": "Google이 RSS 피드 확산을 무너뜨리는 데 기여한 과정(2023)",
-    "link": "https://news.hada.io/topic?id=32079",
-    "date": "2026-08-03"
-  },
-  {
-    "title": "agent-device - AI 에이전트가 iOS/Android 기기를 제어하도록 돕는 CLI",
-    "link": "https://news.hada.io/topic?id=32078",
-    "date": "2026-08-03"
-  },
-  {
-    "title": "C에서 sizeof가 놀라울 정도로 파싱하기 어려운 이유",
-    "link": "https://news.hada.io/topic?id=32077",
-    "date": "2026-08-03"
-  },
-  {
-    "title": "자동화하지 말고, 완전히 없애버려라",
-    "link": "https://news.hada.io/topic?id=32076",
-    "date": "2026-08-03"
-  },
-  {
-    "title": "가장 빠른 AI-First 기업은 실제로 어떻게 일하는가",
-    "link": "https://news.hada.io/topic?id=32075",
-    "date": "2026-08-03"
-  },
-  {
-    "title": "Sam Altman and AI’s decel debate",
-    "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
-    "date": "2026-08-03"
-  },
-  {
-    "title": "많은 독일인보다 더 독일인답게",
-    "link": "https://news.hada.io/topic?id=32097",
-    "date": "2026-08-03"
-  },
-  {
-    "title": "Show GN: VODAM Motion API: 운동 영상을 업로드하면 PINN 기반으로 자세 분석/가이드 비교를 해주는 API",
-    "link": "https://news.hada.io/topic?id=32096",
-    "date": "2026-08-03"
-  },
-  {
-    "title": "‘고기 프록시’가 되지 마라",
-    "link": "https://news.hada.io/topic?id=32094",
-    "date": "2026-08-03"
-  },
-  {
-    "title": "당신의 웹사이트는 어디에 있나요?",
-    "link": "https://news.hada.io/topic?id=32092",
-    "date": "2026-08-03"
-  },
-  {
-    "title": "Show GN: 맥 파일명 자소분리를 자동으로 막아주는 메뉴바 앱을 만들었습니다 (Python · rumps · watchdog · Deve...",
-    "link": "https://news.hada.io/topic?id=32091",
-    "date": "2026-08-03"
-  },
-  {
-    "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
-    "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
-    "date": "2026-08-03"
-  },
-  {
-    "title": "Here’s why AI agents lie and cheat to reach their goals",
-    "link": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
-    "date": "2026-08-03"
-  },
-  {
-    "title": "Dhivya Nagasubramanian, VP of AI Transformation and Innovation – Interview Series",
-    "link": "https://www.unite.ai/dhivya-nagasubramanian-vp-of-ai-transformation-and-innovation-interview-series/",
-    "date": "2026-08-03"
-  },
-  {
-    "title": "RWS Buys Acolad’s Parent to Scale Its AI Platforms in Europe",
-    "link": "https://www.unite.ai/rws-buys-acolads-parent-to-scale-its-ai-platforms-in-europe/",
-    "date": "2026-08-03"
-  },
-  {
-    "title": "Alibaba’s Amap Runs a World Model for 24 Hours on One GPU",
-    "link": "https://www.unite.ai/alibabas-amap-runs-a-world-model-for-24-hours-on-one-gpu/",
-    "date": "2026-08-03"
-  },
-  {
-    "title": "The Worst First Job You Can Give an Agent Is the Visible One",
-    "link": "https://www.unite.ai/the-worst-first-job-you-can-give-an-agent-is-the-visible-one/",
-    "date": "2026-08-03"
-  },
-  {
-    "title": "Why biological data matters more in AI drug discovery",
-    "link": "https://www.artificialintelligence-news.com/news/gsk-relation-therapeutics-ai-drug-discovery-biological-data/",
-    "date": "2026-08-03"
-  },
-  {
     "title": "구글 서치 콘솔, X/인스타그램/틱톡/유튜브를 통한 유입 트래픽도 지원 시작",
     "link": "https://news.hada.io/topic?id=32128",
     "date": "2026-08-04"
@@ -998,5 +908,55 @@
     "title": "Fastmail, EU 데이터 리전 제공",
     "link": "https://news.hada.io/topic?id=32283",
     "date": "2026-08-09"
+  },
+  {
+    "title": "StreamHub 확장: 하루 1,450억 이벤트 처리를 위해 Kinesis에서 Kafka로 전환",
+    "link": "https://news.hada.io/topic?id=32323",
+    "date": "2026-08-10"
+  },
+  {
+    "title": "모든 코드를, 항상 다시 작성하라",
+    "link": "https://news.hada.io/topic?id=32322",
+    "date": "2026-08-10"
+  },
+  {
+    "title": "hallmark - AI 티가 안나는 디자인 스킬",
+    "link": "https://news.hada.io/topic?id=32321",
+    "date": "2026-08-10"
+  },
+  {
+    "title": "실리콘밸리는 과학소설을 오독하고 민주주의를 약화시킴",
+    "link": "https://news.hada.io/topic?id=32320",
+    "date": "2026-08-10"
+  },
+  {
+    "title": "PlanetScale은 이전 백업을 복원해서 다음 백업을 만든다",
+    "link": "https://news.hada.io/topic?id=32319",
+    "date": "2026-08-10"
+  },
+  {
+    "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+    "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+    "date": "2026-08-10"
+  },
+  {
+    "title": "Anthropic is turning Claude Code’s auto mode on by default",
+    "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+    "date": "2026-08-10"
+  },
+  {
+    "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+    "link": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
+    "date": "2026-08-10"
+  },
+  {
+    "title": "The AI safety test is becoming a safety risk",
+    "link": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+    "date": "2026-08-10"
+  },
+  {
+    "title": "Mount Toba eruption doesn't seem like it could nearly kill our species",
+    "link": "https://arstechnica.com/science/2026/08/mount-toba-eruption-doesnt-seem-like-it-could-nearly-kill-our-species/",
+    "date": "2026-08-10"
   }
 ]
