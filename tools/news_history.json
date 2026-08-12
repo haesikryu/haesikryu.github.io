@@ -1,135 +1,5 @@
 [
   {
-    "title": "디자인 시스템의 미래 [유튜브]",
-    "link": "https://news.hada.io/topic?id=32162",
-    "date": "2026-08-05"
-  },
-  {
-    "title": "Bending Spoons, Airtable을 12억 8000만 달러에 인수",
-    "link": "https://news.hada.io/topic?id=32161",
-    "date": "2026-08-05"
-  },
-  {
-    "title": "모든 사용자 인터페이스를 구성하는 10가지 GUI 디자인 요소",
-    "link": "https://news.hada.io/topic?id=32160",
-    "date": "2026-08-05"
-  },
-  {
-    "title": "Netflix가 AI 시대에 전문가보다 시스템 사고형 인재에 베팅하는 이유 (유튜브)",
-    "link": "https://news.hada.io/topic?id=32159",
-    "date": "2026-08-05"
-  },
-  {
-    "title": "Apple, 더 많은 전 직원이 기밀 데이터를 OpenAI로 가져갔을 가능성 제기",
-    "link": "https://news.hada.io/topic?id=32158",
-    "date": "2026-08-05"
-  },
-  {
-    "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
-    "link": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
-    "date": "2026-08-05"
-  },
-  {
-    "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
-    "link": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
-    "date": "2026-08-05"
-  },
-  {
-    "title": "Anthropic signs $10B deal with AI cloud startup Volta",
-    "link": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
-    "date": "2026-08-05"
-  },
-  {
-    "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
-    "link": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
-    "date": "2026-08-05"
-  },
-  {
-    "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
-    "link": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
-    "date": "2026-08-05"
-  },
-  {
-    "title": "Third-party cyber evaluations involving OpenAI models",
-    "link": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-    "date": "2026-08-05"
-  },
-  {
-    "title": "New ways to learn and teach with ChatGPT Work and Codex",
-    "link": "https://openai.com/index/learn-teach-chatgpt-work-codex",
-    "date": "2026-08-05"
-  },
-  {
-    "title": "The latest AI news we announced in July 2026",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
-    "date": "2026-08-05"
-  },
-  {
-    "title": "Inside our 353,000-person vibe coding course",
-    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
-    "date": "2026-08-05"
-  },
-  {
-    "title": "The Download: US robot restrictions, and ICE’s DNA grab",
-    "link": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
-    "date": "2026-08-05"
-  },
-  {
-    "title": "Deploy local agents everywhere with LFM2.5-2.6B",
-    "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-    "date": "2026-08-05"
-  },
-  {
-    "title": "Senators demand crackdown on wildfire \"prediction markets\"",
-    "link": "https://arstechnica.com/tech-policy/2026/08/senators-demand-crackdown-on-wildfire-prediction-markets/",
-    "date": "2026-08-05"
-  },
-  {
-    "title": "Trump killed the Digital Equity Act, but US was forced to bring part of it back",
-    "link": "https://arstechnica.com/tech-policy/2026/08/trump-forced-to-reinstate-broadband-grants-but-court-lets-us-scrap-race-criteria/",
-    "date": "2026-08-05"
-  },
-  {
-    "title": "Texas halts data center connections to power grid amid overwhelming demand",
-    "link": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/",
-    "date": "2026-08-05"
-  },
-  {
-    "title": "China is Tesla's cash cow, but for how much longer?",
-    "link": "https://arstechnica.com/cars/2026/08/china-is-teslas-cash-cow-but-for-how-much-longer/",
-    "date": "2026-08-05"
-  },
-  {
-    "title": "The Pixel 11's \"glow\" feature is actually called HiLight—here's what it does",
-    "link": "https://arstechnica.com/gadgets/2026/08/the-pixel-11s-glow-feature-is-actually-called-hilight-heres-what-it-does/",
-    "date": "2026-08-05"
-  },
-  {
-    "title": "TIER IV and Astemo Plan Development Platform for End-to-End Self-Driving AI",
-    "link": "https://www.unite.ai/tier-iv-and-astemo-plan-development-platform-for-end-to-end-self-driving-ai/",
-    "date": "2026-08-05"
-  },
-  {
-    "title": "SpaceX’s Cloud Business Tripled Its Revenue and It Still Loses Money",
-    "link": "https://www.unite.ai/spacexs-cloud-business-tripled-its-revenue-and-it-still-loses-money/",
-    "date": "2026-08-05"
-  },
-  {
-    "title": "Waymo Drops the Dallas Waitlist as Freeway and Airport Testing Looms",
-    "link": "https://www.unite.ai/waymo-drops-the-dallas-waitlist-as-freeway-and-airport-testing-looms/",
-    "date": "2026-08-05"
-  },
-  {
-    "title": "Mistral’s Shieldstral Packs Policy-Adaptive Safety Screening Into 3B Parameters",
-    "link": "https://www.unite.ai/mistrals-shieldstral-packs-policy-adaptive-safety-screening-into-3b-parameters/",
-    "date": "2026-08-05"
-  },
-  {
-    "title": "Amazon Bedrock Gets Built-In Web Search for Grounded Model Responses",
-    "link": "https://www.unite.ai/amazon-bedrock-gets-built-in-web-search-for-grounded-model-responses/",
-    "date": "2026-08-05"
-  },
-  {
     "title": "Show GN: 주가예측 AI 에이전트를 위한 무료 도구 공개 (LDBD)",
     "link": "https://news.hada.io/topic?id=32193",
     "date": "2026-08-06"
@@ -1033,5 +903,145 @@
     "title": "Vikhyat Chaudhry, CTO, COO & Co-Founder of Buzz Solutions: A Return Conversation",
     "link": "https://www.unite.ai/vikhyat-chaudhry-cto-coo-co-founder-of-buzz-solutions-a-return-conversation/",
     "date": "2026-08-11"
+  },
+  {
+    "title": "LLM Evals에 대해 알아야 할 모든 것",
+    "link": "https://news.hada.io/topic?id=32421",
+    "date": "2026-08-12"
+  },
+  {
+    "title": "Xirp - Spotify가 만든 조직 컨텍스트 기반 AI 코딩 환경",
+    "link": "https://news.hada.io/topic?id=32420",
+    "date": "2026-08-12"
+  },
+  {
+    "title": "Show GN: BuildIt – Forces you to explain every line an AI writes before you merge",
+    "link": "https://news.hada.io/topic?id=32419",
+    "date": "2026-08-12"
+  },
+  {
+    "title": "코드 리뷰도 배워야 하는 기술이다",
+    "link": "https://news.hada.io/topic?id=32417",
+    "date": "2026-08-12"
+  },
+  {
+    "title": "GNOME Shell이 꿈꾸는 차세대 디자인",
+    "link": "https://news.hada.io/topic?id=32416",
+    "date": "2026-08-12"
+  },
+  {
+    "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+    "link": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
+    "date": "2026-08-12"
+  },
+  {
+    "title": "OpenAI launches ChatGPT desktop app for Linux",
+    "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+    "date": "2026-08-12"
+  },
+  {
+    "title": "Google’s Gemini app surges to 1 billion users",
+    "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+    "date": "2026-08-12"
+  },
+  {
+    "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
+    "link": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
+    "date": "2026-08-12"
+  },
+  {
+    "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
+    "link": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+    "date": "2026-08-12"
+  },
+  {
+    "title": "Testing ads in ChatGPT",
+    "link": "https://openai.com/index/testing-ads-in-chatgpt",
+    "date": "2026-08-12"
+  },
+  {
+    "title": "Daybreak models are now available on AWS",
+    "link": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+    "date": "2026-08-12"
+  },
+  {
+    "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+    "date": "2026-08-12"
+  },
+  {
+    "title": "How the “censorship-industrial complex” is changing the Internet and US policy",
+    "link": "https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy/",
+    "date": "2026-08-12"
+  },
+  {
+    "title": "The Download: the next big thing in LLMs and how AI academic research is shifting",
+    "link": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/",
+    "date": "2026-08-12"
+  },
+  {
+    "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+    "date": "2026-08-12"
+  },
+  {
+    "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
+    "link": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/",
+    "date": "2026-08-12"
+  },
+  {
+    "title": "Trump wants Big Pharma to split MMR vaccine; Big Pharma thinks it's idiotic",
+    "link": "https://arstechnica.com/health/2026/08/trump-wants-big-pharma-to-split-mmr-vaccine-big-pharma-thinks-its-idiotic/",
+    "date": "2026-08-12"
+  },
+  {
+    "title": "Russian drones found near vital European offshore gas site, get blown up",
+    "link": "https://arstechnica.com/gadgets/2026/08/romania-destroys-russian-drones-drifting-near-vital-european-offshore-gas-site/",
+    "date": "2026-08-12"
+  },
+  {
+    "title": "Chrome adopts what may be the best protection yet against account takeovers",
+    "link": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/",
+    "date": "2026-08-12"
+  },
+  {
+    "title": "Meta can't stop states' $1.4 trillion lawsuit from going to trial",
+    "link": "https://arstechnica.com/tech-policy/2026/08/meta-cant-stop-states-1-4-trillion-lawsuit-from-going-to-trial/",
+    "date": "2026-08-12"
+  },
+  {
+    "title": "OpenAI Daybreak Cyber Defense Models Land on Amazon Bedrock",
+    "link": "https://www.unite.ai/openai-daybreak-cyber-defense-models-land-on-amazon-bedrock/",
+    "date": "2026-08-12"
+  },
+  {
+    "title": "Quantinuum Puts a 98-Qubit Helios Machine Inside Oracle’s AI Data Centers",
+    "link": "https://www.unite.ai/quantinuum-puts-a-98-qubit-helios-machine-inside-oracles-ai-data-centers/",
+    "date": "2026-08-12"
+  },
+  {
+    "title": "xAI Launches Grok Bot, Always-On AI Teammates With Their Own Cloud Computers",
+    "link": "https://www.unite.ai/xai-launches-grok-bot-always-on-ai-teammates-with-their-own-cloud-computers/",
+    "date": "2026-08-12"
+  },
+  {
+    "title": "River AI Raises $1.1B Out of Stealth to Rebuild the Stack for Personal AI",
+    "link": "https://www.unite.ai/river-ai-raises-1-1b-out-of-stealth-to-rebuild-the-stack-for-personal-ai/",
+    "date": "2026-08-12"
+  },
+  {
+    "title": "Gemini App Tops 1 Billion Monthly Users as Google’s Fastest-Growing Product",
+    "link": "https://www.unite.ai/gemini-app-tops-1-billion-monthly-users-as-googles-fastest-growing-product/",
+    "date": "2026-08-12"
+  },
+  {
+    "title": "Novo Nordisk and AWS bring agentic AI into drug discovery",
+    "link": "https://www.artificialintelligence-news.com/news/novo-nordisk-ai-drug-discovery-aws/",
+    "date": "2026-08-12"
+  },
+  {
+    "title": "How AI is changing the vulnerability response timeline",
+    "link": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-the-vulnerability-response-timeline/",
+    "date": "2026-08-12"
   }
 ]
