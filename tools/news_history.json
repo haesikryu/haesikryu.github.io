@@ -1,165 +1,5 @@
 [
   {
-    "title": "AI가 린 스타트업 플레이북을 무너뜨리고 있는가? [유튜브]",
-    "link": "https://news.hada.io/topic?id=32255",
-    "date": "2026-08-08"
-  },
-  {
-    "title": "Paseo - 여러 코딩 에이전트를 데스크톱/모바일에서 관리하는 오케스트레이터",
-    "link": "https://news.hada.io/topic?id=32254",
-    "date": "2026-08-08"
-  },
-  {
-    "title": "Orca - 여러 병렬 코딩 에이전트를 위한 오픈소스 ADE",
-    "link": "https://news.hada.io/topic?id=32253",
-    "date": "2026-08-08"
-  },
-  {
-    "title": "셸의 느낌표는 외침이 아니다: 반복 입력을 줄이는 ! 활용법",
-    "link": "https://news.hada.io/topic?id=32252",
-    "date": "2026-08-08"
-  },
-  {
-    "title": "OpenAI를 떠나 Jurassic Park를 만들다",
-    "link": "https://news.hada.io/topic?id=32251",
-    "date": "2026-08-08"
-  },
-  {
-    "title": "OpenAI says it slowed Astra model development over security concerns",
-    "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-    "date": "2026-08-08"
-  },
-  {
-    "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-    "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
-    "date": "2026-08-08"
-  },
-  {
-    "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-    "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-    "date": "2026-08-08"
-  },
-  {
-    "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
-    "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
-    "date": "2026-08-08"
-  },
-  {
-    "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
-    "link": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
-    "date": "2026-08-08"
-  },
-  {
-    "title": "Responding to the next frontier of critical cyber capabilities",
-    "link": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-    "date": "2026-08-08"
-  },
-  {
-    "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-    "link": "https://openai.com/index/hsp-gruppe",
-    "date": "2026-08-08"
-  },
-  {
-    "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
-    "link": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
-    "date": "2026-08-08"
-  },
-  {
-    "title": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
-    "link": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/",
-    "date": "2026-08-08"
-  },
-  {
-    "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
-    "link": "https://huggingface.co/blog/allenai/tutormoments",
-    "date": "2026-08-08"
-  },
-  {
-    "title": "Europe's free satellite service just made it easier to track wildfires",
-    "link": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/",
-    "date": "2026-08-08"
-  },
-  {
-    "title": "Flesh-eating screwworms feast on humans in Mexico; human cases top 500",
-    "link": "https://arstechnica.com/health/2026/08/flesh-eating-screwworms-feast-on-humans-in-mexico-human-cases-top-500/",
-    "date": "2026-08-08"
-  },
-  {
-    "title": "Judge rules Meta caused \"public nuisance\" and must fund mental health treatment",
-    "link": "https://arstechnica.com/tech-policy/2026/08/meta-ordered-to-pay-567m-to-treat-youth-mental-health-problems-it-helped-create/",
-    "date": "2026-08-08"
-  },
-  {
-    "title": "The ultimate eclipse chase: A Concorde raced against the Moon's shadow",
-    "link": "https://arstechnica.com/science/2026/08/the-ultimate-eclipse-chase-a-concorde-raced-against-the-moons-shadow/",
-    "date": "2026-08-08"
-  },
-  {
-    "title": "New official 30th anniversary Quake mission pack adds new maps and mechanics",
-    "link": "https://arstechnica.com/gaming/2026/08/new-official-30th-anniversary-quake-mission-pack-adds-new-maps-and-mechanics/",
-    "date": "2026-08-08"
-  },
-  {
-    "title": "Microsoft Brings Fourth India Cloud Region Online in Hyderabad",
-    "link": "https://www.unite.ai/microsoft-brings-fourth-india-cloud-region-online-in-hyderabad/",
-    "date": "2026-08-08"
-  },
-  {
-    "title": "OpenAI Says Upcoming Astra Model May Cross Critical Cybersecurity Threshold",
-    "link": "https://www.unite.ai/openai-says-upcoming-astra-model-may-cross-critical-cybersecurity-threshold/",
-    "date": "2026-08-08"
-  },
-  {
-    "title": "Lemma Raises $2.3M Pre-Seed to Tackle Silent AI Agent Failures in Production",
-    "link": "https://www.unite.ai/lemma-raises-2-3m-pre-seed-to-tackle-silent-ai-agent-failures-in-production/",
-    "date": "2026-08-08"
-  },
-  {
-    "title": "Context Speaks to the Interface: The Shift from Developer Productivity to Enterprise Velocity",
-    "link": "https://www.unite.ai/from-developer-productivity-to-enterprise-velocity/",
-    "date": "2026-08-08"
-  },
-  {
-    "title": "Anthropic Retunes Fable 5’s Biology Safeguards, Cutting Blocked Queries 85%",
-    "link": "https://www.unite.ai/anthropic-retunes-fable-5s-biology-safeguards-cutting-blocked-queries-85/",
-    "date": "2026-08-08"
-  },
-  {
-    "title": "Show GN: 외부 AI 결과를 여러 SNS에 예약하고 실제 발행 상태를 추적하는 ANKK",
-    "link": "https://news.hada.io/topic?id=32261",
-    "date": "2026-08-08"
-  },
-  {
-    "title": "Assembly 명예의 전당",
-    "link": "https://news.hada.io/topic?id=32260",
-    "date": "2026-08-08"
-  },
-  {
-    "title": "2027년 메모리 생산 용량, 이미 매진된 것으로 알려져",
-    "link": "https://news.hada.io/topic?id=32259",
-    "date": "2026-08-08"
-  },
-  {
-    "title": "이번 주 App Store 거절 사례: Dark Hours",
-    "link": "https://news.hada.io/topic?id=32258",
-    "date": "2026-08-08"
-  },
-  {
-    "title": "평가 주도 개발 (Eval-driven development)",
-    "link": "https://news.hada.io/topic?id=32257",
-    "date": "2026-08-08"
-  },
-  {
-    "title": "xAI Ships Grok Imagine Image 2.0 With Precise Editing and a Top Arena Ranking",
-    "link": "https://www.unite.ai/xai-ships-grok-imagine-image-2-0-with-precise-editing-and-a-top-arena-ranking/",
-    "date": "2026-08-08"
-  },
-  {
-    "title": "Claude Cowork Record a Skill: I’m Never Hiring a VA Again",
-    "link": "https://www.unite.ai/claude-cowork-review-record-a-skill/",
-    "date": "2026-08-08"
-  },
-  {
     "title": "goshot - 코드 스크린샷 생성기",
     "link": "https://news.hada.io/topic?id=32282",
     "date": "2026-08-09"
@@ -1113,5 +953,140 @@
     "title": "Okta targets AI agent token costs with MCP scoping",
     "link": "https://www.artificialintelligence-news.com/news/okta-targets-ai-agent-token-costs-with-mcp-scoping/",
     "date": "2026-08-14"
+  },
+  {
+    "title": "uBlock Origin을 지원하는 마지막 주요 브라우저, Firefox",
+    "link": "https://news.hada.io/topic?id=32515",
+    "date": "2026-08-15"
+  },
+  {
+    "title": "Qwen3.8-27B, 17~19GB 메모리에서 4-bit 로컬 실행 가능",
+    "link": "https://news.hada.io/topic?id=32514",
+    "date": "2026-08-15"
+  },
+  {
+    "title": "호주의 가정용 배터리 확산이 도매 전력 가격 인하에 기여",
+    "link": "https://news.hada.io/topic?id=32513",
+    "date": "2026-08-15"
+  },
+  {
+    "title": "Count Binface, Clacton 보궐선거에서 4분의 1 넘게 득표",
+    "link": "https://news.hada.io/topic?id=32511",
+    "date": "2026-08-15"
+  },
+  {
+    "title": "Qwen 3.8 27B",
+    "link": "https://news.hada.io/topic?id=32510",
+    "date": "2026-08-15"
+  },
+  {
+    "title": "Google will now allow users to remove visible watermark from its AI generations",
+    "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+    "date": "2026-08-15"
+  },
+  {
+    "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+    "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+    "date": "2026-08-15"
+  },
+  {
+    "title": "Kog is going deeper to squeeze more inference out of GPUs",
+    "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+    "date": "2026-08-15"
+  },
+  {
+    "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+    "link": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
+    "date": "2026-08-15"
+  },
+  {
+    "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
+    "link": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
+    "date": "2026-08-15"
+  },
+  {
+    "title": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
+    "link": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
+    "date": "2026-08-15"
+  },
+  {
+    "title": "This scientist is helping build a missing map of childhood",
+    "link": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
+    "date": "2026-08-15"
+  },
+  {
+    "title": "Job titles of the future: Space travel agent",
+    "link": "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/",
+    "date": "2026-08-15"
+  },
+  {
+    "title": "Cloning could be used to save species—or make human “organ sacks”",
+    "link": "https://www.technologyreview.com/2026/08/14/1141919/cloning-save-species-or-make-human-organ-sacks/",
+    "date": "2026-08-15"
+  },
+  {
+    "title": "State of Open Models: Summer 2026 Observations",
+    "link": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+    "date": "2026-08-15"
+  },
+  {
+    "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
+    "link": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
+    "date": "2026-08-15"
+  },
+  {
+    "title": "First test flight of largest all-electric aircraft used just $5 of electricity",
+    "link": "https://arstechnica.com/gadgets/2026/08/first-test-flight-of-largest-all-electric-aircraft-used-just-5-of-electricity/",
+    "date": "2026-08-15"
+  },
+  {
+    "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+    "link": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
+    "date": "2026-08-15"
+  },
+  {
+    "title": "State judge orders Kalshi to stop offering sports bets and other wagers",
+    "link": "https://arstechnica.com/tech-policy/2026/08/state-judge-orders-kalshi-to-stop-offering-sports-bets-and-other-wagers/",
+    "date": "2026-08-15"
+  },
+  {
+    "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
+    "link": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
+    "date": "2026-08-15"
+  },
+  {
+    "title": "Apex Vision AI Review: These Homework Explanations Help",
+    "link": "https://www.unite.ai/apex-vision-ai-review/",
+    "date": "2026-08-15"
+  },
+  {
+    "title": "OpenAI Tells Investors Enterprise Revenue Has Overtaken Its ChatGPT Consumer Business",
+    "link": "https://www.unite.ai/openai-tells-investors-enterprise-revenue-has-overtaken-its-chatgpt-consumer-business/",
+    "date": "2026-08-15"
+  },
+  {
+    "title": "Anthropic Raises Misalignment Risk to Low and Shelves Internal Model 2",
+    "link": "https://www.unite.ai/anthropic-raises-misalignment-risk-to-low-and-shelves-internal-model-2/",
+    "date": "2026-08-15"
+  },
+  {
+    "title": "Anthropic Explains the Mechanics of Claude’s Text Watermark",
+    "link": "https://www.unite.ai/anthropic-explains-the-mechanics-of-claudes-text-watermark/",
+    "date": "2026-08-15"
+  },
+  {
+    "title": "Grok 4.6 Arrives in GitHub Copilot Across Eight Development Surfaces",
+    "link": "https://www.unite.ai/grok-4-6-arrives-in-github-copilot-across-eight-development-surfaces/",
+    "date": "2026-08-15"
+  },
+  {
+    "title": "Samsung health AI models analyse wearable biosignal data",
+    "link": "https://www.artificialintelligence-news.com/news/samsung-health-ai-models-analyse-wearable-biosignal-data/",
+    "date": "2026-08-15"
+  },
+  {
+    "title": "Google AI health coach to use Abbott glucose data",
+    "link": "https://www.artificialintelligence-news.com/news/google-ai-health-coach-abbott-glucose-data/",
+    "date": "2026-08-15"
   }
 ]
