@@ -1,100 +1,5 @@
 [
   {
-    "title": "goshot - 코드 스크린샷 생성기",
-    "link": "https://news.hada.io/topic?id=32282",
-    "date": "2026-08-09"
-  },
-  {
-    "title": "내가 좋아하는 소프트웨어 강연들",
-    "link": "https://news.hada.io/topic?id=32281",
-    "date": "2026-08-09"
-  },
-  {
-    "title": "Sublime Text 같은 편집기는 더 이상 나오지 않는다",
-    "link": "https://news.hada.io/topic?id=32280",
-    "date": "2026-08-09"
-  },
-  {
-    "title": "OpenAI의 우발적 Hugging Face 공격 타임라인",
-    "link": "https://news.hada.io/topic?id=32279",
-    "date": "2026-08-09"
-  },
-  {
-    "title": "DNS에서 도메인 판매 여부를 알리는 _for-sale 레코드",
-    "link": "https://news.hada.io/topic?id=32278",
-    "date": "2026-08-09"
-  },
-  {
-    "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
-    "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
-    "date": "2026-08-09"
-  },
-  {
-    "title": "OpenAI acquires presentation startup NextSlide",
-    "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-    "date": "2026-08-09"
-  },
-  {
-    "title": "The first self-driving vehicle on Mars has proven to be a smashing success",
-    "link": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/",
-    "date": "2026-08-09"
-  },
-  {
-    "title": "DeepMind’s hurricane breakthrough has surprised weather scientists",
-    "link": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
-    "date": "2026-08-09"
-  },
-  {
-    "title": "Firebird Takes Its AI Factory Platform Global With a 2-Gigawatt Pipeline",
-    "link": "https://www.unite.ai/firebird-takes-its-ai-factory-platform-global-with-a-2-gigawatt-pipeline/",
-    "date": "2026-08-09"
-  },
-  {
-    "title": "OpenAI Acquires NextSlide, the AI Presentation Startup",
-    "link": "https://www.unite.ai/openai-acquires-nextslide-the-ai-presentation-startup/",
-    "date": "2026-08-09"
-  },
-  {
-    "title": "Firebird Opens the CIS Region’s Largest AI Factory in Armenia",
-    "link": "https://www.unite.ai/firebird-opens-the-cis-regions-largest-ai-factory-in-armenia/",
-    "date": "2026-08-09"
-  },
-  {
-    "title": "Stanford Evo 2 AI model generates phages against E. coli",
-    "link": "https://www.artificialintelligence-news.com/news/stanford-evo-2-ai-model-generates-phages-against-e-coli/",
-    "date": "2026-08-09"
-  },
-  {
-    "title": "How AI Is changing Instagram engagement without replacing the human touch",
-    "link": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-instagram-engagement-without-replacing-the-human-touch/",
-    "date": "2026-08-09"
-  },
-  {
-    "title": "Alibaba tests new business model for Qwen open-source AI",
-    "link": "https://www.artificialintelligence-news.com/news/alibaba-qwen-open-source-ai-revenue-sharing/",
-    "date": "2026-08-09"
-  },
-  {
-    "title": "Why health AI interfaces must adapt to user expertise",
-    "link": "https://www.artificialintelligence-news.com/news/why-health-ai-interfaces-must-adapt-to-user-expertise/",
-    "date": "2026-08-09"
-  },
-  {
-    "title": "PRISM2 model uses clinical dialogue to interpret pathology slides",
-    "link": "https://www.artificialintelligence-news.com/news/prism2-model-clinical-dialogue-interpret-pathology-slides/",
-    "date": "2026-08-09"
-  },
-  {
-    "title": "Show GN: Ungate — API 토큰 비용을 지불하는 대신 Cursor에서 Claude 및 ChatGPT 구독 서비스를 이용하세요.",
-    "link": "https://news.hada.io/topic?id=32286",
-    "date": "2026-08-09"
-  },
-  {
-    "title": "Fastmail, EU 데이터 리전 제공",
-    "link": "https://news.hada.io/topic?id=32283",
-    "date": "2026-08-09"
-  },
-  {
     "title": "StreamHub 확장: 하루 1,450억 이벤트 처리를 위해 Kinesis에서 Kafka로 전환",
     "link": "https://news.hada.io/topic?id=32323",
     "date": "2026-08-10"
@@ -1113,5 +1018,70 @@
     "title": "실전 루프 엔지니어링",
     "link": "https://news.hada.io/topic?id=32519",
     "date": "2026-08-15"
+  },
+  {
+    "title": "celld - 셀프호스팅 가능한 분산 Durable Objects",
+    "link": "https://news.hada.io/topic?id=32545",
+    "date": "2026-08-16"
+  },
+  {
+    "title": "Graph 엔지니어링 vs Loop 엔지니어링: 실제로 달라진 것은 무엇인가",
+    "link": "https://news.hada.io/topic?id=32544",
+    "date": "2026-08-16"
+  },
+  {
+    "title": "내가 여전히 회의적인 이유",
+    "link": "https://news.hada.io/topic?id=32543",
+    "date": "2026-08-16"
+  },
+  {
+    "title": "Ask HN: 요즘 Hacker News를 어떻게 따라가시나요?",
+    "link": "https://news.hada.io/topic?id=32542",
+    "date": "2026-08-16"
+  },
+  {
+    "title": "Apple, App Store 외부 구매에 15% 수수료 부과 제안",
+    "link": "https://news.hada.io/topic?id=32541",
+    "date": "2026-08-16"
+  },
+  {
+    "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+    "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+    "date": "2026-08-16"
+  },
+  {
+    "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+    "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+    "date": "2026-08-16"
+  },
+  {
+    "title": "SpaceX officially closes its Cursor acquisition",
+    "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+    "date": "2026-08-16"
+  },
+  {
+    "title": "VisionQuest trailer kicks off Disney's D23 fan event",
+    "link": "https://arstechnica.com/culture/2026/08/visionquest-trailer-kicks-off-disneys-d23-fan-event/",
+    "date": "2026-08-16"
+  },
+  {
+    "title": "Ukraine strikes major Russian rocket factory with cruise missiles",
+    "link": "https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/",
+    "date": "2026-08-16"
+  },
+  {
+    "title": "So much solar: Digging into the list of every US power plant that went online this year",
+    "link": "https://arstechnica.com/science/2026/08/so-much-solar-digging-into-the-list-of-every-us-power-plant-that-went-online-this-year/",
+    "date": "2026-08-16"
+  },
+  {
+    "title": "Anthropic Documents AI Agents That Kill Rivals and Evade Their Monitors",
+    "link": "https://www.unite.ai/anthropic-documents-ai-agents-that-kill-rivals-and-evade-their-monitors/",
+    "date": "2026-08-16"
+  },
+  {
+    "title": "Karsan’s Autonomous E-ATAK Starts Passenger Service at Efteling Theme Park",
+    "link": "https://www.unite.ai/karsans-autonomous-e-atak-starts-passenger-service-at-efteling-theme-park/",
+    "date": "2026-08-16"
   }
 ]
