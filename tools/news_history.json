@@ -1,85 +1,5 @@
 [
   {
-    "title": "StreamHub 확장: 하루 1,450억 이벤트 처리를 위해 Kinesis에서 Kafka로 전환",
-    "link": "https://news.hada.io/topic?id=32323",
-    "date": "2026-08-10"
-  },
-  {
-    "title": "모든 코드를, 항상 다시 작성하라",
-    "link": "https://news.hada.io/topic?id=32322",
-    "date": "2026-08-10"
-  },
-  {
-    "title": "hallmark - AI 티가 안나는 디자인 스킬",
-    "link": "https://news.hada.io/topic?id=32321",
-    "date": "2026-08-10"
-  },
-  {
-    "title": "실리콘밸리는 과학소설을 오독하고 민주주의를 약화시킴",
-    "link": "https://news.hada.io/topic?id=32320",
-    "date": "2026-08-10"
-  },
-  {
-    "title": "PlanetScale은 이전 백업을 복원해서 다음 백업을 만든다",
-    "link": "https://news.hada.io/topic?id=32319",
-    "date": "2026-08-10"
-  },
-  {
-    "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
-    "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
-    "date": "2026-08-10"
-  },
-  {
-    "title": "Anthropic is turning Claude Code’s auto mode on by default",
-    "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
-    "date": "2026-08-10"
-  },
-  {
-    "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
-    "link": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
-    "date": "2026-08-10"
-  },
-  {
-    "title": "The AI safety test is becoming a safety risk",
-    "link": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
-    "date": "2026-08-10"
-  },
-  {
-    "title": "Mount Toba eruption doesn't seem like it could nearly kill our species",
-    "link": "https://arstechnica.com/science/2026/08/mount-toba-eruption-doesnt-seem-like-it-could-nearly-kill-our-species/",
-    "date": "2026-08-10"
-  },
-  {
-    "title": "Ask GN: Fable 5가 걍 반쪽짜리 뇌임",
-    "link": "https://news.hada.io/topic?id=32346",
-    "date": "2026-08-10"
-  },
-  {
-    "title": "Show GN: AI 음악 생성 플랫폼을 만들었습니다.",
-    "link": "https://news.hada.io/topic?id=32343",
-    "date": "2026-08-10"
-  },
-  {
-    "title": "택시 운전자는 알츠하이머병으로 사망하는 경우가 드묾",
-    "link": "https://news.hada.io/topic?id=32342",
-    "date": "2026-08-10"
-  },
-  {
-    "title": "Show GN: 스토맵 - 지도 위에 사진과 글을 핀으로 남기는 앱",
-    "link": "https://news.hada.io/topic?id=32339",
-    "date": "2026-08-10"
-  },
-  {
-    "title": "당신이 하는 모든 일이 기록되는 시대",
-    "link": "https://news.hada.io/topic?id=32337",
-    "date": "2026-08-10"
-  },
-  {
-    "title": "HD Hyundai Lands 1,000 MW Engine Order to Power U.S. AI Data Centers",
-    "link": "https://www.unite.ai/hd-hyundai-lands-1000-mw-engine-order-to-power-u-s-ai-data-centers/",
-    "date": "2026-08-10"
-  },
-  {
     "title": "엔지니어링 리더는 매일 무슨 일을 하는가",
     "link": "https://news.hada.io/topic?id=32376",
     "date": "2026-08-11"
@@ -1088,5 +1008,55 @@
     "title": "감염 진드기를 15분 만에 확인하는 첫 가정용 라임병 검사",
     "link": "https://news.hada.io/topic?id=32547",
     "date": "2026-08-16"
+  },
+  {
+    "title": "플랫폼 엔지니어링은 여전히 중요함",
+    "link": "https://news.hada.io/topic?id=32569",
+    "date": "2026-08-17"
+  },
+  {
+    "title": "git-knife - Git 커밋 메타데이터를 표처럼 편집하는 데스크톱 GUI",
+    "link": "https://news.hada.io/topic?id=32568",
+    "date": "2026-08-17"
+  },
+  {
+    "title": "Flexible Authentication - 수백만 사용자를 위한 Airbnb의 인증 재설계",
+    "link": "https://news.hada.io/topic?id=32567",
+    "date": "2026-08-17"
+  },
+  {
+    "title": "모든 빌어먹을 웹사이트",
+    "link": "https://news.hada.io/topic?id=32566",
+    "date": "2026-08-17"
+  },
+  {
+    "title": "C 대체재를 만들고 있다고 생각했지만 틀렸다",
+    "link": "https://news.hada.io/topic?id=32565",
+    "date": "2026-08-17"
+  },
+  {
+    "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+    "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+    "date": "2026-08-17"
+  },
+  {
+    "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+    "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+    "date": "2026-08-17"
+  },
+  {
+    "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+    "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+    "date": "2026-08-17"
+  },
+  {
+    "title": "Wildfire smoke now bigger prenatal threat than human sources of air pollution",
+    "link": "https://arstechnica.com/science/2026/08/wildfire-smoke-now-bigger-prenatal-threat-than-human-sources-of-air-pollution/",
+    "date": "2026-08-17"
+  },
+  {
+    "title": "Anthropic Outage Disrupts Claude Services, Fix Deployed After Login Failures",
+    "link": "https://www.unite.ai/anthropic-outage-disrupts-claude-services-fix-deployed-after-login-failures/",
+    "date": "2026-08-17"
   }
 ]
