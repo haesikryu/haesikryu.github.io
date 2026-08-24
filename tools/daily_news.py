@@ -281,11 +281,41 @@ GEMINI_TAGS_MODELS = [
 # Hanja/Kanji/Hiragana/Katakana mixed into Korean text (e.g. 日報, まとめ)
 FOREIGN_SCRIPT_RE = re.compile(r"[\u3040-\u309f\u30a0-\u30ff\u4e00-\u9fff]")
 
+# LLM가 자주 섞는 한자·일본어 표현 (긴 문자열 우선 치환)
+COMMON_CJK_REPLACEMENTS = [
+    ("介绍", "소개"),
+    ("消費", "소비"),
+    ("消费", "소비"),
+    ("最近", "최근"),
+    ("保護", "보호"),
+    ("高度", "고도"),
+    ("性能", "성능"),
+    ("演奏", "연주"),
+    ("设计", "설계"),
+    ("软件", "소프트웨어"),
+    ("商業", "상업"),
+    ("预览", "미리보기"),
+    ("故事", "이야기"),
+    ("企業", "기업"),
+    ("最佳", "최적"),
+    ("重要", "중요"),
+    ("灵活性", "유연성"),
+    ("提高", "향상"),
+    ("日報", "일보"),
+    ("まとめ", "요약"),
+    ("ニュース", "뉴스"),
+    ("プロダクト", "프로덕트"),
+    ("プロデュ", "프로덕"),
+    ("更", "더"),
+    ("各", "각"),
+]
+
 SANITIZE_KOREAN_PROMPT = """You are a Korean copy editor. The markdown blog post below mixes Hanja, Kanji, Hiragana, or Katakana into Korean text.
 
 Rewrite so that:
-- Korean sentences use Hangul (한글) only — replace Hanja/Kanji (日報→일보, 重要→중요, 提高→향상, 灵活性→유연성, etc.)
-- Replace Japanese kana with Korean (まとめ→요약, ニュース→뉴스)
+- Korean sentences use Hangul (한글) only — replace ALL Hanja/Kanji (介绍→소개, 消費/消费→소비, 更→더, 最佳→최적, 企業→기업, etc.)
+- Replace Japanese kana with Korean (まとめ→요약, プロダクト→프로덕트)
+- Do not leave ANY Chinese/Japanese character in Korean sentences
 - Keep English product/company names, URLs, markdown structure, and the final TAGS: line format
 - Remove spurious `# document title` lines; keep story headers as `## N. Title`
 
@@ -296,32 +326,59 @@ Return only the corrected markdown, no explanation.
 ---"""
 
 
+def _apply_common_cjk_replacements(text: str) -> str:
+    if not text:
+        return text
+    for src, dst in sorted(COMMON_CJK_REPLACEMENTS, key=lambda x: -len(x[0])):
+        text = text.replace(src, dst)
+    return text
+
+
+def _remove_spurious_document_titles(content: str) -> str:
+    """`# 문서 제목` 형태의 불필요한 h1 줄을 제거합니다."""
+    if not content:
+        return content
+    lines = []
+    for line in content.split("\n"):
+        if re.match(r"^#\s+[^#]", line) and not re.match(r"^#\s*\d+\.", line.strip()):
+            continue
+        lines.append(line)
+    return "\n".join(lines)
+
+
 def _contains_foreign_script(text: str) -> bool:
     if not text or not isinstance(text, str):
         return False
     return bool(FOREIGN_SCRIPT_RE.search(text))
 
 
-def _sanitize_foreign_scripts(content: str) -> str:
+def _sanitize_foreign_scripts(content: str, *, max_attempts: int = 3) -> str:
     """한자·일본어 문자가 섞인 본문을 한글-only로 정리합니다."""
-    if not _contains_foreign_script(content):
-        return content
+    content = _remove_spurious_document_titles(content)
+    content = _apply_common_cjk_replacements(content)
 
-    print("Foreign script (CJK/kana) detected; sanitizing Korean text...")
-    prompt = SANITIZE_KOREAN_PROMPT.format(content=content)
-    cleaned = (
-        _generate_with_groq(prompt, system="You output only corrected markdown.")
-        or _generate_with_gemini(prompt, GEMINI_BLOG_MODELS)
-        or _generate_with_openai(prompt, system="You output only corrected markdown.")
-    )
-    if not cleaned:
-        print("Sanitization failed; using original content.")
-        return content
-    if _contains_foreign_script(cleaned):
+    for attempt in range(1, max_attempts + 1):
+        if not _contains_foreign_script(content):
+            if attempt > 1:
+                print("Sanitization succeeded after retry.")
+            return content
+
+        print(f"Foreign script (CJK/kana) detected; sanitizing Korean text (attempt {attempt}/{max_attempts})...")
+        prompt = SANITIZE_KOREAN_PROMPT.format(content=content)
+        cleaned = (
+            _generate_with_groq(prompt, system="You output only corrected markdown.")
+            or _generate_with_gemini(prompt, GEMINI_BLOG_MODELS)
+            or _generate_with_openai(prompt, system="You output only corrected markdown.")
+        )
+        if not cleaned:
+            print("Sanitization LLM call failed.")
+            break
+
+        content = _remove_spurious_document_titles(_apply_common_cjk_replacements(cleaned))
+
+    if _contains_foreign_script(content):
         print("Warning: some foreign scripts remain after sanitization.")
-    else:
-        print("Sanitization succeeded.")
-    return cleaned
+    return content
 
 
 def generate_blog_post(news_items):
@@ -1093,6 +1150,8 @@ def _inject_article_count_badge(content, count):
 
 
 def save_post(content):
+    content = _sanitize_foreign_scripts(content)
+
     kst = datetime.timezone(datetime.timedelta(hours=9))
     # Subtract 5 minutes to ensure the post is in the past relative to build server time
     now_kst = datetime.datetime.now(kst) - datetime.timedelta(minutes=5)
