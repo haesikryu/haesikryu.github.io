@@ -49,18 +49,22 @@ PROMPT_TEMPLATE = """
 You are a tech blogger. I will provide you with a list of recent news headlines and summaries from various tech sources.
 Your task is to:
 1. Select the top 3-5 most important and interesting stories related to AI and Technology from the last 24 hours.
-2. Write a daily digest blog post in Korean.
+2. Write a daily digest blog post in Korean using **Hangul (한글) only** for all Korean text.
+   - **Never** use Hanja, Kanji, Hiragana, or Katakana in Korean sentences.
+   - Examples: write "일보" not "日報", "중요" not "重要", "요약" not "まとめ", "뉴스" not "ニュース".
+   - English product/company names and URLs may stay in Latin script.
 3. Start with a simple greeting like "안녕하세요!" and do not use placeholders like [Your Name] or introduce yourself.
-4. The post should have a catchy title.
-5. For each story, provide comprehensive details (2-3 paragraphs per story):
+4. Do not add a separate document title (no `# ...` heading). Start story sections directly with `## 1. Title`.
+5. The post should have a catchy title (shown only in the first `## 1.` header, not as `#` heading).
+6. For each story, provide comprehensive details (2-3 paragraphs per story):
     - A clear title as a header (e.g. ## 1. Title — use h2 `##`, not h3 `###`)
     - **Summary:** A detailed explanation of the event or announcement.
     - **Why it matters:** An analysis of its significance.
     - **Source:** [Link to Article](URL)
-6. Use proper Markdown formatting. **Do NOT use tables.** Use blockquotes (>) or regular paragraphs.
-7. Make it easy to read but informative.
-8. If multiple sources cover the same topic, combine them into one strong entry.
-9. At the very end of your response, add exactly one line: TAGS: tag1, tag2, tag3, ... (list 3-20 relevant tags in English or Korean, comma-separated, related to the topics covered in the digest).
+7. Use proper Markdown formatting. **Do NOT use tables.** Use blockquotes (>) or regular paragraphs.
+8. Make it easy to read but informative.
+9. If multiple sources cover the same topic, combine them into one strong entry.
+10. At the very end of your response, add exactly one line: TAGS: tag1, tag2, tag3, ... (list 3-20 relevant tags in English or Korean, comma-separated, related to the topics covered in the digest).
 
 Here is the news data:
 {news_data}
@@ -274,6 +278,51 @@ GEMINI_TAGS_MODELS = [
     "gemini-2.0-flash",
 ]
 
+# Hanja/Kanji/Hiragana/Katakana mixed into Korean text (e.g. 日報, まとめ)
+FOREIGN_SCRIPT_RE = re.compile(r"[\u3040-\u309f\u30a0-\u30ff\u4e00-\u9fff]")
+
+SANITIZE_KOREAN_PROMPT = """You are a Korean copy editor. The markdown blog post below mixes Hanja, Kanji, Hiragana, or Katakana into Korean text.
+
+Rewrite so that:
+- Korean sentences use Hangul (한글) only — replace Hanja/Kanji (日報→일보, 重要→중요, 提高→향상, 灵活性→유연성, etc.)
+- Replace Japanese kana with Korean (まとめ→요약, ニュース→뉴스)
+- Keep English product/company names, URLs, markdown structure, and the final TAGS: line format
+- Remove spurious `# document title` lines; keep story headers as `## N. Title`
+
+Return only the corrected markdown, no explanation.
+
+---
+{content}
+---"""
+
+
+def _contains_foreign_script(text: str) -> bool:
+    if not text or not isinstance(text, str):
+        return False
+    return bool(FOREIGN_SCRIPT_RE.search(text))
+
+
+def _sanitize_foreign_scripts(content: str) -> str:
+    """한자·일본어 문자가 섞인 본문을 한글-only로 정리합니다."""
+    if not _contains_foreign_script(content):
+        return content
+
+    print("Foreign script (CJK/kana) detected; sanitizing Korean text...")
+    prompt = SANITIZE_KOREAN_PROMPT.format(content=content)
+    cleaned = (
+        _generate_with_groq(prompt, system="You output only corrected markdown.")
+        or _generate_with_gemini(prompt, GEMINI_BLOG_MODELS)
+        or _generate_with_openai(prompt, system="You output only corrected markdown.")
+    )
+    if not cleaned:
+        print("Sanitization failed; using original content.")
+        return content
+    if _contains_foreign_script(cleaned):
+        print("Warning: some foreign scripts remain after sanitization.")
+    else:
+        print("Sanitization succeeded.")
+    return cleaned
+
 
 def generate_blog_post(news_items):
     # Format news for the prompt
@@ -311,7 +360,7 @@ def generate_blog_post(news_items):
             print(f"Could not list models: {e}")
         raise ValueError("Could not generate content with any model.")
 
-    return content
+    return _sanitize_foreign_scripts(content)
 
 
 def _parse_tags_json(raw: str):

@@ -22,7 +22,6 @@ title: "\uD50C\uB7AB\uD3FC \uC5D4\uC9C0\uB2C8\uC5B4\uB9C1\uC740 \uC5EC\uC804\uD7
 이번 digest에는 **4개의 기사**가 실렸습니다.
 
 
-# 기술日報: AI와 기술의 최신 동향
 ## 1. 플랫폼 엔지니어링은 여전히 중요함
 **요약:** 최근 코드 작성 비용이 낮아졌음에도 불구하고, 플랫폼 엔지니어링은 여전히 중요합니다. 재사용의 경제성으로 인해 매번 전체 스택을 새로 생성하는 것보다 이미 잘 만들어진 하위 플랫폼을 활용해 필요한 부분만 만드는 것이 여전히 저렴합니다. 
 > 코드 작성 비용이 0으로 간다라는 표현은 과장되어있다. 
@@ -31,7 +30,7 @@ title: "\uD50C\uB7AB\uD3FC \uC5D4\uC9C0\uB2C8\uC5B4\uB9C1\uC740 \uC5EC\uC804\uD7
 
 ## 2. Flexible Authentication - 수백만 사용자를 위한 Airbnb의 인증 재설계
 **요약:** Airbnb는 여행 예약처럼 로그인 간격이 길고 사용 환경이 다양한 서비스에서 인증 실패가 예약과 매출 손실로 이어진다고 보고, 10년간 누적된 로그인 방식을 Flexible Authentication으로 재설계했습니다. 핵심은 Identify first, then Challenge로, 사용자의 아이디를 먼저 확인한 후 인증을 요청하는 방식입니다.
-> Flexible Authentication은 사용자 인증의灵活性을 높이며, 로그인 실패로 인한 매출 손실을 최소화할 수 있습니다. 
+> Flexible Authentication은 사용자 인증의 유연성을 높이며, 로그인 실패로 인한 매출 손실을 최소화할 수 있습니다. 
 **의미:** Flexible Authentication은 사용자 인증의 효율성을 높이고, 로그인 실패로 인한 매출 손실을 최소화할 수 있습니다. 따라서 서비스 제공업계에서 이러한 인증 방식의 도입이 필요해 보입니다.
 **출처:** [https://news.hada.io/topic?id=32567](https://news.hada.io/topic?id=32567)
 
