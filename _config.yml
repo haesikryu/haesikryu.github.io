@@ -178,6 +178,7 @@ kramdown:
 tab_order:
   - blog
   - dashboard
+  - lectures
   - news
   - book-review
   - portfolio

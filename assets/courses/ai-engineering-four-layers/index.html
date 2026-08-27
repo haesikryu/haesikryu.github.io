@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>AI 엔지니어링 4레이어</title>
+  <style>
+    :root {
+      --bg: #0f1419;
+      --fg: #e8eef4;
+      --muted: #93a4b5;
+      --accent: #2dd4bf;
+      --panel: #18222c;
+    }
+    * { box-sizing: border-box; }
+    html, body {
+      margin: 0;
+      height: 100%;
+      background: var(--bg);
+      color: var(--fg);
+      font-family: "Pretendard", "Apple SD Gothic Neo", "Noto Sans KR", system-ui, sans-serif;
+    }
+    .deck {
+      height: 100%;
+      display: grid;
+      place-items: center;
+      padding: 2rem;
+      background:
+        radial-gradient(ellipse 80% 50% at 10% 0%, rgba(45, 212, 191, 0.12), transparent 55%),
+        radial-gradient(ellipse 60% 40% at 90% 100%, rgba(56, 189, 248, 0.08), transparent 50%),
+        var(--bg);
+    }
+    .slide {
+      display: none;
+      width: min(920px, 100%);
+      animation: in 280ms ease;
+    }
+    .slide.active { display: block; }
+    @keyframes in {
+      from { opacity: 0; transform: translateY(8px); }
+      to { opacity: 1; transform: none; }
+    }
+    h1 {
+      margin: 0 0 0.75rem;
+      font-size: clamp(1.8rem, 4vw, 2.75rem);
+      line-height: 1.2;
+      letter-spacing: -0.02em;
+    }
+    h2 {
+      margin: 0 0 1rem;
+      font-size: clamp(1.4rem, 3vw, 2rem);
+      color: var(--accent);
+    }
+    p, li {
+      font-size: clamp(1.05rem, 2vw, 1.25rem);
+      line-height: 1.65;
+      color: var(--muted);
+    }
+    p.lead { color: var(--fg); font-size: clamp(1.15rem, 2.2vw, 1.4rem); }
+    ul { padding-left: 1.2rem; }
+    li + li { margin-top: 0.45rem; }
+    .eyebrow {
+      display: inline-block;
+      margin-bottom: 1rem;
+      color: var(--accent);
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      font-size: 0.85rem;
+    }
+    .layers {
+      display: grid;
+      gap: 0.65rem;
+      margin-top: 1.25rem;
+    }
+    .layer {
+      padding: 0.85rem 1rem;
+      border-radius: 0.65rem;
+      background: var(--panel);
+      border-left: 4px solid var(--accent);
+    }
+    .layer strong { color: var(--fg); }
+    .hud {
+      position: fixed;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 1rem;
+      padding: 0.85rem 1.25rem;
+      background: rgba(15, 20, 25, 0.85);
+      backdrop-filter: blur(8px);
+      border-top: 1px solid rgba(255,255,255,0.06);
+      font-size: 0.9rem;
+      color: var(--muted);
+    }
+    .hud button {
+      appearance: none;
+      border: 1px solid rgba(255,255,255,0.15);
+      background: transparent;
+      color: var(--fg);
+      border-radius: 0.5rem;
+      padding: 0.45rem 0.85rem;
+      cursor: pointer;
+      font: inherit;
+    }
+    .hud button:hover { border-color: var(--accent); color: var(--accent); }
+    .hint { opacity: 0.75; }
+    a.back {
+      color: var(--accent);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <main class="deck" id="deck">
+    <section class="slide active" data-i="0">
+      <span class="eyebrow">Course</span>
+      <h1>AI 엔지니어링 4레이어</h1>
+      <p class="lead">Prompt → Context → Harness → Loop</p>
+      <p>좋은 답변을 넘어, 근거·실행·자동화까지 설계합니다.</p>
+    </section>
+
+    <section class="slide" data-i="1">
+      <h2>한 문장으로</h2>
+      <p class="lead">Prompt는 지시, Context는 근거, Harness는 실행·검증, Loop는 목표까지 반복하는 운영 구조입니다.</p>
+    </section>
+
+    <section class="slide" data-i="2">
+      <h2>1. Prompt</h2>
+      <p>무엇을, 어떤 형식으로, 어떤 제약하에 시킬지 정의합니다.</p>
+      <ul>
+        <li>역할 · 목표 · 범위</li>
+        <li>출력 형식 · 품질 기준</li>
+        <li>하지 말아야 할 것</li>
+      </ul>
+    </section>
+
+    <section class="slide" data-i="3">
+      <h2>2. Context</h2>
+      <p>무엇을 보고 판단할지 — RAG, 사내 문서, 정책, 이력, 도구 설명.</p>
+      <ul>
+        <li>관련성 · 최신성 · 권한</li>
+        <li>근거 추적 가능해야 함</li>
+        <li>많을수록 좋지 않음 (고신호만)</li>
+      </ul>
+    </section>
+
+    <section class="slide" data-i="4">
+      <h2>3. Harness</h2>
+      <p>도구 연결, 검증, 로깅, 권한 — AI를 시스템처럼 동작하게 만드는 장치.</p>
+      <ul>
+        <li>Gateway · Guardrail</li>
+        <li>Evaluation · Observability</li>
+        <li>Prompt / Tool Registry</li>
+      </ul>
+    </section>
+
+    <section class="slide" data-i="5">
+      <h2>4. Loop</h2>
+      <p>목표 달성까지 반복·점검·개선. Agentic workflow의 운영 층입니다.</p>
+      <ul>
+        <li>재시도 · 평가 · 승인</li>
+        <li>안전한 영역부터 자동화</li>
+        <li>감사 · 롤백 · 거버넌스</li>
+      </ul>
+    </section>
+
+    <section class="slide" data-i="6">
+      <h2>중첩 구조</h2>
+      <div class="layers">
+        <div class="layer"><strong>Loop</strong> — 목표까지 반복</div>
+        <div class="layer"><strong>Harness</strong> — 실행·검증·통제</div>
+        <div class="layer"><strong>Context</strong> — 판단 근거</div>
+        <div class="layer"><strong>Prompt</strong> — 지시</div>
+      </div>
+    </section>
+
+    <section class="slide" data-i="7">
+      <h2>도입 순서</h2>
+      <ol style="color: var(--muted); font-size: clamp(1.05rem, 2vw, 1.25rem); line-height: 1.7;">
+        <li>프롬프트 표준화</li>
+        <li>컨텍스트 / RAG 체계화</li>
+        <li>하네스 공통 플랫폼</li>
+        <li>검증 루프 → 제한된 자동화</li>
+      </ol>
+    </section>
+
+    <section class="slide" data-i="8">
+      <h2>마무리</h2>
+      <p class="lead">AI 활용에서 AI 시스템으로.</p>
+      <p><a class="back" href="../../.." id="back-link">← 교안 목록으로</a></p>
+    </section>
+  </main>
+
+  <div class="hud">
+    <div>
+      <button type="button" id="prev">← 이전</button>
+      <button type="button" id="next">다음 →</button>
+    </div>
+    <div><span id="pos">1</span> / <span id="total">1</span></div>
+    <div class="hint">← → 또는 Space · Esc로 목록</div>
+  </div>
+
+  <script>
+    (function () {
+      const slides = Array.from(document.querySelectorAll(".slide"));
+      const total = slides.length;
+      let i = 0;
+      const pos = document.getElementById("pos");
+      const totalEl = document.getElementById("total");
+      totalEl.textContent = String(total);
+
+      back.href = parts.replace(/\/$/, "") + "/lectures/";
+
+      function show(n) {
+        i = Math.max(0, Math.min(total - 1, n));
+        slides.forEach((s, idx) => s.classList.toggle("active", idx === i));
+        pos.textContent = String(i + 1);
+      }
+      document.getElementById("prev").onclick = () => show(i - 1);
+      document.getElementById("next").onclick = () => show(i + 1);
+      window.addEventListener("keydown", (e) => {
+        if (e.key === "ArrowRight" || e.key === " " || e.key === "PageDown") {
+          e.preventDefault();
+          show(i + 1);
+        } else if (e.key === "ArrowLeft" || e.key === "PageUp") {
+          e.preventDefault();
+          show(i - 1);
+        } else if (e.key === "Escape") {
+          location.href = back.href;
+        } else if (e.key === "Home") show(0);
+        else if (e.key === "End") show(total - 1);
+      });
+      show(0);
+    })();
+  </script>
+</body>
+</html>

@@ -1,0 +1,26 @@
+# 교안 목록 — `_tabs/lectures.md` 카드 그리드에서 사용
+# 새 교안: assets/courses/<id>/index.html 추가 후 여기 항목만 넣으면 됩니다.
+
+- id: design-patterns
+  title: "디자인 패턴"
+  summary: "디자인 패턴에 뛰어들기 — GoF 중심의 교육용 슬라이드"
+  tags: [Design-Patterns, Architecture, OOP]
+  date: "2026-08-27"
+  duration: "강의용"
+  href: /assets/courses/design-patterns/index.html
+
+- id: ai-engineering-four-layers
+  title: "AI 엔지니어링 4레이어"
+  summary: "Prompt · Context · Harness · Loop — 좋은 답변을 넘어 근거·실행·자동화까지"
+  tags: [AI, Architecture, Agents]
+  date: "2026-08-27"
+  duration: "약 15분"
+  href: /assets/courses/ai-engineering-four-layers/index.html
+
+- id: sample-blank
+  title: "교안 추가 가이드 (샘플)"
+  summary: "새 HTML 교안을 등록하는 방법 — 데이터 파일과 assets 경로만 맞추면 됩니다"
+  tags: [Guide]
+  date: "2026-08-27"
+  duration: "약 5분"
+  href: /assets/courses/sample-blank/index.html

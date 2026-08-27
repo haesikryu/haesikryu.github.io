@@ -1,0 +1,53 @@
+---
+layout: page
+---
+
+{% include lang.html %}
+
+<link rel="stylesheet" href="{{ '/assets/css/courses.css' | relative_url }}">
+
+<div class="courses-page">
+  <p class="lead mb-4">
+    HTML로 만든 교육 슬라이드입니다. 카드를 클릭하면 전체 화면 교안이 열립니다.
+    새 교안은 <code>assets/courses/&lt;id&gt;/index.html</code>과
+    <code>_data/courses.yml</code>에 추가하면 됩니다.
+  </p>
+
+  {% assign courses = site.data.courses %}
+  {% if courses and courses.size > 0 %}
+  <div class="courses-grid" role="list">
+    {% for course in courses %}
+    <a
+      class="course-card"
+      role="listitem"
+      href="{{ course.href | relative_url }}"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      <div class="course-card__meta">
+        {% if course.date %}
+        <time datetime="{{ course.date }}">{{ course.date }}</time>
+        {% endif %}
+        {% if course.duration %}
+        <span class="course-card__duration">{{ course.duration }}</span>
+        {% endif %}
+      </div>
+      <h2 class="course-card__title">{{ course.title }}</h2>
+      {% if course.summary %}
+      <p class="course-card__summary">{{ course.summary }}</p>
+      {% endif %}
+      {% if course.tags %}
+      <ul class="course-card__tags">
+        {% for tag in course.tags %}
+        <li>{{ tag }}</li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+      <span class="course-card__cta">교안 열기 →</span>
+    </a>
+    {% endfor %}
+  </div>
+  {% else %}
+  <p class="courses-empty">등록된 교안이 없습니다. <code>_data/courses.yml</code>을 확인하세요.</p>
+  {% endif %}
+</div>
