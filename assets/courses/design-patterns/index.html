@@ -36,7 +36,7 @@ body{font-family:var(--f-sans);color:var(--ink);
   background:radial-gradient(900px 620px at 8% -8%, rgba(0,167,199,.16), transparent 62%),
              radial-gradient(760px 560px at 104% 106%, rgba(63,203,184,.15), transparent 60%)}
 
-.slide{position:absolute;inset:0;padding:74px 96px 96px;display:none;flex-direction:column;z-index:2}
+.slide{position:absolute;inset:0;padding:74px 96px 110px;display:none;flex-direction:column;z-index:2}
 .slide.active{display:flex}
 .slide.full{padding:0}
 
@@ -80,7 +80,7 @@ code{font-family:var(--f-mono);font-size:.92em;background:rgba(0,167,199,.10);
 .cover-meta span{font-size:17px;color:var(--slate);margin-top:10px;letter-spacing:.02em}
 .src{margin-top:56px;font-size:15px;line-height:1.65;color:var(--mute);max-width:760px}
 .closing .src{margin-top:52px;text-align:center;max-width:900px;margin-left:auto;margin-right:auto}
-.cover-r{position:relative;height:700px;display:grid;place-items:center}
+.cover-r{position:relative;height:660px;display:grid;place-items:center}
 
 /* ── divider */
 .divider{display:grid;grid-template-columns:1fr 1fr;gap:80px;align-items:center;height:100%;
@@ -373,43 +373,40 @@ code{font-family:var(--f-mono);font-size:.92em;background:rgba(0,167,199,.10);
 .ns h3{font-size:24px;font-weight:800;margin:10px 0 11px}
 .ns p{font-size:17px;line-height:1.58;color:var(--slate)}
 
-/* ── chrome */
-#chrome{position:absolute;left:0;right:0;bottom:0;height:56px;display:flex;align-items:center;
-  justify-content:space-between;padding:0 40px;z-index:9;pointer-events:none;
-  font-family:var(--f-mono);font-size:14px;color:var(--mute)}
-#chrome .part{letter-spacing:.14em;text-transform:uppercase}
+/* ── bottom control bar */
+#chrome{position:absolute;left:0;right:0;bottom:0;height:66px;z-index:9;
+  display:grid;grid-template-columns:1fr auto 1fr;align-items:center;
+  padding:0 28px 3px;font-family:var(--f-mono);font-size:14px;color:var(--mute);
+  border-top:1px solid var(--line);background:rgba(255,255,255,.60);
+  backdrop-filter:blur(8px);transition:opacity .35s ease}
+.ch-l{justify-self:start;display:flex;align-items:center;gap:10px}
+.ch-c{justify-self:center}
+.ch-r{justify-self:end;letter-spacing:.03em;white-space:nowrap}
+#chrome .part{margin-left:16px;letter-spacing:.14em;text-transform:uppercase}
 #chrome .cnt{letter-spacing:.1em}
-#chrome .cnt b{color:var(--cyan);font-size:17px}
-#prog{position:absolute;left:0;bottom:0;height:3px;background:linear-gradient(90deg,var(--aqua),var(--cyan));
+#chrome .cnt b{color:var(--cyan);font-size:18px;
+  text-shadow:0 0 16px rgba(0,167,199,.45)}
+.navbtn{font-family:var(--f-mono);font-size:14px;font-weight:600;color:var(--navy);
+  background:#fff;border:1px solid var(--line2);border-radius:10px;padding:9px 16px;
+  cursor:pointer;transition:border-color .2s,box-shadow .2s,color .2s}
+.navbtn:hover{border-color:rgba(0,167,199,.55);color:#00798F;box-shadow:var(--glow-m)}
+.navbtn:active{transform:translateY(1px)}
+.navbtn:disabled{opacity:.4;cursor:default;box-shadow:none;border-color:var(--line)}
+.navbtn:focus-visible{outline:3px solid var(--cyan);outline-offset:2px}
+#prog{position:absolute;left:0;bottom:0;height:3px;
+  background:linear-gradient(90deg,var(--aqua),var(--cyan));
   box-shadow:0 0 16px rgba(0,167,199,.8);width:0;transition:width .4s ease;z-index:10}
-#hint{position:fixed;right:26px;bottom:22px;z-index:30;display:flex;gap:10px;align-items:center;
-  font-family:var(--f-mono);font-size:12px;color:#5D7186;background:rgba(255,255,255,.85);
-  border:1px solid rgba(23,50,74,.14);border-radius:10px;padding:9px 14px;backdrop-filter:blur(8px);
-  transition:opacity .5s ease}
-#hint.hide{opacity:0;pointer-events:none}
-kbd{font-family:var(--f-mono);background:#fff;border:1px solid rgba(23,50,74,.22);
-  border-bottom-width:2px;border-radius:6px;padding:2px 7px;font-size:12px;color:var(--navy)}
-.navbtn{position:fixed;top:50%;transform:translateY(-50%);width:52px;height:52px;border-radius:50%;
-  border:1px solid rgba(23,50,74,.16);background:rgba(255,255,255,.9);color:var(--navy);
-  cursor:pointer;z-index:30;display:grid;place-items:center;font-size:20px;
-  backdrop-filter:blur(8px);opacity:.35;transition:opacity .25s,box-shadow .25s}
-.navbtn:hover{opacity:1;box-shadow:var(--glow-s)}
-.navbtn:focus-visible{outline:3px solid var(--cyan);outline-offset:3px;opacity:1}
-#prev{left:22px}#next{right:22px}
 
 /* ── fullscreen: nothing but the slide */
 html:fullscreen,html:-webkit-full-screen{background:var(--paper)}
 html:fullscreen body,html:-webkit-full-screen body{background:var(--paper)}
 html:fullscreen #stage{box-shadow:none}
-html:fullscreen .navbtn,html:fullscreen #hint{opacity:0;pointer-events:none;
-  transition:opacity .35s ease}
-html:fullscreen.ui-show .navbtn{opacity:.35;pointer-events:auto}
-html:fullscreen.ui-show #hint:not(.hide){opacity:1}
+html:fullscreen #chrome{opacity:0;pointer-events:none}
+html:fullscreen.ui-show #chrome{opacity:1;pointer-events:auto}
 html:fullscreen{cursor:none}
 html:fullscreen.ui-show{cursor:default}
-html:fullscreen #chrome{opacity:.55}
 
-.cons{width:100%;height:100%;overflow:visible}
+.cons{width:631px;height:660px;overflow:visible}
 .cln{stroke-width:1.4;opacity:.30;stroke-dasharray:300;stroke-dashoffset:300;
   transition:stroke-dashoffset 1.6s ease .3s}
 .cln.faint{opacity:.16;stroke-dasharray:5 6}
@@ -1240,13 +1237,18 @@ interface CDN
 <section class="slide" data-part="PART 5 · 정리와 적용" data-title="패턴 사용 시 주의"><header class="shead"><div class="frg" data-f="0"><p class="eyebrow">5-3 · 주의</p><h2 class="h2">패턴은 도구입니다. 목표가 아닙니다.</h2><span class="rule"></span></div><p class="lead frg" data-f="0">패턴을 배운 직후가 가장 위험합니다. 모든 문제가 패턴처럼 보이기 시작합니다.</p></header><div class="split-6-4"><div class="frg" data-f="1"><div class="chartbox"><p class="cbtitle">추상화를 더할수록 얻는 것과 잃는 것</p><svg viewBox="0 0 620 300" class="linechart"><g class="axis"><line x1="60" y1="250" x2="590" y2="250"/><line x1="60" y1="24" x2="60" y2="250"/></g><text x="325" y="284" class="axl">추상 계층의 수 →</text><path class="area" d="M60,250 C180,110 260,72 330,72 C420,72 500,110 560,150 L560,250 Z"/><path class="ln good2" d="M60,250 C180,110 260,72 330,72 C420,72 500,110 560,150" fill="none"/><line class="vguide" x1="330" y1="60" x2="330" y2="250"/><circle class="dot good2 big" cx="330" cy="72" r="9"/><text x="330" y="46" class="lnlab good2">여기가 최적점</text><text x="150" y="200" class="axl">과소 설계</text><text x="500" y="200" class="axl">과잉 설계</text></svg></div></div><div class="frg" data-f="2"><ul class="deflist"><li><b>먼저 문제가 나타나야 합니다</b><span>“나중에 바뀔지도 모른다”는 예감만으로 패턴을 넣으면, 대부분 오지 않는 미래를 위해 오늘의 가독성을 냅니다.</span></li><li><b>단순함이 기본값입니다</b><span>같은 값을 하는 두 설계가 있다면 단순한 쪽이 옳습니다.</span></li><li><b>이름을 남기세요</b><span>패턴을 적용했다면 클래스 이름과 주석에 그 사실을 드러내세요. 다음 사람이 읽을 지도가 됩니다.</span></li></ul></div></div></section>
 <section class="slide full" data-part="" data-title="마무리"><div class="closing"><p class="eyebrow frg" data-f="0">정리</p><h2 class="h1 frg" data-f="0">패턴은 답이 아니라<br><span class="hl">질문하는 방법</span>입니다</h2><p class="lead center frg" data-f="1">“이 코드에서 <b>바뀔 것</b>은 무엇이고, <b>바뀌지 않을 것</b>은 무엇인가.”<br>22개 패턴은 이 질문에 대한 22가지 대답이었습니다.</p><div class="nextsteps"><div class="ns frg pop" data-f="2"><span>01</span><h3>직접 그려 보기</h3><p>지금 맡고 있는 코드에서 가장 자주 열리는 파일을 하나 고르고, 그 파일이 열리는 이유를 모두 적어 보세요.</p></div><div class="ns frg pop" data-f="3"><span>02</span><h3>하나만 적용하기</h3><p>증상이 명확한 곳에 패턴 하나만 적용하고, 코드 리뷰에서 그 이유를 설명해 보세요.</p></div><div class="ns frg pop" data-f="4"><span>03</span><h3>팀의 언어로 만들기</h3><p>설계 논의에서 패턴 이름을 쓰기 시작하면, 그때부터 패턴은 지식이 아니라 도구가 됩니다.</p></div></div><p class="src frg" data-f="5">원저 · Alexander Shvets 『디자인 패턴에 뛰어들기』(Refactoring.Guru) · 삽화 드미트리 자르트 · 옮긴이 황우진<br>이 슬라이드는 원서의 목차 구성을 참고해 교육용으로 새로 작성한 요약본입니다. 상세한 예제 코드와 설명은 원서를 참고하세요.</p></div></section>
 
-    <div id="chrome"><span class="part"></span><span class="cnt"></span></div>
+    <div id="chrome">
+      <div class="ch-l">
+        <button id="prev" class="navbtn" aria-label="이전">&#8592; 이전</button>
+        <button id="next" class="navbtn" aria-label="다음">다음 &#8594;</button>
+        <span class="part"></span>
+      </div>
+      <div class="ch-c"><span class="cnt"></span></div>
+      <div class="ch-r">&#8592; &#8594; 또는 Space &middot; &#8593;&#8595; 슬라이드 &middot; F 전체화면</div>
+    </div>
     <div id="prog"></div>
   </div>
 </div>
-<button id="prev" class="navbtn" aria-label="이전">‹</button>
-<button id="next" class="navbtn" aria-label="다음">›</button>
-<div id="hint"><kbd>→</kbd> 요소 표시 · 다음 <kbd>←</kbd> 이전 <kbd>↓</kbd><kbd>↑</kbd> 슬라이드 이동 <kbd>F</kbd> 전체화면</div>
 <script>
 (function(){
   const stage=document.getElementById('stage');
@@ -1254,7 +1256,8 @@ interface CDN
   const partEl=document.querySelector('#chrome .part');
   const cntEl=document.querySelector('#chrome .cnt');
   const prog=document.getElementById('prog');
-  const hint=document.getElementById('hint');
+  const btnPrev=document.getElementById('prev');
+  const btnNext=document.getElementById('next');
   let si=0, fi=0, maxF=0;
 
   function fit(){
@@ -1273,6 +1276,8 @@ interface CDN
     partEl.textContent=slides[si].dataset.part||'';
     cntEl.innerHTML='<b>'+String(si+1).padStart(2,'0')+'</b> / '+slides.length;
     prog.style.width=((si)/(slides.length-1)*100)+'%';
+    btnPrev.disabled=(si===0&&fi===0);
+    btnNext.disabled=(si===slides.length-1&&fi===maxF);
   }
   function show(n,atEnd){
     slides[si].classList.remove('active');
@@ -1288,20 +1293,17 @@ interface CDN
 
   addEventListener('keydown',e=>{
     const k=e.key;
-    if(k==='ArrowRight'||k==='PageDown'||k===' '||k==='Enter'){e.preventDefault();next();hide();}
-    else if(k==='ArrowLeft'||k==='PageUp'||k==='Backspace'){e.preventDefault();prev();hide();}
-    else if(k==='ArrowDown'){e.preventDefault();show(si+1,false);hide();}
-    else if(k==='ArrowUp'){e.preventDefault();show(si-1,false);hide();}
+    if(k==='ArrowRight'||k==='PageDown'||k===' '||k==='Enter'){e.preventDefault();next();}
+    else if(k==='ArrowLeft'||k==='PageUp'||k==='Backspace'){e.preventDefault();prev();}
+    else if(k==='ArrowDown'){e.preventDefault();show(si+1,false);}
+    else if(k==='ArrowUp'){e.preventDefault();show(si-1,false);}
     else if(k==='Home'){show(0,false);}
     else if(k==='End'){show(slides.length-1,true);}
     else if(k==='f'||k==='F'){toggleFull();}
     else if(k==='Escape'){document.exitFullscreen?.();}
   });
-  document.getElementById('next').onclick=()=>{next();hide()};
-  document.getElementById('prev').onclick=()=>{prev();hide()};
-
-  let t; function hide(){hint.classList.add('hide');}
-  setTimeout(hide,7000);
+  btnNext.onclick=()=>next();
+  btnPrev.onclick=()=>prev();
 
   const root=document.documentElement;
   function toggleFull(){
