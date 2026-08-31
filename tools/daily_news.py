@@ -15,14 +15,15 @@ import re
 HISTORY_FILE = os.path.join(os.path.dirname(__file__), "news_history.json")
 
 GROQ_BASE_URL = "https://api.groq.com/openai/v1"
+# Groq: llama-3.1/3.3 free·developer tier 종료(2026-08-16). 공식 대체 모델 사용.
 GROQ_BLOG_MODELS = [
-    "llama-3.3-70b-versatile",
-    "llama-3.1-70b-versatile",
-    "llama-3.1-8b-instant",
+    "openai/gpt-oss-120b",
+    "openai/gpt-oss-20b",
+    "qwen/qwen3.6-27b",
 ]
 GROQ_TAGS_MODELS = [
-    "llama-3.3-70b-versatile",
-    "llama-3.1-8b-instant",
+    "openai/gpt-oss-120b",
+    "openai/gpt-oss-20b",
 ]
 
 # Configuration
@@ -266,16 +267,18 @@ def _generate_with_openai(prompt, *, system=None):
 
 
 GEMINI_BLOG_MODELS = [
-    "gemini-2.0-flash",
-    "gemini-2.0-flash-001",
-    "gemini-2.5-flash",
-    "gemini-flash-latest",
+    "gemini-3.6-flash",
+    "gemini-3.7-flash",
+    "gemini-3.5-flash",
+    "gemini-3.1-flash-lite",
+    "gemini-flash-lite-latest",
 ]
 
 GEMINI_TAGS_MODELS = [
-    "gemini-2.5-flash",
-    "gemini-flash-latest",
-    "gemini-2.0-flash",
+    "gemini-3.6-flash",
+    "gemini-3.5-flash",
+    "gemini-3.1-flash-lite",
+    "gemini-flash-lite-latest",
 ]
 
 # Hanja/Kanji/Hiragana/Katakana mixed into Korean text (e.g. 日報, まとめ)
