@@ -2,6 +2,8 @@ import os
 import glob
 import re
 import datetime
+import subprocess
+import shutil
 from openai import OpenAI
 from moviepy.editor import *
 from google_auth_oauthlib.flow import InstalledAppFlow
@@ -229,14 +231,127 @@ def generate_script_and_keywords(items):
 
 from gtts import gTTS
 
+MIN_AUDIO_BYTES = 1024
+
+
+def _remove_if_exists(path):
+    if path and os.path.exists(path):
+        os.remove(path)
+
+
+def validate_audio_file(path, min_bytes=MIN_AUDIO_BYTES):
+    """ffprobe로 오디오 파일이 실제로 재생 가능한지 검증합니다."""
+    if not path or not os.path.exists(path):
+        return False
+    size = os.path.getsize(path)
+    if size < min_bytes:
+        print(f"오디오 파일이 너무 작습니다: {path} ({size} bytes)")
+        return False
+    try:
+        result = subprocess.run(
+            [
+                "ffprobe",
+                "-v",
+                "error",
+                "-show_entries",
+                "format=duration",
+                "-of",
+                "default=noprint_wrappers=1:nokey=1",
+                path,
+            ],
+            capture_output=True,
+            text=True,
+            timeout=30,
+            check=False,
+        )
+        if result.returncode != 0:
+            print(f"ffprobe 검증 실패: {result.stderr.strip()}")
+            return False
+        duration = float(result.stdout.strip())
+        if duration <= 0:
+            print("오디오 길이가 0입니다.")
+            return False
+        return True
+    except Exception as e:
+        print(f"오디오 검증 중 오류: {e}")
+        return False
+
+
+def normalize_audio_file(src_path, dst_path):
+    """MoviePy/FFmpeg가 안정적으로 읽을 수 있는 MP3로 재인코딩합니다."""
+    result = subprocess.run(
+        [
+            "ffmpeg",
+            "-y",
+            "-i",
+            src_path,
+            "-vn",
+            "-acodec",
+            "libmp3lame",
+            "-ar",
+            "44100",
+            "-ac",
+            "1",
+            "-q:a",
+            "4",
+            dst_path,
+        ],
+        capture_output=True,
+        text=True,
+        timeout=120,
+        check=False,
+    )
+    if result.returncode != 0:
+        print(f"ffmpeg 정규화 실패: {result.stderr.strip()}")
+        return False
+    return validate_audio_file(dst_path)
+
+
+def finalize_audio(temp_path, output_path):
+    """임시 TTS 결과를 검증·정규화한 뒤 최종 경로로 저장합니다."""
+    normalized_path = output_path + ".normalized.mp3"
+    try:
+        if normalize_audio_file(temp_path, normalized_path):
+            shutil.move(normalized_path, output_path)
+            return True
+        if validate_audio_file(temp_path):
+            shutil.copy2(temp_path, output_path)
+            return True
+        return False
+    finally:
+        _remove_if_exists(normalized_path)
+        _remove_if_exists(temp_path)
+
+
+def generate_audio_openai(script, temp_path):
+    api_key = (os.environ.get("OPENAI_API_KEY") or "").strip()
+    if not api_key:
+        return False
+    try:
+        client = OpenAI(api_key=api_key)
+        with client.audio.speech.with_streaming_response.create(
+            model="tts-1",
+            voice="nova",
+            input=script,
+        ) as response:
+            response.stream_to_file(temp_path)
+        return validate_audio_file(temp_path)
+    except Exception as e:
+        print(f"OpenAI TTS 실패: {e}")
+        return False
+
+
 async def generate_audio_async(script, output_path):
     """
-    Edge TTS를 사용하여 오디오를 생성하고, 실패 시 gTTS로 대체합니다 (비동기 함수).
+    Edge TTS를 사용하여 오디오를 생성하고, 실패 시 gTTS/OpenAI TTS로 대체합니다 (비동기 함수).
     
     Args:
         script (str): 오디오로 변환할 대본
         output_path (str): 저장할 오디오 파일 경로
     """
+    if not script or not script.strip():
+        raise ValueError("대본이 비어 있어 오디오를 생성할 수 없습니다.")
+
     # 사용 가능한 음성: 
     # ko-KR-SunHiNeural (여성, 부드러움/전문적)
     # ko-KR-SeoHyeonNeural (여성, 젊음/밝음)
@@ -244,29 +359,46 @@ async def generate_audio_async(script, output_path):
     # 사용자 요구사항: 부드러운 20대 여성 목소리, 약간 빠른 속도
     voice = "ko-KR-SeoHyeonNeural" 
     rate = "+20%" # 속도 20% 증가
+    temp_path = output_path + ".tmp"
+    _remove_if_exists(output_path)
     
-    # 재시도 로직 (최대 3회)
+    # Edge TTS (최대 3회)
     for attempt in range(3):
+        _remove_if_exists(temp_path)
         try:
             communicate = edge_tts.Communicate(script, voice, rate=rate)
-            await communicate.save(output_path)
-            return output_path
+            await communicate.save(temp_path)
+            if validate_audio_file(temp_path) and finalize_audio(temp_path, output_path):
+                print("Edge TTS로 오디오 생성 완료.")
+                return output_path
+            print(f"Edge TTS가 유효하지 않은 파일을 생성했습니다. 시도 {attempt + 1}/3")
         except Exception as e:
             print(f"Edge TTS 실패 ({e}). 시도 {attempt + 1}/3. 재시도 중...")
-            if attempt == 2: # 마지막 시도도 실패한 경우
-                print("모든 Edge TTS 시도가 실패했습니다. Google TTS (gTTS)로 전환합니다...")
-                break
-    
-    # gTTS를 사용한 대체 (Fallback)
+        finally:
+            _remove_if_exists(temp_path)
+
+    print("Edge TTS 실패. Google TTS (gTTS)로 전환합니다...")
+    _remove_if_exists(temp_path)
     try:
-        # gTTS는 동기식이지만 여기서 실행합니다.
         tts = gTTS(text=script, lang='ko')
-        tts.save(output_path)
-        print("gTTS를 사용하여 오디오 생성 완료.")
-        return output_path
+        tts.save(temp_path)
+        if validate_audio_file(temp_path) and finalize_audio(temp_path, output_path):
+            print("gTTS로 오디오 생성 완료.")
+            return output_path
+        print("gTTS가 유효하지 않은 파일을 생성했습니다.")
     except Exception as e:
-         print(f"gTTS도 실패했습니다: {e}")
-         raise
+        print(f"gTTS 실패: {e}")
+    finally:
+        _remove_if_exists(temp_path)
+
+    print("gTTS 실패. OpenAI TTS로 전환합니다...")
+    _remove_if_exists(temp_path)
+    if generate_audio_openai(script, temp_path) and finalize_audio(temp_path, output_path):
+        print("OpenAI TTS로 오디오 생성 완료.")
+        return output_path
+    _remove_if_exists(temp_path)
+
+    raise RuntimeError("모든 TTS 제공자가 실패했거나 유효한 오디오를 생성하지 못했습니다.")
 
 def generate_audio(script, output_path):
     """
@@ -286,6 +418,8 @@ def create_video(audio_path, script_text, output_video_path, keywords=None):
         keywords (list): 배경 영상 검색을 위한 키워드 리스트
     """
     # 오디오 로드 및 길이 확인
+    if not validate_audio_file(audio_path):
+        raise RuntimeError(f"유효하지 않은 오디오 파일입니다: {audio_path}")
     audio_clip = AudioFileClip(audio_path)
     duration = audio_clip.duration
     
