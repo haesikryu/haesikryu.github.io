@@ -298,5 +298,175 @@
     "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
     "link": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
     "date": "2026-08-31"
+  },
+  {
+    "title": "Ambient CSS v3 – Blender와 CSS의 만남",
+    "link": "https://news.hada.io/topic?id=33152",
+    "date": "2026-09-02"
+  },
+  {
+    "title": "Zuzai, AI를 쓰지 않았음을 나타내는 새로운 단어",
+    "link": "https://news.hada.io/topic?id=33151",
+    "date": "2026-09-02"
+  },
+  {
+    "title": "클릭하우스(ClickHouse) – 기적의 데이터베이스 기술",
+    "link": "https://news.hada.io/topic?id=33149",
+    "date": "2026-09-02"
+  },
+  {
+    "title": "Show GN: 스마트폰 없이도 결제하기 — 교내 매점에 지문인식 결제 시스템을 직접 만들어 배포한 이야기",
+    "link": "https://news.hada.io/topic?id=33148",
+    "date": "2026-09-02"
+  },
+  {
+    "title": "CSS 축소는 정말 필요한가? (2023)",
+    "link": "https://news.hada.io/topic?id=33147",
+    "date": "2026-09-02"
+  },
+  {
+    "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+    "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+    "date": "2026-09-02"
+  },
+  {
+    "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
+    "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+    "date": "2026-09-02"
+  },
+  {
+    "title": "Google’s Android update tackles motion sickness, accessibility, and more",
+    "link": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+    "date": "2026-09-02"
+  },
+  {
+    "title": "Anthropic’s new Fable release is cheaper, less restrictive",
+    "link": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+    "date": "2026-09-02"
+  },
+  {
+    "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
+    "link": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+    "date": "2026-09-02"
+  },
+  {
+    "title": "How AI-native companies turn workflows into operating capability",
+    "link": "https://openai.com/index/ai-native-company-workflows",
+    "date": "2026-09-02"
+  },
+  {
+    "title": "Path to Astra: critical capabilities and frontier safeguards",
+    "link": "https://openai.com/index/path-to-astra",
+    "date": "2026-09-02"
+  },
+  {
+    "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+    "link": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+    "date": "2026-09-02"
+  },
+  {
+    "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+    "link": "https://openai.com/index/gilbert-tobin",
+    "date": "2026-09-02"
+  },
+  {
+    "title": "OpenAI supports California’s bill to advance youth AI safety",
+    "link": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+    "date": "2026-09-02"
+  },
+  {
+    "title": "The latest AI news we announced in August 2026",
+    "link": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+    "date": "2026-09-02"
+  },
+  {
+    "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+    "link": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+    "date": "2026-09-02"
+  },
+  {
+    "title": "How AI plotted an interstellar journey to Alpha Centauri",
+    "link": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
+    "date": "2026-09-02"
+  },
+  {
+    "title": "Making the AI-powered case for legacy modernization",
+    "link": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/",
+    "date": "2026-09-02"
+  },
+  {
+    "title": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
+    "link": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/",
+    "date": "2026-09-02"
+  },
+  {
+    "title": "How engineered microbes could help feed the world’s crops",
+    "link": "https://www.technologyreview.com/2026/09/01/1143195/microbe-fertilizer-switch-bioworks/",
+    "date": "2026-09-02"
+  },
+  {
+    "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
+    "link": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+    "date": "2026-09-02"
+  },
+  {
+    "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+    "link": "https://huggingface.co/blog/allenai/benchmirt",
+    "date": "2026-09-02"
+  },
+  {
+    "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+    "link": "https://huggingface.co/blog/webgpu-kernels",
+    "date": "2026-09-02"
+  },
+  {
+    "title": "Is Russia's rival to Starlink failing? Here's what we know.",
+    "link": "https://arstechnica.com/space/2026/09/rassvet-russias-rival-to-starlink-is-getting-off-to-a-slow-start/",
+    "date": "2026-09-02"
+  },
+  {
+    "title": "BGP hijack infecting networks caused by a comedy of errors that’s not funny at all",
+    "link": "https://arstechnica.com/security/2026/09/well-executed-bgp-attack-uses-hijacked-ips-to-infect-real-networks/",
+    "date": "2026-09-02"
+  },
+  {
+    "title": "Here's our first look—and drive—of the 2027 Range Rover Electric",
+    "link": "https://arstechnica.com/cars/2026/09/range-rover-ev-electric-propulsion-pairs-perfectly-with-this-luxury-suv/",
+    "date": "2026-09-02"
+  },
+  {
+    "title": "Research roundup: 7 cool science stories we almost missed",
+    "link": "https://arstechnica.com/science/2026/09/august-research-roundup-7-cool-science-stories-we-almost-missed/",
+    "date": "2026-09-02"
+  },
+  {
+    "title": "A newborn and child reportedly died of measles; CDC isn't counting them",
+    "link": "https://arstechnica.com/health/2026/09/cdc-reported-then-deleted-two-measles-deaths-that-were-questioned-by-rfk-jr/",
+    "date": "2026-09-02"
+  },
+  {
+    "title": "The Grid Queue Is Full of Projects Nobody Has Decided to Build",
+    "link": "https://www.unite.ai/ai-data-centers-grid-capacity-decision-latency/",
+    "date": "2026-09-02"
+  },
+  {
+    "title": "Ankur Dhingra, CEO of ProHance – Interview Series",
+    "link": "https://www.unite.ai/ankur-dhingra-ceo-of-prohance-interview-series/",
+    "date": "2026-09-02"
+  },
+  {
+    "title": "Vertiv Strikes $1.45B Deal for Microgrid Firm UtilityInnovation Group",
+    "link": "https://www.unite.ai/vertiv-strikes-1-45b-deal-for-microgrid-firm-utilityinnovation-group/",
+    "date": "2026-09-02"
+  },
+  {
+    "title": "Acer Introduces Compact SFF RTX Spark Desktop for Local Agentic AI",
+    "link": "https://www.unite.ai/acer-introduces-compact-sff-rtx-spark-desktop-for-local-agentic-ai/",
+    "date": "2026-09-02"
+  },
+  {
+    "title": "Acer Unveils Veriton RI110 Mini Workstation for Local Agentic AI",
+    "link": "https://www.unite.ai/acer-unveils-veriton-ri110-mini-workstation-for-local-agentic-ai/",
+    "date": "2026-09-02"
   }
 ]
