@@ -468,5 +468,210 @@
     "title": "Acer Unveils Veriton RI110 Mini Workstation for Local Agentic AI",
     "link": "https://www.unite.ai/acer-unveils-veriton-ri110-mini-workstation-for-local-agentic-ai/",
     "date": "2026-09-02"
+  },
+  {
+    "title": "VC는 더 이상 VC가 아니다",
+    "link": "https://news.hada.io/topic?id=33210",
+    "date": "2026-09-04"
+  },
+  {
+    "title": "Google Antigravity의 서드파티 사용 금지와 계정 정지 약관 논란",
+    "link": "https://news.hada.io/topic?id=33209",
+    "date": "2026-09-04"
+  },
+  {
+    "title": "K2 Horizon, 학습 전 과정을 공개하는 6개 AI 모델 제품군",
+    "link": "https://news.hada.io/topic?id=33208",
+    "date": "2026-09-04"
+  },
+  {
+    "title": "Nvidia, Hugging Face를 약 19조원에 인수하기로 공식 합의",
+    "link": "https://news.hada.io/topic?id=33207",
+    "date": "2026-09-04"
+  },
+  {
+    "title": "CLIProxyAPI - AI 구독 계정을 호환 API로 노출하는 프록시",
+    "link": "https://news.hada.io/topic?id=33206",
+    "date": "2026-09-04"
+  },
+  {
+    "title": "Crusoe reportedly raises $3B at a  $30B valuation",
+    "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+    "date": "2026-09-04"
+  },
+  {
+    "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+    "link": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+    "date": "2026-09-04"
+  },
+  {
+    "title": "Abliteration.ai is making a business out of removing AI guardrails",
+    "link": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+    "date": "2026-09-04"
+  },
+  {
+    "title": "Meta is paying to peek at how you use their latest AI model",
+    "link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+    "date": "2026-09-04"
+  },
+  {
+    "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+    "link": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+    "date": "2026-09-04"
+  },
+  {
+    "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+    "link": "https://openai.com/index/daybreak-for-frontline-defenders",
+    "date": "2026-09-04"
+  },
+  {
+    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+    "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
+    "date": "2026-09-04"
+  },
+  {
+    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+    "link": "https://openai.com/index/playco-game-prototyping-with-astra",
+    "date": "2026-09-04"
+  },
+  {
+    "title": "Safety overview: GPT-6 Astra",
+    "link": "https://openai.com/index/safety-overview-gpt-6-astra",
+    "date": "2026-09-04"
+  },
+  {
+    "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+    "link": "https://openai.com/index/atv-big-air-tour",
+    "date": "2026-09-04"
+  },
+  {
+    "title": "Proactive cyber defense for governments and enterprises",
+    "link": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
+    "date": "2026-09-04"
+  },
+  {
+    "title": "The Download: rethinking child safety and fossil-fueled farming",
+    "link": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/",
+    "date": "2026-09-04"
+  },
+  {
+    "title": "Agriculture relies on fossil fuels. It’s costing us.",
+    "link": "https://www.technologyreview.com/2026/09/03/1143320/fertilizer-prices-fossil-fuels/",
+    "date": "2026-09-04"
+  },
+  {
+    "title": "Scaling agentic AI pilots across the enterprise",
+    "link": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/",
+    "date": "2026-09-04"
+  },
+  {
+    "title": "Facilitating AI integration with simplicity at scale",
+    "link": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+    "date": "2026-09-04"
+  },
+  {
+    "title": "The Download: AI puzzles and a path to our nearest star system",
+    "link": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
+    "date": "2026-09-04"
+  },
+  {
+    "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+    "link": "https://huggingface.co/blog/Hcompany/neomme",
+    "date": "2026-09-04"
+  },
+  {
+    "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+    "link": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+    "date": "2026-09-04"
+  },
+  {
+    "title": "Give Your Coding Agents a Memory You Own",
+    "link": "https://huggingface.co/blog/funes",
+    "date": "2026-09-04"
+  },
+  {
+    "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+    "link": "https://huggingface.co/blog/train-to-paint-with-code",
+    "date": "2026-09-04"
+  },
+  {
+    "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+    "link": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+    "date": "2026-09-04"
+  },
+  {
+    "title": "Reports: RFK Jr. ordered measles deaths deletion; CDC still secretly counts them",
+    "link": "https://arstechnica.com/health/2026/09/reports-rfk-jr-ordered-measles-deaths-deletion-cdc-still-secretly-counts-them/",
+    "date": "2026-09-04"
+  },
+  {
+    "title": "Xbox imposes harsh new time limits for Game Pass game streaming",
+    "link": "https://arstechnica.com/gaming/2026/09/xbox-imposes-harsh-new-time-limits-for-game-pass-game-streaming/",
+    "date": "2026-09-04"
+  },
+  {
+    "title": "150 research primates got diarrhea, flooding lab with priceless vaccine data",
+    "link": "https://arstechnica.com/health/2026/09/150-research-primates-got-diarrhea-flooding-lab-with-priceless-vaccine-data/",
+    "date": "2026-09-04"
+  },
+  {
+    "title": "Confused about which VPN is right, US senator asks the NSA for guidance",
+    "link": "https://arstechnica.com/security/2026/09/us-senator-calls-on-the-nsa-to-give-guidance-for-use-of-vpns/",
+    "date": "2026-09-04"
+  },
+  {
+    "title": "Supreme Court urged to let states regulate sports bets on prediction markets",
+    "link": "https://arstechnica.com/tech-policy/2026/09/nj-urges-scotus-to-rule-that-kalshi-sports-bets-are-gambling-not-swaps/",
+    "date": "2026-09-04"
+  },
+  {
+    "title": "OpenAI Releases GPT-6 Astra, Its First Model Rated Critical for Cybersecurity",
+    "link": "https://www.unite.ai/openai-releases-gpt-6-astra-its-first-model-rated-critical-for-cyber/",
+    "date": "2026-09-04"
+  },
+  {
+    "title": "Sanders and Casar Unveil Bill to Outlaw Superintelligent AI in the U.S.",
+    "link": "https://www.unite.ai/sanders-and-casar-unveil-bill-to-outlaw-superintelligent-ai-in-the-u-s/",
+    "date": "2026-09-04"
+  },
+  {
+    "title": "MAI-Transcribe-2 Tops FLEURS Benchmark Across 60 Languages, Microsoft Says",
+    "link": "https://www.unite.ai/mai-transcribe-2-tops-fleurs-benchmark-across-60-languages-microsoft-says/",
+    "date": "2026-09-04"
+  },
+  {
+    "title": "Pentagon Official Reaffirms Anthropic Supply Chain Risk Designation",
+    "link": "https://www.unite.ai/pentagon-official-reaffirms-anthropic-supply-chain-risk-designation/",
+    "date": "2026-09-04"
+  },
+  {
+    "title": "Nitin Seth, Author of Human Edge in the AI Age – Interview Series",
+    "link": "https://www.unite.ai/nitin-seth-author-of-human-edge-in-the-ai-age-interview-series/",
+    "date": "2026-09-04"
+  },
+  {
+    "title": "OneRail uses Nvidia AI for real-time last-mile delivery optimisation",
+    "link": "https://www.artificialintelligence-news.com/news/ai-last-mile-delivery-optimisation/",
+    "date": "2026-09-04"
+  },
+  {
+    "title": "NVIDIA to acquire Hugging Face for $12.93B",
+    "link": "https://www.artificialintelligence-news.com/news/nvidia-to-acquire-hugging-face-for-12-93b/",
+    "date": "2026-09-04"
+  },
+  {
+    "title": "Motional and MIT AI explains self-driving car decisions",
+    "link": "https://www.artificialintelligence-news.com/news/motional-and-mit-ai-explains-self-driving-car-decisions/",
+    "date": "2026-09-04"
+  },
+  {
+    "title": "ChatGPT Ads passes $1B run rate in 200 days",
+    "link": "https://www.artificialintelligence-news.com/news/chatgpt-ads-passes-1b-run-rate-in-200-days/",
+    "date": "2026-09-04"
+  },
+  {
+    "title": "Why MCP servers are becoming AI’s newest attack surface",
+    "link": "https://www.artificialintelligence-news.com/news/why-mcp-servers-are-becoming-ais-newest-attack-surface/",
+    "date": "2026-09-04"
   }
 ]
