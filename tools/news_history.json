@@ -738,5 +738,125 @@
     "title": "Nvidia’s AI Sector Equity Stakes Grow, SEC Filing Shows",
     "link": "https://www.unite.ai/nvidias-ai-sector-equity-stakes-grow-sec-filing-shows/",
     "date": "2026-09-04"
+  },
+  {
+    "title": "Claude Code·Codex·Cursor는 어떤 도구를 선택할까? 1만7천 회 실행 분석",
+    "link": "https://news.hada.io/topic?id=33247",
+    "date": "2026-09-05"
+  },
+  {
+    "title": "wigolo - AI 에이전트를 위한 로컬 우선 웹 검색/수집 도구",
+    "link": "https://news.hada.io/topic?id=33246",
+    "date": "2026-09-05"
+  },
+  {
+    "title": "DHH가 바라본 프로그래밍의 미래: 직접 코딩에서 AI 에이전트 팀 운영으로 [유튜브]",
+    "link": "https://news.hada.io/topic?id=33245",
+    "date": "2026-09-05"
+  },
+  {
+    "title": "AI 시대에 코드 리뷰에서 살아남는 방법은?",
+    "link": "https://news.hada.io/topic?id=33244",
+    "date": "2026-09-05"
+  },
+  {
+    "title": "Stave - AWS 설정 사이에 숨어 있는 공격 경로를 찾는 보안 검증 도구",
+    "link": "https://news.hada.io/topic?id=33243",
+    "date": "2026-09-05"
+  },
+  {
+    "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+    "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+    "date": "2026-09-05"
+  },
+  {
+    "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+    "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+    "date": "2026-09-05"
+  },
+  {
+    "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+    "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+    "date": "2026-09-05"
+  },
+  {
+    "title": "What will Apple’s John Ternus era look like?",
+    "link": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+    "date": "2026-09-05"
+  },
+  {
+    "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+    "link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+    "date": "2026-09-05"
+  },
+  {
+    "title": "Architecting memory and storage in the AI era",
+    "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+    "date": "2026-09-05"
+  },
+  {
+    "title": "The Download: selling battlefield drone data and AI reshaping language",
+    "link": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
+    "date": "2026-09-05"
+  },
+  {
+    "title": "After 8 years, Europe's BepiColombo mission is on final approach to Mercury",
+    "link": "https://arstechnica.com/space/2026/09/after-8-years-europes-bepicolombo-mission-is-on-final-approach-to-mercury/",
+    "date": "2026-09-05"
+  },
+  {
+    "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+    "link": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
+    "date": "2026-09-05"
+  },
+  {
+    "title": "Measles killed 6-week-old baby, coroner confirms after RFK Jr. disputed deaths",
+    "link": "https://arstechnica.com/health/2026/09/measles-killed-6-week-old-baby-coroner-confirms-after-rfk-jr-disputed-deaths/",
+    "date": "2026-09-05"
+  },
+  {
+    "title": "Trump admin fights ABC lawsuit as watchdogs worry Disney will settle with FCC",
+    "link": "https://arstechnica.com/tech-policy/2026/09/trump-admin-fights-abc-lawsuit-as-watchdogs-worry-disney-will-settle-with-fcc/",
+    "date": "2026-09-05"
+  },
+  {
+    "title": "Medieval manuscripts are \"biological time capsules\" for deadly sheeppox virus",
+    "link": "https://arstechnica.com/science/2026/09/medieval-manuscripts-are-biological-time-capsules-for-deadly-sheeppox-virus/",
+    "date": "2026-09-05"
+  },
+  {
+    "title": "OpenAI Commits $1B to Frontline Cyber Defense, Launches MS-ISAC Pilot",
+    "link": "https://www.unite.ai/openai-commits-1b-to-frontline-cyber-defense-launches-ms-isac-pilot/",
+    "date": "2026-09-05"
+  },
+  {
+    "title": "Roland Releases Melody Flip, an AI Melody-Generation Plug-In for DAWs",
+    "link": "https://www.unite.ai/roland-releases-melody-flip-an-ai-melody-generation-plug-in-for-daws/",
+    "date": "2026-09-05"
+  },
+  {
+    "title": "Microsoft Brings OpenAI’s GPT-6 Astra to Foundry With Limited Access",
+    "link": "https://www.unite.ai/microsoft-brings-openais-gpt-6-astra-to-foundry-with-limited-access/",
+    "date": "2026-09-05"
+  },
+  {
+    "title": "AWS Details Open-Source HyperPod InstantStart Control Plane for Agent Ops",
+    "link": "https://www.unite.ai/aws-details-open-source-hyperpod-instantstart-control-plane-for-agent-ops/",
+    "date": "2026-09-05"
+  },
+  {
+    "title": "Microsoft Tells Court Copilot Rarely Reproduces Books in AI Copyright MDL",
+    "link": "https://www.unite.ai/microsoft-tells-court-copilot-rarely-reproduces-books-in-ai-copyright-mdl/",
+    "date": "2026-09-05"
+  },
+  {
+    "title": "M&T Bank expands enterprise AI after years of technology overhaul",
+    "link": "https://www.artificialintelligence-news.com/news/mt-bank-enterprise-ai-15000-employees/",
+    "date": "2026-09-05"
+  },
+  {
+    "title": "50.5% of Americans Say AI Romance Can Count as Cheating",
+    "link": "https://www.artificialintelligence-news.com/news/50-5-of-americans-say-ai-romance-can-count-as-cheating/",
+    "date": "2026-09-05"
   }
 ]
