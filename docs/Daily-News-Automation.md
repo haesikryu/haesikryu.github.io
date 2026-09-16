@@ -49,23 +49,14 @@ on:
 2. **Set up Python**  
    - Python 3.11 설치.
 
-3. **Install system dependencies**  
-   - ffmpeg, imagemagick, ghostscript, fonts-nanum 등 (숏스 생성 등에 사용).
-
-4. **Install dependencies**  
+3. **Install dependencies**  
    - `tools/requirements.txt` 기준으로 pip 설치.
 
-5. **Run Daily News Script**  
+4. **Run Daily News Script**  
    - `python tools/daily_news.py` 실행  
-   - 환경 변수: `GEMINI_API_KEY` 또는 `OPENAI_API_KEY`.
+   - 환경 변수: `GROQ_API_KEY` / `GEMINI_API_KEY` / `OPENAI_API_KEY`.
 
-6. **Generate and Upload Short**  
-   - `tools/generate_shorts.py` 실행 (당일 뉴스 기반 숏스 생성·업로드).
-
-7. **Upload Shorts Artifact**  
-   - 생성된 숏스 영상을 Artifact로 업로드 (실패해도 실행).
-
-8. **Commit and Push**  
+5. **Commit and Push**  
    - `_posts/news/*.md`, `tools/news_history.json` 변경 사항만 커밋 후 푸시.
 
 ---
@@ -155,7 +146,6 @@ Daily News 자동 등록만 사용할 때 필요한 시크릿은 아래와 같�
 | `OPENAI_API_KEY` | OpenAI API 키 (폴백) |
 
 - **GROQ_API_KEY**, **GEMINI_API_KEY**, **OPENAI_API_KEY** 중 **최소 하나**는 반드시 설정해야 합니다.
-- 숏스 생성·업로드까지 사용할 경우 `PEXELS_API_KEY`, `YOUTUBE_CLIENT_ID`, `YOUTUBE_CLIENT_SECRET`, `YOUTUBE_REFRESH_TOKEN` 등이 추가로 필요합니다.
 
 ---
 
@@ -193,7 +183,7 @@ python tools/daily_news.py
 
 | 경로 | 설명 |
 |------|------|
-| `.github/workflows/daily_news.yml` | Daily News + 숏스 자동 실행 워크플로우 |
+| `.github/workflows/daily_news.yml` | Daily News 자동 실행 워크플로우 |
 | `tools/daily_news.py` | 뉴스 수집·다이제스트 생성·포스트 저장 스크립트 |
 | `tools/news_history.json` | 사용한 기사 URL 히스토리 (자동 생성·갱신) |
 | `tools/requirements.txt` | Python 의존성 (feedparser, google-generativeai, openai, pyyaml 등) |
