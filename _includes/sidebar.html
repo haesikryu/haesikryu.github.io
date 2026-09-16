@@ -33,8 +33,13 @@
           {% for tab in site.tabs %}
             {% assign tab_id = tab.basename_without_ext | default: tab.slug | default: tab.url | split: '/' | last %}
             {% if tab_id == slug %}
-              <li class="nav-item{% if tab.url == page.url %}{{ " active" }}{% endif %}">
-                <a href="{{ tab.url | relative_url }}" class="nav-link">
+              {% if tab.external_url %}
+                {% assign tab_href = tab.external_url %}
+              {% else %}
+                {% assign tab_href = tab.url | relative_url %}
+              {% endif %}
+              <li class="nav-item{% if tab.url == page.url and tab.external_url == nil %}{{ " active" }}{% endif %}">
+                <a href="{{ tab_href }}" class="nav-link"{% if tab.open_in_new_tab or tab.external_url %} target="_blank" rel="noopener noreferrer"{% endif %}>
                   <i class="fa-fw {{ tab.icon }}"></i>
                   <span>{{ site.data.locales[include.lang].tabs.[slug] | default: tab.title | upcase }}</span>
                 </a>
@@ -45,8 +50,13 @@
         {% endfor %}
       {% else %}
         {% for tab in site.tabs %}
-          <li class="nav-item{% if tab.url == page.url %}{{ " active" }}{% endif %}">
-            <a href="{{ tab.url | relative_url }}" class="nav-link">
+          {% if tab.external_url %}
+            {% assign tab_href = tab.external_url %}
+          {% else %}
+            {% assign tab_href = tab.url | relative_url %}
+          {% endif %}
+          <li class="nav-item{% if tab.url == page.url and tab.external_url == nil %}{{ " active" }}{% endif %}">
+            <a href="{{ tab_href }}" class="nav-link"{% if tab.open_in_new_tab or tab.external_url %} target="_blank" rel="noopener noreferrer"{% endif %}>
               <i class="fa-fw {{ tab.icon }}"></i>
               {% capture tab_name %}{{ tab.url | split: '/' }}{% endcapture %}
               <span>{{ site.data.locales[include.lang].tabs.[tab_name] | default: tab.title | upcase }}</span>
