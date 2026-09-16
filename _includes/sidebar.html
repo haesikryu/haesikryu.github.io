@@ -30,20 +30,45 @@
       <!-- the real tabs: tab_order가 있으면 사용, 없으면 site.tabs (기본) -->
       {% if site.tab_order and site.tab_order.size > 0 %}
         {% for slug in site.tab_order %}
+          {% if slug == 'lectures' %}
+            <li class="nav-item">
+              <a
+                href="https://haesikryu.github.io/edubox/#curriculum"
+                class="nav-link"
+                target="_blank"
+                rel="noopener noreferrer"
+                onclick="window.open('https://haesikryu.github.io/edubox/#curriculum', '_blank', 'noopener,noreferrer'); return false;"
+              >
+                <i class="fa-fw fas fa-chalkboard-teacher"></i>
+                <span>LECTURE</span>
+              </a>
+            </li>
+            {% continue %}
+          {% endif %}
           {% for tab in site.tabs %}
             {% assign tab_id = tab.basename_without_ext | default: tab.slug | default: tab.url | split: '/' | last %}
             {% if tab_id == slug %}
               {% if tab.external_url %}
-                {% assign tab_href = tab.external_url %}
+                <li class="nav-item">
+                  <a
+                    href="{{ tab.external_url }}"
+                    class="nav-link"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    onclick="window.open(this.href, '_blank', 'noopener,noreferrer'); return false;"
+                  >
+                    <i class="fa-fw {{ tab.icon }}"></i>
+                    <span>{{ site.data.locales[include.lang].tabs.[slug] | default: tab.title | upcase }}</span>
+                  </a>
+                </li>
               {% else %}
-                {% assign tab_href = tab.url | relative_url %}
+                <li class="nav-item{% if tab.url == page.url %}{{ " active" }}{% endif %}">
+                  <a href="{{ tab.url | relative_url }}" class="nav-link">
+                    <i class="fa-fw {{ tab.icon }}"></i>
+                    <span>{{ site.data.locales[include.lang].tabs.[slug] | default: tab.title | upcase }}</span>
+                  </a>
+                </li>
               {% endif %}
-              <li class="nav-item{% if tab.url == page.url and tab.external_url == nil %}{{ " active" }}{% endif %}">
-                <a href="{{ tab_href }}" class="nav-link"{% if tab.open_in_new_tab or tab.external_url %} target="_blank" rel="noopener noreferrer"{% endif %}>
-                  <i class="fa-fw {{ tab.icon }}"></i>
-                  <span>{{ site.data.locales[include.lang].tabs.[slug] | default: tab.title | upcase }}</span>
-                </a>
-              </li>
               {% break %}
             {% endif %}
           {% endfor %}
@@ -51,17 +76,28 @@
       {% else %}
         {% for tab in site.tabs %}
           {% if tab.external_url %}
-            {% assign tab_href = tab.external_url %}
+            <li class="nav-item">
+              <a
+                href="{{ tab.external_url }}"
+                class="nav-link"
+                target="_blank"
+                rel="noopener noreferrer"
+                onclick="window.open(this.href, '_blank', 'noopener,noreferrer'); return false;"
+              >
+                <i class="fa-fw {{ tab.icon }}"></i>
+                {% capture tab_name %}{{ tab.url | split: '/' }}{% endcapture %}
+                <span>{{ site.data.locales[include.lang].tabs.[tab_name] | default: tab.title | upcase }}</span>
+              </a>
+            </li>
           {% else %}
-            {% assign tab_href = tab.url | relative_url %}
+            <li class="nav-item{% if tab.url == page.url %}{{ " active" }}{% endif %}">
+              <a href="{{ tab.url | relative_url }}" class="nav-link">
+                <i class="fa-fw {{ tab.icon }}"></i>
+                {% capture tab_name %}{{ tab.url | split: '/' }}{% endcapture %}
+                <span>{{ site.data.locales[include.lang].tabs.[tab_name] | default: tab.title | upcase }}</span>
+              </a>
+            </li>
           {% endif %}
-          <li class="nav-item{% if tab.url == page.url and tab.external_url == nil %}{{ " active" }}{% endif %}">
-            <a href="{{ tab_href }}" class="nav-link"{% if tab.open_in_new_tab or tab.external_url %} target="_blank" rel="noopener noreferrer"{% endif %}>
-              <i class="fa-fw {{ tab.icon }}"></i>
-              {% capture tab_name %}{{ tab.url | split: '/' }}{% endcapture %}
-              <span>{{ site.data.locales[include.lang].tabs.[tab_name] | default: tab.title | upcase }}</span>
-            </a>
-          </li>
         {% endfor %}
       {% endif %}
     </ul>
