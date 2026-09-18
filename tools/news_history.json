@@ -708,5 +708,120 @@
     "title": "Lidl deploys driverless truck for store deliveries in Germany",
     "link": "https://www.artificialintelligence-news.com/news/lidl-autonomous-truck-germany/",
     "date": "2026-09-17"
+  },
+  {
+    "title": "macOS 27 Golden Gate 리뷰",
+    "link": "https://news.hada.io/topic?id=33875",
+    "date": "2026-09-18"
+  },
+  {
+    "title": "스타트업을 피벗해야 할까? [동영상]",
+    "link": "https://news.hada.io/topic?id=33874",
+    "date": "2026-09-18"
+  },
+  {
+    "title": "SpaceXAI가 한 달 만에 Grok Bot을 만든 방법 [동영상]",
+    "link": "https://news.hada.io/topic?id=33872",
+    "date": "2026-09-18"
+  },
+  {
+    "title": "Anthropic, AI가 AI를 개발하는 내부 현황과 감독 지표 공개",
+    "link": "https://news.hada.io/topic?id=33871",
+    "date": "2026-09-18"
+  },
+  {
+    "title": "Bonsai 2 27B, 성능 98.2%를 유지하며 모델 크기를 5.9GB로 압축",
+    "link": "https://news.hada.io/topic?id=33869",
+    "date": "2026-09-18"
+  },
+  {
+    "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
+    "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+    "date": "2026-09-18"
+  },
+  {
+    "title": "Google DeepMind launches institute to widen the AGI debate",
+    "link": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+    "date": "2026-09-18"
+  },
+  {
+    "title": "PrismML hopes its tiny LLM will change how we all use AI",
+    "link": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
+    "date": "2026-09-18"
+  },
+  {
+    "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
+    "link": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
+    "date": "2026-09-18"
+  },
+  {
+    "title": "The fix for rogue AI agents could be more AI",
+    "link": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
+    "date": "2026-09-18"
+  },
+  {
+    "title": "How Cooley is accelerating IPO work with ChatGPT",
+    "link": "https://openai.com/index/cooley-gopublic",
+    "date": "2026-09-18"
+  },
+  {
+    "title": "Introducing Astra for Law",
+    "link": "https://openai.com/index/astra-for-law",
+    "date": "2026-09-18"
+  },
+  {
+    "title": "Making global data easier to explore",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+    "date": "2026-09-18"
+  },
+  {
+    "title": "RFK Jr. names 8 new members to influential preventive medicine task force",
+    "link": "https://arstechnica.com/health/2026/09/rfk-jr-stacks-another-influential-federal-panel-with-questionable-picks/",
+    "date": "2026-09-18"
+  },
+  {
+    "title": "Small AI models let drones autonomously identify and attack battlefield targets",
+    "link": "https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/",
+    "date": "2026-09-18"
+  },
+  {
+    "title": "Google announces new experimental \"CC\" AI agent for families",
+    "link": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
+    "date": "2026-09-18"
+  },
+  {
+    "title": "Microsoft exec called AI scraping the “largest theft of labor in human history”",
+    "link": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/",
+    "date": "2026-09-18"
+  },
+  {
+    "title": "Republican bill would order ISPs, DNS providers, and VPNs to block piracy sites",
+    "link": "https://arstechnica.com/tech-policy/2026/09/republican-bill-would-order-isps-dns-providers-and-vpns-to-block-piracy-sites/",
+    "date": "2026-09-18"
+  },
+  {
+    "title": "Anthropic Says Claude Leads 26% of Its AI Research and Development",
+    "link": "https://www.unite.ai/anthropic-says-claude-leads-26-of-its-ai-research-and-development/",
+    "date": "2026-09-18"
+  },
+  {
+    "title": "Scale AI Reports ROK-FORTRESS Findings on Multilingual AI Safety",
+    "link": "https://www.unite.ai/scale-ai-reports-rok-fortress-findings-on-multilingual-ai-safety/",
+    "date": "2026-09-18"
+  },
+  {
+    "title": "OpenAI Applies Mitigation as Elevated Error Rates Hit API Models",
+    "link": "https://www.unite.ai/openai-applies-mitigation-as-elevated-error-rates-hit-api-models/",
+    "date": "2026-09-18"
+  },
+  {
+    "title": "OpenAI Introduces Astra for Law With Legal Search and Trusted Access",
+    "link": "https://www.unite.ai/openai-introduces-astra-for-law-with-legal-search-and-trusted-access/",
+    "date": "2026-09-18"
+  },
+  {
+    "title": "Google Labs Expands CC Into an AI Agent for Families and Households",
+    "link": "https://www.unite.ai/google-labs-expands-cc-into-an-ai-agent-for-families-and-households/",
+    "date": "2026-09-18"
   }
 ]
