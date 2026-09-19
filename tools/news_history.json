@@ -1,210 +1,5 @@
 [
   {
-    "title": "Rune, 오픈 소스로 공개",
-    "link": "https://news.hada.io/topic?id=33568",
-    "date": "2026-09-12"
-  },
-  {
-    "title": "RubyGems 대규모 공격, OpenAI 에이전트 소행으로 추정",
-    "link": "https://news.hada.io/topic?id=33567",
-    "date": "2026-09-12"
-  },
-  {
-    "title": "Switchyard - OpenAI/Anthropic API 그대로 모델을 바꿔 쓰는 LLM 라우터",
-    "link": "https://news.hada.io/topic?id=33566",
-    "date": "2026-09-12"
-  },
-  {
-    "title": "evergarden - 자연에서 영감을 얻은 색상 테마",
-    "link": "https://news.hada.io/topic?id=33565",
-    "date": "2026-09-12"
-  },
-  {
-    "title": "모델은 스스로 통제를 벗어나지 않는다",
-    "link": "https://news.hada.io/topic?id=33564",
-    "date": "2026-09-12"
-  },
-  {
-    "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-    "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-    "date": "2026-09-12"
-  },
-  {
-    "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-    "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-    "date": "2026-09-12"
-  },
-  {
-    "title": "OpenAI’s feud with mathematicians is only escalating",
-    "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-    "date": "2026-09-12"
-  },
-  {
-    "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
-    "date": "2026-09-12"
-  },
-  {
-    "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
-    "link": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
-    "date": "2026-09-12"
-  },
-  {
-    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-    "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-    "date": "2026-09-12"
-  },
-  {
-    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-    "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-    "date": "2026-09-12"
-  },
-  {
-    "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-    "link": "https://openai.com/index/cognition-devin-testing-with-astra",
-    "date": "2026-09-12"
-  },
-  {
-    "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-    "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-    "date": "2026-09-12"
-  },
-  {
-    "title": "Now everyone can put data to work",
-    "link": "https://openai.com/index/put-data-to-work",
-    "date": "2026-09-12"
-  },
-  {
-    "title": "3 ways to prep for your next big race with Search",
-    "link": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
-    "date": "2026-09-12"
-  },
-  {
-    "title": "Get ready for the game with new football features in Search",
-    "link": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
-    "date": "2026-09-12"
-  },
-  {
-    "title": "Recreating a 70-year love story frame by frame",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
-    "date": "2026-09-12"
-  },
-  {
-    "title": "Roundtables: AI’s apocalypse crisis",
-    "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
-    "date": "2026-09-12"
-  },
-  {
-    "title": "The Download: biotech’s future and cheaper, cleaner steel",
-    "link": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
-    "date": "2026-09-12"
-  },
-  {
-    "title": "Meet the under-35s shaping the future of biotech",
-    "link": "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/",
-    "date": "2026-09-12"
-  },
-  {
-    "title": "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap",
-    "link": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/",
-    "date": "2026-09-12"
-  },
-  {
-    "title": "Powering AI is an architecture problem",
-    "link": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
-    "date": "2026-09-12"
-  },
-  {
-    "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-    "link": "https://huggingface.co/blog/gradio-workflow-1111",
-    "date": "2026-09-12"
-  },
-  {
-    "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-    "link": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-    "date": "2026-09-12"
-  },
-  {
-    "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-    "link": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
-    "date": "2026-09-12"
-  },
-  {
-    "title": "Some satellite companies still have an appetite for boutique launch services",
-    "link": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/",
-    "date": "2026-09-12"
-  },
-  {
-    "title": "Random rewards enrich classic game-theory insights",
-    "link": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/",
-    "date": "2026-09-12"
-  },
-  {
-    "title": "Bouncy castle launches horrifying MRSA outbreak, striking 48 kids in Ireland",
-    "link": "https://arstechnica.com/health/2026/09/bouncy-castle-launches-horrifying-mrsa-outbreak-striking-48-kids-in-ireland/",
-    "date": "2026-09-12"
-  },
-  {
-    "title": "Trump's forced coal plant extensions thrown out by judge",
-    "link": "https://arstechnica.com/science/2026/09/court-rejects-governments-energy-emergency-that-kept-coal-plant-open/",
-    "date": "2026-09-12"
-  },
-  {
-    "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
-    "link": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
-    "date": "2026-09-12"
-  },
-  {
-    "title": "Baseten Adds DeepSeek-V4.1-Flash to Model APIs With 1M-Token Context",
-    "link": "https://www.unite.ai/baseten-adds-deepseek-v4-1-flash-to-model-apis-with-1m-token-context/",
-    "date": "2026-09-12"
-  },
-  {
-    "title": "Dzmitry Lazerka, Co-Founder of VictoriaMetrics – Interview Series",
-    "link": "https://www.unite.ai/dzmitry-lazerka-co-founder-of-victoriametrics-interview-series/",
-    "date": "2026-09-12"
-  },
-  {
-    "title": "Reggie Scales, President and Head of Business Unit Applications at Vonage – Interview Series",
-    "link": "https://www.unite.ai/reggie-scales-president-and-head-of-business-unit-applications-at-vonage-interview-series/",
-    "date": "2026-09-12"
-  },
-  {
-    "title": "OpenEvidence Adds MINC Verification for Free Physician Access in Canada",
-    "link": "https://www.unite.ai/openevidence-adds-minc-verification-for-free-physician-access-in-canada/",
-    "date": "2026-09-12"
-  },
-  {
-    "title": "Why Falling AI Prices Aren’t Lowering Enterprise AI Bills",
-    "link": "https://www.unite.ai/llm-token-waste-agentic-ai-context-governance-costs/",
-    "date": "2026-09-12"
-  },
-  {
-    "title": "Palantir Foundry and cuOpt drive NVIDIA supply chain allocation",
-    "link": "https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/",
-    "date": "2026-09-12"
-  },
-  {
-    "title": "Supply chains detect fast, act slow: How AI agents fix it",
-    "link": "https://www.artificialintelligence-news.com/news/supply-chains-detect-fast-act-slow-how-ai-agents-fix-it/",
-    "date": "2026-09-12"
-  },
-  {
-    "title": "JD.com expands physical AI in logistics with 3 million robots",
-    "link": "https://www.artificialintelligence-news.com/news/jd-com-physical-ai-logistics-3-million-robots/",
-    "date": "2026-09-12"
-  },
-  {
-    "title": "CloudNC aims to accelerate AI supply chain machining",
-    "link": "https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/",
-    "date": "2026-09-12"
-  },
-  {
-    "title": "Samsung taps Mistral AI models for semiconductor manufacturing",
-    "link": "https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/",
-    "date": "2026-09-12"
-  },
-  {
     "title": "공포의 전염",
     "link": "https://news.hada.io/topic?id=33667",
     "date": "2026-09-14"
@@ -893,5 +688,130 @@
     "title": "Fulcra Brings Universal Multiplayer to Any Agents You Choose",
     "link": "https://www.artificialintelligence-news.com/news/fulcra-brings-universal-multiplayer-to-any-agents-you-choose/",
     "date": "2026-09-18"
+  },
+  {
+    "title": "이란 전쟁 중 미군 사망자, 국방부 집계보다 최소 4명 많아",
+    "link": "https://news.hada.io/topic?id=33928",
+    "date": "2026-09-19"
+  },
+  {
+    "title": "SpaceX는 Raptor 엔진을 어떻게 간결하게 만들었나",
+    "link": "https://news.hada.io/topic?id=33927",
+    "date": "2026-09-19"
+  },
+  {
+    "title": "100년 만에 처음 발견된 고양잇과 신종",
+    "link": "https://news.hada.io/topic?id=33926",
+    "date": "2026-09-19"
+  },
+  {
+    "title": "Claude Code, 이제 AGENTS.md도 지원",
+    "link": "https://news.hada.io/topic?id=33925",
+    "date": "2026-09-19"
+  },
+  {
+    "title": "Typst, 큰 진전을 이루다",
+    "link": "https://news.hada.io/topic?id=33924",
+    "date": "2026-09-19"
+  },
+  {
+    "title": "India forces caller-ID apps to feed spam reports to telcos",
+    "link": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+    "date": "2026-09-19"
+  },
+  {
+    "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+    "link": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+    "date": "2026-09-19"
+  },
+  {
+    "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+    "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+    "date": "2026-09-19"
+  },
+  {
+    "title": "Anthropic is operating a lab that conducts biology experiments",
+    "link": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+    "date": "2026-09-19"
+  },
+  {
+    "title": "AI hallucination nearly triggers US military operation",
+    "link": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+    "date": "2026-09-19"
+  },
+  {
+    "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+    "link": "https://openai.com/index/hex-gpt-6-astra",
+    "date": "2026-09-19"
+  },
+  {
+    "title": "New experts join Google’s AI & Economy team",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+    "date": "2026-09-19"
+  },
+  {
+    "title": "Co-creating the future of fashion with Google",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
+    "date": "2026-09-19"
+  },
+  {
+    "title": "The Download: AI’s extinction risk and bioweapons threat",
+    "link": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/",
+    "date": "2026-09-19"
+  },
+  {
+    "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
+    "link": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
+    "date": "2026-09-19"
+  },
+  {
+    "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
+    "link": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
+    "date": "2026-09-19"
+  },
+  {
+    "title": "FCC lets Paramount sell 49.5% equity stake to Saudi Arabia, UAE, and Qatar",
+    "link": "https://arstechnica.com/tech-policy/2026/09/fcc-lets-paramount-sell-49-5-equity-stake-to-saudi-arabia-uae-and-qatar/",
+    "date": "2026-09-19"
+  },
+  {
+    "title": "Finding the cells that put our brain to sleep",
+    "link": "https://arstechnica.com/science/2026/09/finding-the-cells-that-put-our-brain-to-sleep/",
+    "date": "2026-09-19"
+  },
+  {
+    "title": "US government website used Chinese model the FBI called \"malicious\"",
+    "link": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
+    "date": "2026-09-19"
+  },
+  {
+    "title": "Anthropic Taps Accenture’s Faculty for Embedded AI Model Evaluation",
+    "link": "https://www.unite.ai/anthropic-taps-accentures-faculty-for-embedded-ai-model-evaluation/",
+    "date": "2026-09-19"
+  },
+  {
+    "title": "Ben Bernstein, Manager of Cybersecurity Advisors at Huntress – Interview Series",
+    "link": "https://www.unite.ai/ben-bernstein-manager-of-cybersecurity-advisors-at-huntress-interview-series/",
+    "date": "2026-09-19"
+  },
+  {
+    "title": "Spanberger Signs Data Center Accountability Order, Creates AI Task Force",
+    "link": "https://www.unite.ai/spanberger-signs-data-center-accountability-order-creates-ai-task-force/",
+    "date": "2026-09-19"
+  },
+  {
+    "title": "xAI Releases Grok Voice Transcribe 2.0 Speech-to-Text Model",
+    "link": "https://www.unite.ai/xai-releases-grok-voice-transcribe-2-0-speech-to-text-model/",
+    "date": "2026-09-19"
+  },
+  {
+    "title": "Newsom Executive Order Advances AI Kill Switch for Frontier Models",
+    "link": "https://www.unite.ai/newsom-executive-order-advances-ai-kill-switch-for-frontier-models/",
+    "date": "2026-09-19"
+  },
+  {
+    "title": "Gartner outlines four AI tiers in warehouse automation",
+    "link": "https://www.artificialintelligence-news.com/news/gartner-outlines-four-ai-tiers-in-warehouse-automation/",
+    "date": "2026-09-19"
   }
 ]
