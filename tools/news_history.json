@@ -1,210 +1,5 @@
 [
   {
-    "title": "공포의 전염",
-    "link": "https://news.hada.io/topic?id=33667",
-    "date": "2026-09-14"
-  },
-  {
-    "title": "Alien - 고객 환경에 설치한 소프트웨어를 원격으로 운영하는 플랫폼",
-    "link": "https://news.hada.io/topic?id=33665",
-    "date": "2026-09-14"
-  },
-  {
-    "title": "Diagram Design - AI가 만드는 다이어그램에 디자인 규칙을 더하는 스킬",
-    "link": "https://news.hada.io/topic?id=33664",
-    "date": "2026-09-14"
-  },
-  {
-    "title": "내 Git 호스트가 정적 사이트 생성기라면?",
-    "link": "https://news.hada.io/topic?id=33662",
-    "date": "2026-09-14"
-  },
-  {
-    "title": "말조심하라: Apple이 상시 청취 기술의 악몽 같은 세상으로 문을 열다",
-    "link": "https://news.hada.io/topic?id=33661",
-    "date": "2026-09-14"
-  },
-  {
-    "title": "Fairy 서비스 오픈 및 GeekNews Show GN 연동",
-    "link": "https://news.hada.io/blog/fairy_and_geeknews",
-    "date": "2026-09-14"
-  },
-  {
-    "title": "GeekBadge 시스템을 추가했습니다",
-    "link": "https://news.hada.io/blog/introducing_geekbadge",
-    "date": "2026-09-14"
-  },
-  {
-    "title": "List 가 GeekLists 기능으로 확대 개편 되었습니다.",
-    "link": "https://news.hada.io/blog/GeekLists",
-    "date": "2026-09-14"
-  },
-  {
-    "title": "‘함께 보면 좋은 글’ 기능을 추가했습니다",
-    "link": "https://news.hada.io/blog/related-reads",
-    "date": "2026-09-14"
-  },
-  {
-    "title": "GeekNews를 편하게 구독하는 법",
-    "link": "https://news.hada.io/blog/subscribe_geeknews",
-    "date": "2026-09-14"
-  },
-  {
-    "title": "What’s behind the AI industry’s latest warnings of doom?",
-    "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
-    "date": "2026-09-14"
-  },
-  {
-    "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-    "link": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
-    "date": "2026-09-14"
-  },
-  {
-    "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-    "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-    "date": "2026-09-14"
-  },
-  {
-    "title": "Anthropic CEO outlines plan to slow AI development",
-    "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-    "date": "2026-09-14"
-  },
-  {
-    "title": "Proactive cyber defense for governments and enterprises",
-    "link": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
-    "date": "2026-09-14"
-  },
-  {
-    "title": "The latest AI news we announced in August 2026",
-    "link": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
-    "date": "2026-09-14"
-  },
-  {
-    "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-    "link": "https://huggingface.co/blog/Hcompany/neomme",
-    "date": "2026-09-14"
-  },
-  {
-    "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-    "link": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-    "date": "2026-09-14"
-  },
-  {
-    "title": "Unvaccinated Pennsylvania woman died of measles complications, coroner says",
-    "link": "https://arstechnica.com/health/2026/09/unvaccinated-pennsylvania-woman-died-of-measles-complications-coroner-says/",
-    "date": "2026-09-14"
-  },
-  {
-    "title": "I fixed a tractor using John Deere’s self-repair service. Farmers aren’t sold on it.",
-    "link": "https://arstechnica.com/gadgets/2026/09/i-fixed-a-tractor-using-john-deeres-self-repair-service-farmers-arent-sold-on-it/",
-    "date": "2026-09-14"
-  },
-  {
-    "title": "I spent $4,000 on a robot dog from China",
-    "link": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
-    "date": "2026-09-14"
-  },
-  {
-    "title": "Nadella Announces Public Consultation on Microsoft’s MAI Model Rules",
-    "link": "https://www.unite.ai/nadella-announces-public-consultation-on-microsofts-mai-model-rules/",
-    "date": "2026-09-14"
-  },
-  {
-    "title": "Johnson Proposes White House Meeting of AI Leaders on Guardrails",
-    "link": "https://www.unite.ai/johnson-proposes-white-house-meeting-of-ai-leaders-on-guardrails/",
-    "date": "2026-09-14"
-  },
-  {
-    "title": "What Are Embeddings? How AI Represents Meaning as Numbers",
-    "link": "https://www.unite.ai/what-are-embeddings-how-ai-represents-meaning-as-numbers/",
-    "date": "2026-09-14"
-  },
-  {
-    "title": "Hyundai Motor Group Puts Data Flywheel Into Full Operation",
-    "link": "https://www.unite.ai/hyundai-motor-group-puts-data-flywheel-into-full-operation/",
-    "date": "2026-09-14"
-  },
-  {
-    "title": "Altman Says OpenAI Will Match Anthropic’s Embedded Evaluator Pledge",
-    "link": "https://www.unite.ai/altman-says-openai-will-match-anthropics-embedded-evaluator-pledge/",
-    "date": "2026-09-14"
-  },
-  {
-    "title": "시간 속으로 사라진 키 기호, 1편: PC 편",
-    "link": "https://news.hada.io/topic?id=33691",
-    "date": "2026-09-14"
-  },
-  {
-    "title": "EuroBirdPortal - 유럽 전역의 실시간 조류 이동",
-    "link": "https://news.hada.io/topic?id=33690",
-    "date": "2026-09-14"
-  },
-  {
-    "title": "WebKit, Top-Level Await 버그를 고치기 위해 Safari 모듈 로더를 C++로 전면 재작성",
-    "link": "https://news.hada.io/topic?id=33689",
-    "date": "2026-09-14"
-  },
-  {
-    "title": "Git에서 Fossil로 전환하기 (2025)",
-    "link": "https://news.hada.io/topic?id=33688",
-    "date": "2026-09-14"
-  },
-  {
-    "title": "오픈소스 AI와 오픈 모델 읽기 목록",
-    "link": "https://news.hada.io/topic?id=33687",
-    "date": "2026-09-14"
-  },
-  {
-    "title": "The Download: AI’s real extinction threat and age-reversal tech for eyes",
-    "link": "https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/",
-    "date": "2026-09-14"
-  },
-  {
-    "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
-    "link": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
-    "date": "2026-09-14"
-  },
-  {
-    "title": "What Is Agentic RAG? When AI Plans Its Own Search and Retrieval",
-    "link": "https://www.unite.ai/what-is-agentic-rag-when-ai-plans-its-own-search-and-retrieval/",
-    "date": "2026-09-14"
-  },
-  {
-    "title": "When AI Does the Work: How SaaS Business Models Have to Change",
-    "link": "https://www.unite.ai/future-of-saas-ai-business-models/",
-    "date": "2026-09-14"
-  },
-  {
-    "title": "In the New Paradigm of Publishing, AI Is Indispensable",
-    "link": "https://www.unite.ai/ai-in-academic-peer-review-crisis/",
-    "date": "2026-09-14"
-  },
-  {
-    "title": "BD’s Vmax 160 Pharmacy Robot Lands First U.S. Deployment at Fairview",
-    "link": "https://www.unite.ai/bds-vmax-160-pharmacy-robot-lands-first-u-s-deployment-at-fairview/",
-    "date": "2026-09-14"
-  },
-  {
-    "title": "Fujitsu Unveils 2Nm FUJITSU-MONAKA CPU and Sovereign AI Server",
-    "link": "https://www.unite.ai/fujitsu-unveils-2nm-fujitsu-monaka-cpu-and-sovereign-ai-server/",
-    "date": "2026-09-14"
-  },
-  {
-    "title": "Why Most Enterprise Agent Pilots Never Reach Deployment",
-    "link": "https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/",
-    "date": "2026-09-14"
-  },
-  {
-    "title": "From Video to Data: How AI Is Transforming Multimedia Content Processing",
-    "link": "https://www.artificialintelligence-news.com/news/from-video-to-data-how-ai-is-transforming-multimedia-content-processing/",
-    "date": "2026-09-14"
-  },
-  {
-    "title": "How Vox Group’s AI-Powered Technology Is Solving Real-Time Translation for Group Travel",
-    "link": "https://www.artificialintelligence-news.com/news/how-vox-groups-ai-powered-technology-is-solving-real-time-translation-for-group-travel/",
-    "date": "2026-09-14"
-  },
-  {
     "title": ".NET 11의 성능 개선",
     "link": "https://news.hada.io/topic?id=33819",
     "date": "2026-09-17"
@@ -973,5 +768,60 @@
     "title": "T. rex teeth indicate it ran as warm as an elephant",
     "link": "https://arstechnica.com/science/2026/09/t-rex-teeth-indicate-it-ran-as-warm-as-an-elephant/",
     "date": "2026-09-20"
+  },
+  {
+    "title": "Snowden 아카이브에는 무슨 일이 일어났나",
+    "link": "https://news.hada.io/topic?id=34044",
+    "date": "2026-09-21"
+  },
+  {
+    "title": "LangChain은 유료 광고 운영 에이전트를 어떻게 만들었나",
+    "link": "https://news.hada.io/topic?id=34041",
+    "date": "2026-09-21"
+  },
+  {
+    "title": "아무도 오픈소스에 돈을 내지 않는다. 돈을 내게 만들 수는 있다",
+    "link": "https://news.hada.io/topic?id=34040",
+    "date": "2026-09-21"
+  },
+  {
+    "title": "사모펀드의 의료기관 소유를 금지하는 법안",
+    "link": "https://news.hada.io/topic?id=34039",
+    "date": "2026-09-21"
+  },
+  {
+    "title": "누가 GDPR을 싫어하는지 보면 GDPR이 좋은 규제임을 알 수 있다",
+    "link": "https://news.hada.io/topic?id=34038",
+    "date": "2026-09-21"
+  },
+  {
+    "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+    "date": "2026-09-21"
+  },
+  {
+    "title": "World model companies are keeping a lot of secrets",
+    "link": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+    "date": "2026-09-21"
+  },
+  {
+    "title": "Is the AI industry really ready to slow down?",
+    "link": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+    "date": "2026-09-21"
+  },
+  {
+    "title": "Vocci’s ring adds a new form factor to meeting note-taking",
+    "link": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
+    "date": "2026-09-21"
+  },
+  {
+    "title": "ScrollEd wants to turn textbooks into TikTok",
+    "link": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
+    "date": "2026-09-21"
+  },
+  {
+    "title": "What Is Prompt Injection? The Security Flaw Every AI User Should Understand",
+    "link": "https://www.unite.ai/what-is-prompt-injection-the-security-flaw-every-ai-user-should-understand/",
+    "date": "2026-09-21"
   }
 ]
