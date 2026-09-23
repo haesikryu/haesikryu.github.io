@@ -8,9 +8,26 @@ order: 9
 
 ## 👋 소개
 
-안녕하세요! **유해식**입니다. SK(주)AX에서 근무하며 SW Architect, Cloud Native Application 개발 방법론을 담당하고 있습니다. 마이크로서비스와 클라우드 네이티브 기술의 실무 적용 경험을 바탕으로, 복잡한 아키텍처 개념을 이해하기 쉽게 설명하고 실무에 바로 적용할 수 있는 인사이트를 제공하는 기술 블로거입니다.
+안녕하세요! **유해식**입니다. SK(주)AX에서 SW Architect이자 AI Architect로 근무하며, Cloud Native Application 개발 방법론과 AI 아키텍처를 담당하고 있습니다. 마이크로서비스와 클라우드 네이티브 기술의 실무 적용 경험에 더해, 엔터프라이즈 AI 도입과 AI Agent 구축을 현장에서 지원하고 있습니다. 복잡한 아키텍처 개념을 이해하기 쉽게 설명하고 실무에 바로 적용할 수 있는 인사이트를 제공하는 기술 블로거입니다.
 
 <a href="https://wikibook.co.kr/ddd-msa/" target="_blank" rel="noopener"><b>도메인 주도 설계로 시작하는 마이크로서비스 개발</b></a> 저자로서, 이론과 실무를 연결하는 실용적인 콘텐츠를 만드는 것을 목표로 합니다.
+
+---
+
+## ✨ 최근 활동 & 관심사
+
+### 최근 활동
+- **AI Architect**: SW Architect와 함께 AI Architect 역할을 수행하고 있습니다.
+- **사내 육성 강의**: 회사에서 AI Architect 육성 강의를 진행하고 있습니다.
+- **AI Agent 사업 지원**: 이 역량을 바탕으로 AI Agent 구축 사업의 제안과 수행을 지원하고 있습니다.
+- **Enterprise AI TF**: 주요 멤버사와 고객사에 ChatGPT Enterprise, Claude Enterprise, Gemini Enterprise 도입과 구성원의 변화관리·교육을 리딩하고 있습니다.
+- **커리어 멘토링**: 취업과 이직을 준비하는 멘티에게 멘토링을 하고 있습니다.
+
+### 관심사
+- 엔터프라이즈 환경의 AI Architect 역할과 방법론
+- AI Agent 설계·구축과 사업 제안·수행
+- ChatGPT, Claude, Gemini Enterprise 도입과 조직 변화관리·교육
+- 개발자와 아키텍트의 취업·이직 커리어
 
 ---
 
@@ -42,6 +59,8 @@ order: 9
 ### 주요 관심 주제
 - Cloud Native Application 설계 및 구현 방법론
 - 마이크로서비스 아키텍처의 실무 적용 사례
+- AI Architect 역할과 AI Agent 설계·구축
+- 엔터프라이즈 생성형 AI(ChatGPT, Claude, Gemini) 도입과 변화관리
 - AI 시대의 엔터프라이즈 시스템 통합 전략
 - 도메인 주도 설계, 도메인 스토리텔링과 실무 모델링 기법
 
@@ -66,12 +85,14 @@ order: 9
 ## 🎤 강연 & 교육 활동
 
 ### 정규 교육 과정
+- **AI Architect 육성 강의** - SK(주) AX 사내 강의
 - **SK AX 전사 AI 기반 소프트웨어 개발 방법론 과정** - 정기 강의
 - **SK AX 전사 Applicaiton Modernization Factory 과정** - 정기 강의
 - **Cloud Native Labs - Miroservices/Application Modeling** - 정기 강의
 - **K-MOOC Cloud 기반 소프트웨어 엔지니어링 과정** - Microservice 설계 및 구현 강사 (2018~21, SK-KAIST 공동)
 
 ### 멘토링 활동 (2021 ~ 현재)
+- **취업·이직 준비 멘토링** - 취업과 이직을 준비하는 멘티 대상
 - **정부 Cloud/MSA 전환사업 기술 적합성 검토** - (한국지능정보사회진흥원)
 - **Cloud 주니어 엔지니어 양성과정** - 멘토 (청년취업사관학교 SeSAC)
 - **4차 산업혁명 선도인력양성 융복합 프로젝트** - 멘토 (고용노동부/멀티캠퍼스)
@@ -90,6 +111,9 @@ order: 9
 **SW Architect, AI Architect, Cloud Native Application 개발 방법론 담당**
 
 - AI기반 SW개발방법론 개발 / 적용
+- 사내 AI Architect 육성 강의
+- AI Agent 구축 사업 제안·수행 지원
+- Enterprise AI TF — 주요 멤버사·고객사 ChatGPT Enterprise, Claude Enterprise, Gemini Enterprise 도입과 구성원 변화관리·교육 리딩
 
 **대내외 기술 지원 프로젝트:**
 - O사 AI 기반 Digital PMO 포털 구축 사업 - Architect/방법론담당/PL
@@ -115,8 +139,10 @@ order: 9
 
 ### 협업 가능 영역
 - **기술 컨설팅**: 클라우드 네이티브 전환 전략 수립
-- **교육 및 강의**: MSA, DDD, 클라우드 아키텍처 관련 교육
-- **멘토링**: 프로젝트 기술 지원 및 개발자 멘토링
+- **AI Agent**: 구축 사업 제안 및 수행 지원
+- **Enterprise AI**: ChatGPT, Claude, Gemini Enterprise 도입과 변화관리·교육
+- **교육 및 강의**: AI Architect, MSA, DDD, 클라우드 아키텍처 관련 교육
+- **멘토링**: 프로젝트 기술 지원, 개발자 멘토링, 취업·이직 준비 멘토링
 - **기술 리뷰**: 엔터프라이즈 아키텍처 관련 콘텐츠 검토
 
 ---
@@ -128,4 +154,4 @@ order: 9
 
 *"복잡한 시스템의 본질을 파악하여, 지속 가능하고 확장 가능한 아키텍처를 설계하는 것이 저의 목표입니다."*
 
-**마지막 업데이트**: 2026년 3월 16일
+**마지막 업데이트**: 2026년 9월 23일
