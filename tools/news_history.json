@@ -1,305 +1,5 @@
 [
   {
-    "title": ".NET 11의 성능 개선",
-    "link": "https://news.hada.io/topic?id=33819",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "Show GN: 옆 팀 레포는 그쪽 Claude가 제일 잘 안다 — 세션 간 질의응답 브로커",
-    "link": "https://news.hada.io/topic?id=33818",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "NVIDIA, Rust 네이티브 GPU 프로그래밍 지원 발표",
-    "link": "https://news.hada.io/topic?id=33815",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "Octane - React 프로그래밍 모델을 직접 DOM 코드로 컴파일하는 UI 프레임워크",
-    "link": "https://news.hada.io/topic?id=33814",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "Pixel 10에서 C2PA 출처 정보 위조하기",
-    "link": "https://news.hada.io/topic?id=33813",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
-    "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
-    "link": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
-    "link": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "Your AI agents can now control your Google Home devices",
-    "link": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "Anthropic merges Claude chat and Cowork in one interface",
-    "link": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "Helping older adults use AI in everyday life",
-    "link": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "Reimagining advertising with AI",
-    "link": "https://openai.com/index/reimagining-advertising-with-ai",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "How to connect AI usage to business value",
-    "link": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "Our framework for reporting model misalignment",
-    "link": "https://openai.com/index/model-misalignment-reporting-framework",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "How workers are unlocking new ways of working",
-    "link": "https://openai.com/index/unlocking-new-ways-of-working",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "AI for Societal Impact",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "Building AI to accelerate science and improve lives",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "AI for everyone in every language",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "New insights from Google’s AI & Economy ATLAS",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "Meet a mouse whose brain cortex is made up of human cells",
-    "link": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "Building the materials foundation for AI",
-    "link": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid",
-    "link": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "Roundtables: Could AI really kill us all?",
-    "link": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
-    "link": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "Your Agent Aced the Task. Will It Do It Again?",
-    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
-    "link": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "Epstein had huge cache of child sex pics; victims sue to find out who's in them",
-    "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-trump-doj-notified-very-few-victims-in-epsteins-stash-of-child-sex-images/",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "Nonprofit that tracks meteors taken down by \"critical blow\" from a cyberattack",
-    "link": "https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "Lionsgate releases a new trailer for Sunrise on the Reaping",
-    "link": "https://arstechnica.com/culture/2026/09/haymitch-gets-a-backstory-in-sunrise-on-the-reaping-trailer/",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "Not just Proton: Getting to know Valve's new SteamOS compatibility layers",
-    "link": "https://arstechnica.com/gaming/2026/09/not-just-proton-getting-to-know-valves-new-steamos-compatibility-layers/",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "House Passes Ratepayer Protection Act on Data Center Power Costs",
-    "link": "https://www.unite.ai/house-passes-ratepayer-protection-act-on-data-center-power-costs/",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "OpenAI Launches Misalignment Reporting Framework With Six Incident Reports",
-    "link": "https://www.unite.ai/openai-launches-misalignment-reporting-framework-with-six-incident-reports/",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "Anthropic Policy Chief: AI Safety Can’t Rely on an Honor Code",
-    "link": "https://www.unite.ai/anthropic-policy-chief-ai-safety-cant-rely-on-an-honor-code/",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "xAI Adds Cross-Session Memory to Grok Build Coding Agent",
-    "link": "https://www.unite.ai/xai-adds-cross-session-memory-to-grok-build-coding-agent/",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "Andrew Johnson, CEO of Yardstik – Interview Series",
-    "link": "https://www.unite.ai/andrew-johnson-ceo-of-yardstik-interview-series/",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "Microsoft AI CEO criticises Anthropic over model ‘rights’",
-    "link": "https://www.artificialintelligence-news.com/news/microsoft-ai-ceo-criticises-anthropic-over-model-rights/",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "ChatGPT pioneer launches Jev model for programmatic logic",
-    "link": "https://www.artificialintelligence-news.com/news/chatgpt-pioneer-launches-jev-model-for-programmatic-logic/",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "Pony.ai unveils autonomous electric truck for logistics fleets",
-    "link": "https://www.artificialintelligence-news.com/news/pony-ai-autonomous-electric-truck-for-logistics-fleets/",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "The AI Talent Britain Fought to Hire May Be Recalculating Its Future",
-    "link": "https://www.artificialintelligence-news.com/news/the-ai-talent-britain-fought-to-hire-may-be-recalculating-its-future/",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "Microsoft AI opens review on Humanist AI Code of Conduct",
-    "link": "https://www.artificialintelligence-news.com/news/microsoft-ai-opens-review-humanist-ai-code-of-conduct/",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "Show GN: 텐배거랩 - 미국주식 탐색부터 분석·기록·회고까지 한곳에서",
-    "link": "https://news.hada.io/topic?id=33835",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "SQL 데이터베이스 스키마란 무엇이며 어떻게 설계할까?",
-    "link": "https://news.hada.io/topic?id=33833",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "키는 빠져 있었다: 미국 운전면허증 바코드의 서명 키 복구하기",
-    "link": "https://news.hada.io/topic?id=33832",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "GNOME 51 소개",
-    "link": "https://news.hada.io/topic?id=33831",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "미국 전략비축유를 뒷받침하는 공학",
-    "link": "https://news.hada.io/topic?id=33828",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
-    "link": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "Snap tries to make the case again for its $2,200 smart glasses",
-    "link": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "Al Gore says the real AI risk isn’t data centers",
-    "link": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "The Download: mice with part-human brains and climate tech innovators",
-    "link": "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "Meet the innovators under 35 shaping climate tech",
-    "link": "https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "Hackers reveal how Flock cameras really track cars and people",
-    "link": "https://arstechnica.com/security/2026/09/hackers-reveal-how-flock-cameras-really-track-cars-and-people/",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "What Is Cross-Validation? How to Estimate Model Performance Reliably",
-    "link": "https://www.unite.ai/what-is-cross-validation-how-to-estimate-model-performance-reliably/",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "Healthcare AI Metrics Are Missing the Point. Closing the Access Gap Is AI’s Greatest Return",
-    "link": "https://www.unite.ai/healthcare-ai-access-roi-patient-care/",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "CleanSpark Proposes $2.227B Senior Secured Notes to Fund Sandersville Build-Out",
-    "link": "https://www.unite.ai/cleanspark-proposes-2-227b-senior-secured-notes-to-fund-sandersville-build-out/",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "Why Infrastructure AI — Not Consumer AI — Will Define the Next Decade",
-    "link": "https://www.unite.ai/infrastructure-ai-transportation-economic-impact-roi/",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "Tower and NewPhotonics Ship Laser-Integrated PICs for AI Interconnect",
-    "link": "https://www.unite.ai/tower-and-newphotonics-ship-laser-integrated-pics-for-ai-interconnect/",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "Adecco Group rolls out Agentforce Coworker to 27,000 staff in 40-plus countries",
-    "link": "https://www.artificialintelligence-news.com/news/agentforce-coworker-adecco-group-rollout/",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "Lidl deploys driverless truck for store deliveries in Germany",
-    "link": "https://www.artificialintelligence-news.com/news/lidl-autonomous-truck-germany/",
-    "date": "2026-09-17"
-  },
-  {
     "title": "macOS 27 Golden Gate 리뷰",
     "link": "https://news.hada.io/topic?id=33875",
     "date": "2026-09-18"
@@ -1288,5 +988,130 @@
     "title": "AI Agents Are Becoming a New Malware Distribution Channel",
     "link": "https://www.artificialintelligence-news.com/news/ai-agents-are-becoming-a-new-malware-distribution-channel/",
     "date": "2026-09-23"
+  },
+  {
+    "title": "Meta VR 안경",
+    "link": "https://news.hada.io/topic?id=34208",
+    "date": "2026-09-24"
+  },
+  {
+    "title": "Z80 REPL (2018)",
+    "link": "https://news.hada.io/topic?id=34207",
+    "date": "2026-09-24"
+  },
+  {
+    "title": "Claude는 측정할 수 있는 것을 더 빠르게 만들 수 있다",
+    "link": "https://news.hada.io/topic?id=34206",
+    "date": "2026-09-24"
+  },
+  {
+    "title": "Tunnet - 관리 서버까지 직접 운영하는 오픈소스 Tailscale 대안",
+    "link": "https://news.hada.io/topic?id=34204",
+    "date": "2026-09-24"
+  },
+  {
+    "title": "Show GN: Modeleaf - 키보드 중심의 가벼운 macOS 읽기 전용 PDF 뷰어",
+    "link": "https://news.hada.io/topic?id=34203",
+    "date": "2026-09-24"
+  },
+  {
+    "title": "Everything new coming to Meta’s AI agent Muse",
+    "link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+    "date": "2026-09-24"
+  },
+  {
+    "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+    "link": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+    "date": "2026-09-24"
+  },
+  {
+    "title": "Meta introduces camera-free AI glasses",
+    "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+    "date": "2026-09-24"
+  },
+  {
+    "title": "Anthropic says its biology lab has already found something big",
+    "link": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+    "date": "2026-09-24"
+  },
+  {
+    "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+    "link": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
+    "date": "2026-09-24"
+  },
+  {
+    "title": "Two years of OpenAI Academy",
+    "link": "https://openai.com/index/two-years-of-openai-academy",
+    "date": "2026-09-24"
+  },
+  {
+    "title": "Sam Altman’s remarks at the United Nations Security Council",
+    "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
+    "date": "2026-09-24"
+  },
+  {
+    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+    "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+    "date": "2026-09-24"
+  },
+  {
+    "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+    "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+    "date": "2026-09-24"
+  },
+  {
+    "title": "Google Beam expands with new regions, partners, and customers",
+    "link": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+    "date": "2026-09-24"
+  },
+  {
+    "title": "A congressional representative just proposed killing America’s border tower program",
+    "link": "https://www.technologyreview.com/2026/09/23/1145002/a-congressional-representative-just-proposed-killing-americas-border-tower-program/",
+    "date": "2026-09-24"
+  },
+  {
+    "title": "The Download: India’s smart glasses menace and AI’s trillion-dollar gamble",
+    "link": "https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/",
+    "date": "2026-09-24"
+  },
+  {
+    "title": "The AI Hype Index: AI loves cheating",
+    "link": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+    "date": "2026-09-24"
+  },
+  {
+    "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+    "link": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+    "date": "2026-09-24"
+  },
+  {
+    "title": "RFK Jr.'s CDC isn’t letting states order COVID-19 shots for kids, blocking access",
+    "link": "https://arstechnica.com/health/2026/09/rfk-jr-s-cdc-isnt-letting-states-order-covid-19-shots-for-kids-blocking-access/",
+    "date": "2026-09-24"
+  },
+  {
+    "title": "FBI rushes to investigate if ShinyHunters hack of thousands of employees is real",
+    "link": "https://arstechnica.com/tech-policy/2026/09/fbi-rushes-to-investigate-if-shinyhunters-hack-of-thousands-of-employees-is-real/",
+    "date": "2026-09-24"
+  },
+  {
+    "title": "Disney+ and Hulu raise prices by up to 13 percent after doubling profits",
+    "link": "https://arstechnica.com/gadgets/2026/09/disney-and-hulu-raise-prices-by-up-to-13-percent-after-doubling-profits/",
+    "date": "2026-09-24"
+  },
+  {
+    "title": "Here's the Torcal, the first fully electric Bentley",
+    "link": "https://arstechnica.com/cars/2026/09/heres-the-torcal-the-first-fully-electric-bentley/",
+    "date": "2026-09-24"
+  },
+  {
+    "title": "Trump’s China rivalry and “AI race” delusion may endanger US, experts say",
+    "link": "https://arstechnica.com/tech-policy/2026/09/china-silent-as-us-touts-plan-for-ai-safety-alerts-that-omits-tech-experts/",
+    "date": "2026-09-24"
+  },
+  {
+    "title": "U.S. TRANSCOM deploys randomised AI to secure military logistics",
+    "link": "https://www.artificialintelligence-news.com/news/us-transcom-deploys-randomised-ai-to-secure-military-logistics/",
+    "date": "2026-09-24"
   }
 ]
