@@ -1,185 +1,5 @@
 [
   {
-    "title": "Snowden 아카이브에는 무슨 일이 일어났나",
-    "link": "https://news.hada.io/topic?id=34044",
-    "date": "2026-09-21"
-  },
-  {
-    "title": "LangChain은 유료 광고 운영 에이전트를 어떻게 만들었나",
-    "link": "https://news.hada.io/topic?id=34041",
-    "date": "2026-09-21"
-  },
-  {
-    "title": "아무도 오픈소스에 돈을 내지 않는다. 돈을 내게 만들 수는 있다",
-    "link": "https://news.hada.io/topic?id=34040",
-    "date": "2026-09-21"
-  },
-  {
-    "title": "사모펀드의 의료기관 소유를 금지하는 법안",
-    "link": "https://news.hada.io/topic?id=34039",
-    "date": "2026-09-21"
-  },
-  {
-    "title": "누가 GDPR을 싫어하는지 보면 GDPR이 좋은 규제임을 알 수 있다",
-    "link": "https://news.hada.io/topic?id=34038",
-    "date": "2026-09-21"
-  },
-  {
-    "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
-    "date": "2026-09-21"
-  },
-  {
-    "title": "World model companies are keeping a lot of secrets",
-    "link": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
-    "date": "2026-09-21"
-  },
-  {
-    "title": "Is the AI industry really ready to slow down?",
-    "link": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
-    "date": "2026-09-21"
-  },
-  {
-    "title": "Vocci’s ring adds a new form factor to meeting note-taking",
-    "link": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
-    "date": "2026-09-21"
-  },
-  {
-    "title": "ScrollEd wants to turn textbooks into TikTok",
-    "link": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
-    "date": "2026-09-21"
-  },
-  {
-    "title": "What Is Prompt Injection? The Security Flaw Every AI User Should Understand",
-    "link": "https://www.unite.ai/what-is-prompt-injection-the-security-flaw-every-ai-user-should-understand/",
-    "date": "2026-09-21"
-  },
-  {
-    "title": "Show HN: Mini-AGI - 8GB VRAM에서 학습하는 동적 지속 학습 모델",
-    "link": "https://news.hada.io/topic?id=34067",
-    "date": "2026-09-21"
-  },
-  {
-    "title": "ZuckOff, Meta 안경이 당신을 보기 전에 먼저 감지하는 무료 앱",
-    "link": "https://news.hada.io/topic?id=34066",
-    "date": "2026-09-21"
-  },
-  {
-    "title": "Kev - Qwen3.5 기반의 소형 Jev 유사 의사결정 모델 제품군",
-    "link": "https://news.hada.io/topic?id=34065",
-    "date": "2026-09-21"
-  },
-  {
-    "title": "ZuckOff - 방 안에 카메라가 있는지 알려주는 앱",
-    "link": "https://news.hada.io/topic?id=34064",
-    "date": "2026-09-21"
-  },
-  {
-    "title": "콘웨이의 법칙과 프로그래밍 언어",
-    "link": "https://news.hada.io/topic?id=34063",
-    "date": "2026-09-21"
-  },
-  {
-    "title": "Fairy 서비스 오픈 및 GeekNews Show GN 연동",
-    "link": "https://news.hada.io/blog/fairy_and_geeknews",
-    "date": "2026-09-21"
-  },
-  {
-    "title": "GeekBadge 시스템을 추가했습니다",
-    "link": "https://news.hada.io/blog/introducing_geekbadge",
-    "date": "2026-09-21"
-  },
-  {
-    "title": "List 가 GeekLists 기능으로 확대 개편 되었습니다.",
-    "link": "https://news.hada.io/blog/GeekLists",
-    "date": "2026-09-21"
-  },
-  {
-    "title": "‘함께 보면 좋은 글’ 기능을 추가했습니다",
-    "link": "https://news.hada.io/blog/related-reads",
-    "date": "2026-09-21"
-  },
-  {
-    "title": "GeekNews를 편하게 구독하는 법",
-    "link": "https://news.hada.io/blog/subscribe_geeknews",
-    "date": "2026-09-21"
-  },
-  {
-    "title": "How V7 gives AI agents institutional memory",
-    "link": "https://openai.com/index/v7",
-    "date": "2026-09-21"
-  },
-  {
-    "title": "The Download: investigating deaths at the US border’s “virtual wall”",
-    "link": "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/",
-    "date": "2026-09-21"
-  },
-  {
-    "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
-    "link": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
-    "date": "2026-09-21"
-  },
-  {
-    "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
-    "link": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
-    "date": "2026-09-21"
-  },
-  {
-    "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
-    "link": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
-    "date": "2026-09-21"
-  },
-  {
-    "title": "She died at the San Diego border. A surveillance camera was in plain sight",
-    "link": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
-    "date": "2026-09-21"
-  },
-  {
-    "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
-    "link": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
-    "date": "2026-09-21"
-  },
-  {
-    "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-    "link": "https://huggingface.co/blog/Hcompany/neomme",
-    "date": "2026-09-21"
-  },
-  {
-    "title": "Apple Mac mini review: The new M6 impresses, but the price hike is rough",
-    "link": "https://arstechnica.com/gadgets/2026/09/apple-m6-mac-mini-review-300-price-hike-spoils-a-nice-upgrade/",
-    "date": "2026-09-21"
-  },
-  {
-    "title": "Googlebooks launch October 4 starting at $899—here are the five models you can preorder today",
-    "link": "https://arstechnica.com/gadgets/2026/09/googlebook-laptops-launch-october-4-starting-at-899-preorders-for-five-models-live-today/",
-    "date": "2026-09-21"
-  },
-  {
-    "title": "UN AI Panel Invokes Precautionary Principle on Loss-of-Control Risk",
-    "link": "https://www.unite.ai/un-ai-panel-invokes-precautionary-principle-on-loss-of-control-risk/",
-    "date": "2026-09-21"
-  },
-  {
-    "title": "What Is a Loss Function? How Machine Learning Measures Error",
-    "link": "https://www.unite.ai/what-is-a-loss-function-how-machine-learning-measures-error/",
-    "date": "2026-09-21"
-  },
-  {
-    "title": "Here’s What Nobody’s Telling the Middle Class About AI",
-    "link": "https://www.unite.ai/how-ai-empowers-blue-collar-businesses/",
-    "date": "2026-09-21"
-  },
-  {
-    "title": "How AI Modernizes Lending Alongside Legacy Banking Systems Without a Teardown",
-    "link": "https://www.unite.ai/ai-lending-platforms-legacy-core-banking/",
-    "date": "2026-09-21"
-  },
-  {
-    "title": "Quartile Adds ChatGPT Advertising Access as Technology Partner",
-    "link": "https://www.unite.ai/quartile-adds-chatgpt-advertising-access-as-technology-partner/",
-    "date": "2026-09-21"
-  },
-  {
     "title": "나만의 디자인 하네스 만들기",
     "link": "https://news.hada.io/topic?id=34096",
     "date": "2026-09-22"
@@ -1028,5 +848,45 @@
     "title": "How the Smithsonian became the latest front in Trump’s culture war",
     "link": "https://arstechnica.com/tech-policy/2026/09/how-the-smithsonian-became-the-latest-front-in-trumps-culture-war/",
     "date": "2026-09-27"
+  },
+  {
+    "title": "바이브 코딩 현실: 셀프테스트는 통과했는데 실데이터는 261편 중 6편만 맞았다",
+    "link": "https://news.hada.io/topic?id=34399",
+    "date": "2026-09-28"
+  },
+  {
+    "title": "계속 승진하는 것이 좋은 커리어일까? 엔지니어 Philip Su의 경험 [동영상]",
+    "link": "https://news.hada.io/topic?id=34397",
+    "date": "2026-09-28"
+  },
+  {
+    "title": "Video CD가 Windows 탐색기를 고장 냄",
+    "link": "https://news.hada.io/topic?id=34396",
+    "date": "2026-09-28"
+  },
+  {
+    "title": "BrowserSkill - 로그인된 내 브라우저를 AI 에이전트가 사용하게 하는 도구",
+    "link": "https://news.hada.io/topic?id=34395",
+    "date": "2026-09-28"
+  },
+  {
+    "title": "기업용 AI가 마침내 SaaS의 약속을 실현하고 있다",
+    "link": "https://news.hada.io/topic?id=34394",
+    "date": "2026-09-28"
+  },
+  {
+    "title": "Anthropic’s CEO is about to have dinner with President Trump",
+    "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+    "date": "2026-09-28"
+  },
+  {
+    "title": "Can Muse overcome Meta’s trust issues?",
+    "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+    "date": "2026-09-28"
+  },
+  {
+    "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+    "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+    "date": "2026-09-28"
   }
 ]
