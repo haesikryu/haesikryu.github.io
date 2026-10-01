@@ -1,175 +1,5 @@
 [
   {
-    "title": "Meta VR 안경",
-    "link": "https://news.hada.io/topic?id=34208",
-    "date": "2026-09-24"
-  },
-  {
-    "title": "Z80 REPL (2018)",
-    "link": "https://news.hada.io/topic?id=34207",
-    "date": "2026-09-24"
-  },
-  {
-    "title": "Claude는 측정할 수 있는 것을 더 빠르게 만들 수 있다",
-    "link": "https://news.hada.io/topic?id=34206",
-    "date": "2026-09-24"
-  },
-  {
-    "title": "Tunnet - 관리 서버까지 직접 운영하는 오픈소스 Tailscale 대안",
-    "link": "https://news.hada.io/topic?id=34204",
-    "date": "2026-09-24"
-  },
-  {
-    "title": "Show GN: Modeleaf - 키보드 중심의 가벼운 macOS 읽기 전용 PDF 뷰어",
-    "link": "https://news.hada.io/topic?id=34203",
-    "date": "2026-09-24"
-  },
-  {
-    "title": "Everything new coming to Meta’s AI agent Muse",
-    "link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
-    "date": "2026-09-24"
-  },
-  {
-    "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
-    "link": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
-    "date": "2026-09-24"
-  },
-  {
-    "title": "Meta introduces camera-free AI glasses",
-    "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
-    "date": "2026-09-24"
-  },
-  {
-    "title": "Anthropic says its biology lab has already found something big",
-    "link": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
-    "date": "2026-09-24"
-  },
-  {
-    "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
-    "link": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
-    "date": "2026-09-24"
-  },
-  {
-    "title": "Two years of OpenAI Academy",
-    "link": "https://openai.com/index/two-years-of-openai-academy",
-    "date": "2026-09-24"
-  },
-  {
-    "title": "Sam Altman’s remarks at the United Nations Security Council",
-    "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
-    "date": "2026-09-24"
-  },
-  {
-    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-    "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-    "date": "2026-09-24"
-  },
-  {
-    "title": "How invideo improves color grading 3x with GPT‑6 Astra",
-    "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-    "date": "2026-09-24"
-  },
-  {
-    "title": "Google Beam expands with new regions, partners, and customers",
-    "link": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
-    "date": "2026-09-24"
-  },
-  {
-    "title": "A congressional representative just proposed killing America’s border tower program",
-    "link": "https://www.technologyreview.com/2026/09/23/1145002/a-congressional-representative-just-proposed-killing-americas-border-tower-program/",
-    "date": "2026-09-24"
-  },
-  {
-    "title": "The Download: India’s smart glasses menace and AI’s trillion-dollar gamble",
-    "link": "https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/",
-    "date": "2026-09-24"
-  },
-  {
-    "title": "The AI Hype Index: AI loves cheating",
-    "link": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
-    "date": "2026-09-24"
-  },
-  {
-    "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-    "link": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-    "date": "2026-09-24"
-  },
-  {
-    "title": "RFK Jr.'s CDC isn’t letting states order COVID-19 shots for kids, blocking access",
-    "link": "https://arstechnica.com/health/2026/09/rfk-jr-s-cdc-isnt-letting-states-order-covid-19-shots-for-kids-blocking-access/",
-    "date": "2026-09-24"
-  },
-  {
-    "title": "FBI rushes to investigate if ShinyHunters hack of thousands of employees is real",
-    "link": "https://arstechnica.com/tech-policy/2026/09/fbi-rushes-to-investigate-if-shinyhunters-hack-of-thousands-of-employees-is-real/",
-    "date": "2026-09-24"
-  },
-  {
-    "title": "Disney+ and Hulu raise prices by up to 13 percent after doubling profits",
-    "link": "https://arstechnica.com/gadgets/2026/09/disney-and-hulu-raise-prices-by-up-to-13-percent-after-doubling-profits/",
-    "date": "2026-09-24"
-  },
-  {
-    "title": "Here's the Torcal, the first fully electric Bentley",
-    "link": "https://arstechnica.com/cars/2026/09/heres-the-torcal-the-first-fully-electric-bentley/",
-    "date": "2026-09-24"
-  },
-  {
-    "title": "Trump’s China rivalry and “AI race” delusion may endanger US, experts say",
-    "link": "https://arstechnica.com/tech-policy/2026/09/china-silent-as-us-touts-plan-for-ai-safety-alerts-that-omits-tech-experts/",
-    "date": "2026-09-24"
-  },
-  {
-    "title": "U.S. TRANSCOM deploys randomised AI to secure military logistics",
-    "link": "https://www.artificialintelligence-news.com/news/us-transcom-deploys-randomised-ai-to-secure-military-logistics/",
-    "date": "2026-09-24"
-  },
-  {
-    "title": "내 메시 네트워크는 암호화 대신 서명되길 바란다",
-    "link": "https://news.hada.io/topic?id=34225",
-    "date": "2026-09-24"
-  },
-  {
-    "title": "메타, 자사에서 촬영된 Meta AI Glasses 비판 영상 삭제",
-    "link": "https://news.hada.io/topic?id=34224",
-    "date": "2026-09-24"
-  },
-  {
-    "title": "오픈소스 데스크톱 현대화를 위한 아이디어",
-    "link": "https://news.hada.io/topic?id=34223",
-    "date": "2026-09-24"
-  },
-  {
-    "title": "Tailscale을 더 빠르게 만들기",
-    "link": "https://news.hada.io/topic?id=34222",
-    "date": "2026-09-24"
-  },
-  {
-    "title": "arXiv, 독립 비영리단체 전환을 위한 약 258억원 규모의 다년간 후원 약정 확보",
-    "link": "https://news.hada.io/topic?id=34221",
-    "date": "2026-09-24"
-  },
-  {
-    "title": "AI for Societal Impact",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
-    "date": "2026-09-24"
-  },
-  {
-    "title": "AI is dominating the conversation at Climate Week",
-    "link": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/",
-    "date": "2026-09-24"
-  },
-  {
-    "title": "There's a new way to break RSA that's faster than anything we've seen before",
-    "link": "https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/",
-    "date": "2026-09-24"
-  },
-  {
-    "title": "Review: Apple's hyper-pricey M5 Ultra Mac Studio made me into a vibe coder",
-    "link": "https://arstechnica.com/gadgets/2026/09/review-apples-hyper-pricey-m5-ultra-mac-studio-made-me-into-a-vibe-coder/",
-    "date": "2026-09-24"
-  },
-  {
     "title": "Google Play와 결별하기: Conversations가 이제 무료인 이유",
     "link": "https://news.hada.io/topic?id=34250",
     "date": "2026-09-25"
@@ -968,5 +798,95 @@
     "title": "Cloudflare plans to issue quantum-safe TLS certificates",
     "link": "https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates/",
     "date": "2026-09-30"
+  },
+  {
+    "title": "AI는 어떻게 여기까지 왔고 어디로 가는 중인가",
+    "link": "https://news.hada.io/topic?id=34581",
+    "date": "2026-10-01"
+  },
+  {
+    "title": "바이브 코딩한 웹사이트를 디자이너가 만든 것처럼 보이게 한 방법",
+    "link": "https://news.hada.io/topic?id=34580",
+    "date": "2026-10-01"
+  },
+  {
+    "title": "TLA+가 검증할 수 있는 것과 없는 것",
+    "link": "https://news.hada.io/topic?id=34579",
+    "date": "2026-10-01"
+  },
+  {
+    "title": "EDG, 상용 C/C++ 컴파일러 프런트엔드 오픈소스 공개",
+    "link": "https://news.hada.io/topic?id=34577",
+    "date": "2026-10-01"
+  },
+  {
+    "title": "싱가포르 정부 데이팅 앱, Gale-Shapley 안정 결혼 알고리듬 사용",
+    "link": "https://news.hada.io/topic?id=34576",
+    "date": "2026-10-01"
+  },
+  {
+    "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+    "link": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+    "date": "2026-10-01"
+  },
+  {
+    "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+    "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+    "date": "2026-10-01"
+  },
+  {
+    "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+    "link": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+    "date": "2026-10-01"
+  },
+  {
+    "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+    "link": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+    "date": "2026-10-01"
+  },
+  {
+    "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+    "link": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
+    "date": "2026-10-01"
+  },
+  {
+    "title": "Disrupting a coordinated model-distillation campaign",
+    "link": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+    "date": "2026-10-01"
+  },
+  {
+    "title": "Helping small businesses put AI to work",
+    "link": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+    "date": "2026-10-01"
+  },
+  {
+    "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+    "link": "https://huggingface.co/blog/open-tts-leaderboard",
+    "date": "2026-10-01"
+  },
+  {
+    "title": "Dinosaur-killing impact crater might have been teeming with life",
+    "link": "https://arstechnica.com/science/2026/09/dinosaur-killing-impact-crater-might-have-been-teeming-with-life/",
+    "date": "2026-10-01"
+  },
+  {
+    "title": "Fifth unvaccinated person dies of measles; CDC still not counting all deaths",
+    "link": "https://arstechnica.com/health/2026/09/fifth-unvaccinated-person-dies-of-measles-cdc-still-not-counting-all-deaths/",
+    "date": "2026-10-01"
+  },
+  {
+    "title": "Returning from vacation? The government can search your phone without a warrant.",
+    "link": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/",
+    "date": "2026-10-01"
+  },
+  {
+    "title": "A local network of implants uses your body as the wiring",
+    "link": "https://arstechnica.com/science/2026/09/scientists-built-implants-that-talk-to-each-other-through-body-tissue/",
+    "date": "2026-10-01"
+  },
+  {
+    "title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
+    "link": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/",
+    "date": "2026-10-01"
   }
 ]
