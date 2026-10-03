@@ -1,130 +1,5 @@
 [
   {
-    "title": "Alan Kay: Shannon은 잡음이 있는 채널을 다루는 방법을 제시했다 [영상]",
-    "link": "https://news.hada.io/topic?id=34300",
-    "date": "2026-09-26"
-  },
-  {
-    "title": "Amiga 스크린 입문",
-    "link": "https://news.hada.io/topic?id=34299",
-    "date": "2026-09-26"
-  },
-  {
-    "title": "과외 업체, 학부모에게 돈을 아끼고 “대신 AI를 쓰라”고 권고",
-    "link": "https://news.hada.io/topic?id=34298",
-    "date": "2026-09-26"
-  },
-  {
-    "title": "Microsoft, Home/Code/Autopilot을 갖춘 새 Copilot 발표",
-    "link": "https://news.hada.io/topic?id=34296",
-    "date": "2026-09-26"
-  },
-  {
-    "title": "알렉산더 왕: 내가 Muse를 만드는 이유",
-    "link": "https://news.hada.io/topic?id=34295",
-    "date": "2026-09-26"
-  },
-  {
-    "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-    "link": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
-    "date": "2026-09-26"
-  },
-  {
-    "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-    "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-    "date": "2026-09-26"
-  },
-  {
-    "title": "Meta opens early access program for new Muse features",
-    "link": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
-    "date": "2026-09-26"
-  },
-  {
-    "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
-    "link": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
-    "date": "2026-09-26"
-  },
-  {
-    "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-    "link": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-    "date": "2026-09-26"
-  },
-  {
-    "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-    "link": "https://openai.com/index/proaction",
-    "date": "2026-09-26"
-  },
-  {
-    "title": "Can Trump ever be wrong? His pick to lead FDA refused to say.",
-    "link": "https://arstechnica.com/health/2026/09/can-trump-ever-be-wrong-his-pick-to-lead-fda-refused-to-say/",
-    "date": "2026-09-26"
-  },
-  {
-    "title": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
-    "link": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
-    "date": "2026-09-26"
-  },
-  {
-    "title": "Tesla workers balk at training Optimus humanoid robots as replacements",
-    "link": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/",
-    "date": "2026-09-26"
-  },
-  {
-    "title": "Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?",
-    "link": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/",
-    "date": "2026-09-26"
-  },
-  {
-    "title": "Review: The iPhone 18 Pro is Apple's coolest smartphone (but only literally)",
-    "link": "https://arstechnica.com/apple/2026/09/review-the-iphone-18-pro-is-apples-coolest-smartphone-but-only-literally/",
-    "date": "2026-09-26"
-  },
-  {
-    "title": "Show GN: Lowent – 함수의 서명만 읽어도 무엇을 하는지 아는 시스템 프로그래밍 언어",
-    "link": "https://news.hada.io/topic?id=34317",
-    "date": "2026-09-26"
-  },
-  {
-    "title": "Ask HN: 사업 운영에 꼭 필요해서 아직도 DOS 컴퓨터를 유지하는 분이 있나요?",
-    "link": "https://news.hada.io/topic?id=34316",
-    "date": "2026-09-26"
-  },
-  {
-    "title": "오픈소스는 누구를 위한 것인가?",
-    "link": "https://news.hada.io/topic?id=34314",
-    "date": "2026-09-26"
-  },
-  {
-    "title": "우리에게는 훨씬 더 많은 수학자가 필요할 것이다",
-    "link": "https://news.hada.io/topic?id=34313",
-    "date": "2026-09-26"
-  },
-  {
-    "title": "상품화된 지능",
-    "link": "https://news.hada.io/topic?id=34312",
-    "date": "2026-09-26"
-  },
-  {
-    "title": "At Meta Connect, the company’s smart glasses were everywhere",
-    "link": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
-    "date": "2026-09-26"
-  },
-  {
-    "title": "New experts join Google’s AI & Economy team",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
-    "date": "2026-09-26"
-  },
-  {
-    "title": "Co-creating the future of fashion with Google",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
-    "date": "2026-09-26"
-  },
-  {
-    "title": "Tesla’s big electric truck faces an even bigger infrastructure challenge",
-    "link": "https://arstechnica.com/cars/2026/09/teslas-big-electric-truck-faces-an-even-bigger-infrastructure-challenge/",
-    "date": "2026-09-26"
-  },
-  {
     "title": "일본, 외국인 대상 규정 강화 추진",
     "link": "https://news.hada.io/topic?id=34345",
     "date": "2026-09-27"
@@ -1003,5 +878,130 @@
     "title": "The Form Looks Right. The Data Contract Is Wrong",
     "link": "https://www.unite.ai/ai-form-generation-contract-testing-schema/",
     "date": "2026-10-02"
+  },
+  {
+    "title": "Redis 개발자가 만든 ds4, LLM을 로컬에서 실행",
+    "link": "https://news.hada.io/topic?id=34698",
+    "date": "2026-10-03"
+  },
+  {
+    "title": "Show GN: 가격 — 클립당 10원 최고의 쇼츠 편집 에이전트 쇼츠존",
+    "link": "https://news.hada.io/topic?id=34697",
+    "date": "2026-10-03"
+  },
+  {
+    "title": "Show GN: OP!Amp - macOS 시스템 오디오 이퀄라이저",
+    "link": "https://news.hada.io/topic?id=34696",
+    "date": "2026-10-03"
+  },
+  {
+    "title": "PicoMQ - S3 기반 실시간 데이터 스트림 서버",
+    "link": "https://news.hada.io/topic?id=34694",
+    "date": "2026-10-03"
+  },
+  {
+    "title": "Waterfox 6.7.5, 내장 피드 리더 추가",
+    "link": "https://news.hada.io/topic?id=34693",
+    "date": "2026-10-03"
+  },
+  {
+    "title": "Meta wants your next gadget to be Muse-infused",
+    "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+    "date": "2026-10-03"
+  },
+  {
+    "title": "Sean Parker is rebuilding Stability AI around music",
+    "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+    "date": "2026-10-03"
+  },
+  {
+    "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+    "link": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+    "date": "2026-10-03"
+  },
+  {
+    "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+    "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+    "date": "2026-10-03"
+  },
+  {
+    "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
+    "link": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
+    "date": "2026-10-03"
+  },
+  {
+    "title": "A model guide for the GPT-6 family",
+    "link": "https://openai.com/index/practical-guide-building-gpt-6",
+    "date": "2026-10-03"
+  },
+  {
+    "title": "Chatham scales its capital markets expertise with OpenAI",
+    "link": "https://openai.com/index/chatham-financial",
+    "date": "2026-10-03"
+  },
+  {
+    "title": "The latest AI news we announced in September 2026",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+    "date": "2026-10-03"
+  },
+  {
+    "title": "Redefining enterprise intelligence with autonomous AI",
+    "link": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+    "date": "2026-10-03"
+  },
+  {
+    "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+    "link": "https://huggingface.co/blog/allenai/astabrief",
+    "date": "2026-10-03"
+  },
+  {
+    "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+    "link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+    "date": "2026-10-03"
+  },
+  {
+    "title": "Someone got Doom in an SQL database",
+    "link": "https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition/",
+    "date": "2026-10-03"
+  },
+  {
+    "title": "Amazon’s $1B plan to combat data center backlash draws more backlash",
+    "link": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
+    "date": "2026-10-03"
+  },
+  {
+    "title": "Patient-zero drill put health facilities to the test—40% of them failed",
+    "link": "https://arstechnica.com/health/2026/10/patient-zero-drill-put-health-facilities-to-the-test-40-of-them-failed/",
+    "date": "2026-10-03"
+  },
+  {
+    "title": "Lyft settles landmark driver misclassification lawsuit for $272.5M",
+    "link": "https://arstechnica.com/tech-policy/2026/10/lyft-settles-landmark-driver-misclassification-lawsuit-for-272-5m/",
+    "date": "2026-10-03"
+  },
+  {
+    "title": "Decagon Joins OpenAI’s B2B Marketplace as a Launch Partner",
+    "link": "https://www.unite.ai/decagon-joins-openais-b2b-marketplace-as-a-launch-partner/",
+    "date": "2026-10-03"
+  },
+  {
+    "title": "Meta Open-Sources Muse Gadget SDKs for DIY AI Hardware Devices",
+    "link": "https://www.unite.ai/meta-open-sources-muse-gadget-sdks-for-diy-ai-hardware-devices/",
+    "date": "2026-10-03"
+  },
+  {
+    "title": "Apple to Tighten macOS Full Disk Access, Citing AI Agent Risks",
+    "link": "https://www.unite.ai/apple-to-tighten-macos-full-disk-access-citing-ai-agent-risks/",
+    "date": "2026-10-03"
+  },
+  {
+    "title": "Brian Hartzband, President of US Operations, GMEX Robotics – Interview Series",
+    "link": "https://www.unite.ai/brian-hartzband-president-of-us-operations-gmex-robotics-interview-series/",
+    "date": "2026-10-03"
+  },
+  {
+    "title": "Chatham Financial Builds Capital Markets Tools with OpenAI Codex",
+    "link": "https://www.unite.ai/chatham-financial-builds-capital-markets-tools-with-openai-codex/",
+    "date": "2026-10-03"
   }
 ]
