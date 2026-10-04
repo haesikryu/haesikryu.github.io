@@ -1,75 +1,5 @@
 [
   {
-    "title": "일본, 외국인 대상 규정 강화 추진",
-    "link": "https://news.hada.io/topic?id=34345",
-    "date": "2026-09-27"
-  },
-  {
-    "title": "Atlas - 코딩 에이전트를 위한 소스 관리 도구",
-    "link": "https://news.hada.io/topic?id=34344",
-    "date": "2026-09-27"
-  },
-  {
-    "title": "서로 돕기 위해 잠시 멈추지 않는다면, 우리는 무엇이 되는가?",
-    "link": "https://news.hada.io/topic?id=34343",
-    "date": "2026-09-27"
-  },
-  {
-    "title": "ASML, 2026년 유럽에서 “아무것도 팔지 못했다”고 밝혀",
-    "link": "https://news.hada.io/topic?id=34342",
-    "date": "2026-09-27"
-  },
-  {
-    "title": "DeepSeek Elastic Compute (DSec) - 대규모 AI 에이전트 학습을 위한 샌드박스 인프라",
-    "link": "https://news.hada.io/topic?id=34341",
-    "date": "2026-09-27"
-  },
-  {
-    "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-    "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
-    "date": "2026-09-27"
-  },
-  {
-    "title": "Insurers claim AI is already increasing healthcare costs",
-    "link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
-    "date": "2026-09-27"
-  },
-  {
-    "title": "I created an interactive digital avatar of myself — and you can talk to it",
-    "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
-    "date": "2026-09-27"
-  },
-  {
-    "title": "플립닷 위에서 구현한 FLIP 유체 시뮬레이션",
-    "link": "https://news.hada.io/topic?id=34357",
-    "date": "2026-09-27"
-  },
-  {
-    "title": "OpenAI 봇, 여러 미국 정부기관 사이트에 부적절하게 개입",
-    "link": "https://news.hada.io/topic?id=34356",
-    "date": "2026-09-27"
-  },
-  {
-    "title": "Meta, 선거 2주 앞두고 룰라 대통령의 Facebook 페이지·선거 광고 차단",
-    "link": "https://news.hada.io/topic?id=34355",
-    "date": "2026-09-27"
-  },
-  {
-    "title": "Show GN: REFOURIER – 파일을 서버에 올리지 않고 브라우저에서 끝내는 한국어 문서 변환 도구",
-    "link": "https://news.hada.io/topic?id=34354",
-    "date": "2026-09-27"
-  },
-  {
-    "title": "은행과 신용협동조합, Apple Pay 수수료에 공동 대응 나선다",
-    "link": "https://news.hada.io/topic?id=34353",
-    "date": "2026-09-27"
-  },
-  {
-    "title": "How the Smithsonian became the latest front in Trump’s culture war",
-    "link": "https://arstechnica.com/tech-policy/2026/09/how-the-smithsonian-became-the-latest-front-in-trumps-culture-war/",
-    "date": "2026-09-27"
-  },
-  {
     "title": "바이브 코딩 현실: 셀프테스트는 통과했는데 실데이터는 261편 중 6편만 맞았다",
     "link": "https://news.hada.io/topic?id=34399",
     "date": "2026-09-28"
@@ -1048,5 +978,55 @@
     "title": "SGD vs. Adam: How Machine Learning Optimizers Actually Learn",
     "link": "https://www.unite.ai/sgd-vs-adam-how-machine-learning-optimizers-actually-learn/",
     "date": "2026-10-03"
+  },
+  {
+    "title": "Bob Cringely 별세",
+    "link": "https://news.hada.io/topic?id=34746",
+    "date": "2026-10-04"
+  },
+  {
+    "title": "Show GN: AutoroShopping - AI 에이전트를 위한 이커머스 구매 관리 커넥터",
+    "link": "https://news.hada.io/topic?id=34745",
+    "date": "2026-10-04"
+  },
+  {
+    "title": "거의 모든 서비스에 예산을 넘으면 멈추는 기능이 필요해질 것",
+    "link": "https://news.hada.io/topic?id=34744",
+    "date": "2026-10-04"
+  },
+  {
+    "title": "Valve의 Timur Kristóf가 진행한 Linux 구형 AMD GPU 개선 작업",
+    "link": "https://news.hada.io/topic?id=34743",
+    "date": "2026-10-04"
+  },
+  {
+    "title": "OpenAI 안전 책임자 사임, 회사 문화가 ‘망가졌다’고 경고",
+    "link": "https://news.hada.io/topic?id=34742",
+    "date": "2026-10-04"
+  },
+  {
+    "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+    "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+    "date": "2026-10-04"
+  },
+  {
+    "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+    "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+    "date": "2026-10-04"
+  },
+  {
+    "title": "All the AI agents that can live in your text messages",
+    "link": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "date": "2026-10-04"
+  },
+  {
+    "title": "The Agent Said It Was Done. The Database Disagreed.",
+    "link": "https://huggingface.co/blog/microsoft/thinkingbox",
+    "date": "2026-10-04"
+  },
+  {
+    "title": "Milt Windler, NASA flight director who helped save Apollo 13, dies at 94",
+    "link": "https://arstechnica.com/space/2026/10/milt-windler-nasa-flight-director-who-helped-save-apollo-13-dies-at-94/",
+    "date": "2026-10-04"
   }
 ]
