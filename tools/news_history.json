@@ -1,140 +1,5 @@
 [
   {
-    "title": "바이브 코딩 현실: 셀프테스트는 통과했는데 실데이터는 261편 중 6편만 맞았다",
-    "link": "https://news.hada.io/topic?id=34399",
-    "date": "2026-09-28"
-  },
-  {
-    "title": "계속 승진하는 것이 좋은 커리어일까? 엔지니어 Philip Su의 경험 [동영상]",
-    "link": "https://news.hada.io/topic?id=34397",
-    "date": "2026-09-28"
-  },
-  {
-    "title": "Video CD가 Windows 탐색기를 고장 냄",
-    "link": "https://news.hada.io/topic?id=34396",
-    "date": "2026-09-28"
-  },
-  {
-    "title": "BrowserSkill - 로그인된 내 브라우저를 AI 에이전트가 사용하게 하는 도구",
-    "link": "https://news.hada.io/topic?id=34395",
-    "date": "2026-09-28"
-  },
-  {
-    "title": "기업용 AI가 마침내 SaaS의 약속을 실현하고 있다",
-    "link": "https://news.hada.io/topic?id=34394",
-    "date": "2026-09-28"
-  },
-  {
-    "title": "Anthropic’s CEO is about to have dinner with President Trump",
-    "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
-    "date": "2026-09-28"
-  },
-  {
-    "title": "Can Muse overcome Meta’s trust issues?",
-    "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
-    "date": "2026-09-28"
-  },
-  {
-    "title": "Anthropic’s Dario Amodei gets the SNL treatment",
-    "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
-    "date": "2026-09-28"
-  },
-  {
-    "title": "Postgres의 &quot;AT TIME ZONE &#039;UTC&#039;&quot;에 숨은 함정",
-    "link": "https://news.hada.io/topic?id=34434",
-    "date": "2026-09-28"
-  },
-  {
-    "title": "Show GN: OVERFIT - 딥러닝 기반 2D 횡스크롤 소울라이크",
-    "link": "https://news.hada.io/topic?id=34433",
-    "date": "2026-09-28"
-  },
-  {
-    "title": "Parley - 일반 IRC로 통신하는 연합형 탈중앙 채팅",
-    "link": "https://news.hada.io/topic?id=34432",
-    "date": "2026-09-28"
-  },
-  {
-    "title": "Nissan의 3세대 e-POWER 파워트레인",
-    "link": "https://news.hada.io/topic?id=34431",
-    "date": "2026-09-28"
-  },
-  {
-    "title": "SpaceX의 Starship, 오늘 사상 첫 궤도 비행을 위해 발사 예정",
-    "link": "https://news.hada.io/topic?id=34430",
-    "date": "2026-09-28"
-  },
-  {
-    "title": "Fairy 서비스 오픈 및 GeekNews Show GN 연동",
-    "link": "https://news.hada.io/blog/fairy_and_geeknews",
-    "date": "2026-09-28"
-  },
-  {
-    "title": "GeekBadge 시스템을 추가했습니다",
-    "link": "https://news.hada.io/blog/introducing_geekbadge",
-    "date": "2026-09-28"
-  },
-  {
-    "title": "List 가 GeekLists 기능으로 확대 개편 되었습니다.",
-    "link": "https://news.hada.io/blog/GeekLists",
-    "date": "2026-09-28"
-  },
-  {
-    "title": "‘함께 보면 좋은 글’ 기능을 추가했습니다",
-    "link": "https://news.hada.io/blog/related-reads",
-    "date": "2026-09-28"
-  },
-  {
-    "title": "GeekNews를 편하게 구독하는 법",
-    "link": "https://news.hada.io/blog/subscribe_geeknews",
-    "date": "2026-09-28"
-  },
-  {
-    "title": "Next five VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/",
-    "date": "2026-09-28"
-  },
-  {
-    "title": "Modulate raises $25M for its voice models and analysis suite",
-    "link": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/",
-    "date": "2026-09-28"
-  },
-  {
-    "title": "Insuretech Outmarket raises $34.5M just months after prior round",
-    "link": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
-    "date": "2026-09-28"
-  },
-  {
-    "title": "Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is Oct. 2",
-    "link": "https://techcrunch.com/2026/09/28/disrupt-2026-exhibitor-program-extended-until-oct-2/",
-    "date": "2026-09-28"
-  },
-  {
-    "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
-    "link": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
-    "date": "2026-09-28"
-  },
-  {
-    "title": "The Download: rogue agent liability and the AI Hype Index",
-    "link": "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/",
-    "date": "2026-09-28"
-  },
-  {
-    "title": "Who’s liable when AI agents go rogue?",
-    "link": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
-    "date": "2026-09-28"
-  },
-  {
-    "title": "Holo4: powering generalist computer-use agents",
-    "link": "https://huggingface.co/blog/Hcompany/holo4",
-    "date": "2026-09-28"
-  },
-  {
-    "title": "Microsoft goes quiet after church groups ask for 1% of data center costs",
-    "link": "https://arstechnica.com/tech-policy/2026/09/microsoft-goes-quiet-after-church-groups-ask-for-1-of-data-center-costs/",
-    "date": "2026-09-28"
-  },
-  {
     "title": "MicroLLM Lab - 브라우저에서 초소형 LLM 7개 체험하기",
     "link": "https://news.hada.io/topic?id=34468",
     "date": "2026-09-29"
@@ -1068,5 +933,55 @@
     "title": "What Are AI Guardrails? How Production Systems Control Model Behavior",
     "link": "https://www.unite.ai/what-are-ai-guardrails-how-production-systems-control-model-behavior/",
     "date": "2026-10-04"
+  },
+  {
+    "title": "「Quo Vadis, Mathematics?」—“수학이여, 어디로 가는가?”",
+    "link": "https://news.hada.io/topic?id=34798",
+    "date": "2026-10-05"
+  },
+  {
+    "title": "Infidel이 폭주하다",
+    "link": "https://news.hada.io/topic?id=34797",
+    "date": "2026-10-05"
+  },
+  {
+    "title": "Claude Code 모드 시작하기",
+    "link": "https://news.hada.io/topic?id=34796",
+    "date": "2026-10-05"
+  },
+  {
+    "title": "Bill Draper 별세",
+    "link": "https://news.hada.io/topic?id=34795",
+    "date": "2026-10-05"
+  },
+  {
+    "title": "브라우저에서 실행되는 클래식 Visual Basic VB6 IDE",
+    "link": "https://news.hada.io/topic?id=34794",
+    "date": "2026-10-05"
+  },
+  {
+    "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+    "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+    "date": "2026-10-05"
+  },
+  {
+    "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+    "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+    "date": "2026-10-05"
+  },
+  {
+    "title": "Trump unveils his new Super Intelligence Force",
+    "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+    "date": "2026-10-05"
+  },
+  {
+    "title": "Lions and cheetahs and chimps, oh my: a spotlight on Africa's diverse wildlife",
+    "link": "https://arstechnica.com/science/2026/10/lions-and-cheetahs-and-chimps-oh-my-a-spotlight-on-africas-diverse-wildlife/",
+    "date": "2026-10-05"
+  },
+  {
+    "title": "Trump Announces Super Intelligence Force Led by Four Officials",
+    "link": "https://www.unite.ai/trump-announces-super-intelligence-force-led-by-four-officials/",
+    "date": "2026-10-05"
   }
 ]
