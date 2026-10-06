@@ -1,185 +1,5 @@
 [
   {
-    "title": "MicroLLM Lab - 브라우저에서 초소형 LLM 7개 체험하기",
-    "link": "https://news.hada.io/topic?id=34468",
-    "date": "2026-09-29"
-  },
-  {
-    "title": "글 쓰다가 막혔을 때 대처법",
-    "link": "https://news.hada.io/topic?id=34466",
-    "date": "2026-09-29"
-  },
-  {
-    "title": "업데이트된 Google Maps에 드러난 라파 도시의 파괴",
-    "link": "https://news.hada.io/topic?id=34465",
-    "date": "2026-09-29"
-  },
-  {
-    "title": "Flock, 자사 감시 카메라의 가장 상세한 지도 사이트 폐쇄 요구",
-    "link": "https://news.hada.io/topic?id=34464",
-    "date": "2026-09-29"
-  },
-  {
-    "title": "NobodyWho - 앱과 게임에 로컬 AI를 넣는 온디바이스 추론 엔진",
-    "link": "https://news.hada.io/topic?id=34463",
-    "date": "2026-09-29"
-  },
-  {
-    "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
-    "link": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
-    "date": "2026-09-29"
-  },
-  {
-    "title": "OpenAI reportedly ditches model over safety concerns",
-    "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
-    "date": "2026-09-29"
-  },
-  {
-    "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
-    "link": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
-    "date": "2026-09-29"
-  },
-  {
-    "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
-    "link": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
-    "date": "2026-09-29"
-  },
-  {
-    "title": "Shopify opens checkout to browser-based AI agents",
-    "link": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
-    "date": "2026-09-29"
-  },
-  {
-    "title": "How we will do better for Australia",
-    "link": "https://openai.com/index/how-we-will-do-better-for-australia",
-    "date": "2026-09-29"
-  },
-  {
-    "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-    "link": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-    "date": "2026-09-29"
-  },
-  {
-    "title": "Are you a Codex Original?",
-    "link": "https://openai.com/form/codex-originals",
-    "date": "2026-09-29"
-  },
-  {
-    "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-    "link": "https://openai.com/index/basis-tax-workbook-with-astra",
-    "date": "2026-09-29"
-  },
-  {
-    "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
-    "date": "2026-09-29"
-  },
-  {
-    "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-    "link": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-    "date": "2026-09-29"
-  },
-  {
-    "title": "When can we say AI made a scientific discovery?",
-    "link": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
-    "date": "2026-09-29"
-  },
-  {
-    "title": "Boeing \"incredibly excited\" to serve as nation's only astronaut transportation",
-    "link": "https://arstechnica.com/space/2026/09/boeing-incredibly-excited-to-serve-as-nations-only-astronaut-transportation/",
-    "date": "2026-09-29"
-  },
-  {
-    "title": "Experts worry about Nvidia's AI chip sales in China and influence over Trump",
-    "link": "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/",
-    "date": "2026-09-29"
-  },
-  {
-    "title": "SpaceX's Starship goes orbital, deploying first next-gen Starlinks",
-    "link": "https://arstechnica.com/space/2026/09/starships-first-orbital-launch-gives-lift-to-spacexs-next-gen-starlinks/",
-    "date": "2026-09-29"
-  },
-  {
-    "title": "Florida invokes extinction fears in legal bid to halt OpenAI development",
-    "link": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/",
-    "date": "2026-09-29"
-  },
-  {
-    "title": "New device captures carbon dioxide by pumping it across a battery",
-    "link": "https://arstechnica.com/science/2026/09/new-device-captures-carbon-dioxide-by-pumping-it-across-a-battery/",
-    "date": "2026-09-29"
-  },
-  {
-    "title": "AI 기업들이 광고업체에 데이터를 유출함 [pdf]",
-    "link": "https://news.hada.io/topic?id=34489",
-    "date": "2026-09-29"
-  },
-  {
-    "title": "Phyllotaxis - 소리에 반응하는 LED 디스플레이",
-    "link": "https://news.hada.io/topic?id=34485",
-    "date": "2026-09-29"
-  },
-  {
-    "title": "Show GN: Relio ERD - 브라우저에서 테이블과 관계를 설계하는 ERD 편집기",
-    "link": "https://news.hada.io/topic?id=34484",
-    "date": "2026-09-29"
-  },
-  {
-    "title": "LLM Wiki의 불량 페이지를 Jev로 선별하는 것이 가능할까?",
-    "link": "https://news.hada.io/topic?id=34483",
-    "date": "2026-09-29"
-  },
-  {
-    "title": "Show HN: 스틱맨으로 어떤 웹사이트든 파괴하기",
-    "link": "https://news.hada.io/topic?id=34482",
-    "date": "2026-09-29"
-  },
-  {
-    "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
-    "link": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
-    "date": "2026-09-29"
-  },
-  {
-    "title": "Reco raises $55M as AI agent security startups crowd the market",
-    "link": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
-    "date": "2026-09-29"
-  },
-  {
-    "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
-    "link": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
-    "date": "2026-09-29"
-  },
-  {
-    "title": "Towards safety cases for frontier AI training",
-    "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-    "date": "2026-09-29"
-  },
-  {
-    "title": "The Download: climate tech companies to watch and AI’s discovery problem",
-    "link": "https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/",
-    "date": "2026-09-29"
-  },
-  {
-    "title": "Coming soon: Our 2026 list of Climate Tech Companies to Watch",
-    "link": "https://www.technologyreview.com/2026/09/29/1145183/2026-climate-tech-companies-to-watch-preview/",
-    "date": "2026-09-29"
-  },
-  {
-    "title": "Making AI an asset, not an expense",
-    "link": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
-    "date": "2026-09-29"
-  },
-  {
-    "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-    "link": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-    "date": "2026-09-29"
-  },
-  {
-    "title": "Interview: Firefox's chief on why he hopes a redesign will help win users from Chrome",
-    "link": "https://arstechnica.com/gadgets/2026/09/mozillas-head-of-firefox-talks-product-priorities-ai-skepticism-and-browser-choice/",
-    "date": "2026-09-29"
-  },
-  {
     "title": "미국 우편수사 당국, 위조 우편요금 라벨 판매 웹사이트 폐쇄",
     "link": "https://news.hada.io/topic?id=34522",
     "date": "2026-09-30"
@@ -1132,6 +952,111 @@
   {
     "title": "Norway to Propose Temporary Ban on AI Glasses in Public Places",
     "link": "https://www.unite.ai/norway-to-propose-temporary-ban-on-ai-glasses-in-public-places/",
+    "date": "2026-10-06"
+  },
+  {
+    "title": "수학의 미래",
+    "link": "https://news.hada.io/topic?id=34870",
+    "date": "2026-10-06"
+  },
+  {
+    "title": "텍사스의 한 도시, Flock 사용 관련 공공기록 공개에 200만 달러 요구",
+    "link": "https://news.hada.io/topic?id=34869",
+    "date": "2026-10-06"
+  },
+  {
+    "title": "Dust - 역전파 없이 트랜스포머 사전학습하기",
+    "link": "https://news.hada.io/topic?id=34868",
+    "date": "2026-10-06"
+  },
+  {
+    "title": "Show GN: 애드덱 - 앱별 애드몹 수익을 폰 한 화면에서 보는 안드로이드 대시보드",
+    "link": "https://news.hada.io/topic?id=34867",
+    "date": "2026-10-06"
+  },
+  {
+    "title": "AI 시대, 매니저의 길",
+    "link": "https://news.hada.io/topic?id=34865",
+    "date": "2026-10-06"
+  },
+  {
+    "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+    "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+    "date": "2026-10-06"
+  },
+  {
+    "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+    "link": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+    "date": "2026-10-06"
+  },
+  {
+    "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+    "link": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+    "date": "2026-10-06"
+  },
+  {
+    "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
+    "link": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+    "date": "2026-10-06"
+  },
+  {
+    "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
+    "link": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
+    "date": "2026-10-06"
+  },
+  {
+    "title": "Connecting AI agents to enterprise knowledge",
+    "link": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+    "date": "2026-10-06"
+  },
+  {
+    "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
+    "link": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
+    "date": "2026-10-06"
+  },
+  {
+    "title": "Cable lobby to sue Trump FCC over repeal of national TV ownership cap",
+    "link": "https://arstechnica.com/tech-policy/2026/10/cable-lobby-to-sue-trump-fcc-over-repeal-of-national-tv-ownership-cap/",
+    "date": "2026-10-06"
+  },
+  {
+    "title": "Texas city demands $2M for public records on Flock usage",
+    "link": "https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/",
+    "date": "2026-10-06"
+  },
+  {
+    "title": "Command-line tool quickly removes Apple Intelligence from macOS 27",
+    "link": "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/",
+    "date": "2026-10-06"
+  },
+  {
+    "title": "Controlling the brain with light earns a physiology Nobel",
+    "link": "https://arstechnica.com/science/2026/10/controlling-the-brain-with-light-earns-a-physiology-nobel/",
+    "date": "2026-10-06"
+  },
+  {
+    "title": "OpenAI Mitigates Elevated Errors Across Multiple ChatGPT Services",
+    "link": "https://www.unite.ai/openai-mitigates-elevated-errors-across-multiple-chatgpt-services/",
+    "date": "2026-10-06"
+  },
+  {
+    "title": "Applied Intuition Deploys Vehicle OS for Nissan’s AI-Defined Vehicles",
+    "link": "https://www.unite.ai/applied-intuition-deploys-vehicle-os-for-nissans-ai-defined-vehicles/",
+    "date": "2026-10-06"
+  },
+  {
+    "title": "Researcher Discloses Same MCP Flaw at Google, JPMorgan, Two Governments",
+    "link": "https://www.unite.ai/researcher-discloses-same-mcp-flaw-at-google-jpmorgan-two-governments/",
+    "date": "2026-10-06"
+  },
+  {
+    "title": "Wikimedia Foundation Finds “Rogue” OpenAI Agent Activity on Its Projects",
+    "link": "https://www.unite.ai/wikimedia-foundation-finds-rogue-openai-agent-activity-on-its-projects/",
+    "date": "2026-10-06"
+  },
+  {
+    "title": "Reflection AI Unveils Beam, a 501B-Parameter Open-Weight Model",
+    "link": "https://www.unite.ai/reflection-ai-unveils-beam-a-501b-parameter-open-weight-model/",
     "date": "2026-10-06"
   }
 ]
