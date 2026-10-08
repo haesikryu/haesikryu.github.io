@@ -1,160 +1,5 @@
 [
   {
-    "title": "AI는 어떻게 여기까지 왔고 어디로 가는 중인가",
-    "link": "https://news.hada.io/topic?id=34581",
-    "date": "2026-10-01"
-  },
-  {
-    "title": "바이브 코딩한 웹사이트를 디자이너가 만든 것처럼 보이게 한 방법",
-    "link": "https://news.hada.io/topic?id=34580",
-    "date": "2026-10-01"
-  },
-  {
-    "title": "TLA+가 검증할 수 있는 것과 없는 것",
-    "link": "https://news.hada.io/topic?id=34579",
-    "date": "2026-10-01"
-  },
-  {
-    "title": "EDG, 상용 C/C++ 컴파일러 프런트엔드 오픈소스 공개",
-    "link": "https://news.hada.io/topic?id=34577",
-    "date": "2026-10-01"
-  },
-  {
-    "title": "싱가포르 정부 데이팅 앱, Gale-Shapley 안정 결혼 알고리듬 사용",
-    "link": "https://news.hada.io/topic?id=34576",
-    "date": "2026-10-01"
-  },
-  {
-    "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
-    "link": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
-    "date": "2026-10-01"
-  },
-  {
-    "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
-    "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
-    "date": "2026-10-01"
-  },
-  {
-    "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
-    "link": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
-    "date": "2026-10-01"
-  },
-  {
-    "title": "AI voice startup ElevenLabs doubles valuation to $22B",
-    "link": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
-    "date": "2026-10-01"
-  },
-  {
-    "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
-    "link": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
-    "date": "2026-10-01"
-  },
-  {
-    "title": "Disrupting a coordinated model-distillation campaign",
-    "link": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-    "date": "2026-10-01"
-  },
-  {
-    "title": "Helping small businesses put AI to work",
-    "link": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-    "date": "2026-10-01"
-  },
-  {
-    "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-    "link": "https://huggingface.co/blog/open-tts-leaderboard",
-    "date": "2026-10-01"
-  },
-  {
-    "title": "Dinosaur-killing impact crater might have been teeming with life",
-    "link": "https://arstechnica.com/science/2026/09/dinosaur-killing-impact-crater-might-have-been-teeming-with-life/",
-    "date": "2026-10-01"
-  },
-  {
-    "title": "Fifth unvaccinated person dies of measles; CDC still not counting all deaths",
-    "link": "https://arstechnica.com/health/2026/09/fifth-unvaccinated-person-dies-of-measles-cdc-still-not-counting-all-deaths/",
-    "date": "2026-10-01"
-  },
-  {
-    "title": "Returning from vacation? The government can search your phone without a warrant.",
-    "link": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/",
-    "date": "2026-10-01"
-  },
-  {
-    "title": "A local network of implants uses your body as the wiring",
-    "link": "https://arstechnica.com/science/2026/09/scientists-built-implants-that-talk-to-each-other-through-body-tissue/",
-    "date": "2026-10-01"
-  },
-  {
-    "title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
-    "link": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/",
-    "date": "2026-10-01"
-  },
-  {
-    "title": "OpenDLSS - NVIDIA의 DLSS 5 신경 렌더링 네트워크를 Vulkan으로 재구현",
-    "link": "https://news.hada.io/topic?id=34604",
-    "date": "2026-10-01"
-  },
-  {
-    "title": "StreetComplete iOS 버전, 공개 베타 시작",
-    "link": "https://news.hada.io/topic?id=34603",
-    "date": "2026-10-01"
-  },
-  {
-    "title": "Halfspace - 거리장 기반 솔리드 모델링을 위한 실험적 IDE",
-    "link": "https://news.hada.io/topic?id=34602",
-    "date": "2026-10-01"
-  },
-  {
-    "title": "Ledge.sh - 실행 가능한 Markdown 노트",
-    "link": "https://news.hada.io/topic?id=34601",
-    "date": "2026-10-01"
-  },
-  {
-    "title": "픽셀 이전: 모듈형 산업용 대시보드",
-    "link": "https://news.hada.io/topic?id=34600",
-    "date": "2026-10-01"
-  },
-  {
-    "title": "Hearing tech startup Legato launches its AI hearing glasses",
-    "link": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
-    "date": "2026-10-01"
-  },
-  {
-    "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
-    "link": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
-    "date": "2026-10-01"
-  },
-  {
-    "title": "Google Beam expands with new regions, partners, and customers",
-    "link": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
-    "date": "2026-10-01"
-  },
-  {
-    "title": "The Download: AI “mind-reading” and creative uses for small batteries",
-    "link": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/",
-    "date": "2026-10-01"
-  },
-  {
-    "title": "An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan",
-    "link": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
-    "date": "2026-10-01"
-  },
-  {
-    "title": "How smaller, distributed batteries could help the grid",
-    "link": "https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/",
-    "date": "2026-10-01"
-  },
-  {
-    "title": "PS5 emulation is suddenly making big strides on PC",
-    "link": "https://arstechnica.com/gaming/2026/10/ps5-emulation-is-suddenly-making-big-strides-on-pc/",
-    "date": "2026-10-01"
-  },
-  {
-    "title": "NASA squeezed Treasury, vibe coded, and broke the mold in bid to save Swift",
-    "link": "https://arstechnica.com/space/2026/10/heres-why-nasa-is-celebrating-the-failed-mission-to-save-the-swift-observatory/",
-    "date": "2026-10-01"
-  },
-  {
     "title": "Show GN: Brief - AI Slop이 만든 기——인 글을 GeekNews 요약처럼 만들어 주는 Mac 앱",
     "link": "https://news.hada.io/topic?id=34651",
     "date": "2026-10-02"
@@ -1233,5 +1078,125 @@
     "title": "ClinicalKey AI Gains Full-Text Access to 13 JAMA Network Journals",
     "link": "https://www.unite.ai/clinicalkey-ai-gains-full-text-access-to-13-jama-network-journals/",
     "date": "2026-10-07"
+  },
+  {
+    "title": "Rust 프로그래머를 위한 C",
+    "link": "https://news.hada.io/topic?id=34988",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "D2Coding 폰트 1.4.0 공개 - 숫자 0 선택 기능과 한글/코드 표시 개선",
+    "link": "https://news.hada.io/topic?id=34987",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "xAI, Grok Bot 직무별 활용 가이드 공개 - 전문 Bot으로 나만의 AI 팀 구성하기",
+    "link": "https://news.hada.io/topic?id=34986",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "Show GN: sysone_trans - 선택형 AI가 문자·자모를 골라 만드는 번역 실험",
+    "link": "https://news.hada.io/topic?id=34984",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "에이전트에도 네트워크 효과가 생길까?",
+    "link": "https://news.hada.io/topic?id=34983",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+    "link": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+    "link": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
+    "link": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+    "link": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+    "link": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "Helping teens learn, plan, and shape the future of AI",
+    "link": "https://openai.com/index/teens-learn-and-plan",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+    "link": "https://openai.com/index/radisson",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "GPT-6 and Intelligent UI for everyone",
+    "link": "https://openai.com/index/gpt-6-for-everyone",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "Multimodal open d1 decision models for the edge",
+    "link": "https://huggingface.co/blog/LiquidAI/open-d1",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
+    "link": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones",
+    "link": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "PA measles outbreak tops 1,000 cases, largest since disease was eliminated",
+    "link": "https://arstechnica.com/health/2026/10/pa-measles-outbreak-tops-1000-cases-largest-since-disease-was-eliminated/",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "TP-Link problems in US grow amid FCC router ban and four state lawsuits",
+    "link": "https://arstechnica.com/tech-policy/2026/10/florida-sues-tp-link-claiming-it-hides-router-security-risks-and-links-to-china/",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "Chemistry Nobel goes to reactions like those that gave life a hand",
+    "link": "https://arstechnica.com/science/2026/10/chemistry-nobel-goes-to-reactions-like-those-that-gave-life-a-hand/",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "Mecka Raises $60M Series B to Scale Robot Data and Deployment",
+    "link": "https://www.unite.ai/mecka-raises-60m-series-b-to-scale-robot-data-and-deployment/",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "Nuix Announces Neo Generative AI Framework for Governed LLM Use",
+    "link": "https://www.unite.ai/nuix-announces-neo-generative-ai-framework-for-governed-llm-use/",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "Sierra Launches Fleming-1 to Detect AI Agents Calling by Phone",
+    "link": "https://www.unite.ai/sierra-launches-fleming-1-to-detect-ai-agents-calling-by-phone/",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "Duke Energy, NC Public Staff Reach Settlement on Data Center Costs",
+    "link": "https://www.unite.ai/duke-energy-nc-public-staff-reach-settlement-on-data-center-costs/",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "Anthropic Slashes Claude Sonnet 5.5 Cache-Read Cost by 50%",
+    "link": "https://www.unite.ai/anthropic-slashes-claude-sonnet-5-5-cache-read-cost-by-50/",
+    "date": "2026-10-08"
   }
 ]
