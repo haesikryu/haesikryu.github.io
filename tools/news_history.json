@@ -1,200 +1,5 @@
 [
   {
-    "title": "Show GN: Brief - AI Slop이 만든 기——인 글을 GeekNews 요약처럼 만들어 주는 Mac 앱",
-    "link": "https://news.hada.io/topic?id=34651",
-    "date": "2026-10-02"
-  },
-  {
-    "title": "SvelteKit 3",
-    "link": "https://news.hada.io/topic?id=34650",
-    "date": "2026-10-02"
-  },
-  {
-    "title": "Show GN: oh-my-jev - Jev-Style 판단 모델을 벤치마크하고 테스트하고 직접 파인튜닝까지 가능한 오픈소스 도구",
-    "link": "https://news.hada.io/topic?id=34649",
-    "date": "2026-10-02"
-  },
-  {
-    "title": "RacketCon이 토요일에 열림",
-    "link": "https://news.hada.io/topic?id=34648",
-    "date": "2026-10-02"
-  },
-  {
-    "title": "웹 개발 교육의 죽음",
-    "link": "https://news.hada.io/topic?id=34647",
-    "date": "2026-10-02"
-  },
-  {
-    "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president",
-    "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
-    "date": "2026-10-02"
-  },
-  {
-    "title": "ChatGPT can now virtually try on clothes for you",
-    "link": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
-    "date": "2026-10-02"
-  },
-  {
-    "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
-    "link": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
-    "date": "2026-10-02"
-  },
-  {
-    "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-    "link": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
-    "date": "2026-10-02"
-  },
-  {
-    "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
-    "link": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
-    "date": "2026-10-02"
-  },
-  {
-    "title": "The eternal complement",
-    "link": "https://openai.com/index/the-eternal-complement",
-    "date": "2026-10-02"
-  },
-  {
-    "title": "How Albertsons Companies is reimagining retail from the inside out",
-    "link": "https://openai.com/index/albertsons-reimagining-retail",
-    "date": "2026-10-02"
-  },
-  {
-    "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-    "link": "https://openai.com/index/the-den-family-social",
-    "date": "2026-10-02"
-  },
-  {
-    "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-    "link": "https://huggingface.co/blog/allenai/olmocore3",
-    "date": "2026-10-02"
-  },
-  {
-    "title": "Venus' mysterious haze is actually cosmic dust",
-    "link": "https://arstechnica.com/science/2026/10/venus-mysterious-haze-is-actually-cosmic-dust/",
-    "date": "2026-10-02"
-  },
-  {
-    "title": "SpaceX describes surgical intervention before launch of latest crew mission",
-    "link": "https://arstechnica.com/space/2026/10/spacex-describes-surgical-intervention-before-launch-of-latest-crew-mission/",
-    "date": "2026-10-02"
-  },
-  {
-    "title": "Hacks of 2 federal agencies in a month have spilled a bonanza of sensitive data",
-    "link": "https://arstechnica.com/security/2026/10/hacks-of-2-federal-agencies-in-a-month-have-spilled-a-bonanza-of-sensitive-data/",
-    "date": "2026-10-02"
-  },
-  {
-    "title": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
-    "link": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/",
-    "date": "2026-10-02"
-  },
-  {
-    "title": "Can good design stop content creators from having sex in robotaxis?",
-    "link": "https://arstechnica.com/cars/2026/10/can-good-design-stop-content-creators-from-having-sex-in-robotaxis/",
-    "date": "2026-10-02"
-  },
-  {
-    "title": "Suno Launches Speech Beta, Pairing Voice and Music in One Model",
-    "link": "https://www.unite.ai/suno-launches-speech-beta-pairing-voice-and-music-in-one-model/",
-    "date": "2026-10-02"
-  },
-  {
-    "title": "Microsoft Launches MAI-Transcribe-2-Streaming and Two MAI-Voice Models",
-    "link": "https://www.unite.ai/microsoft-launches-mai-transcribe-2-streaming-and-two-mai-voice-models/",
-    "date": "2026-10-02"
-  },
-  {
-    "title": "PaleBlueDot AI Raises $200M Series C at $3.2B Valuation to Expand Super Intelligence Compute",
-    "link": "https://www.unite.ai/palebluedot-ai-raises-200m-series-c-at-3-2b-valuation-to-expand-super-intelligence-compute/",
-    "date": "2026-10-02"
-  },
-  {
-    "title": "Cerebras Reports 5X Inference Throughput Gain From Disaggregation",
-    "link": "https://www.unite.ai/cerebras-reports-5x-inference-throughput-gain-from-disaggregation/",
-    "date": "2026-10-02"
-  },
-  {
-    "title": "SoftBank Closes Third $10B OpenAI Tranche Using Senior Notes Proceeds",
-    "link": "https://www.unite.ai/softbank-closes-third-10b-openai-tranche-using-senior-notes-proceeds/",
-    "date": "2026-10-02"
-  },
-  {
-    "title": "터보 하스켈(Turbo Haskell)",
-    "link": "https://news.hada.io/topic?id=34669",
-    "date": "2026-10-02"
-  },
-  {
-    "title": "Shimano 자전거 박물관 방문기",
-    "link": "https://news.hada.io/topic?id=34668",
-    "date": "2026-10-02"
-  },
-  {
-    "title": "Rust 1.99.0 발표",
-    "link": "https://news.hada.io/topic?id=34667",
-    "date": "2026-10-02"
-  },
-  {
-    "title": "arXiv의 개정된 제출 횟수 제한 정책",
-    "link": "https://news.hada.io/topic?id=34665",
-    "date": "2026-10-02"
-  },
-  {
-    "title": "싱가포르 정부가 운영하는 데이팅 서비스는 어떻게 작동하나",
-    "link": "https://news.hada.io/topic?id=34664",
-    "date": "2026-10-02"
-  },
-  {
-    "title": "Making global data easier to explore",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
-    "date": "2026-10-02"
-  },
-  {
-    "title": "The Download: a biological de-aging contest and why LLMs don’t reason",
-    "link": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/",
-    "date": "2026-10-02"
-  },
-  {
-    "title": "A new contest pits competitors against each other in a race to biological youth",
-    "link": "https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/",
-    "date": "2026-10-02"
-  },
-  {
-    "title": "Don’t be fooled—LLMs don’t reason",
-    "link": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
-    "date": "2026-10-02"
-  },
-  {
-    "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-    "link": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-    "date": "2026-10-02"
-  },
-  {
-    "title": "TCL is right to question Samsung’s use of the term “Mini LED”",
-    "link": "https://arstechnica.com/gadgets/2026/10/tcl-is-right-to-question-samsungs-use-of-the-term-mini-led/",
-    "date": "2026-10-02"
-  },
-  {
-    "title": "What Are World Models? How AI Learns to Predict and Simulate Environments",
-    "link": "https://www.unite.ai/what-are-world-models-how-ai-learns-to-predict-and-simulate-environments/",
-    "date": "2026-10-02"
-  },
-  {
-    "title": "AKASA Brings Autonomous AI to Inpatient Coding and Clinical Documentation",
-    "link": "https://www.unite.ai/akasa-brings-autonomous-ai-to-inpatient-coding-and-clinical-documentation/",
-    "date": "2026-10-02"
-  },
-  {
-    "title": "Amazon Announces Built Together Program for Data Center Communities",
-    "link": "https://www.unite.ai/amazon-announces-built-together-program-for-data-center-communities/",
-    "date": "2026-10-02"
-  },
-  {
-    "title": "The Form Looks Right. The Data Contract Is Wrong",
-    "link": "https://www.unite.ai/ai-form-generation-contract-testing-schema/",
-    "date": "2026-10-02"
-  },
-  {
     "title": "Redis 개발자가 만든 ds4, LLM을 로컬에서 실행",
     "link": "https://news.hada.io/topic?id=34698",
     "date": "2026-10-03"
@@ -1293,5 +1098,135 @@
     "title": "Upstream Expands Live Digital Twins From Connected Vehicles to Robots and Physical AI",
     "link": "https://www.unite.ai/upstream-live-digital-twins-robots-physical-ai/",
     "date": "2026-10-08"
+  },
+  {
+    "title": "곧장 본론으로 들어가지 않는 것의 가치 (2015)",
+    "link": "https://news.hada.io/topic?id=35045",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "시스템으로 사고하고, 반복 루프로 출시하기",
+    "link": "https://news.hada.io/topic?id=35043",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "AI는 디자인을 어떻게 바꾸고 있는가?",
+    "link": "https://news.hada.io/topic?id=35042",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "AI 시대에 SaaS 기업을 피벗하는 방법",
+    "link": "https://news.hada.io/topic?id=35041",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "5년 계획을 세우지 말고, 대신 이렇게 하라",
+    "link": "https://news.hada.io/topic?id=35040",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+    "link": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+    "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+    "link": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+    "link": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
+    "link": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+    "link": "https://openai.com/index/oracle",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+    "link": "https://openai.com/index/pollo-ai",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "LegalOn halves Codex costs while maintaining development speed",
+    "link": "https://openai.com/index/legalon-halves-codex-costs",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "Disrupting AI-enabled “false front” operations",
+    "link": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+    "link": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "The model that didn't exist, so you made it yourself",
+    "link": "https://huggingface.co/blog/building-with-ml-intern",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "SpaceX calls for better coordination in orbit after near-misses with Starlink",
+    "link": "https://arstechnica.com/space/2026/10/spacex-calls-for-better-coordination-in-orbit-after-near-misses-with-starlink/",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "Judge weighs if Trump can charge $100K for early access to Truth Social posts",
+    "link": "https://arstechnica.com/tech-policy/2026/10/judge-weighs-if-trump-can-charge-100k-for-early-access-to-truth-social-posts/",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "Trump Mobile hack and apparent lack of FCC authorization raise security alarms",
+    "link": "https://arstechnica.com/tech-policy/2026/10/trump-mobile-doesnt-seem-to-have-fcc-authorization-for-phone-service-senator-says/",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "Feds get ready to rewrite car headlight rules",
+    "link": "https://arstechnica.com/cars/2026/10/feds-get-ready-to-rewrite-car-headlight-rules/",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "RIP Margaret Hamilton, whose code saved the Apollo 11 Moon landing",
+    "link": "https://arstechnica.com/science/2026/10/r-i-p-margaret-hamilton-whose-code-saved-the-apollo-11-moon-landing/",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "AudioShake Launches The Refinery to Turn Overlapping Conversations Into AI Training Data",
+    "link": "https://www.unite.ai/audioshake-refinery-ai-training-data/",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "Lava Finds Thousands of Exposed GPU Servers and a High-Severity NVIDIA Monitoring Flaw",
+    "link": "https://www.unite.ai/lava-nvidia-dcgm-exporter-gpu-security/",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "Anthropic Launches Cyber Mission for Critical Infrastructure, Open Source",
+    "link": "https://www.unite.ai/anthropic-launches-cyber-mission-for-critical-infrastructure-open-source/",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "Arena Secures $200M Series B at $3.1B Valuation to Advance AI Evaluation",
+    "link": "https://www.unite.ai/arena-secures-200m-series-b-at-3-1b-valuation-to-advance-ai-evaluation/",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "Anthropic Updates Usage Policy, Adding Model Abuse and Deception Rules",
+    "link": "https://www.unite.ai/anthropic-updates-usage-policy-adding-model-abuse-and-deception-rules/",
+    "date": "2026-10-09"
   }
 ]
