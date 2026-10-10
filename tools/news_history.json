@@ -1,175 +1,5 @@
 [
   {
-    "title": "Redis 개발자가 만든 ds4, LLM을 로컬에서 실행",
-    "link": "https://news.hada.io/topic?id=34698",
-    "date": "2026-10-03"
-  },
-  {
-    "title": "Show GN: 가격 — 클립당 10원 최고의 쇼츠 편집 에이전트 쇼츠존",
-    "link": "https://news.hada.io/topic?id=34697",
-    "date": "2026-10-03"
-  },
-  {
-    "title": "Show GN: OP!Amp - macOS 시스템 오디오 이퀄라이저",
-    "link": "https://news.hada.io/topic?id=34696",
-    "date": "2026-10-03"
-  },
-  {
-    "title": "PicoMQ - S3 기반 실시간 데이터 스트림 서버",
-    "link": "https://news.hada.io/topic?id=34694",
-    "date": "2026-10-03"
-  },
-  {
-    "title": "Waterfox 6.7.5, 내장 피드 리더 추가",
-    "link": "https://news.hada.io/topic?id=34693",
-    "date": "2026-10-03"
-  },
-  {
-    "title": "Meta wants your next gadget to be Muse-infused",
-    "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
-    "date": "2026-10-03"
-  },
-  {
-    "title": "Sean Parker is rebuilding Stability AI around music",
-    "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
-    "date": "2026-10-03"
-  },
-  {
-    "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-    "link": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
-    "date": "2026-10-03"
-  },
-  {
-    "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-    "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
-    "date": "2026-10-03"
-  },
-  {
-    "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
-    "link": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
-    "date": "2026-10-03"
-  },
-  {
-    "title": "A model guide for the GPT-6 family",
-    "link": "https://openai.com/index/practical-guide-building-gpt-6",
-    "date": "2026-10-03"
-  },
-  {
-    "title": "Chatham scales its capital markets expertise with OpenAI",
-    "link": "https://openai.com/index/chatham-financial",
-    "date": "2026-10-03"
-  },
-  {
-    "title": "The latest AI news we announced in September 2026",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
-    "date": "2026-10-03"
-  },
-  {
-    "title": "Redefining enterprise intelligence with autonomous AI",
-    "link": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
-    "date": "2026-10-03"
-  },
-  {
-    "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-    "link": "https://huggingface.co/blog/allenai/astabrief",
-    "date": "2026-10-03"
-  },
-  {
-    "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
-    "link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
-    "date": "2026-10-03"
-  },
-  {
-    "title": "Someone got Doom in an SQL database",
-    "link": "https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition/",
-    "date": "2026-10-03"
-  },
-  {
-    "title": "Amazon’s $1B plan to combat data center backlash draws more backlash",
-    "link": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
-    "date": "2026-10-03"
-  },
-  {
-    "title": "Patient-zero drill put health facilities to the test—40% of them failed",
-    "link": "https://arstechnica.com/health/2026/10/patient-zero-drill-put-health-facilities-to-the-test-40-of-them-failed/",
-    "date": "2026-10-03"
-  },
-  {
-    "title": "Lyft settles landmark driver misclassification lawsuit for $272.5M",
-    "link": "https://arstechnica.com/tech-policy/2026/10/lyft-settles-landmark-driver-misclassification-lawsuit-for-272-5m/",
-    "date": "2026-10-03"
-  },
-  {
-    "title": "Decagon Joins OpenAI’s B2B Marketplace as a Launch Partner",
-    "link": "https://www.unite.ai/decagon-joins-openais-b2b-marketplace-as-a-launch-partner/",
-    "date": "2026-10-03"
-  },
-  {
-    "title": "Meta Open-Sources Muse Gadget SDKs for DIY AI Hardware Devices",
-    "link": "https://www.unite.ai/meta-open-sources-muse-gadget-sdks-for-diy-ai-hardware-devices/",
-    "date": "2026-10-03"
-  },
-  {
-    "title": "Apple to Tighten macOS Full Disk Access, Citing AI Agent Risks",
-    "link": "https://www.unite.ai/apple-to-tighten-macos-full-disk-access-citing-ai-agent-risks/",
-    "date": "2026-10-03"
-  },
-  {
-    "title": "Brian Hartzband, President of US Operations, GMEX Robotics – Interview Series",
-    "link": "https://www.unite.ai/brian-hartzband-president-of-us-operations-gmex-robotics-interview-series/",
-    "date": "2026-10-03"
-  },
-  {
-    "title": "Chatham Financial Builds Capital Markets Tools with OpenAI Codex",
-    "link": "https://www.unite.ai/chatham-financial-builds-capital-markets-tools-with-openai-codex/",
-    "date": "2026-10-03"
-  },
-  {
-    "title": "내가 표적이 됐다: git post-checkout 훅으로 자격 증명 탈취를 노린 시도",
-    "link": "https://news.hada.io/topic?id=34709",
-    "date": "2026-10-03"
-  },
-  {
-    "title": "Newgrounds.com - 게임, 음악, 예술 커뮤니티",
-    "link": "https://news.hada.io/topic?id=34708",
-    "date": "2026-10-03"
-  },
-  {
-    "title": "Extra Big Ass Intelligence, 엄청나게 거대한 지능",
-    "link": "https://news.hada.io/topic?id=34707",
-    "date": "2026-10-03"
-  },
-  {
-    "title": "Apple, macOS ‘전체 디스크 접근’ 권한 통제 강화 예고",
-    "link": "https://news.hada.io/topic?id=34706",
-    "date": "2026-10-03"
-  },
-  {
-    "title": "Show GN: ALPS Writer·ADR Writer - Claude Code와 Codex용 제품 명세·설계 결정 관리 플러그인",
-    "link": "https://news.hada.io/topic?id=34705",
-    "date": "2026-10-03"
-  },
-  {
-    "title": "New experts join Google’s AI & Economy team",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
-    "date": "2026-10-03"
-  },
-  {
-    "title": "Co-creating the future of fashion with Google",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
-    "date": "2026-10-03"
-  },
-  {
-    "title": "The dawn of the age of the exoskeleton",
-    "link": "https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton/",
-    "date": "2026-10-03"
-  },
-  {
-    "title": "SGD vs. Adam: How Machine Learning Optimizers Actually Learn",
-    "link": "https://www.unite.ai/sgd-vs-adam-how-machine-learning-optimizers-actually-learn/",
-    "date": "2026-10-03"
-  },
-  {
     "title": "Bob Cringely 별세",
     "link": "https://news.hada.io/topic?id=34746",
     "date": "2026-10-04"
@@ -1308,5 +1138,115 @@
     "title": "AI Literacy Belongs in Every K-12 Classroom",
     "link": "https://www.unite.ai/ai-literacy-schools/",
     "date": "2026-10-09"
+  },
+  {
+    "title": "코딩 에이전트는 왜 이렇게 멍청할까?",
+    "link": "https://news.hada.io/topic?id=35104",
+    "date": "2026-10-10"
+  },
+  {
+    "title": "StepFun의 100만 토큰 컨텍스트 MoE 모델 Step 5 Preview, OpenRouter에 등장",
+    "link": "https://news.hada.io/topic?id=35103",
+    "date": "2026-10-10"
+  },
+  {
+    "title": ".lan 신규 gTLD 신청",
+    "link": "https://news.hada.io/topic?id=35102",
+    "date": "2026-10-10"
+  },
+  {
+    "title": "AI 학습용 생물학 데이터 구축에 전 세계 약 2.7조원 투입 약속",
+    "link": "https://news.hada.io/topic?id=35101",
+    "date": "2026-10-10"
+  },
+  {
+    "title": "Microsoft-Decision-1, 빠른 의사결정을 위한 Microsoft의 모델",
+    "link": "https://news.hada.io/topic?id=35100",
+    "date": "2026-10-10"
+  },
+  {
+    "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+    "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+    "date": "2026-10-10"
+  },
+  {
+    "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+    "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+    "date": "2026-10-10"
+  },
+  {
+    "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+    "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+    "date": "2026-10-10"
+  },
+  {
+    "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+    "link": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+    "date": "2026-10-10"
+  },
+  {
+    "title": "Amazon drops data center NDAs, and AI agents want your credit card",
+    "link": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
+    "date": "2026-10-10"
+  },
+  {
+    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+    "link": "https://openai.com/index/asana-browser-agent",
+    "date": "2026-10-10"
+  },
+  {
+    "title": "Impactful scheduling for GPU clusters",
+    "link": "https://huggingface.co/blog/allenai/impactful-scheduling",
+    "date": "2026-10-10"
+  },
+  {
+    "title": "Neanderthal wooden tools from Spain found preserved in stone",
+    "link": "https://arstechnica.com/science/2026/10/neanderthal-wooden-tools-from-spain-found-preserved-in-stone/",
+    "date": "2026-10-10"
+  },
+  {
+    "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
+    "link": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
+    "date": "2026-10-10"
+  },
+  {
+    "title": "A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis",
+    "link": "https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/",
+    "date": "2026-10-10"
+  },
+  {
+    "title": "NASA issues long-awaited call to industry for private space stations",
+    "link": "https://arstechnica.com/space/2026/10/nasa-issues-long-awaited-call-to-industry-for-private-space-stations/",
+    "date": "2026-10-10"
+  },
+  {
+    "title": "What's been driving Hawaii's lava fountains?",
+    "link": "https://arstechnica.com/science/2026/10/whats-been-driving-hawaiis-lava-fountains/",
+    "date": "2026-10-10"
+  },
+  {
+    "title": "Databricks Details Lakebase Branching for Parallel Coding Agents",
+    "link": "https://www.unite.ai/databricks-details-lakebase-branching-for-parallel-coding-agents/",
+    "date": "2026-10-10"
+  },
+  {
+    "title": "TypeSafe AI Raises $870M Series A at $7.5B Valuation to Ship More AI Models",
+    "link": "https://www.unite.ai/typesafe-ai-raises-870m-series-a-at-7-5b-valuation-to-ship-more-ai-models/",
+    "date": "2026-10-10"
+  },
+  {
+    "title": "Anthropic Launches Claude Dashboards and Motion, Takes Docs Out of Beta",
+    "link": "https://www.unite.ai/anthropic-launches-claude-dashboards-and-motion-takes-docs-out-of-beta/",
+    "date": "2026-10-10"
+  },
+  {
+    "title": "Google’s AMIE Primary Care Feasibility Study Published in The Lancet",
+    "link": "https://www.unite.ai/googles-amie-primary-care-feasibility-study-published-in-the-lancet/",
+    "date": "2026-10-10"
+  },
+  {
+    "title": "Sophos Says Daybreak AI Agents Cut Average Case Response to 89 Seconds",
+    "link": "https://www.unite.ai/sophos-says-daybreak-ai-agents-cut-average-case-response-to-89-seconds/",
+    "date": "2026-10-10"
   }
 ]
