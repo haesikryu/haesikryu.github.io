@@ -1,95 +1,5 @@
 [
   {
-    "title": "Bob Cringely 별세",
-    "link": "https://news.hada.io/topic?id=34746",
-    "date": "2026-10-04"
-  },
-  {
-    "title": "Show GN: AutoroShopping - AI 에이전트를 위한 이커머스 구매 관리 커넥터",
-    "link": "https://news.hada.io/topic?id=34745",
-    "date": "2026-10-04"
-  },
-  {
-    "title": "거의 모든 서비스에 예산을 넘으면 멈추는 기능이 필요해질 것",
-    "link": "https://news.hada.io/topic?id=34744",
-    "date": "2026-10-04"
-  },
-  {
-    "title": "Valve의 Timur Kristóf가 진행한 Linux 구형 AMD GPU 개선 작업",
-    "link": "https://news.hada.io/topic?id=34743",
-    "date": "2026-10-04"
-  },
-  {
-    "title": "OpenAI 안전 책임자 사임, 회사 문화가 ‘망가졌다’고 경고",
-    "link": "https://news.hada.io/topic?id=34742",
-    "date": "2026-10-04"
-  },
-  {
-    "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-    "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
-    "date": "2026-10-04"
-  },
-  {
-    "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-    "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-    "date": "2026-10-04"
-  },
-  {
-    "title": "All the AI agents that can live in your text messages",
-    "link": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
-    "date": "2026-10-04"
-  },
-  {
-    "title": "The Agent Said It Was Done. The Database Disagreed.",
-    "link": "https://huggingface.co/blog/microsoft/thinkingbox",
-    "date": "2026-10-04"
-  },
-  {
-    "title": "Milt Windler, NASA flight director who helped save Apollo 13, dies at 94",
-    "link": "https://arstechnica.com/space/2026/10/milt-windler-nasa-flight-director-who-helped-save-apollo-13-dies-at-94/",
-    "date": "2026-10-04"
-  },
-  {
-    "title": "우크라이나에서 분산형 재생에너지가 러시아의 공격을 무력화하다",
-    "link": "https://news.hada.io/topic?id=34758",
-    "date": "2026-10-04"
-  },
-  {
-    "title": "Show GN: cuesheet - 링크 하나로 MSW 응답을 바꿔, AI도 QA도 상황별 화면을 확인하는 도구",
-    "link": "https://news.hada.io/topic?id=34757",
-    "date": "2026-10-04"
-  },
-  {
-    "title": "Ask GN: 코딩 에이전트 뭐 쓰고 계세요? 고른 이유가 궁금합니다",
-    "link": "https://news.hada.io/topic?id=34756",
-    "date": "2026-10-04"
-  },
-  {
-    "title": "소프트웨어 품질의 시대인가, 타조의 시대인가?",
-    "link": "https://news.hada.io/topic?id=34755",
-    "date": "2026-10-04"
-  },
-  {
-    "title": "LeCun, AI의 인류 멸종과 최근 ‘일탈’ 사건에 “전혀 우려 없다”",
-    "link": "https://news.hada.io/topic?id=34754",
-    "date": "2026-10-04"
-  },
-  {
-    "title": "All hail electrification. But let’s talk about the hard part.",
-    "link": "https://arstechnica.com/science/2026/10/all-hail-electrification-but-lets-talk-about-the-hard-part/",
-    "date": "2026-10-04"
-  },
-  {
-    "title": "Fighting AI Slop in Science Papers",
-    "link": "https://www.unite.ai/fighting-ai-slop-in-science-papers/",
-    "date": "2026-10-04"
-  },
-  {
-    "title": "What Are AI Guardrails? How Production Systems Control Model Behavior",
-    "link": "https://www.unite.ai/what-are-ai-guardrails-how-production-systems-control-model-behavior/",
-    "date": "2026-10-04"
-  },
-  {
     "title": "「Quo Vadis, Mathematics?」—“수학이여, 어디로 가는가?”",
     "link": "https://news.hada.io/topic?id=34798",
     "date": "2026-10-05"
@@ -1293,5 +1203,50 @@
     "title": "What Is Agent2Agent (A2A)? How AI Agents Communicate and Collaborate",
     "link": "https://www.unite.ai/what-is-agent2agent-a2a-protocol/",
     "date": "2026-10-10"
+  },
+  {
+    "title": "Nix가 내 디버거의 절반을 만들어 줬다",
+    "link": "https://news.hada.io/topic?id=35144",
+    "date": "2026-10-11"
+  },
+  {
+    "title": "Show GN: Ukemi - jj 작업 이력을 타임라인에서 확인하고 복원하는 macOS GUI",
+    "link": "https://news.hada.io/topic?id=35143",
+    "date": "2026-10-11"
+  },
+  {
+    "title": "Knuth의 오류 발견 보상 수표",
+    "link": "https://news.hada.io/topic?id=35142",
+    "date": "2026-10-11"
+  },
+  {
+    "title": "도시는 당신이 짓지 않길 바라는 도시 건설 게임",
+    "link": "https://news.hada.io/topic?id=35141",
+    "date": "2026-10-11"
+  },
+  {
+    "title": "Eve - 디렉터리 하나로 AI 에이전트를 정의하고 배포하는 Vercel 프레임워크",
+    "link": "https://news.hada.io/topic?id=35140",
+    "date": "2026-10-11"
+  },
+  {
+    "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+    "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+    "date": "2026-10-11"
+  },
+  {
+    "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+    "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+    "date": "2026-10-11"
+  },
+  {
+    "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+    "link": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+    "date": "2026-10-11"
+  },
+  {
+    "title": "Here are the top AI agents that can live in your text messages",
+    "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "date": "2026-10-11"
   }
 ]
