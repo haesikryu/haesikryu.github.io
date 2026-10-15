@@ -1,220 +1,5 @@
 [
   {
-    "title": "Rust 프로그래머를 위한 C",
-    "link": "https://news.hada.io/topic?id=34988",
-    "date": "2026-10-08"
-  },
-  {
-    "title": "D2Coding 폰트 1.4.0 공개 - 숫자 0 선택 기능과 한글/코드 표시 개선",
-    "link": "https://news.hada.io/topic?id=34987",
-    "date": "2026-10-08"
-  },
-  {
-    "title": "xAI, Grok Bot 직무별 활용 가이드 공개 - 전문 Bot으로 나만의 AI 팀 구성하기",
-    "link": "https://news.hada.io/topic?id=34986",
-    "date": "2026-10-08"
-  },
-  {
-    "title": "Show GN: sysone_trans - 선택형 AI가 문자·자모를 골라 만드는 번역 실험",
-    "link": "https://news.hada.io/topic?id=34984",
-    "date": "2026-10-08"
-  },
-  {
-    "title": "에이전트에도 네트워크 효과가 생길까?",
-    "link": "https://news.hada.io/topic?id=34983",
-    "date": "2026-10-08"
-  },
-  {
-    "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-    "link": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
-    "date": "2026-10-08"
-  },
-  {
-    "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
-    "link": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
-    "date": "2026-10-08"
-  },
-  {
-    "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
-    "link": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
-    "date": "2026-10-08"
-  },
-  {
-    "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
-    "link": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
-    "date": "2026-10-08"
-  },
-  {
-    "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
-    "link": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
-    "date": "2026-10-08"
-  },
-  {
-    "title": "Helping teens learn, plan, and shape the future of AI",
-    "link": "https://openai.com/index/teens-learn-and-plan",
-    "date": "2026-10-08"
-  },
-  {
-    "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-    "link": "https://openai.com/index/radisson",
-    "date": "2026-10-08"
-  },
-  {
-    "title": "GPT-6 and Intelligent UI for everyone",
-    "link": "https://openai.com/index/gpt-6-for-everyone",
-    "date": "2026-10-08"
-  },
-  {
-    "title": "Multimodal open d1 decision models for the edge",
-    "link": "https://huggingface.co/blog/LiquidAI/open-d1",
-    "date": "2026-10-08"
-  },
-  {
-    "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
-    "link": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
-    "date": "2026-10-08"
-  },
-  {
-    "title": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones",
-    "link": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/",
-    "date": "2026-10-08"
-  },
-  {
-    "title": "PA measles outbreak tops 1,000 cases, largest since disease was eliminated",
-    "link": "https://arstechnica.com/health/2026/10/pa-measles-outbreak-tops-1000-cases-largest-since-disease-was-eliminated/",
-    "date": "2026-10-08"
-  },
-  {
-    "title": "TP-Link problems in US grow amid FCC router ban and four state lawsuits",
-    "link": "https://arstechnica.com/tech-policy/2026/10/florida-sues-tp-link-claiming-it-hides-router-security-risks-and-links-to-china/",
-    "date": "2026-10-08"
-  },
-  {
-    "title": "Chemistry Nobel goes to reactions like those that gave life a hand",
-    "link": "https://arstechnica.com/science/2026/10/chemistry-nobel-goes-to-reactions-like-those-that-gave-life-a-hand/",
-    "date": "2026-10-08"
-  },
-  {
-    "title": "Mecka Raises $60M Series B to Scale Robot Data and Deployment",
-    "link": "https://www.unite.ai/mecka-raises-60m-series-b-to-scale-robot-data-and-deployment/",
-    "date": "2026-10-08"
-  },
-  {
-    "title": "Nuix Announces Neo Generative AI Framework for Governed LLM Use",
-    "link": "https://www.unite.ai/nuix-announces-neo-generative-ai-framework-for-governed-llm-use/",
-    "date": "2026-10-08"
-  },
-  {
-    "title": "Sierra Launches Fleming-1 to Detect AI Agents Calling by Phone",
-    "link": "https://www.unite.ai/sierra-launches-fleming-1-to-detect-ai-agents-calling-by-phone/",
-    "date": "2026-10-08"
-  },
-  {
-    "title": "Duke Energy, NC Public Staff Reach Settlement on Data Center Costs",
-    "link": "https://www.unite.ai/duke-energy-nc-public-staff-reach-settlement-on-data-center-costs/",
-    "date": "2026-10-08"
-  },
-  {
-    "title": "Anthropic Slashes Claude Sonnet 5.5 Cache-Read Cost by 50%",
-    "link": "https://www.unite.ai/anthropic-slashes-claude-sonnet-5-5-cache-read-cost-by-50/",
-    "date": "2026-10-08"
-  },
-  {
-    "title": "Show GN: Porch - 클로드코드·코덱스로 한 일을 프로젝트별로 정리하는 맥 메뉴바 앱",
-    "link": "https://news.hada.io/topic?id=35010",
-    "date": "2026-10-08"
-  },
-  {
-    "title": "인터넷을 떠받치는 사람들",
-    "link": "https://news.hada.io/topic?id=35009",
-    "date": "2026-10-08"
-  },
-  {
-    "title": "OpenAI, 수학 논문 3편 철회",
-    "link": "https://news.hada.io/topic?id=35008",
-    "date": "2026-10-08"
-  },
-  {
-    "title": "Cleo(수학자)",
-    "link": "https://news.hada.io/topic?id=35005",
-    "date": "2026-10-08"
-  },
-  {
-    "title": "Jonathan, 지구에서 가장 오래 산 현존 육상동물",
-    "link": "https://news.hada.io/topic?id=35004",
-    "date": "2026-10-08"
-  },
-  {
-    "title": "Google Beam expands with new regions, partners, and customers",
-    "link": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
-    "date": "2026-10-08"
-  },
-  {
-    "title": "The Download: AI roadblocks for humanoids and portable rubber dams",
-    "link": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/",
-    "date": "2026-10-08"
-  },
-  {
-    "title": "Why we’re watching these climate tech companies",
-    "link": "https://www.technologyreview.com/2026/10/08/1145920/climate-tech-companies-list/",
-    "date": "2026-10-08"
-  },
-  {
-    "title": "AI breakthroughs in robotics won’t change your life any time soon",
-    "link": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
-    "date": "2026-10-08"
-  },
-  {
-    "title": "Building a safer path to autonomous industrial AI",
-    "link": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
-    "date": "2026-10-08"
-  },
-  {
-    "title": "Introducing Falcon ASR",
-    "link": "https://huggingface.co/blog/tiiuae/falcon-asr",
-    "date": "2026-10-08"
-  },
-  {
-    "title": "ExxonMobil's own scientists doubted climate fixes the company hyped",
-    "link": "https://arstechnica.com/tech-policy/2026/10/exxonmobils-own-scientists-doubted-climate-fixes-the-company-hyped/",
-    "date": "2026-10-08"
-  },
-  {
-    "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
-    "link": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
-    "date": "2026-10-08"
-  },
-  {
-    "title": "A senator tried to ban gambling on prediction markets—now she's a Kalshi lobbyist",
-    "link": "https://arstechnica.com/tech-policy/2026/10/a-senator-tried-to-ban-gambling-on-prediction-markets-now-shes-a-kalshi-lobbyist/",
-    "date": "2026-10-08"
-  },
-  {
-    "title": "You Can’t Sample -Test a Brand That Talks to Everyone Differently",
-    "link": "https://www.unite.ai/testing-ai-agents-consistency-decision-logic/",
-    "date": "2026-10-08"
-  },
-  {
-    "title": "Illumina Launches SpliceAI2 Model for Splice Variant Interpretation",
-    "link": "https://www.unite.ai/illumina-launches-spliceai2-model-for-splice-variant-interpretation/",
-    "date": "2026-10-08"
-  },
-  {
-    "title": "Multi-Year Anthropic Deal Makes Hexaware a Claude Preferred Partner",
-    "link": "https://www.unite.ai/multi-year-anthropic-deal-makes-hexaware-a-claude-preferred-partner/",
-    "date": "2026-10-08"
-  },
-  {
-    "title": "Eminence Grey and Lumen Partner to Connect Sovereign AI Across the U.S.",
-    "link": "https://www.unite.ai/eminence-grey-lumen-sovereign-ai-partnership/",
-    "date": "2026-10-08"
-  },
-  {
-    "title": "Upstream Expands Live Digital Twins From Connected Vehicles to Robots and Physical AI",
-    "link": "https://www.unite.ai/upstream-live-digital-twins-robots-physical-ai/",
-    "date": "2026-10-08"
-  },
-  {
     "title": "곧장 본론으로 들어가지 않는 것의 가치 (2015)",
     "link": "https://news.hada.io/topic?id=35045",
     "date": "2026-10-09"
@@ -1223,5 +1008,130 @@
     "title": "CodeWall Raises $4M Pre-Seed to Bring Autonomous Attack Agents to Enterprise Security",
     "link": "https://www.unite.ai/codewall-4m-pre-seed-autonomous-attack-agents/",
     "date": "2026-10-14"
+  },
+  {
+    "title": "AI 기업 인수에서는 ARR보다 코드부터 봐야 하는 이유",
+    "link": "https://news.hada.io/topic?id=35386",
+    "date": "2026-10-15"
+  },
+  {
+    "title": "2026년 B2B GTM 플레이북 - AI 검색, 구매 신호, GTM 엔진과 새로운 가격 모델",
+    "link": "https://news.hada.io/topic?id=35385",
+    "date": "2026-10-15"
+  },
+  {
+    "title": "당신의 경쟁 해자는 죽었다. 누구나 당신의 제품을 다시 만들 수 있다",
+    "link": "https://news.hada.io/topic?id=35384",
+    "date": "2026-10-15"
+  },
+  {
+    "title": "Jev 1.14.0 공개 - 이미지 입력과 긴 컨텍스트 실험 지원",
+    "link": "https://news.hada.io/topic?id=35383",
+    "date": "2026-10-15"
+  },
+  {
+    "title": "Show GN: 역시(yeok.si) - AI로 만든 결과물을 무료로 소개하고 홍보하는 커뮤니티",
+    "link": "https://news.hada.io/topic?id=35382",
+    "date": "2026-10-15"
+  },
+  {
+    "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+    "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+    "date": "2026-10-15"
+  },
+  {
+    "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+    "link": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+    "date": "2026-10-15"
+  },
+  {
+    "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
+    "link": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
+    "date": "2026-10-15"
+  },
+  {
+    "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
+    "link": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
+    "date": "2026-10-15"
+  },
+  {
+    "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+    "link": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
+    "date": "2026-10-15"
+  },
+  {
+    "title": "Amp puts AI agents to work beyond code with OpenAI models",
+    "link": "https://openai.com/index/amp-beyond-coding",
+    "date": "2026-10-15"
+  },
+  {
+    "title": "SentinelOne cuts malware analysis from weeks to hours",
+    "link": "https://openai.com/index/sentinelone",
+    "date": "2026-10-15"
+  },
+  {
+    "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+    "link": "https://openai.com/index/third-moment-research",
+    "date": "2026-10-15"
+  },
+  {
+    "title": "How Block is building AI-powered security with OpenAI technology",
+    "link": "https://openai.com/index/block-ai-powered-security",
+    "date": "2026-10-15"
+  },
+  {
+    "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+    "link": "https://huggingface.co/blog/allenai/hiro-acev2",
+    "date": "2026-10-15"
+  },
+  {
+    "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
+    "link": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
+    "date": "2026-10-15"
+  },
+  {
+    "title": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam",
+    "link": "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app/",
+    "date": "2026-10-15"
+  },
+  {
+    "title": "NATO may redeploy anti-drone defenses as attacks sink more Black Sea shipping",
+    "link": "https://arstechnica.com/gadgets/2026/10/nato-may-redeploy-anti-drone-defenses-as-attacks-sink-more-black-sea-shipping/",
+    "date": "2026-10-15"
+  },
+  {
+    "title": "Things are finally looking up for NASA's first missions to Venus in a generation",
+    "link": "https://arstechnica.com/space/2026/10/nasas-embattled-venus-missions-are-back-on-track-after-cancellation-threat/",
+    "date": "2026-10-15"
+  },
+  {
+    "title": "Schools across US protest FCC plan that could disconnect kids from Internet",
+    "link": "https://arstechnica.com/tech-policy/2026/10/schools-libraries-plead-with-fcc-to-scrap-idea-of-killing-2b-broadband-program/",
+    "date": "2026-10-15"
+  },
+  {
+    "title": "5 Best AI Time Tracking Software for Small Businesses (October 2026)",
+    "link": "https://www.unite.ai/best-ai-time-tracking-software-for-small-businesses/",
+    "date": "2026-10-15"
+  },
+  {
+    "title": "Labelbox Raises $100M+ Series E at $1.25B Valuation to Advance RL and AI Agents",
+    "link": "https://www.unite.ai/labelbox-raises-100m-plus-series-e-at-1-25b-valuation-to-advance-rl-and-ai-agents/",
+    "date": "2026-10-15"
+  },
+  {
+    "title": "Colossal Unveils GenoMorph AI to Identify Dodo Gene-Editing Targets",
+    "link": "https://www.unite.ai/colossal-unveils-genomorph-ai-to-identify-dodo-gene-editing-targets/",
+    "date": "2026-10-15"
+  },
+  {
+    "title": "Anthropic Strengthens Election Safeguards Ahead of 2026 US Midterms",
+    "link": "https://www.unite.ai/anthropic-strengthens-election-safeguards-ahead-of-2026-us-midterms/",
+    "date": "2026-10-15"
+  },
+  {
+    "title": "YouTube Music Labels Songs Made Primarily with Generative AI",
+    "link": "https://www.unite.ai/youtube-music-labels-songs-made-primarily-with-generative-ai/",
+    "date": "2026-10-15"
   }
 ]
