@@ -1,80 +1,5 @@
 [
   {
-    "title": "Nix가 내 디버거의 절반을 만들어 줬다",
-    "link": "https://news.hada.io/topic?id=35144",
-    "date": "2026-10-11"
-  },
-  {
-    "title": "Show GN: Ukemi - jj 작업 이력을 타임라인에서 확인하고 복원하는 macOS GUI",
-    "link": "https://news.hada.io/topic?id=35143",
-    "date": "2026-10-11"
-  },
-  {
-    "title": "Knuth의 오류 발견 보상 수표",
-    "link": "https://news.hada.io/topic?id=35142",
-    "date": "2026-10-11"
-  },
-  {
-    "title": "도시는 당신이 짓지 않길 바라는 도시 건설 게임",
-    "link": "https://news.hada.io/topic?id=35141",
-    "date": "2026-10-11"
-  },
-  {
-    "title": "Eve - 디렉터리 하나로 AI 에이전트를 정의하고 배포하는 Vercel 프레임워크",
-    "link": "https://news.hada.io/topic?id=35140",
-    "date": "2026-10-11"
-  },
-  {
-    "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-    "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-    "date": "2026-10-11"
-  },
-  {
-    "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-    "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
-    "date": "2026-10-11"
-  },
-  {
-    "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-    "link": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
-    "date": "2026-10-11"
-  },
-  {
-    "title": "Here are the top AI agents that can live in your text messages",
-    "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
-    "date": "2026-10-11"
-  },
-  {
-    "title": "Nitter: 10월 10일 업데이트, 자금과 법률 지원 요청",
-    "link": "https://news.hada.io/topic?id=35164",
-    "date": "2026-10-11"
-  },
-  {
-    "title": "Yandex 데이터센터 타격 이후 Cloudflare 봇 트래픽 급감",
-    "link": "https://news.hada.io/topic?id=35163",
-    "date": "2026-10-11"
-  },
-  {
-    "title": "Show GN: buttonmasher – 중복 결제와 재시도 버그를 찾아보는 Claude Code 스킬",
-    "link": "https://news.hada.io/topic?id=35162",
-    "date": "2026-10-11"
-  },
-  {
-    "title": "LineageOS 24.0",
-    "link": "https://news.hada.io/topic?id=35161",
-    "date": "2026-10-11"
-  },
-  {
-    "title": "버그를 환자처럼, 코딩 에이전트를 의료팀처럼 다룬 5개월",
-    "link": "https://news.hada.io/topic?id=35160",
-    "date": "2026-10-11"
-  },
-  {
-    "title": "What Are Vision-Language Models (VLMs)? How AI Connects Images and Words",
-    "link": "https://www.unite.ai/what-are-vision-language-models-vlms-how-ai-connects-images-and-words/",
-    "date": "2026-10-11"
-  },
-  {
     "title": "상용 공간 오디오 효과를 역공학한 방법",
     "link": "https://news.hada.io/topic?id=35219",
     "date": "2026-10-12"
@@ -1183,5 +1108,65 @@
     "title": "Why BioWare's Neverwinter Nights still has thousands of active players",
     "link": "https://arstechnica.com/gaming/2026/10/why-biowares-neverwinter-nights-still-has-thousands-of-active-players/",
     "date": "2026-10-17"
+  },
+  {
+    "title": "이스라엘 정착민들, 서안지구에서 유럽 외교 차량 공격하고 프랑스 시장 폭행",
+    "link": "https://news.hada.io/topic?id=35559",
+    "date": "2026-10-18"
+  },
+  {
+    "title": "Show HN: Esp32sim - 브라우저에서 ESP32 펌웨어 실행하기",
+    "link": "https://news.hada.io/topic?id=35558",
+    "date": "2026-10-18"
+  },
+  {
+    "title": "Agent Substrate - AI 에이전트를 격리하고 대기 자원을 줄이는 Kubernetes 실행 환경",
+    "link": "https://news.hada.io/topic?id=35557",
+    "date": "2026-10-18"
+  },
+  {
+    "title": "나는 일본 시민이 되었다",
+    "link": "https://news.hada.io/topic?id=35555",
+    "date": "2026-10-18"
+  },
+  {
+    "title": "Around The World 게임에서 아름다운 하늘 렌더링하기",
+    "link": "https://news.hada.io/topic?id=35554",
+    "date": "2026-10-18"
+  },
+  {
+    "title": "Meta removes language that raised scraping and AI training concerns",
+    "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+    "date": "2026-10-18"
+  },
+  {
+    "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+    "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+    "date": "2026-10-18"
+  },
+  {
+    "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+    "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "date": "2026-10-18"
+  },
+  {
+    "title": "Science says your boss should talk less in meetings",
+    "link": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/",
+    "date": "2026-10-18"
+  },
+  {
+    "title": "NVIDIA Celebrates RTX Spark Launch Across Six Global Cities",
+    "link": "https://www.unite.ai/nvidia-celebrates-rtx-spark-launch-across-six-global-cities/",
+    "date": "2026-10-18"
+  },
+  {
+    "title": "Meta Rewrites Web-Crawling Clause in Pending Commercial Terms",
+    "link": "https://www.unite.ai/meta-rewrites-web-crawling-clause-in-pending-commercial-terms/",
+    "date": "2026-10-18"
+  },
+  {
+    "title": "What Are Native Audio Models? How Speech-to-Speech AI Skips Transcription",
+    "link": "https://www.unite.ai/what-are-native-audio-models-how-speech-to-speech-ai-skips-transcription/",
+    "date": "2026-10-18"
   }
 ]
