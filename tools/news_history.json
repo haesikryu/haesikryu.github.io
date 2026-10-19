@@ -1,60 +1,5 @@
 [
   {
-    "title": "상용 공간 오디오 효과를 역공학한 방법",
-    "link": "https://news.hada.io/topic?id=35219",
-    "date": "2026-10-12"
-  },
-  {
-    "title": "브라우저 지문은 새로운 쿠키다",
-    "link": "https://news.hada.io/topic?id=35218",
-    "date": "2026-10-12"
-  },
-  {
-    "title": "Show GN: 모퉁이 라디오 - 맥/윈도우 라디오 앱",
-    "link": "https://news.hada.io/topic?id=35217",
-    "date": "2026-10-12"
-  },
-  {
-    "title": "Google, 데이터센터 건설 위해 불법으로 산림 벌채 중",
-    "link": "https://news.hada.io/topic?id=35216",
-    "date": "2026-10-12"
-  },
-  {
-    "title": "Show GN: PocketTok - YouTube·Instagram·TikTok 영상을 저장해 두고 나중에 보는 앱 (iPhone/Android/Mac)",
-    "link": "https://news.hada.io/topic?id=35215",
-    "date": "2026-10-12"
-  },
-  {
-    "title": "Will the HomeView be Apple’s first smart home success?",
-    "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
-    "date": "2026-10-12"
-  },
-  {
-    "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
-    "link": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
-    "date": "2026-10-12"
-  },
-  {
-    "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
-    "link": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
-    "date": "2026-10-12"
-  },
-  {
-    "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
-    "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
-    "date": "2026-10-12"
-  },
-  {
-    "title": "Review: 4-hour Musk documentary feels like two different films",
-    "link": "https://arstechnica.com/culture/2026/10/review-4-hour-musk-documentary-feels-like-two-different-films/",
-    "date": "2026-10-12"
-  },
-  {
-    "title": "Prime Video unveils Blade Runner 2099 full trailer at NYCC",
-    "link": "https://arstechnica.com/culture/2026/10/prime-video-unveils-blade-runner-2099-full-trailer-at-nycc/",
-    "date": "2026-10-12"
-  },
-  {
     "title": "Show HN: PS2 게임을 WebAssembly로 정적 재컴파일하기",
     "link": "https://news.hada.io/topic?id=35247",
     "date": "2026-10-13"
@@ -1193,5 +1138,65 @@
     "title": "CVE-2026-99999(PwnEscape) — Linux 커널 취약점으로 VM 탈출 가능, VPS 사업자 긴급 대응",
     "link": "https://news.hada.io/topic?id=35568",
     "date": "2026-10-18"
+  },
+  {
+    "title": "Free Pascal 컴파일러, 동적 패키지 지원 추가",
+    "link": "https://news.hada.io/topic?id=35615",
+    "date": "2026-10-19"
+  },
+  {
+    "title": "Show GN: ALIGNS.md - 초정렬이 오기 전 내 판단 기준과 취향을 에이전트와 자가 정렬해보세요",
+    "link": "https://news.hada.io/topic?id=35614",
+    "date": "2026-10-19"
+  },
+  {
+    "title": "시니어 엔지니어처럼 소프트웨어 시스템 설계하기 - 풀코스 [동영상]",
+    "link": "https://news.hada.io/topic?id=35613",
+    "date": "2026-10-19"
+  },
+  {
+    "title": "T3 Code - 여러 AI 코딩 에이전트를 PC와 휴대폰에서 관리하는 앱",
+    "link": "https://news.hada.io/topic?id=35612",
+    "date": "2026-10-19"
+  },
+  {
+    "title": "개도 사람처럼 &#039;Bouba&#039;는 둥글고 &#039;Kiki&#039;는 뾰족하다고 느끼는 듯함",
+    "link": "https://news.hada.io/topic?id=35610",
+    "date": "2026-10-19"
+  },
+  {
+    "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+    "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+    "date": "2026-10-19"
+  },
+  {
+    "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+    "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+    "date": "2026-10-19"
+  },
+  {
+    "title": "Anthropic gives outside AI watchdog “employee-like” access",
+    "link": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+    "date": "2026-10-19"
+  },
+  {
+    "title": "Anthropic Commits 5% of Its Shares to New Public Benefit Fund",
+    "link": "https://www.unite.ai/anthropic-commits-5-of-its-shares-to-new-public-benefit-fund/",
+    "date": "2026-10-19"
+  },
+  {
+    "title": "My Father’s Final Weeks Revealed Why Canadian Healthcare Needs AI",
+    "link": "https://www.unite.ai/my-fathers-final-weeks-revealed-why-canadian-healthcare-needs-ai/",
+    "date": "2026-10-19"
+  },
+  {
+    "title": "Could a Model of Models Help Untangle Alzheimer’s Disease?",
+    "link": "https://www.unite.ai/could-a-model-of-models-help-untangle-alzheimers-disease/",
+    "date": "2026-10-19"
+  },
+  {
+    "title": "What Is a Reranker? The Second-Stage Model That Improves Search Results",
+    "link": "https://www.unite.ai/what-is-a-reranker-the-second-stage-model-that-improves-search-results/",
+    "date": "2026-10-19"
   }
 ]
