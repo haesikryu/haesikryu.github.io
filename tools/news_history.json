@@ -1,325 +1,5 @@
 [
   {
-    "title": "Show HN: PS2 게임을 WebAssembly로 정적 재컴파일하기",
-    "link": "https://news.hada.io/topic?id=35247",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "AI 기업들은 왜 해킹 혐의로 기소되지 않는가?",
-    "link": "https://news.hada.io/topic?id=35246",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "QGIS, AI 보조 기여 금지",
-    "link": "https://news.hada.io/topic?id=35245",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "Postgres가 느린 게 아니라 스토리지가 느린 것이다",
-    "link": "https://news.hada.io/topic?id=35244",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "리서치 업체, Anthropic IPO가 “올해 가장 터무니없는 상장”이 될거라 경고",
-    "link": "https://news.hada.io/topic?id=35243",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "Microsoft president says UK is best placed to drive AI regulation",
-    "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "This AI startup says it can generate permit-ready blueprints in minutes",
-    "link": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
-    "link": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
-    "link": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "The Download: moon city problems and drone traffic controllers",
-    "link": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "Mars may be a hellhole, but the moon is not far behind",
-    "link": "https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "The ecologist revealing the invisible networks that revive rainforests",
-    "link": "https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "Long-lost horror gaming cult classic P.T. gets a much-needed PC port",
-    "link": "https://arstechnica.com/gaming/2026/10/long-lost-horror-gaming-cult-classic-p-t-gets-a-much-needed-pc-port/",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "F1 in Singapore: There's a new fastest car now",
-    "link": "https://arstechnica.com/cars/2026/10/f1-in-singapore-theres-a-new-fastest-car-now/",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "Google announces the Fitbit Edge, a middle ground between Pixel Watch 5 and Fitbit Air",
-    "link": "https://arstechnica.com/gadgets/2026/10/google-announces-the-fitbit-edge-a-middle-ground-between-pixel-watch-5-and-fitbit-air/",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "Amazon has over 1 million robot workers. What’s next for human employees?",
-    "link": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "ASUS Debuts XA P2N-E2 Server With Dual NVIDIA Vera CPUs at OCP",
-    "link": "https://www.unite.ai/asus-debuts-xa-p2n-e2-server-with-dual-nvidia-vera-cpus-at-ocp/",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "Guglielmo Faglioni, Co-Founder and Chief of Science & Technology, Callimacus – Interview Series",
-    "link": "https://www.unite.ai/guglielmo-faglioni-co-founder-and-chief-of-science-technology-callimacus-interview-series/",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "Cisco Announces G302 Silicon and USFP Optics With NVIDIA at OCP 2026",
-    "link": "https://www.unite.ai/cisco-announces-g302-silicon-and-usfp-optics-with-nvidia-at-ocp-2026/",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "The Risks of Anthropomorphizing AI",
-    "link": "https://www.unite.ai/the-risks-of-anthropomorphizing-ai/",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "Flex Adds Factory-Built AI Modules to Modular Data Center Portfolio",
-    "link": "https://www.unite.ai/flex-adds-factory-built-ai-modules-to-modular-data-center-portfolio/",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "OpenAI와 Anthropic을 단호히 거부하자",
-    "link": "https://news.hada.io/topic?id=35275",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "Show GN: 콘서트 티켓팅 연습 사이트를 만들었습니다",
-    "link": "https://news.hada.io/topic?id=35274",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "RJ Mitte 별세",
-    "link": "https://news.hada.io/topic?id=35273",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "Ruby의 바이마르 시대 - AI로 생태계의 오래된 빈틈을 메우다",
-    "link": "https://news.hada.io/topic?id=35270",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "StreamRender-H3 - 실시간 스트리밍 확산 렌더링으로 구현하는 코드 기반 인터랙티브 세계",
-    "link": "https://news.hada.io/topic?id=35269",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "Meta releases its first frontier model, Muse Wonder",
-    "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
-    "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "Honeyjar offers AI tools to improve PR and comms at every company",
-    "link": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "39-year-old unvaccinated woman becomes 6th measles death in Pennsylvania",
-    "link": "https://arstechnica.com/health/2026/10/39-year-old-unvaccinated-woman-becomes-6th-measles-death-in-pennsylvania/",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
-    "link": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "After a 10-year redemption arc, No Man's Sky is coming to the iPhone and iPad",
-    "link": "https://arstechnica.com/gaming/2026/10/after-a-10-year-redemption-arc-no-mans-sky-is-coming-to-the-iphone-and-ipad/",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "WHO report on Russian lab worker death highlights \"key uncertainty\"",
-    "link": "https://arstechnica.com/health/2026/10/who-report-on-russian-lab-worker-death-highlights-key-uncertainty/",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
-    "link": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "Active vs. Persistent Memory in AI: How AI Remembers, Retrieves, and Forgets",
-    "link": "https://www.unite.ai/active-vs-persistent-memory-in-ai-how-ai-remembers-retrieves-and-forgets/",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "Omron to Acquire Industrial PC Maker OnLogic in Physical AI Push",
-    "link": "https://www.unite.ai/omron-to-acquire-industrial-pc-maker-onlogic-in-physical-ai-push/",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "Epic Games CEO Confirms ‘Huge Pivot’ to Retool Teams for AI",
-    "link": "https://www.unite.ai/epic-games-ceo-confirms-huge-pivot-to-retool-teams-for-ai/",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "Applied Materials Unveils EPIC Center for Collaborative Chip R&D",
-    "link": "https://www.unite.ai/applied-materials-unveils-epic-center-for-collaborative-chip-r-and-d/",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "FormFactor, Teradyne Enter Broad Semiconductor Test Collaboration",
-    "link": "https://www.unite.ai/formfactor-teradyne-enter-broad-semiconductor-test-collaboration/",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "MacBook Air에서 1시간 분량 오디오를 약 13초 만에 전사",
-    "link": "https://news.hada.io/topic?id=35302",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "Mozilla, Firefox Enterprise 공개",
-    "link": "https://news.hada.io/topic?id=35301",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "프랑스 슈퍼마켓 체인들, 사이버공격으로 냉장설비 가동 중단",
-    "link": "https://news.hada.io/topic?id=35300",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "튀르키예에서 히타이트 왕실 문서고 발견",
-    "link": "https://news.hada.io/topic?id=35299",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "Janas - SSD에서 전문가를 스트리밍해 RAM보다 큰 LLM 실행",
-    "link": "https://news.hada.io/topic?id=35298",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "Fairy 서비스 오픈 및 GeekNews Show GN 연동",
-    "link": "https://news.hada.io/blog/fairy_and_geeknews",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "GeekBadge 시스템을 추가했습니다",
-    "link": "https://news.hada.io/blog/introducing_geekbadge",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "List 가 GeekLists 기능으로 확대 개편 되었습니다.",
-    "link": "https://news.hada.io/blog/GeekLists",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "‘함께 보면 좋은 글’ 기능을 추가했습니다",
-    "link": "https://news.hada.io/blog/related-reads",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "GeekNews를 편하게 구독하는 법",
-    "link": "https://news.hada.io/blog/subscribe_geeknews",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "TechCrunch Disrupt 2026: Day 1",
-    "link": "https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1/",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "SpaceXSI bundles X Premium, Grok and Cursor into one subscription",
-    "link": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
-    "link": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
-    "link": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "The Download: open model trade-offs and geothermal power’s promise",
-    "link": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "Open models have real benefits. Do they outweigh the risks?",
-    "link": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "AI labs are buying data from dead startups to train their models",
-    "link": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "High-speed video reveals how honey bee stingers pump venom",
-    "link": "https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "IFS Launches IFS Intelligence, Governed by New Industrial AI Harness",
-    "link": "https://www.unite.ai/ifs-launches-ifs-intelligence-governed-by-new-industrial-ai-harness/",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "Apple Introduces HomeView, a Smart Display Built Around Siri AI",
-    "link": "https://www.unite.ai/apple-introduces-homeview-a-smart-display-built-around-siri-ai/",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "Apple TV 4K Gains Siri AI, A19 Chip, and Hands-Free Voice Control",
-    "link": "https://www.unite.ai/apple-tv-4k-gains-siri-ai-a19-chip-and-hands-free-voice-control/",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "OpenEvidence, Johns Hopkins Medicine Partner on AI Education and Care",
-    "link": "https://www.unite.ai/openevidence-johns-hopkins-medicine-partner-on-ai-education-and-care/",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "Workday Launches Work Intelligence to Show How AI Changes Job Tasks",
-    "link": "https://www.unite.ai/workday-launches-work-intelligence-to-show-how-ai-changes-job-tasks/",
-    "date": "2026-10-13"
-  },
-  {
     "title": "로보틱스를 위한 Gemini 4 Argon",
     "link": "https://news.hada.io/topic?id=35326",
     "date": "2026-10-14"
@@ -1268,5 +948,115 @@
     "title": "NorForge Details 20+ Exposed Cairn Panels Used in AI-Driven Intrusions",
     "link": "https://www.unite.ai/norforge-details-20-plus-exposed-cairn-panels-used-in-ai-driven-intrusions/",
     "date": "2026-10-19"
+  },
+  {
+    "title": "Show GN: Nopetion – 내 서버에서 직접 운영하는 개인용 Notion 대안",
+    "link": "https://news.hada.io/topic?id=35680",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "Show GN: Review Inbox - 리뷰 기다리는 PR을 Claude Code 입력창 위에 띄워 주는 mod",
+    "link": "https://news.hada.io/topic?id=35676",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "Show GN: Markpin – 밑줄 긋고 나면 「왜 표시했나요?」를 묻는 웹 형광펜 (로컬 Markdown, MCP 서버 공개)",
+    "link": "https://news.hada.io/topic?id=35674",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "Ask GN: 회사에서 계속해서 늘어나는 에이전트, 어떻게 관리하나요?",
+    "link": "https://news.hada.io/topic?id=35673",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "Plex 취약점, 암호화폐 채굴기 설치를 위한 실제 공격에 악용 중",
+    "link": "https://news.hada.io/topic?id=35672",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+    "link": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+    "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+    "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+    "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+    "link": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "Advancing coding in low‑resource programming languages",
+    "link": "https://openai.com/index/low-resource-programming-languages",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+    "link": "https://huggingface.co/blog/hf-torchneuron",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "Pennsylvania issues alert on congenital measles—something US hasn't seen for decades",
+    "link": "https://arstechnica.com/health/2026/10/pennsylvania-issues-alert-on-congenital-measles-something-us-hasnt-seen-for-decades/",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "Russian spacecraft maneuvers in \"extreme proximity\" to satellite used by Ukraine",
+    "link": "https://arstechnica.com/space/2026/10/russian-spacecraft-maneuvers-in-extreme-proximity-to-satellite-used-by-ukraine/",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
+    "link": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "Batteries help reduce emissions, but how do we reduce their emissions?",
+    "link": "https://arstechnica.com/science/2026/10/batteries-have-a-small-carbon-footprint-we-can-make-it-smaller/",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "PSA: Patch your Plex media server before someone hacks it",
+    "link": "https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "Cloudflare Releases Clairic, Its First System One Extraction Model",
+    "link": "https://www.unite.ai/cloudflare-releases-clairic-its-first-system-one-extraction-model/",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "Fal Debuts FLUX 3 Max Video Model Post-Trained With Black Forest Labs",
+    "link": "https://www.unite.ai/fal-debuts-flux-3-max-video-model-post-trained-with-black-forest-labs/",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "Dream Labs Raises $90M Seed to Bring Robot AI Across Different Machines",
+    "link": "https://www.unite.ai/dream-labs-raises-90m-seed-to-bring-robot-ai-across-different-machines/",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "Zillow Launches Claude Connector for Listings, Tours, and Financing",
+    "link": "https://www.unite.ai/zillow-launches-claude-connector-for-listings-tours-and-financing/",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "Wabi Opens Its Personal AI Assistant on iOS, Android, and Mac",
+    "link": "https://www.unite.ai/wabi-opens-its-personal-ai-assistant-on-ios-android-and-mac/",
+    "date": "2026-10-20"
   }
 ]
