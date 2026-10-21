@@ -1,200 +1,5 @@
 [
   {
-    "title": "로보틱스를 위한 Gemini 4 Argon",
-    "link": "https://news.hada.io/topic?id=35326",
-    "date": "2026-10-14"
-  },
-  {
-    "title": "Show GN: 자신이 독서를 기록하고 공유하는 사이트",
-    "link": "https://news.hada.io/topic?id=35324",
-    "date": "2026-10-14"
-  },
-  {
-    "title": "AesCode - 이미지의 디자인을 참고해 HTML/CSS를 생성하는 AI 모델",
-    "link": "https://news.hada.io/topic?id=35322",
-    "date": "2026-10-14"
-  },
-  {
-    "title": "영국의 1인당 전력 생산량, 1970년대보다 적어짐",
-    "link": "https://news.hada.io/topic?id=35321",
-    "date": "2026-10-14"
-  },
-  {
-    "title": "Rebalancer - 복잡한 제약 조건에 맞춰 작업과 자원을 배치하는 Meta의 최적화 도구",
-    "link": "https://news.hada.io/topic?id=35320",
-    "date": "2026-10-14"
-  },
-  {
-    "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-    "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
-    "date": "2026-10-14"
-  },
-  {
-    "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
-    "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
-    "date": "2026-10-14"
-  },
-  {
-    "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
-    "link": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
-    "date": "2026-10-14"
-  },
-  {
-    "title": "Cerebras CEO pushes back on AI doomsday warnings",
-    "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
-    "date": "2026-10-14"
-  },
-  {
-    "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
-    "link": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
-    "date": "2026-10-14"
-  },
-  {
-    "title": "Higgsfield takes AI video from 1 minute to over 10",
-    "link": "https://openai.com/index/higgsfield-longer-videos-voice",
-    "date": "2026-10-14"
-  },
-  {
-    "title": "Gemini 4 Argon: Built to solve your hardest problems",
-    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-    "date": "2026-10-14"
-  },
-  {
-    "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-    "link": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
-    "date": "2026-10-14"
-  },
-  {
-    "title": "Martin Shkreli livestreamed himself violating lifetime pharma ban, FTC says",
-    "link": "https://arstechnica.com/health/2026/10/martin-shkreli-livestreamed-himself-violating-lifetime-pharma-ban-ftc-says/",
-    "date": "2026-10-14"
-  },
-  {
-    "title": "ESA targets Anbernic emulation handhelds as \"superfake\" piracy enablers",
-    "link": "https://arstechnica.com/gaming/2026/10/esa-targets-anbernic-emulation-handhelds-as-superfake-piracy-enablers/",
-    "date": "2026-10-14"
-  },
-  {
-    "title": "Topgolf saved over $11.3 million after leaving VMware",
-    "link": "https://arstechnica.com/information-technology/2026/10/topgolf-saved-over-11-3-million-after-leaving-vmware/",
-    "date": "2026-10-14"
-  },
-  {
-    "title": "Trump commercial railing against his enemies kept airing after court blocked it",
-    "link": "https://arstechnica.com/tech-policy/2026/10/trumps-taxpayer-funded-ads-kept-airing-on-tv-the-day-after-judge-blocked-them/",
-    "date": "2026-10-14"
-  },
-  {
-    "title": "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech",
-    "link": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/",
-    "date": "2026-10-14"
-  },
-  {
-    "title": "Anthropic Asks D.C. Circuit to Rehear Pentagon Supply-Chain Risk Case",
-    "link": "https://www.unite.ai/anthropic-asks-d-c-circuit-to-rehear-pentagon-supply-chain-risk-case/",
-    "date": "2026-10-14"
-  },
-  {
-    "title": "Wharton–GBK’s “The Adaptive Advantage: Who’s Winning with AI and How” Report Reveals the AI ROI Gap",
-    "link": "https://www.unite.ai/wharton-gbk-adaptive-advantage-report-ai-roi-gap/",
-    "date": "2026-10-14"
-  },
-  {
-    "title": "Physical Intelligence Opens Pi API Beta for Robot Foundation Models",
-    "link": "https://www.unite.ai/physical-intelligence-opens-pi-api-beta-for-robot-foundation-models/",
-    "date": "2026-10-14"
-  },
-  {
-    "title": "Anthropic Reports Distillation Defenses Reduced Extracted Reasoning Tokens",
-    "link": "https://www.unite.ai/anthropic-reports-distillation-defenses-reduced-extracted-reasoning-tokens/",
-    "date": "2026-10-14"
-  },
-  {
-    "title": "SEC Declares Agility Robotics SPAC Merger Registration Effective",
-    "link": "https://www.unite.ai/sec-declares-agility-robotics-spac-merger-registration-effective/",
-    "date": "2026-10-14"
-  },
-  {
-    "title": "프론트엔드 ai티를 많이 줄이는 법",
-    "link": "https://news.hada.io/topic?id=35347",
-    "date": "2026-10-14"
-  },
-  {
-    "title": "Show GN: Second Look - AI 웹 수정본의 기능·회귀·스크린샷 비교 도구",
-    "link": "https://news.hada.io/topic?id=35345",
-    "date": "2026-10-14"
-  },
-  {
-    "title": "Show GN: 마이너스 알람 - 알람을 끄지 않고 쉬는 날짜만 건너뛰기",
-    "link": "https://news.hada.io/topic?id=35344",
-    "date": "2026-10-14"
-  },
-  {
-    "title": "80세 기증자의 혈액 세포, 분자 나이 20세 미만의 줄기세포로 전환",
-    "link": "https://news.hada.io/topic?id=35343",
-    "date": "2026-10-14"
-  },
-  {
-    "title": "Ente Locker는 출처 표시 없이 내 코드를 복사했을까?",
-    "link": "https://news.hada.io/topic?id=35342",
-    "date": "2026-10-14"
-  },
-  {
-    "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
-    "link": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
-    "date": "2026-10-14"
-  },
-  {
-    "title": "The EU’s next chapter in AI is agentic",
-    "link": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-    "date": "2026-10-14"
-  },
-  {
-    "title": "Introducing Playground: Create and play custom games",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
-    "date": "2026-10-14"
-  },
-  {
-    "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-    "link": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-    "date": "2026-10-14"
-  },
-  {
-    "title": "The Internet’s undersea backbone is slipping into the danger zone",
-    "link": "https://arstechnica.com/gadgets/2026/10/the-internets-undersea-backbone-is-slipping-into-to-the-danger-zone/",
-    "date": "2026-10-14"
-  },
-  {
-    "title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
-    "link": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/",
-    "date": "2026-10-14"
-  },
-  {
-    "title": "DJI Launches Dock 4 With 25-Second Automated Battery Swaps",
-    "link": "https://www.unite.ai/dji-launches-dock-4-with-25-second-automated-battery-swaps/",
-    "date": "2026-10-14"
-  },
-  {
-    "title": "Where AI-Powered Content Moderation Still Needs Human Judgment",
-    "link": "https://www.unite.ai/online-community-moderation-at-scale/",
-    "date": "2026-10-14"
-  },
-  {
-    "title": "Evos Raises $9M Pre-Seed to Turn Industrial Expertise Into Autonomous AI Operators",
-    "link": "https://www.unite.ai/evos-9m-pre-seed-autonomous-ai-operators/",
-    "date": "2026-10-14"
-  },
-  {
-    "title": "Forgepoint Raises $9.8M Seed to Bring AI to Manufacturing Quotes",
-    "link": "https://www.unite.ai/forgepoint-9-8m-seed-ai-manufacturing-quotes/",
-    "date": "2026-10-14"
-  },
-  {
-    "title": "CodeWall Raises $4M Pre-Seed to Bring Autonomous Attack Agents to Enterprise Security",
-    "link": "https://www.unite.ai/codewall-4m-pre-seed-autonomous-attack-agents/",
-    "date": "2026-10-14"
-  },
-  {
     "title": "AI 기업 인수에서는 ARR보다 코드부터 봐야 하는 이유",
     "link": "https://news.hada.io/topic?id=35386",
     "date": "2026-10-15"
@@ -1163,5 +968,145 @@
     "title": "Enterprise AI Needs Cumulative Context Before It Can Earn Autonomy",
     "link": "https://www.unite.ai/why-enterprise-ai-needs-cumulative-business-context/",
     "date": "2026-10-20"
+  },
+  {
+    "title": "나의 친구 Bob Cringely",
+    "link": "https://news.hada.io/topic?id=35737",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "Deepwater Horizon 사고 16년 후에도 심해 생물의 회복 징후는 미미함",
+    "link": "https://news.hada.io/topic?id=35736",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "OpenIntelligentUI - ChatGPT Intelligent UI의 오픈소스 대체 구현",
+    "link": "https://news.hada.io/topic?id=35735",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "macOS에서 Touch ID로 SSH 키 설정하기",
+    "link": "https://news.hada.io/topic?id=35734",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "eMudhra 중간 인증서 침해에 따른 Firefox 사용자 보호 조치",
+    "link": "https://news.hada.io/topic?id=35733",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+    "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+    "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "Anthropic’s cloud partnerships are getting messy",
+    "link": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "SpaceX’s AI business is beating expectations",
+    "link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+    "link": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+    "link": "https://openai.com/index/ted-taylor-restaurant",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+    "link": "https://openai.com/index/terminal-x",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "OpenAI acquires Orchestra Bio",
+    "link": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+    "link": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+    "link": "https://huggingface.co/blog/allenai/fairstress",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+    "link": "https://huggingface.co/blog/hf-torchtpu",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+    "link": "https://huggingface.co/blog/anylanguagemodel-1-0",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "PHP maintainers tell Web devs to prepare themselves for critical security patches",
+    "link": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "Merging SpaceX and Tesla would be a \"good idea,\" Musk says",
+    "link": "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "Cops raid office of RFK Jr. allies planning “unethical” vaccine trial on babies",
+    "link": "https://arstechnica.com/health/2026/10/cops-raid-office-of-rfk-jr-allies-planning-unethical-vaccine-trial-on-babies/",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "Microsoft reportedly projects $1,200 to $1,800 price for 2028 Project Helix",
+    "link": "https://arstechnica.com/gaming/2026/10/report-microsofts-project-helix-planned-for-2028-at-1200-to-1800-price/",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "JustWatch, which tackles streaming fragmentation, launches own streaming service",
+    "link": "https://arstechnica.com/gadgets/2026/10/justwatch-which-tackles-streaming-fragmentation-launches-own-streaming-service/",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "OpenAI Acquires Orchestra Bio to Expand Rosalind Life Sciences Tools",
+    "link": "https://www.unite.ai/openai-acquires-orchestra-bio-to-expand-rosalind-life-sciences-tools/",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "SpaceX Q3 Revenue Rises 161% as Super Intelligence Swings to Profit",
+    "link": "https://www.unite.ai/spacex-q3-revenue-rises-161-as-super-intelligence-swings-to-profit/",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "IRONSCALES Report Finds AI Agents Are Becoming a New Target for Phishing",
+    "link": "https://www.unite.ai/ironscales-2026-threat-report-ai-agents-phishing/",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "NVIDIA Releases Cosmos3-H-Dreams Real-Time Surgical World Model",
+    "link": "https://www.unite.ai/nvidia-releases-cosmos3-h-dreams-real-time-surgical-world-model/",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "Meta Suspends Muse Chat Sharing After Researchers Find Links in Public DNS",
+    "link": "https://www.unite.ai/meta-suspends-muse-chat-sharing-after-researchers-find-links-in-public-dns/",
+    "date": "2026-10-21"
   }
 ]
