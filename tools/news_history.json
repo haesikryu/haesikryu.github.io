@@ -1,200 +1,5 @@
 [
   {
-    "title": "Show GN: PortButler - SSH·SFTP·시리얼 콘솔을 한 창에서 쓰는 macOS 터미널",
-    "link": "https://news.hada.io/topic?id=35452",
-    "date": "2026-10-16"
-  },
-  {
-    "title": "마케팅 엔지니어: AI 에이전트로 100배 더 많은 실험하기",
-    "link": "https://news.hada.io/topic?id=35448",
-    "date": "2026-10-16"
-  },
-  {
-    "title": "월간 소셜 조회수 0에서 1억 회까지 늘리는 3단계 전략",
-    "link": "https://news.hada.io/topic?id=35447",
-    "date": "2026-10-16"
-  },
-  {
-    "title": "플랫폼은 여전히 최고의 사업 모델이다",
-    "link": "https://news.hada.io/topic?id=35446",
-    "date": "2026-10-16"
-  },
-  {
-    "title": "우리는 대체 왜 이 모든 일을 하는가?",
-    "link": "https://news.hada.io/topic?id=35445",
-    "date": "2026-10-16"
-  },
-  {
-    "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
-    "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
-    "date": "2026-10-16"
-  },
-  {
-    "title": "Meta launches an open-weight AI model that runs on Macs",
-    "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
-    "date": "2026-10-16"
-  },
-  {
-    "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
-    "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
-    "date": "2026-10-16"
-  },
-  {
-    "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
-    "link": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
-    "date": "2026-10-16"
-  },
-  {
-    "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
-    "link": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
-    "date": "2026-10-16"
-  },
-  {
-    "title": "Bringing GPT-Rosalind to academic research labs",
-    "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-    "date": "2026-10-16"
-  },
-  {
-    "title": "Teaching students to think and learn through questions",
-    "link": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-    "date": "2026-10-16"
-  },
-  {
-    "title": "Sullivan & Cromwell brings legal expertise into agreement review",
-    "link": "https://openai.com/index/sullivan-cromwell",
-    "date": "2026-10-16"
-  },
-  {
-    "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-    "link": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-    "date": "2026-10-16"
-  },
-  {
-    "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-    "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-    "date": "2026-10-16"
-  },
-  {
-    "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-    "link": "https://huggingface.co/blog/meta-muse-spark-open",
-    "date": "2026-10-16"
-  },
-  {
-    "title": "Welcome FLUX.3 Image Klein in Diffusers",
-    "link": "https://huggingface.co/blog/flux-3",
-    "date": "2026-10-16"
-  },
-  {
-    "title": "KDE turns 30 with Plasma 6.8, remote upgrades, and an X11 farewell",
-    "link": "https://arstechnica.com/gadgets/2026/10/kde-turns-30-with-plasma-6-8-remote-upgrades-and-an-x11-farewell/",
-    "date": "2026-10-16"
-  },
-  {
-    "title": "Plex now helps sell movie theater tickets",
-    "link": "https://arstechnica.com/gadgets/2026/10/plex-now-helps-sell-movie-theater-tickets/",
-    "date": "2026-10-16"
-  },
-  {
-    "title": "Hegseth’s dubious low-T screening may flag up to 25 percent of the Army",
-    "link": "https://arstechnica.com/health/2026/10/hegseths-dubious-low-t-screening-may-flag-up-to-25-percent-of-the-army/",
-    "date": "2026-10-16"
-  },
-  {
-    "title": "Targeted ads delivered 0-click exploits to install mercenary malware",
-    "link": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/",
-    "date": "2026-10-16"
-  },
-  {
-    "title": "Above the 911? Porsche previews a new mid-engined supercar.",
-    "link": "https://arstechnica.com/cars/2026/10/porsche-previews-its-future-with-mission-s-supercar-concept/",
-    "date": "2026-10-16"
-  },
-  {
-    "title": "OpenAI Brings Computer Use to Chrome With ChatGPT Tab Controls",
-    "link": "https://www.unite.ai/openai-brings-computer-use-to-chrome-with-chatgpt-tab-controls/",
-    "date": "2026-10-16"
-  },
-  {
-    "title": "Access Construction Adds Agentic AI Across Estimating, Project Management, and ERP",
-    "link": "https://www.unite.ai/access-evo-agentic-ai-construction-software/",
-    "date": "2026-10-16"
-  },
-  {
-    "title": "OpenAI Launches Rosalind Academic Plan for U.S. University Labs",
-    "link": "https://www.unite.ai/openai-launches-rosalind-academic-plan-for-u-s-university-labs/",
-    "date": "2026-10-16"
-  },
-  {
-    "title": "GMEX Robotics Takes 30% Stake in MediaMeta.Ai to Develop Socially Intelligent Robots",
-    "link": "https://www.unite.ai/gmex-robotics-mediameta-socially-intelligent-robots/",
-    "date": "2026-10-16"
-  },
-  {
-    "title": "IBM Releases Modular Granite Switch 4.1 Models in 8B and 30B Sizes",
-    "link": "https://www.unite.ai/ibm-releases-modular-granite-switch-4-1-models-in-8b-and-30b-sizes/",
-    "date": "2026-10-16"
-  },
-  {
-    "title": "RPKI, 이제 인터넷 경로의 70%를 보호",
-    "link": "https://news.hada.io/topic?id=35474",
-    "date": "2026-10-16"
-  },
-  {
-    "title": "E Ink Kaleido 4 - 색 재현 성능을 높이고 최대 18FPS 영상 재생을 지원하는 컬러 전자종이",
-    "link": "https://news.hada.io/topic?id=35473",
-    "date": "2026-10-16"
-  },
-  {
-    "title": "BIPM, UTC에 윤초 추가 중단 결정",
-    "link": "https://news.hada.io/topic?id=35472",
-    "date": "2026-10-16"
-  },
-  {
-    "title": "Show GN: NeonLingo - 웹페이지에서 단어를 번역하고 저장하는 Chrome·Edge 확장 프로그램",
-    "link": "https://news.hada.io/topic?id=35471",
-    "date": "2026-10-16"
-  },
-  {
-    "title": "AI로 하드웨어 역공학하기",
-    "link": "https://news.hada.io/topic?id=35468",
-    "date": "2026-10-16"
-  },
-  {
-    "title": "Rocket Report: FAA eyes more Starbase traffic; India's Skyroot snares US customer",
-    "link": "https://arstechnica.com/space/2026/10/rocket-report-faa-eyes-more-starbase-traffic-indias-skyroot-snares-us-customer/",
-    "date": "2026-10-16"
-  },
-  {
-    "title": "Blue Origin is going all in on the New Glenn rocket",
-    "link": "https://arstechnica.com/space/2026/10/blue-origin-is-going-all-in-on-the-new-glenn-rocket/",
-    "date": "2026-10-16"
-  },
-  {
-    "title": "Googlebook review: Android on a laptop is still Android",
-    "link": "https://arstechnica.com/reviews/2026/10/googlebook-review-android-on-a-laptop-is-still-android/",
-    "date": "2026-10-16"
-  },
-  {
-    "title": "Your MCP Server Is Secure. The Ledger Behind It Isn’t.",
-    "link": "https://www.unite.ai/mcp-server-security-accounting-erp-integration/",
-    "date": "2026-10-16"
-  },
-  {
-    "title": "Waymo Targets 2028 Toronto Launch with Element as Fleet Partner",
-    "link": "https://www.unite.ai/waymo-targets-2028-toronto-launch-with-element-as-fleet-partner/",
-    "date": "2026-10-16"
-  },
-  {
-    "title": "Faraday Future Unveils $2,490 Nova and $299 Nova Mini Humanoid Robots",
-    "link": "https://www.unite.ai/faraday-future-unveils-2-490-nova-and-299-nova-mini-humanoid-robots/",
-    "date": "2026-10-16"
-  },
-  {
-    "title": "NVIDIA Unveils 2.8T-Token Indic Pretraining Corpus and Open Pipeline",
-    "link": "https://www.unite.ai/nvidia-unveils-2-8t-token-indic-pretraining-corpus-and-open-pipeline/",
-    "date": "2026-10-16"
-  },
-  {
     "title": "메모리에서 출발해 트랜스포머를 발명할 수도 있었다",
     "link": "https://news.hada.io/topic?id=35508",
     "date": "2026-10-17"
@@ -1198,5 +1003,130 @@
     "title": "The Security Implications of Autonomous AI Systems: An Offensive Rigor Perspective",
     "link": "https://www.unite.ai/autonomous-ai-security-delegated-authority/",
     "date": "2026-10-22"
+  },
+  {
+    "title": "Xbox, 이미 구매한 게임 스트리밍에 시간당 24~40센트 요구",
+    "link": "https://news.hada.io/topic?id=35848",
+    "date": "2026-10-23"
+  },
+  {
+    "title": "Idealab.ai - 120만 개 이상의 창업 아이디어를 무료로 제공하는 서비스",
+    "link": "https://news.hada.io/topic?id=35847",
+    "date": "2026-10-23"
+  },
+  {
+    "title": "지능을 전기처럼 쓰는 시대 - AI 네이티브 핸드북 2026 [407p]",
+    "link": "https://news.hada.io/topic?id=35846",
+    "date": "2026-10-23"
+  },
+  {
+    "title": "모든 AI 모델이 인간에 대해 같은 ‘논쟁적’ 견해를 내놓음",
+    "link": "https://news.hada.io/topic?id=35845",
+    "date": "2026-10-23"
+  },
+  {
+    "title": "Jared Kushner의 해킹된 휴대전화에서 드러난 비밀 협상과 수백만 달러 규모 거래",
+    "link": "https://news.hada.io/topic?id=35844",
+    "date": "2026-10-23"
+  },
+  {
+    "title": "Left alone with nothing to do, AI agents started playing",
+    "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+    "date": "2026-10-23"
+  },
+  {
+    "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+    "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+    "date": "2026-10-23"
+  },
+  {
+    "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+    "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+    "date": "2026-10-23"
+  },
+  {
+    "title": "Canva releases its first image generation model",
+    "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+    "date": "2026-10-23"
+  },
+  {
+    "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+    "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+    "date": "2026-10-23"
+  },
+  {
+    "title": "Build more responsive apps with the Decisions API",
+    "link": "https://openai.com/index/decisions-api",
+    "date": "2026-10-23"
+  },
+  {
+    "title": "What FDE means at OpenAI",
+    "link": "https://openai.com/index/forward-deployed-engineering-means",
+    "date": "2026-10-23"
+  },
+  {
+    "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+    "link": "https://openai.com/index/uber-chatgpt-work-rollout",
+    "date": "2026-10-23"
+  },
+  {
+    "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+    "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+    "date": "2026-10-23"
+  },
+  {
+    "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+    "link": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+    "date": "2026-10-23"
+  },
+  {
+    "title": "Switch 2 security takes a hit as hackers unlock homebrew access",
+    "link": "https://arstechnica.com/gaming/2026/10/switch-2-jailbreak-gives-hackers-new-ways-to-run-homebrew-and-mod-games/",
+    "date": "2026-10-23"
+  },
+  {
+    "title": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
+    "link": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/",
+    "date": "2026-10-23"
+  },
+  {
+    "title": "Latest estimate for Starship launches required to support a Moon landing? 22.",
+    "link": "https://arstechnica.com/space/2026/10/latest-estimate-for-starship-launches-required-to-support-a-moon-landing-22/",
+    "date": "2026-10-23"
+  },
+  {
+    "title": "Comcast loses more customers, claims other ISPs' cheap prices are \"irrational\"",
+    "link": "https://arstechnica.com/tech-policy/2026/10/comcast-loses-more-customers-claims-other-isps-cheap-prices-are-irrational/",
+    "date": "2026-10-23"
+  },
+  {
+    "title": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
+    "link": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/",
+    "date": "2026-10-23"
+  },
+  {
+    "title": "Treasury Proposes Rules to Expand Outbound Tech Investment Curbs",
+    "link": "https://www.unite.ai/treasury-proposes-rules-to-expand-outbound-tech-investment-curbs/",
+    "date": "2026-10-23"
+  },
+  {
+    "title": "Andreessen Horowitz Renames a16z Crypto, Expands Fund Beyond Crypto",
+    "link": "https://www.unite.ai/andreessen-horowitz-renames-a16z-crypto-expands-fund-beyond-crypto/",
+    "date": "2026-10-23"
+  },
+  {
+    "title": "Anthropic Says Claude Proved Security Properties Across 123 Libraries",
+    "link": "https://www.unite.ai/anthropic-says-claude-proved-security-properties-across-123-libraries/",
+    "date": "2026-10-23"
+  },
+  {
+    "title": "MIT Researchers Use Ferveret Cooling Platform to Advance AI Work on Nuclear Materials",
+    "link": "https://www.unite.ai/mit-ferveret-cooling-ai-nuclear-materials-research/",
+    "date": "2026-10-23"
+  },
+  {
+    "title": "Canva Debuts Craft Image Model Built by Its In-House Research Lab",
+    "link": "https://www.unite.ai/canva-debuts-craft-image-model-built-by-its-in-house-research-lab/",
+    "date": "2026-10-23"
   }
 ]
