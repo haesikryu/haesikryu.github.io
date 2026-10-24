@@ -1,160 +1,5 @@
 [
   {
-    "title": "메모리에서 출발해 트랜스포머를 발명할 수도 있었다",
-    "link": "https://news.hada.io/topic?id=35508",
-    "date": "2026-10-17"
-  },
-  {
-    "title": "NVIDIA Run:ai - 여러 팀이 GPU를 나눠 쓰도록 관리하는 Kubernetes 기반 플랫폼",
-    "link": "https://news.hada.io/topic?id=35507",
-    "date": "2026-10-17"
-  },
-  {
-    "title": "iroh 1.0까지의 여정 - IPFS 구현에서 공개 키 기반 연결 라이브러리로",
-    "link": "https://news.hada.io/topic?id=35506",
-    "date": "2026-10-17"
-  },
-  {
-    "title": "Show GN: 테슬라 로드스터 시뮬레이터, 킥플립 시뮬레이터",
-    "link": "https://news.hada.io/topic?id=35505",
-    "date": "2026-10-17"
-  },
-  {
-    "title": "Linus Torvalds “AI 사용을 금지하지 않겠다. 자신이 하는 일을 이해해야 한다”",
-    "link": "https://news.hada.io/topic?id=35504",
-    "date": "2026-10-17"
-  },
-  {
-    "title": "Replit is no longer working with Anthropic, CEO says",
-    "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-    "date": "2026-10-17"
-  },
-  {
-    "title": "India becomes the latest country to report rogue AI agent activity",
-    "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-    "date": "2026-10-17"
-  },
-  {
-    "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-    "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-    "date": "2026-10-17"
-  },
-  {
-    "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-    "link": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
-    "date": "2026-10-17"
-  },
-  {
-    "title": "Elorian’s first AI model wants to reason with images, not just about them",
-    "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-    "date": "2026-10-17"
-  },
-  {
-    "title": "How Itaú is building generative AI for its entire customer base",
-    "link": "https://openai.com/index/itau-generative-ai",
-    "date": "2026-10-17"
-  },
-  {
-    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-    "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-    "date": "2026-10-17"
-  },
-  {
-    "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
-    "link": "https://huggingface.co/blog/reflection-beam",
-    "date": "2026-10-17"
-  },
-  {
-    "title": "OpenAI models hacked a crypto wallet and breached more websites",
-    "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
-    "date": "2026-10-17"
-  },
-  {
-    "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
-    "link": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
-    "date": "2026-10-17"
-  },
-  {
-    "title": "US Rep proposes bill to give video game buyers \"ownership,\" not \"a license\"",
-    "link": "https://arstechnica.com/gaming/2026/10/us-rep-proposes-bill-to-give-video-game-buyers-ownership-not-a-license/",
-    "date": "2026-10-17"
-  },
-  {
-    "title": "Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality",
-    "link": "https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/",
-    "date": "2026-10-17"
-  },
-  {
-    "title": "RFK Jr. proposes FDA look the other way on unproven peptides, report says",
-    "link": "https://arstechnica.com/health/2026/10/rfk-jr-proposes-fda-look-the-other-way-on-unproven-peptides-report-says/",
-    "date": "2026-10-17"
-  },
-  {
-    "title": "Replit CEO Masad Says Company No Longer Works With Anthropic",
-    "link": "https://www.unite.ai/replit-ceo-masad-says-company-no-longer-works-with-anthropic/",
-    "date": "2026-10-17"
-  },
-  {
-    "title": "Anthropic Says Claude Traced NIST ECDSA Curve Seeds to a 1990S RNG",
-    "link": "https://www.unite.ai/anthropic-says-claude-traced-nist-ecdsa-curve-seeds-to-a-1990s-rng/",
-    "date": "2026-10-17"
-  },
-  {
-    "title": "Anthropic Says Claude Beat Best Published Quantum Circuit Designs",
-    "link": "https://www.unite.ai/anthropic-says-claude-beat-best-published-quantum-circuit-designs/",
-    "date": "2026-10-17"
-  },
-  {
-    "title": "Gintare Rimolaityte, CEO and Co-Founder of Trendos – Interview Series",
-    "link": "https://www.unite.ai/gintare-rimolaityte-ceo-and-co-founder-of-trendos-interview-series/",
-    "date": "2026-10-17"
-  },
-  {
-    "title": "RapidCanvas Raises $29M Series B to Scale Enterprise AI Delivery",
-    "link": "https://www.unite.ai/rapidcanvas-raises-29m-series-b-enterprise-ai-delivery/",
-    "date": "2026-10-17"
-  },
-  {
-    "title": "DeepSeek-V4.1-Flash-1017 - 추론, 코딩, 에이전트 및 시각 벤치마크 성능을 개선한 모델 업데이트",
-    "link": "https://news.hada.io/topic?id=35524",
-    "date": "2026-10-17"
-  },
-  {
-    "title": "Show GN: CarTroller - 웹캠 손 인식으로 운전하는 브라우저 RC카 게임",
-    "link": "https://news.hada.io/topic?id=35523",
-    "date": "2026-10-17"
-  },
-  {
-    "title": "ImageMagick으로 88x31 버튼에 책 담기",
-    "link": "https://news.hada.io/topic?id=35520",
-    "date": "2026-10-17"
-  },
-  {
-    "title": "Ultramarine 1 Flash - 금융, 법률, 컨설팅, 운영 실무용 오픈 모델",
-    "link": "https://news.hada.io/topic?id=35519",
-    "date": "2026-10-17"
-  },
-  {
-    "title": "버틀레리안 지하드",
-    "link": "https://news.hada.io/topic?id=35518",
-    "date": "2026-10-17"
-  },
-  {
-    "title": "Benefit Street Partners answers questions faster with Codex",
-    "link": "https://openai.com/index/benefit-street-partners",
-    "date": "2026-10-17"
-  },
-  {
-    "title": "The latest AI news we announced in September 2026",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
-    "date": "2026-10-17"
-  },
-  {
-    "title": "Why BioWare's Neverwinter Nights still has thousands of active players",
-    "link": "https://arstechnica.com/gaming/2026/10/why-biowares-neverwinter-nights-still-has-thousands-of-active-players/",
-    "date": "2026-10-17"
-  },
-  {
     "title": "이스라엘 정착민들, 서안지구에서 유럽 외교 차량 공격하고 프랑스 시장 폭행",
     "link": "https://news.hada.io/topic?id=35559",
     "date": "2026-10-18"
@@ -1203,5 +1048,115 @@
     "title": "What Actually Happens When You Run a Spark Job?",
     "link": "https://www.unite.ai/what-actually-happens-when-you-run-a-spark-job/",
     "date": "2026-10-23"
+  },
+  {
+    "title": "jank - C++과 매끄럽게 상호운용하는 네이티브 Clojure 방언",
+    "link": "https://news.hada.io/topic?id=35897",
+    "date": "2026-10-24"
+  },
+  {
+    "title": "Dessa - 텍스트 없이 사람의 대화만 듣고 배운 실시간 음성 AI",
+    "link": "https://news.hada.io/topic?id=35895",
+    "date": "2026-10-24"
+  },
+  {
+    "title": "Rakazo - 내 PC에서 운영하는 Grok Bot 오픈소스 대체제",
+    "link": "https://news.hada.io/topic?id=35894",
+    "date": "2026-10-24"
+  },
+  {
+    "title": "소프트웨어가 느린 이유는 느린 언어가 아니라 나쁜 설계 때문이다",
+    "link": "https://news.hada.io/topic?id=35893",
+    "date": "2026-10-24"
+  },
+  {
+    "title": "“Rust보다 빠르다”는 주장 반박: Tov의 악의적 벤치마크",
+    "link": "https://news.hada.io/topic?id=35892",
+    "date": "2026-10-24"
+  },
+  {
+    "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+    "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+    "date": "2026-10-24"
+  },
+  {
+    "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+    "link": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+    "date": "2026-10-24"
+  },
+  {
+    "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+    "link": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+    "date": "2026-10-24"
+  },
+  {
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+    "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+    "date": "2026-10-24"
+  },
+  {
+    "title": "Securing our frontier model training environment",
+    "link": "https://openai.com/index/securing-our-frontier-model-training-environment",
+    "date": "2026-10-24"
+  },
+  {
+    "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+    "link": "https://huggingface.co/blog/allenai/litpivot",
+    "date": "2026-10-24"
+  },
+  {
+    "title": "Does Your Model Run on AWS Trainium? Look It Up",
+    "link": "https://huggingface.co/blog/torch-neuronx-model-support",
+    "date": "2026-10-24"
+  },
+  {
+    "title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
+    "link": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/",
+    "date": "2026-10-24"
+  },
+  {
+    "title": "Hegseth warns prediction market bets warp military judgment, endanger troops",
+    "link": "https://arstechnica.com/tech-policy/2026/10/pentagon-memo-on-prediction-markets-says-insider-bets-put-troops-lives-at-risk/",
+    "date": "2026-10-24"
+  },
+  {
+    "title": "Updated Google privacy policy says your Gmail might be used for advertising",
+    "link": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/",
+    "date": "2026-10-24"
+  },
+  {
+    "title": "Inside the Pentagon, the pressure is on to find a home for a new spaceport",
+    "link": "https://arstechnica.com/space/2026/10/senior-commander-says-space-force-needs-new-spaceport-by-2030/",
+    "date": "2026-10-24"
+  },
+  {
+    "title": "Spotify ramps up policy enforcement on family plans",
+    "link": "https://arstechnica.com/gadgets/2026/10/spotify-ramps-up-policy-enforcement-on-family-plans/",
+    "date": "2026-10-24"
+  },
+  {
+    "title": "UK Establishes AI Biosecurity Lab Backed by OpenAI and Anthropic",
+    "link": "https://www.unite.ai/uk-establishes-ai-biosecurity-lab-backed-by-openai-and-anthropic/",
+    "date": "2026-10-24"
+  },
+  {
+    "title": "Dayforce to Acquire Ribbon AI to Bring Conversational Interviews Into Agentic Recruiting",
+    "link": "https://www.unite.ai/dayforce-to-acquire-ribbon-ai-agentic-recruiting/",
+    "date": "2026-10-24"
+  },
+  {
+    "title": "Block Unveils Dessa, a Full-Duplex Speech Model Trained on Conversation",
+    "link": "https://www.unite.ai/block-unveils-dessa-a-full-duplex-speech-model-trained-on-conversation/",
+    "date": "2026-10-24"
+  },
+  {
+    "title": "OpenAI Details Training Containment Overhaul After September Model Incident",
+    "link": "https://www.unite.ai/openai-details-training-containment-overhaul-after-september-model-incident/",
+    "date": "2026-10-24"
+  },
+  {
+    "title": "Moonshot AI Releases Kimi K3.1 Pro, First Model in New K3.1 Series",
+    "link": "https://www.unite.ai/moonshot-ai-releases-kimi-k3-1-pro-first-model-in-new-k3-1-series/",
+    "date": "2026-10-24"
   }
 ]
