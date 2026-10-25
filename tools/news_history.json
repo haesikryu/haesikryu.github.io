@@ -1,90 +1,5 @@
 [
   {
-    "title": "이스라엘 정착민들, 서안지구에서 유럽 외교 차량 공격하고 프랑스 시장 폭행",
-    "link": "https://news.hada.io/topic?id=35559",
-    "date": "2026-10-18"
-  },
-  {
-    "title": "Show HN: Esp32sim - 브라우저에서 ESP32 펌웨어 실행하기",
-    "link": "https://news.hada.io/topic?id=35558",
-    "date": "2026-10-18"
-  },
-  {
-    "title": "Agent Substrate - AI 에이전트를 격리하고 대기 자원을 줄이는 Kubernetes 실행 환경",
-    "link": "https://news.hada.io/topic?id=35557",
-    "date": "2026-10-18"
-  },
-  {
-    "title": "나는 일본 시민이 되었다",
-    "link": "https://news.hada.io/topic?id=35555",
-    "date": "2026-10-18"
-  },
-  {
-    "title": "Around The World 게임에서 아름다운 하늘 렌더링하기",
-    "link": "https://news.hada.io/topic?id=35554",
-    "date": "2026-10-18"
-  },
-  {
-    "title": "Meta removes language that raised scraping and AI training concerns",
-    "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-    "date": "2026-10-18"
-  },
-  {
-    "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-    "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-    "date": "2026-10-18"
-  },
-  {
-    "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-    "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-    "date": "2026-10-18"
-  },
-  {
-    "title": "Science says your boss should talk less in meetings",
-    "link": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/",
-    "date": "2026-10-18"
-  },
-  {
-    "title": "NVIDIA Celebrates RTX Spark Launch Across Six Global Cities",
-    "link": "https://www.unite.ai/nvidia-celebrates-rtx-spark-launch-across-six-global-cities/",
-    "date": "2026-10-18"
-  },
-  {
-    "title": "Meta Rewrites Web-Crawling Clause in Pending Commercial Terms",
-    "link": "https://www.unite.ai/meta-rewrites-web-crawling-clause-in-pending-commercial-terms/",
-    "date": "2026-10-18"
-  },
-  {
-    "title": "What Are Native Audio Models? How Speech-to-Speech AI Skips Transcription",
-    "link": "https://www.unite.ai/what-are-native-audio-models-how-speech-to-speech-ai-skips-transcription/",
-    "date": "2026-10-18"
-  },
-  {
-    "title": "Show HN: Sphinx - AI가 작성한 코드를 배포하기 전에 이해도를 묻는 훅",
-    "link": "https://news.hada.io/topic?id=35573",
-    "date": "2026-10-18"
-  },
-  {
-    "title": "Elizabeth Holmes 다큐멘터리 ‘You Can See Everything’은 어떻게 관객을 속이는가",
-    "link": "https://news.hada.io/topic?id=35572",
-    "date": "2026-10-18"
-  },
-  {
-    "title": "DeepSeek 검색 및 페이지 가져오기 API, 성공 요청 1,000건당 0.75달러",
-    "link": "https://news.hada.io/topic?id=35571",
-    "date": "2026-10-18"
-  },
-  {
-    "title": "Ask GN: AI 에이전트의 메모리는 어떻게 구현하고 있나요?",
-    "link": "https://news.hada.io/topic?id=35569",
-    "date": "2026-10-18"
-  },
-  {
-    "title": "CVE-2026-99999(PwnEscape) — Linux 커널 취약점으로 VM 탈출 가능, VPS 사업자 긴급 대응",
-    "link": "https://news.hada.io/topic?id=35568",
-    "date": "2026-10-18"
-  },
-  {
     "title": "Free Pascal 컴파일러, 동적 패키지 지원 추가",
     "link": "https://news.hada.io/topic?id=35615",
     "date": "2026-10-19"
@@ -1193,5 +1108,60 @@
     "title": "Ice sheet expansion may have started 2,000 years ago, but we canceled that",
     "link": "https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/",
     "date": "2026-10-24"
+  },
+  {
+    "title": "알츠하이머 연구의 돌파구: 뇌 플라크 제거 없이 수면 2시간 회복",
+    "link": "https://news.hada.io/topic?id=35951",
+    "date": "2026-10-25"
+  },
+  {
+    "title": "우리가 만드는 소프트웨어에 더 큰 야심을 가져야 한다",
+    "link": "https://news.hada.io/topic?id=35950",
+    "date": "2026-10-25"
+  },
+  {
+    "title": "AI가 생성한 언어는 왜 이해하기 어려울까?",
+    "link": "https://news.hada.io/topic?id=35947",
+    "date": "2026-10-25"
+  },
+  {
+    "title": "Dream-1 - 처음 보는 양팔 로봇을 제로샷으로 제어하는 로봇 모델",
+    "link": "https://news.hada.io/topic?id=35946",
+    "date": "2026-10-25"
+  },
+  {
+    "title": "Sphinx - AI가 작성한 코드를 이해했는지 푸시 전에 퀴즈로 확인하는 도구",
+    "link": "https://news.hada.io/topic?id=35945",
+    "date": "2026-10-25"
+  },
+  {
+    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+    "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "date": "2026-10-25"
+  },
+  {
+    "title": "Block’s new voice model sounds eerily human",
+    "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+    "date": "2026-10-25"
+  },
+  {
+    "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+    "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+    "date": "2026-10-25"
+  },
+  {
+    "title": "Here are the top AI agents that can live in your text messages",
+    "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "date": "2026-10-25"
+  },
+  {
+    "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
+    "link": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/",
+    "date": "2026-10-25"
+  },
+  {
+    "title": "How Do AI Video Generators Work? From Diffusion to World Simulation",
+    "link": "https://www.unite.ai/how-do-ai-video-generators-work-from-diffusion-to-world-simulation/",
+    "date": "2026-10-25"
   }
 ]
