@@ -1,135 +1,5 @@
 [
   {
-    "title": "Free Pascal 컴파일러, 동적 패키지 지원 추가",
-    "link": "https://news.hada.io/topic?id=35615",
-    "date": "2026-10-19"
-  },
-  {
-    "title": "Show GN: ALIGNS.md - 초정렬이 오기 전 내 판단 기준과 취향을 에이전트와 자가 정렬해보세요",
-    "link": "https://news.hada.io/topic?id=35614",
-    "date": "2026-10-19"
-  },
-  {
-    "title": "시니어 엔지니어처럼 소프트웨어 시스템 설계하기 - 풀코스 [동영상]",
-    "link": "https://news.hada.io/topic?id=35613",
-    "date": "2026-10-19"
-  },
-  {
-    "title": "T3 Code - 여러 AI 코딩 에이전트를 PC와 휴대폰에서 관리하는 앱",
-    "link": "https://news.hada.io/topic?id=35612",
-    "date": "2026-10-19"
-  },
-  {
-    "title": "개도 사람처럼 &#039;Bouba&#039;는 둥글고 &#039;Kiki&#039;는 뾰족하다고 느끼는 듯함",
-    "link": "https://news.hada.io/topic?id=35610",
-    "date": "2026-10-19"
-  },
-  {
-    "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-    "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-    "date": "2026-10-19"
-  },
-  {
-    "title": "Disney agrees to hire the majority of Character.AI’s workforce",
-    "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-    "date": "2026-10-19"
-  },
-  {
-    "title": "Anthropic gives outside AI watchdog “employee-like” access",
-    "link": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
-    "date": "2026-10-19"
-  },
-  {
-    "title": "Anthropic Commits 5% of Its Shares to New Public Benefit Fund",
-    "link": "https://www.unite.ai/anthropic-commits-5-of-its-shares-to-new-public-benefit-fund/",
-    "date": "2026-10-19"
-  },
-  {
-    "title": "My Father’s Final Weeks Revealed Why Canadian Healthcare Needs AI",
-    "link": "https://www.unite.ai/my-fathers-final-weeks-revealed-why-canadian-healthcare-needs-ai/",
-    "date": "2026-10-19"
-  },
-  {
-    "title": "Could a Model of Models Help Untangle Alzheimer’s Disease?",
-    "link": "https://www.unite.ai/could-a-model-of-models-help-untangle-alzheimers-disease/",
-    "date": "2026-10-19"
-  },
-  {
-    "title": "What Is a Reranker? The Second-Stage Model That Improves Search Results",
-    "link": "https://www.unite.ai/what-is-a-reranker-the-second-stage-model-that-improves-search-results/",
-    "date": "2026-10-19"
-  },
-  {
-    "title": "Show HN: Cloudflare에서 무료로 실행하는 WhatsApp MCP",
-    "link": "https://news.hada.io/topic?id=35643",
-    "date": "2026-10-19"
-  },
-  {
-    "title": "Timestral: Mistral, 시계열 파운데이션 모델 공개",
-    "link": "https://news.hada.io/topic?id=35642",
-    "date": "2026-10-19"
-  },
-  {
-    "title": "판사가 위헌으로 판단한 Flock 이동 이력 조회 영상",
-    "link": "https://news.hada.io/topic?id=35641",
-    "date": "2026-10-19"
-  },
-  {
-    "title": "문서로 확인된 경찰관의 Flock 로그인 정보 공유, 상대는 ICE 요원인 남편",
-    "link": "https://news.hada.io/topic?id=35640",
-    "date": "2026-10-19"
-  },
-  {
-    "title": "Linux 7.3 출시",
-    "link": "https://news.hada.io/topic?id=35635",
-    "date": "2026-10-19"
-  },
-  {
-    "title": "Apertus 1.5 Release Notes",
-    "link": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
-    "date": "2026-10-19"
-  },
-  {
-    "title": "Review: Lanterns is a truly unique twist on the superhero genre",
-    "link": "https://arstechnica.com/culture/2026/10/review-lanterns-is-a-truly-unique-twist-on-the-superhero-genre/",
-    "date": "2026-10-19"
-  },
-  {
-    "title": "DIY VR: How to build your own headset, and why you probably won't want to",
-    "link": "https://arstechnica.com/gadgets/2026/10/diy-vr-how-to-build-your-own-headset-and-why-you-probably-wont-want-to/",
-    "date": "2026-10-19"
-  },
-  {
-    "title": "Stratospheric airship flew from US to Japan to test sky cell tower concept",
-    "link": "https://arstechnica.com/gadgets/2026/10/trans-pacific-journey-tested-stratospheric-cell-tower-concept-in-japan/",
-    "date": "2026-10-19"
-  },
-  {
-    "title": "Microsoft Adds Guardian Agents to Project Perception for AI Insider Risk",
-    "link": "https://www.unite.ai/microsoft-adds-guardian-agents-to-project-perception-for-ai-insider-risk/",
-    "date": "2026-10-19"
-  },
-  {
-    "title": "SandboxAQ Adds Trust and ROI Tools to Switch AI Agent Platform",
-    "link": "https://www.unite.ai/sandboxaq-adds-trust-and-roi-tools-to-switch-ai-agent-platform/",
-    "date": "2026-10-19"
-  },
-  {
-    "title": "Why Doomsday Is a Distraction, and the Real AI Risk We Should Be Worried About",
-    "link": "https://www.unite.ai/agentic-ai-cybersecurity-risks-deterministic-safeguards/",
-    "date": "2026-10-19"
-  },
-  {
-    "title": "AICPA and AIUC Pair SOC 2 Reports With AIUC-1 Certification",
-    "link": "https://www.unite.ai/aicpa-and-aiuc-pair-soc-2-reports-with-aiuc-1-certification/",
-    "date": "2026-10-19"
-  },
-  {
-    "title": "NorForge Details 20+ Exposed Cairn Panels Used in AI-Driven Intrusions",
-    "link": "https://www.unite.ai/norforge-details-20-plus-exposed-cairn-panels-used-in-ai-driven-intrusions/",
-    "date": "2026-10-19"
-  },
-  {
     "title": "Show GN: Nopetion – 내 서버에서 직접 운영하는 개인용 Notion 대안",
     "link": "https://news.hada.io/topic?id=35680",
     "date": "2026-10-20"
@@ -1203,5 +1073,45 @@
     "title": "Anthropic Investigates Elevated Errors Across Five Claude Models",
     "link": "https://www.unite.ai/anthropic-investigates-elevated-errors-across-five-claude-models/",
     "date": "2026-10-25"
+  },
+  {
+    "title": "중국의 벤처 생태계는 어떻게 작동하는가",
+    "link": "https://news.hada.io/topic?id=36012",
+    "date": "2026-10-26"
+  },
+  {
+    "title": "Pinterest, 사용자 활동에서 장기 목표를 추론하는 LLM 구축",
+    "link": "https://news.hada.io/topic?id=36011",
+    "date": "2026-10-26"
+  },
+  {
+    "title": "Ask GN: 메모리 도구 사용 경험 있나요?",
+    "link": "https://news.hada.io/topic?id=36010",
+    "date": "2026-10-26"
+  },
+  {
+    "title": "OpenAI와 Anthropic은 몇 달 만에 LLM 가격을 최대 80% 내렸다. 왜일까?",
+    "link": "https://news.hada.io/topic?id=36009",
+    "date": "2026-10-26"
+  },
+  {
+    "title": "부분 순서 기반 연산자 우선순위",
+    "link": "https://news.hada.io/topic?id=36006",
+    "date": "2026-10-26"
+  },
+  {
+    "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+    "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+    "date": "2026-10-26"
+  },
+  {
+    "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+    "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+    "date": "2026-10-26"
+  },
+  {
+    "title": "The hottest AI wearables and gadgets you should know about",
+    "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+    "date": "2026-10-26"
   }
 ]
