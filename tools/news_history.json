@@ -1,220 +1,5 @@
 [
   {
-    "title": "Show GN: Nopetion – 내 서버에서 직접 운영하는 개인용 Notion 대안",
-    "link": "https://news.hada.io/topic?id=35680",
-    "date": "2026-10-20"
-  },
-  {
-    "title": "Show GN: Review Inbox - 리뷰 기다리는 PR을 Claude Code 입력창 위에 띄워 주는 mod",
-    "link": "https://news.hada.io/topic?id=35676",
-    "date": "2026-10-20"
-  },
-  {
-    "title": "Show GN: Markpin – 밑줄 긋고 나면 「왜 표시했나요?」를 묻는 웹 형광펜 (로컬 Markdown, MCP 서버 공개)",
-    "link": "https://news.hada.io/topic?id=35674",
-    "date": "2026-10-20"
-  },
-  {
-    "title": "Ask GN: 회사에서 계속해서 늘어나는 에이전트, 어떻게 관리하나요?",
-    "link": "https://news.hada.io/topic?id=35673",
-    "date": "2026-10-20"
-  },
-  {
-    "title": "Plex 취약점, 암호화폐 채굴기 설치를 위한 실제 공격에 악용 중",
-    "link": "https://news.hada.io/topic?id=35672",
-    "date": "2026-10-20"
-  },
-  {
-    "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
-    "link": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
-    "date": "2026-10-20"
-  },
-  {
-    "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
-    "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
-    "date": "2026-10-20"
-  },
-  {
-    "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
-    "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
-    "date": "2026-10-20"
-  },
-  {
-    "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
-    "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
-    "date": "2026-10-20"
-  },
-  {
-    "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
-    "link": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
-    "date": "2026-10-20"
-  },
-  {
-    "title": "Advancing coding in low‑resource programming languages",
-    "link": "https://openai.com/index/low-resource-programming-languages",
-    "date": "2026-10-20"
-  },
-  {
-    "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
-    "link": "https://huggingface.co/blog/hf-torchneuron",
-    "date": "2026-10-20"
-  },
-  {
-    "title": "Pennsylvania issues alert on congenital measles—something US hasn't seen for decades",
-    "link": "https://arstechnica.com/health/2026/10/pennsylvania-issues-alert-on-congenital-measles-something-us-hasnt-seen-for-decades/",
-    "date": "2026-10-20"
-  },
-  {
-    "title": "Russian spacecraft maneuvers in \"extreme proximity\" to satellite used by Ukraine",
-    "link": "https://arstechnica.com/space/2026/10/russian-spacecraft-maneuvers-in-extreme-proximity-to-satellite-used-by-ukraine/",
-    "date": "2026-10-20"
-  },
-  {
-    "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
-    "link": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
-    "date": "2026-10-20"
-  },
-  {
-    "title": "Batteries help reduce emissions, but how do we reduce their emissions?",
-    "link": "https://arstechnica.com/science/2026/10/batteries-have-a-small-carbon-footprint-we-can-make-it-smaller/",
-    "date": "2026-10-20"
-  },
-  {
-    "title": "PSA: Patch your Plex media server before someone hacks it",
-    "link": "https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/",
-    "date": "2026-10-20"
-  },
-  {
-    "title": "Cloudflare Releases Clairic, Its First System One Extraction Model",
-    "link": "https://www.unite.ai/cloudflare-releases-clairic-its-first-system-one-extraction-model/",
-    "date": "2026-10-20"
-  },
-  {
-    "title": "Fal Debuts FLUX 3 Max Video Model Post-Trained With Black Forest Labs",
-    "link": "https://www.unite.ai/fal-debuts-flux-3-max-video-model-post-trained-with-black-forest-labs/",
-    "date": "2026-10-20"
-  },
-  {
-    "title": "Dream Labs Raises $90M Seed to Bring Robot AI Across Different Machines",
-    "link": "https://www.unite.ai/dream-labs-raises-90m-seed-to-bring-robot-ai-across-different-machines/",
-    "date": "2026-10-20"
-  },
-  {
-    "title": "Zillow Launches Claude Connector for Listings, Tours, and Financing",
-    "link": "https://www.unite.ai/zillow-launches-claude-connector-for-listings-tours-and-financing/",
-    "date": "2026-10-20"
-  },
-  {
-    "title": "Wabi Opens Its Personal AI Assistant on iOS, Android, and Mac",
-    "link": "https://www.unite.ai/wabi-opens-its-personal-ai-assistant-on-ios-android-and-mac/",
-    "date": "2026-10-20"
-  },
-  {
-    "title": "Show GN: MacNotify - Mac 알림이 오면 MX Master 4가 진동하는 로지텍 플러그인",
-    "link": "https://news.hada.io/topic?id=35708",
-    "date": "2026-10-20"
-  },
-  {
-    "title": "Show GN: AI Quota Monitor - AI 할당량 소진 되셨나요? vs-code 상태바에서 모니터링 하세요!",
-    "link": "https://news.hada.io/topic?id=35707",
-    "date": "2026-10-20"
-  },
-  {
-    "title": "AfD 유출: 해킹된 이메일 421,179건이 드러낸 독일 극우의 실상",
-    "link": "https://news.hada.io/topic?id=35704",
-    "date": "2026-10-20"
-  },
-  {
-    "title": "DeepSeek, 추론 엔진을 오픈소스로 공개",
-    "link": "https://news.hada.io/topic?id=35703",
-    "date": "2026-10-20"
-  },
-  {
-    "title": "독일 극우 정당 AfD 내부 문서 50만 건 유출",
-    "link": "https://news.hada.io/topic?id=35702",
-    "date": "2026-10-20"
-  },
-  {
-    "title": "Fairy 서비스 오픈 및 GeekNews Show GN 연동",
-    "link": "https://news.hada.io/blog/fairy_and_geeknews",
-    "date": "2026-10-20"
-  },
-  {
-    "title": "GeekBadge 시스템을 추가했습니다",
-    "link": "https://news.hada.io/blog/introducing_geekbadge",
-    "date": "2026-10-20"
-  },
-  {
-    "title": "List 가 GeekLists 기능으로 확대 개편 되었습니다.",
-    "link": "https://news.hada.io/blog/GeekLists",
-    "date": "2026-10-20"
-  },
-  {
-    "title": "‘함께 보면 좋은 글’ 기능을 추가했습니다",
-    "link": "https://news.hada.io/blog/related-reads",
-    "date": "2026-10-20"
-  },
-  {
-    "title": "GeekNews를 편하게 구독하는 법",
-    "link": "https://news.hada.io/blog/subscribe_geeknews",
-    "date": "2026-10-20"
-  },
-  {
-    "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
-    "link": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
-    "date": "2026-10-20"
-  },
-  {
-    "title": "Yelp can now call on your behalf to check wait times at a restaurant",
-    "link": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
-    "date": "2026-10-20"
-  },
-  {
-    "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
-    "date": "2026-10-20"
-  },
-  {
-    "title": "MPS in PyTorch 2.15",
-    "link": "https://huggingface.co/blog/mps-pytorch-2-15",
-    "date": "2026-10-20"
-  },
-  {
-    "title": "Visiting Slate’s first showroom as its $25,000 electric truck nears production",
-    "link": "https://arstechnica.com/cars/2026/10/visiting-slates-first-showroom-as-its-25000-electric-truck-nears-production/",
-    "date": "2026-10-20"
-  },
-  {
-    "title": "Japan launches mission to bring home a piece of the Martian moon Phobos",
-    "link": "https://arstechnica.com/space/2026/10/japan-launches-mission-to-bring-home-a-piece-of-the-martian-moon-phobos/",
-    "date": "2026-10-20"
-  },
-  {
-    "title": "Vectorial Raises $3M Seed to Test Products Against Simulated Customers",
-    "link": "https://www.unite.ai/vectorial-raises-3m-seed-to-test-products-against-simulated-customers/",
-    "date": "2026-10-20"
-  },
-  {
-    "title": "What Is Self-Supervised Learning? How Models Learn from Unlabeled Data",
-    "link": "https://www.unite.ai/what-is-self-supervised-learning-how-models-learn-from-unlabeled-data/",
-    "date": "2026-10-20"
-  },
-  {
-    "title": "AI Doesn’t Eliminate Human Bias. It Scales It.",
-    "link": "https://www.unite.ai/ai-bias-is-a-governance-problem/",
-    "date": "2026-10-20"
-  },
-  {
-    "title": "Valarian Partnership Puts Perplexity Computer on Institutional Servers",
-    "link": "https://www.unite.ai/valarian-partnership-puts-perplexity-computer-on-institutional-servers/",
-    "date": "2026-10-20"
-  },
-  {
-    "title": "Enterprise AI Needs Cumulative Context Before It Can Earn Autonomy",
-    "link": "https://www.unite.ai/why-enterprise-ai-needs-cumulative-business-context/",
-    "date": "2026-10-20"
-  },
-  {
     "title": "나의 친구 Bob Cringely",
     "link": "https://news.hada.io/topic?id=35737",
     "date": "2026-10-21"
@@ -1168,5 +953,135 @@
     "title": "What Are Computer-Using Agents? How AI Sees, Clicks, Types, and Navigates Software",
     "link": "https://www.unite.ai/what-are-computer-using-ai-agents/",
     "date": "2026-10-26"
+  },
+  {
+    "title": "Ask GN: 이런 LLM 서비스 써보신분 계신가요?",
+    "link": "https://news.hada.io/topic?id=36088",
+    "date": "2026-10-27"
+  },
+  {
+    "title": "Show GN: Translate Book: arXiv - arXiv 논문을 원문 구조 그대로 번역본으로 변환해 주는 Claude Code 스킬",
+    "link": "https://news.hada.io/topic?id=36087",
+    "date": "2026-10-27"
+  },
+  {
+    "title": "Show GN: 호보코드 - 다시 간 장소에서 메모를 알려주는 아이폰 앱",
+    "link": "https://news.hada.io/topic?id=36086",
+    "date": "2026-10-27"
+  },
+  {
+    "title": "Show GN: Spring AI Privacy Guardrails - Spring AI용 개인정보 보호, 도구 권한 제어, 콘텐츠 검사",
+    "link": "https://news.hada.io/topic?id=36083",
+    "date": "2026-10-27"
+  },
+  {
+    "title": "Ask GN: 메모리 도구를 사용 하고 있지 않은 이유는 무엇인가요?",
+    "link": "https://news.hada.io/topic?id=36082",
+    "date": "2026-10-27"
+  },
+  {
+    "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+    "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+    "date": "2026-10-27"
+  },
+  {
+    "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+    "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+    "date": "2026-10-27"
+  },
+  {
+    "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+    "link": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+    "date": "2026-10-27"
+  },
+  {
+    "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+    "link": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+    "date": "2026-10-27"
+  },
+  {
+    "title": "Anthropic officially files for its public debut",
+    "link": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+    "date": "2026-10-27"
+  },
+  {
+    "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+    "link": "https://openai.com/index/greptile-code-review-codex-astra",
+    "date": "2026-10-27"
+  },
+  {
+    "title": "Working with academic communities to build scientific understanding",
+    "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+    "date": "2026-10-27"
+  },
+  {
+    "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+    "link": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+    "date": "2026-10-27"
+  },
+  {
+    "title": "ChatGPT’s expanding world of work",
+    "link": "https://openai.com/index/chatgpt-expanding-world-of-work",
+    "date": "2026-10-27"
+  },
+  {
+    "title": "How Fanatics and OpenAI streamline the fan experience",
+    "link": "https://openai.com/index/fanatics-streamline-fan-experience",
+    "date": "2026-10-27"
+  },
+  {
+    "title": "Our newest AI Quest: Mapping the human brain",
+    "link": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+    "date": "2026-10-27"
+  },
+  {
+    "title": "Microsoft offers to buy out a quarter of its workforce",
+    "link": "https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/",
+    "date": "2026-10-27"
+  },
+  {
+    "title": "Worms mate in man's eyes, get plucked out right before larvae burst out",
+    "link": "https://arstechnica.com/health/2026/10/whats-worse-than-having-eye-worms-having-eye-worms-with-babies/",
+    "date": "2026-10-27"
+  },
+  {
+    "title": "Meet the real-life Scottish surgeon who inspired Sherlock Holmes",
+    "link": "https://arstechnica.com/science/2026/10/meet-the-real-life-scottish-surgeon-who-inspired-sherlock-holmes/",
+    "date": "2026-10-27"
+  },
+  {
+    "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
+    "link": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
+    "date": "2026-10-27"
+  },
+  {
+    "title": "Apple reveals updated iPad mini with a bigger OLED screen for $700",
+    "link": "https://arstechnica.com/apple/2026/10/apple-reveals-updated-ipad-mini-with-a-bigger-oled-screen-for-700/",
+    "date": "2026-10-27"
+  },
+  {
+    "title": "symplr Launches AI Time and Scheduling to Predict Healthcare Staffing Needs",
+    "link": "https://www.unite.ai/symplr-ai-time-scheduling-predictive-healthcare-staffing/",
+    "date": "2026-10-27"
+  },
+  {
+    "title": "Cloudflare Says GLM-5.3 Bug Leaked 155 Responses Across Tenant Sessions",
+    "link": "https://www.unite.ai/cloudflare-says-glm-5-3-bug-leaked-155-responses-across-tenant-sessions/",
+    "date": "2026-10-27"
+  },
+  {
+    "title": "OpenAI Says Its Models Produced Three Proofs in Math, CS, and Physics",
+    "link": "https://www.unite.ai/openai-says-its-models-produced-three-proofs-in-math-cs-and-physics/",
+    "date": "2026-10-27"
+  },
+  {
+    "title": "Vertiv Launches SmartIT Pre-Engineered AI Infrastructure Platform",
+    "link": "https://www.unite.ai/vertiv-launches-smartit-pre-engineered-ai-infrastructure-platform/",
+    "date": "2026-10-27"
+  },
+  {
+    "title": "Apple Expands Siri AI Beyond English with 27.2 Software Updates",
+    "link": "https://www.unite.ai/apple-expands-siri-ai-beyond-english-with-27-2-software-updates/",
+    "date": "2026-10-27"
   }
 ]
