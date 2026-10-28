@@ -1,225 +1,5 @@
 [
   {
-    "title": "나의 친구 Bob Cringely",
-    "link": "https://news.hada.io/topic?id=35737",
-    "date": "2026-10-21"
-  },
-  {
-    "title": "Deepwater Horizon 사고 16년 후에도 심해 생물의 회복 징후는 미미함",
-    "link": "https://news.hada.io/topic?id=35736",
-    "date": "2026-10-21"
-  },
-  {
-    "title": "OpenIntelligentUI - ChatGPT Intelligent UI의 오픈소스 대체 구현",
-    "link": "https://news.hada.io/topic?id=35735",
-    "date": "2026-10-21"
-  },
-  {
-    "title": "macOS에서 Touch ID로 SSH 키 설정하기",
-    "link": "https://news.hada.io/topic?id=35734",
-    "date": "2026-10-21"
-  },
-  {
-    "title": "eMudhra 중간 인증서 침해에 따른 Firefox 사용자 보호 조치",
-    "link": "https://news.hada.io/topic?id=35733",
-    "date": "2026-10-21"
-  },
-  {
-    "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-    "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-    "date": "2026-10-21"
-  },
-  {
-    "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
-    "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
-    "date": "2026-10-21"
-  },
-  {
-    "title": "Anthropic’s cloud partnerships are getting messy",
-    "link": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
-    "date": "2026-10-21"
-  },
-  {
-    "title": "SpaceX’s AI business is beating expectations",
-    "link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
-    "date": "2026-10-21"
-  },
-  {
-    "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-    "link": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
-    "date": "2026-10-21"
-  },
-  {
-    "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-    "link": "https://openai.com/index/ted-taylor-restaurant",
-    "date": "2026-10-21"
-  },
-  {
-    "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-    "link": "https://openai.com/index/terminal-x",
-    "date": "2026-10-21"
-  },
-  {
-    "title": "OpenAI acquires Orchestra Bio",
-    "link": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-    "date": "2026-10-21"
-  },
-  {
-    "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
-    "link": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
-    "date": "2026-10-21"
-  },
-  {
-    "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
-    "link": "https://huggingface.co/blog/allenai/fairstress",
-    "date": "2026-10-21"
-  },
-  {
-    "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
-    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
-    "date": "2026-10-21"
-  },
-  {
-    "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
-    "link": "https://huggingface.co/blog/hf-torchtpu",
-    "date": "2026-10-21"
-  },
-  {
-    "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-    "link": "https://huggingface.co/blog/anylanguagemodel-1-0",
-    "date": "2026-10-21"
-  },
-  {
-    "title": "PHP maintainers tell Web devs to prepare themselves for critical security patches",
-    "link": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
-    "date": "2026-10-21"
-  },
-  {
-    "title": "Merging SpaceX and Tesla would be a \"good idea,\" Musk says",
-    "link": "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/",
-    "date": "2026-10-21"
-  },
-  {
-    "title": "Cops raid office of RFK Jr. allies planning “unethical” vaccine trial on babies",
-    "link": "https://arstechnica.com/health/2026/10/cops-raid-office-of-rfk-jr-allies-planning-unethical-vaccine-trial-on-babies/",
-    "date": "2026-10-21"
-  },
-  {
-    "title": "Microsoft reportedly projects $1,200 to $1,800 price for 2028 Project Helix",
-    "link": "https://arstechnica.com/gaming/2026/10/report-microsofts-project-helix-planned-for-2028-at-1200-to-1800-price/",
-    "date": "2026-10-21"
-  },
-  {
-    "title": "JustWatch, which tackles streaming fragmentation, launches own streaming service",
-    "link": "https://arstechnica.com/gadgets/2026/10/justwatch-which-tackles-streaming-fragmentation-launches-own-streaming-service/",
-    "date": "2026-10-21"
-  },
-  {
-    "title": "OpenAI Acquires Orchestra Bio to Expand Rosalind Life Sciences Tools",
-    "link": "https://www.unite.ai/openai-acquires-orchestra-bio-to-expand-rosalind-life-sciences-tools/",
-    "date": "2026-10-21"
-  },
-  {
-    "title": "SpaceX Q3 Revenue Rises 161% as Super Intelligence Swings to Profit",
-    "link": "https://www.unite.ai/spacex-q3-revenue-rises-161-as-super-intelligence-swings-to-profit/",
-    "date": "2026-10-21"
-  },
-  {
-    "title": "IRONSCALES Report Finds AI Agents Are Becoming a New Target for Phishing",
-    "link": "https://www.unite.ai/ironscales-2026-threat-report-ai-agents-phishing/",
-    "date": "2026-10-21"
-  },
-  {
-    "title": "NVIDIA Releases Cosmos3-H-Dreams Real-Time Surgical World Model",
-    "link": "https://www.unite.ai/nvidia-releases-cosmos3-h-dreams-real-time-surgical-world-model/",
-    "date": "2026-10-21"
-  },
-  {
-    "title": "Meta Suspends Muse Chat Sharing After Researchers Find Links in Public DNS",
-    "link": "https://www.unite.ai/meta-suspends-muse-chat-sharing-after-researchers-find-links-in-public-dns/",
-    "date": "2026-10-21"
-  },
-  {
-    "title": "파리협정의 1.5°C 목표는 더 이상 실현 가능하지 않음",
-    "link": "https://news.hada.io/topic?id=35756",
-    "date": "2026-10-21"
-  },
-  {
-    "title": "Meta Muse, 공유한 대화의 개인정보 노출로 공유 기능 중단",
-    "link": "https://news.hada.io/topic?id=35754",
-    "date": "2026-10-21"
-  },
-  {
-    "title": "Mastodon 5.0 - 웹 UI 개편과 그 설계 배경",
-    "link": "https://news.hada.io/topic?id=35753",
-    "date": "2026-10-21"
-  },
-  {
-    "title": "크래프톤, 자체 개발 30B급 고효율 LLM &#039;Raon-1 mini&#039; 프리뷰 공개",
-    "link": "https://news.hada.io/topic?id=35752",
-    "date": "2026-10-21"
-  },
-  {
-    "title": "또 다른 유행병: 벤조디아제핀을 끊으려는 시도",
-    "link": "https://news.hada.io/topic?id=35750",
-    "date": "2026-10-21"
-  },
-  {
-    "title": "Southeast Asia’s digital economy to hit $368 billion",
-    "link": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
-    "date": "2026-10-21"
-  },
-  {
-    "title": "Gemini 4 Argon: Built to solve your hardest problems",
-    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-    "date": "2026-10-21"
-  },
-  {
-    "title": "Introducing Playground: Create and play custom games",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
-    "date": "2026-10-21"
-  },
-  {
-    "title": "Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories",
-    "link": "https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories",
-    "date": "2026-10-21"
-  },
-  {
-    "title": "Review: Carrie is a triumphant remix with one major flaw",
-    "link": "https://arstechnica.com/culture/2026/10/review-carrie-is-a-triumphant-remix-with-one-major-flaw/",
-    "date": "2026-10-21"
-  },
-  {
-    "title": "The past, present, and future share a show floor at Pinball Expo 2026",
-    "link": "https://arstechnica.com/gaming/2026/10/the-past-present-and-future-share-a-show-floor-at-pinball-expo-2026/",
-    "date": "2026-10-21"
-  },
-  {
-    "title": "Databricks Makes AI Runtime Generally Available for GPU Training",
-    "link": "https://www.unite.ai/databricks-makes-ai-runtime-generally-available-for-gpu-training/",
-    "date": "2026-10-21"
-  },
-  {
-    "title": "Porsche Leads Shared AV Data Flywheel Across Volkswagen Group Brands",
-    "link": "https://www.unite.ai/porsche-leads-shared-av-data-flywheel-across-volkswagen-group-brands/",
-    "date": "2026-10-21"
-  },
-  {
-    "title": "What Is Distributed AI Training? Data, Tensor, Pipeline, and Expert Parallelism",
-    "link": "https://www.unite.ai/what-is-distributed-ai-training-data-tensor-pipeline-and-expert-parallelism/",
-    "date": "2026-10-21"
-  },
-  {
-    "title": "Rockwell Automation Unveils AI-Native FactoryTalk Conductor Platform",
-    "link": "https://www.unite.ai/rockwell-automation-unveils-ai-native-factorytalk-conductor-platform/",
-    "date": "2026-10-21"
-  },
-  {
-    "title": "Google Cloud’s First NVIDIA Vera Rubin A5X Instances Go Live",
-    "link": "https://www.unite.ai/google-clouds-first-nvidia-vera-rubin-a5x-instances-go-live/",
-    "date": "2026-10-21"
-  },
-  {
     "title": "Google의 Rust 스타일 가이드",
     "link": "https://news.hada.io/topic?id=35789",
     "date": "2026-10-22"
@@ -1163,5 +943,130 @@
     "title": "CoreWeave Activates Denmark AI Capacity and Extends Global Network Backbone",
     "link": "https://www.unite.ai/coreweave-activates-denmark-ai-capacity-and-extends-global-network-backbone/",
     "date": "2026-10-27"
+  },
+  {
+    "title": "PHP2Shell: 악용 시도와 취약점 조치 동향",
+    "link": "https://news.hada.io/topic?id=36144",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "Apple, iPhone Duo 내부 화면 깨짐 발생 시 애플케어+ 없이 교체 가능하다고 밝혀",
+    "link": "https://news.hada.io/topic?id=36142",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "tar-codec - uv가 도입한 빠르고 안전한 Rust tar 파서",
+    "link": "https://news.hada.io/topic?id=36141",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "Show GN: Aqueous 압축 파일 포맷",
+    "link": "https://news.hada.io/topic?id=36140",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "Cursor Agent SDK - 팀 맞춤형 AI 에이전트를 코드로 만들고 배포하는 프레임워크",
+    "link": "https://news.hada.io/topic?id=36138",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+    "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+    "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "The data center boom has an upside: innovation for the US grid",
+    "link": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+    "link": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "Who’s really in charge at Anthropic after the IPO?",
+    "link": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "Retell uses OpenAI models to help power 100M monthly calls",
+    "link": "https://openai.com/index/retell-ai",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+    "link": "https://openai.com/index/oracle-apps-in-chatgpt",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "How Check Point accelerates vulnerability research with Daybreak",
+    "link": "https://openai.com/index/check-point-daybreak",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "Build specialized multimodal models with LFM3",
+    "link": "https://huggingface.co/blog/LiquidAI/lfm3",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "Can we trust LLMs to judge whether a research idea is novel?",
+    "link": "https://huggingface.co/blog/allenai/novelty-bench",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
+    "link": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "South Carolina's measles outbreak jumped to Washington state 5 times in 2 weeks",
+    "link": "https://arstechnica.com/health/2026/10/domestic-travel-poses-growing-risk-for-measles-and-a-new-challenge-for-states/",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "China's top-secret spaceplane can't hide in low-Earth orbit",
+    "link": "https://arstechnica.com/space/2026/10/chinas-top-secret-spaceplane-cant-hide-in-low-earth-orbit/",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
+    "link": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+    "link": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "OneQode Secures 14 MW of Chennai AI Capacity in AdaniConneX Agreement",
+    "link": "https://www.unite.ai/oneqode-secures-14-mw-of-chennai-ai-capacity-in-adaniconnex-agreement/",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "GSA Expands Anthropic OneGov Agreement with 40% Claude Discount",
+    "link": "https://www.unite.ai/gsa-expands-anthropic-onegov-agreement-with-40-claude-discount/",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "Stellantis Selects Amperity to Connect Customer Data and Personalize Experiences",
+    "link": "https://www.unite.ai/stellantis-amperity-customer-data-personalization-partnership/",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "Tensor, MTZ Sign LOI to Deploy Up to 500 Autonomous Taxis in Germany",
+    "link": "https://www.unite.ai/tensor-mtz-sign-loi-to-deploy-up-to-500-autonomous-taxis-in-germany/",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "Dream Reports PHP2Shell Attack Chain That Compromised 25 Servers",
+    "link": "https://www.unite.ai/dream-reports-php2shell-attack-chain-that-compromised-25-servers/",
+    "date": "2026-10-28"
   }
 ]
