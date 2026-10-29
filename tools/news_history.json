@@ -1043,5 +1043,85 @@
     "title": "The last, best hope for space tourism just rolled onto a runway in Arizona",
     "link": "https://arstechnica.com/space/2026/10/the-last-best-hope-for-space-tourism-just-rolled-onto-a-runway-in-arizona/",
     "date": "2026-10-29"
+  },
+  {
+    "title": "사용자 조작이나 알림 없이 발생하는 Android 원격 서비스 거부 공격",
+    "link": "https://news.hada.io/topic?id=36225",
+    "date": "2026-10-29"
+  },
+  {
+    "title": "Google AI, 2020년 선거 승자를 묻자 답변 회피",
+    "link": "https://news.hada.io/topic?id=36224",
+    "date": "2026-10-29"
+  },
+  {
+    "title": "Show GN: Specify - 코드베이스의 아키텍처와 기능 흐름을 시각화하는 도구",
+    "link": "https://news.hada.io/topic?id=36223",
+    "date": "2026-10-29"
+  },
+  {
+    "title": "GitLab 보안 사고: CVE-2026-97229 악용 시도",
+    "link": "https://news.hada.io/topic?id=36222",
+    "date": "2026-10-29"
+  },
+  {
+    "title": "Ask GN: 비개발자인데, AI가 써 준 메일이 딱 봐도 AI 같습니다. 어떻게 고치세요?",
+    "link": "https://news.hada.io/topic?id=36221",
+    "date": "2026-10-29"
+  },
+  {
+    "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
+    "link": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+    "date": "2026-10-29"
+  },
+  {
+    "title": "Amazon updates Alexa to help you manage shopping lists, subscriptions, and update delivery instructions",
+    "link": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-subscriptions-and-update-delivery-instructions/",
+    "date": "2026-10-29"
+  },
+  {
+    "title": "Granite Switch 4.1.1 — Update models like you update software",
+    "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+    "date": "2026-10-29"
+  },
+  {
+    "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+    "link": "https://huggingface.co/blog/anydecisionmodel",
+    "date": "2026-10-29"
+  },
+  {
+    "title": "Massive leak exposes 41,000 DHS workers and undercover ICE agents",
+    "link": "https://arstechnica.com/security/2026/10/massive-leak-exposes-41000-dhs-workers-and-undercover-ice-agents/",
+    "date": "2026-10-29"
+  },
+  {
+    "title": "SpaceX no longer needs NASA, and that's a problem for America's space agency",
+    "link": "https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency/",
+    "date": "2026-10-29"
+  },
+  {
+    "title": "Wabi Raises $55M at $1.25B Valuation to Grow Personal AI Assistant",
+    "link": "https://www.unite.ai/wabi-raises-55m-at-1-25b-valuation-to-grow-personal-ai-assistant/",
+    "date": "2026-10-29"
+  },
+  {
+    "title": "ShareWillow Raises $8.5M Seed to Build AI Agents for Trades Technicians",
+    "link": "https://www.unite.ai/sharewillow-raises-8-5m-seed-ai-agents-trades-technicians/",
+    "date": "2026-10-29"
+  },
+  {
+    "title": "Digital Science Acquires Jenni AI, Linking It to Dimensions Database",
+    "link": "https://www.unite.ai/digital-science-acquires-jenni-ai-linking-it-to-dimensions-database/",
+    "date": "2026-10-29"
+  },
+  {
+    "title": "Pluto Security Details Load/Mine Cryptomining Campaign on Hugging Face",
+    "link": "https://www.unite.ai/pluto-security-details-load-mine-cryptomining-campaign-on-hugging-face/",
+    "date": "2026-10-29"
+  },
+  {
+    "title": "Serval Raises $150M Series C at $3B Valuation to Hire Over 500",
+    "link": "https://www.unite.ai/serval-raises-150m-series-c-at-3b-valuation-to-hire-over-500/",
+    "date": "2026-10-29"
   }
 ]
