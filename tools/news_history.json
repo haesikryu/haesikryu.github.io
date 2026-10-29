@@ -1,205 +1,5 @@
 [
   {
-    "title": "Google의 Rust 스타일 가이드",
-    "link": "https://news.hada.io/topic?id=35789",
-    "date": "2026-10-22"
-  },
-  {
-    "title": "PingCAP TiDB 데이터 유출",
-    "link": "https://news.hada.io/topic?id=35788",
-    "date": "2026-10-22"
-  },
-  {
-    "title": "Oxynote - 실시간 지표와 API 문서를 함께 관리하는 기술 위키",
-    "link": "https://news.hada.io/topic?id=35787",
-    "date": "2026-10-22"
-  },
-  {
-    "title": "한국의 신규 AI 파생 모델 절반 가까이가 중국 Qwen 기반임",
-    "link": "https://news.hada.io/topic?id=35785",
-    "date": "2026-10-22"
-  },
-  {
-    "title": "10월 28일 Lobsters 뉴욕 밋업",
-    "link": "https://news.hada.io/topic?id=35784",
-    "date": "2026-10-22"
-  },
-  {
-    "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
-    "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
-    "date": "2026-10-22"
-  },
-  {
-    "title": "TechCrunch Founder Summit 2026: Everything you need to know",
-    "link": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
-    "date": "2026-10-22"
-  },
-  {
-    "title": "Meta says Muse has over 10M users, with shopping a top activity",
-    "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
-    "date": "2026-10-22"
-  },
-  {
-    "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
-    "link": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
-    "date": "2026-10-22"
-  },
-  {
-    "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
-    "link": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
-    "date": "2026-10-22"
-  },
-  {
-    "title": "How AT&T is rethinking in-house legal work with OpenAI",
-    "link": "https://openai.com/index/att-legal",
-    "date": "2026-10-22"
-  },
-  {
-    "title": "Broad access through consistent standards",
-    "link": "https://openai.com/index/broad-access-through-consistent-standards",
-    "date": "2026-10-22"
-  },
-  {
-    "title": "OpenAI models are coming to Google Cloud",
-    "link": "https://openai.com/index/openai-models-google-cloud",
-    "date": "2026-10-22"
-  },
-  {
-    "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-    "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-    "date": "2026-10-22"
-  },
-  {
-    "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-    "link": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-    "date": "2026-10-22"
-  },
-  {
-    "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-    "link": "https://huggingface.co/blog/nvidia/kumo-relational",
-    "date": "2026-10-22"
-  },
-  {
-    "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-    "link": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
-    "date": "2026-10-22"
-  },
-  {
-    "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-    "link": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
-    "date": "2026-10-22"
-  },
-  {
-    "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-    "link": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
-    "date": "2026-10-22"
-  },
-  {
-    "title": "FCC chair warns media not to run the \"fake polls\" Trump keeps complaining about",
-    "link": "https://arstechnica.com/tech-policy/2026/10/fcc-chair-warns-media-not-to-run-the-fake-polls-trump-keeps-complaining-about/",
-    "date": "2026-10-22"
-  },
-  {
-    "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought",
-    "link": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/",
-    "date": "2026-10-22"
-  },
-  {
-    "title": "Enterprises keep buying software upgrades that IT thinks will make things worse",
-    "link": "https://arstechnica.com/information-technology/2026/10/survey-enterprises-waste-28-percent-of-software-budgets-on-unwanted-upgrades/",
-    "date": "2026-10-22"
-  },
-  {
-    "title": "Tesla profits drop 43% in Q3",
-    "link": "https://arstechnica.com/cars/2026/10/tesla-profits-drop-43-in-q3/",
-    "date": "2026-10-22"
-  },
-  {
-    "title": "The new human-crafted Apple Music brand matters in an AI world",
-    "link": "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/",
-    "date": "2026-10-22"
-  },
-  {
-    "title": "Tesla Posts Roughly Flat Quarterly Revenue as Operating Costs Rise",
-    "link": "https://www.unite.ai/tesla-posts-roughly-flat-quarterly-revenue-as-operating-costs-rise/",
-    "date": "2026-10-22"
-  },
-  {
-    "title": "Meta Q3 Revenue Rises 26% as Board Approves Non-Voting Class C Stock",
-    "link": "https://www.unite.ai/meta-q3-revenue-rises-26-as-board-approves-non-voting-class-c-stock/",
-    "date": "2026-10-22"
-  },
-  {
-    "title": "Walmart Introduces Agent Profiles, Gateway for AI Shopping Agents",
-    "link": "https://www.unite.ai/walmart-introduces-agent-profiles-gateway-for-ai-shopping-agents/",
-    "date": "2026-10-22"
-  },
-  {
-    "title": "Anthropic Opens Claude Duet Research Preview to US Pro and Max Users",
-    "link": "https://www.unite.ai/anthropic-opens-claude-duet-research-preview-to-us-pro-and-max-users/",
-    "date": "2026-10-22"
-  },
-  {
-    "title": "WorldTUI: 터미널처럼 행동하도록 학습한 3억 6천만 파라미터 모델",
-    "link": "https://news.hada.io/topic?id=35809",
-    "date": "2026-10-22"
-  },
-  {
-    "title": "최근 제안된 o(n log n) 정수 곱셈 알고리듬 [PDF]",
-    "link": "https://news.hada.io/topic?id=35808",
-    "date": "2026-10-22"
-  },
-  {
-    "title": "Show GN: Rollipop: 현대적인 React Native 빌드 도구",
-    "link": "https://news.hada.io/topic?id=35807",
-    "date": "2026-10-22"
-  },
-  {
-    "title": "OCaml로 만드는 유니커널",
-    "link": "https://news.hada.io/topic?id=35806",
-    "date": "2026-10-22"
-  },
-  {
-    "title": "Show GN: Brello Scan – AI API 비용 속 새는 곳을 찾아 주는 무료 스캐너",
-    "link": "https://news.hada.io/topic?id=35805",
-    "date": "2026-10-22"
-  },
-  {
-    "title": "Ensemble forecasting with IBM Granite time-series models",
-    "link": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-    "date": "2026-10-22"
-  },
-  {
-    "title": "333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email",
-    "link": "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/",
-    "date": "2026-10-22"
-  },
-  {
-    "title": "UN says we're going to blow past 1.5º warming, offers a \"now what?\" answer",
-    "link": "https://arstechnica.com/science/2026/10/un-accepts-the-obvious-were-not-going-to-avoid-a-1-5o-c-warming/",
-    "date": "2026-10-22"
-  },
-  {
-    "title": "When an AI Video Edit Changes More Than You Asked",
-    "link": "https://www.unite.ai/ai-video-text-replacement-review/",
-    "date": "2026-10-22"
-  },
-  {
-    "title": "What Are Diffusion Transformers (DiTs)? The Architecture Behind Modern Media Models",
-    "link": "https://www.unite.ai/what-are-diffusion-transformers-dits-the-architecture-behind-modern-media-models/",
-    "date": "2026-10-22"
-  },
-  {
-    "title": "Cyware Launches Last Mile AI Agents to Turn Shared Threat Intelligence Into Daily Priorities",
-    "link": "https://www.unite.ai/cyware-last-mile-ai-agents-shared-threat-intelligence/",
-    "date": "2026-10-22"
-  },
-  {
-    "title": "The Security Implications of Autonomous AI Systems: An Offensive Rigor Perspective",
-    "link": "https://www.unite.ai/autonomous-ai-security-delegated-authority/",
-    "date": "2026-10-22"
-  },
-  {
     "title": "Xbox, 이미 구매한 게임 스트리밍에 시간당 24~40센트 요구",
     "link": "https://news.hada.io/topic?id=35848",
     "date": "2026-10-23"
@@ -1148,5 +948,100 @@
     "title": "Akeneo Expands Governed AI Product Data Workflows in Autumn Release 2026",
     "link": "https://www.unite.ai/akeneo-autumn-release-2026-governed-ai-product-data/",
     "date": "2026-10-28"
+  },
+  {
+    "title": "Show GN: 생성형 LLM 없이 만든 실시간 음성 예약 봇 데모 - jev 활용기",
+    "link": "https://news.hada.io/topic?id=36205",
+    "date": "2026-10-29"
+  },
+  {
+    "title": "Show GN: Ferryx - Windows·Linux에서도 쓸 수 있는 코딩 에이전트용 네이티브 터미널",
+    "link": "https://news.hada.io/topic?id=36204",
+    "date": "2026-10-29"
+  },
+  {
+    "title": "Nanbeige4.3 33B, 한국어 문서 RAG 299문항 직접 채점: 공식 벤치마크에선 qwen3.8 27B를 이겼지만 한국...",
+    "link": "https://news.hada.io/topic?id=36202",
+    "date": "2026-10-29"
+  },
+  {
+    "title": "온라인 게임 개발자가 말하는 렉과 서버비",
+    "link": "https://news.hada.io/topic?id=36201",
+    "date": "2026-10-29"
+  },
+  {
+    "title": "kern - AI 생성 코드를 매번 새 컨테이너에서 실행하는 경량 루트리스 런타임",
+    "link": "https://news.hada.io/topic?id=36200",
+    "date": "2026-10-29"
+  },
+  {
+    "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+    "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+    "date": "2026-10-29"
+  },
+  {
+    "title": "Google expands AI Search ads globally as core ad growth slows",
+    "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+    "date": "2026-10-29"
+  },
+  {
+    "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+    "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+    "date": "2026-10-29"
+  },
+  {
+    "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+    "link": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+    "date": "2026-10-29"
+  },
+  {
+    "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+    "link": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+    "date": "2026-10-29"
+  },
+  {
+    "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+    "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
+    "date": "2026-10-29"
+  },
+  {
+    "title": "The future of the firm",
+    "link": "https://openai.com/index/the-future-of-the-firm",
+    "date": "2026-10-29"
+  },
+  {
+    "title": "Legora is building the agentic operating system for legal work",
+    "link": "https://openai.com/index/legora",
+    "date": "2026-10-29"
+  },
+  {
+    "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+    "date": "2026-10-29"
+  },
+  {
+    "title": "ULA's Vulcan rocket is set to return to flight on Friday the 13th",
+    "link": "https://arstechnica.com/space/2026/10/ulas-vulcan-rocket-is-set-to-return-to-flight-on-friday-the-13th/",
+    "date": "2026-10-29"
+  },
+  {
+    "title": "As US ties fray, Europe plans first undersea cable link to Greenland",
+    "link": "https://arstechnica.com/gadgets/2026/10/as-us-ties-fray-europe-plans-first-undersea-cable-link-to-greenland/",
+    "date": "2026-10-29"
+  },
+  {
+    "title": "Peptide peddlers cheer as RFK Jr. unilaterally grants access, overruling FDA",
+    "link": "https://arstechnica.com/health/2026/10/peptide-peddlers-cheer-as-rfk-jr-unilaterally-grants-access-overruling-fda/",
+    "date": "2026-10-29"
+  },
+  {
+    "title": "Trump admin sues Utah to save Kalshi from the state's total ban on gambling",
+    "link": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
+    "date": "2026-10-29"
+  },
+  {
+    "title": "The last, best hope for space tourism just rolled onto a runway in Arizona",
+    "link": "https://arstechnica.com/space/2026/10/the-last-best-hope-for-space-tourism-just-rolled-onto-a-runway-in-arizona/",
+    "date": "2026-10-29"
   }
 ]
