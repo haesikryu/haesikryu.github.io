@@ -1,100 +1,5 @@
 [
   {
-    "title": "알츠하이머 연구의 돌파구: 뇌 플라크 제거 없이 수면 2시간 회복",
-    "link": "https://news.hada.io/topic?id=35951",
-    "date": "2026-10-25"
-  },
-  {
-    "title": "우리가 만드는 소프트웨어에 더 큰 야심을 가져야 한다",
-    "link": "https://news.hada.io/topic?id=35950",
-    "date": "2026-10-25"
-  },
-  {
-    "title": "AI가 생성한 언어는 왜 이해하기 어려울까?",
-    "link": "https://news.hada.io/topic?id=35947",
-    "date": "2026-10-25"
-  },
-  {
-    "title": "Dream-1 - 처음 보는 양팔 로봇을 제로샷으로 제어하는 로봇 모델",
-    "link": "https://news.hada.io/topic?id=35946",
-    "date": "2026-10-25"
-  },
-  {
-    "title": "Sphinx - AI가 작성한 코드를 이해했는지 푸시 전에 퀴즈로 확인하는 도구",
-    "link": "https://news.hada.io/topic?id=35945",
-    "date": "2026-10-25"
-  },
-  {
-    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-    "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-    "date": "2026-10-25"
-  },
-  {
-    "title": "Block’s new voice model sounds eerily human",
-    "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
-    "date": "2026-10-25"
-  },
-  {
-    "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-    "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-    "date": "2026-10-25"
-  },
-  {
-    "title": "Here are the top AI agents that can live in your text messages",
-    "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-    "date": "2026-10-25"
-  },
-  {
-    "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
-    "link": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/",
-    "date": "2026-10-25"
-  },
-  {
-    "title": "How Do AI Video Generators Work? From Diffusion to World Simulation",
-    "link": "https://www.unite.ai/how-do-ai-video-generators-work-from-diffusion-to-world-simulation/",
-    "date": "2026-10-25"
-  },
-  {
-    "title": "Meta, Bolsonaro 편향을 중단하라는 브라질 법원 명령 무시",
-    "link": "https://news.hada.io/topic?id=35969",
-    "date": "2026-10-25"
-  },
-  {
-    "title": "SpeedCrunch 1.1 - 최대 50자리 정밀도의 무료 오픈소스 공학용 계산기",
-    "link": "https://news.hada.io/topic?id=35966",
-    "date": "2026-10-25"
-  },
-  {
-    "title": "Cerebras, 조 단위 파라미터 AI 모델 배포",
-    "link": "https://news.hada.io/topic?id=35965",
-    "date": "2026-10-25"
-  },
-  {
-    "title": "Qwen3.8-27B 모델 5개, GVS5H 하네스로 Fable 5에 필적하는 성능 달성",
-    "link": "https://news.hada.io/topic?id=35963",
-    "date": "2026-10-25"
-  },
-  {
-    "title": "Meta 직원들, 브라질 선거 중 Lula 계정 제한 인정했다는 보도",
-    "link": "https://news.hada.io/topic?id=35962",
-    "date": "2026-10-25"
-  },
-  {
-    "title": "What Is Data Poisoning? How Attackers Corrupt AI Models and Datasets",
-    "link": "https://www.unite.ai/what-is-data-poisoning-how-attackers-corrupt-ai-models-and-datasets/",
-    "date": "2026-10-25"
-  },
-  {
-    "title": "AI21 Labs Releases LIFT-Bench to Curb Reward Hacking in RL Training",
-    "link": "https://www.unite.ai/ai21-labs-releases-lift-bench-to-curb-reward-hacking-in-rl-training/",
-    "date": "2026-10-25"
-  },
-  {
-    "title": "Anthropic Investigates Elevated Errors Across Five Claude Models",
-    "link": "https://www.unite.ai/anthropic-investigates-elevated-errors-across-five-claude-models/",
-    "date": "2026-10-25"
-  },
-  {
     "title": "중국의 벤처 생태계는 어떻게 작동하는가",
     "link": "https://news.hada.io/topic?id=36012",
     "date": "2026-10-26"
@@ -1148,5 +1053,60 @@
     "title": "Google Plans Support for Shared Robots.txt AI Training Control",
     "link": "https://www.unite.ai/google-plans-support-for-shared-robots-txt-ai-training-control/",
     "date": "2026-10-31"
+  },
+  {
+    "title": "이탈리아 농부가 다락에서 발견한 정체불명의 씨앗을 심었다",
+    "link": "https://news.hada.io/topic?id=36366&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-01"
+  },
+  {
+    "title": "Show GN: LeftPen - 짧은 글의 뜻과 말투를 살려 다듬는 AI 편집기",
+    "link": "https://news.hada.io/topic?id=36365&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-01"
+  },
+  {
+    "title": "AO3, 유지보수로 서비스 중단",
+    "link": "https://news.hada.io/topic?id=36363&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-01"
+  },
+  {
+    "title": "Zero Breach Toolkit - PC와 스마트폰의 스파이웨어 흔적을 오프라인으로 검사하는 도구",
+    "link": "https://news.hada.io/topic?id=36362&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-01"
+  },
+  {
+    "title": "Kluever Maneuver - 버그 동작을 통과하는 테스트로 기록한 뒤 두 커밋으로 수정하기",
+    "link": "https://news.hada.io/topic?id=36361&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-01"
+  },
+  {
+    "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+    "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+    "date": "2026-11-01"
+  },
+  {
+    "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+    "link": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+    "date": "2026-11-01"
+  },
+  {
+    "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+    "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+    "date": "2026-11-01"
+  },
+  {
+    "title": "OpenAI reportedly lowers funding target for new round",
+    "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+    "date": "2026-11-01"
+  },
+  {
+    "title": "Cisco Talos Details VOLTA Infostealer’s LLM Victim-Ranking Stage",
+    "link": "https://www.unite.ai/cisco-talos-details-volta-infostealers-llm-victim-ranking-stage/",
+    "date": "2026-11-01"
+  },
+  {
+    "title": "Book Review: Investing in AI: Six Mental Models to Tell Moats from Traps by Rob May",
+    "link": "https://www.unite.ai/book-review-investing-in-ai-rob-may/",
+    "date": "2026-11-01"
   }
 ]
