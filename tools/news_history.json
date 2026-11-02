@@ -1,100 +1,5 @@
 [
   {
-    "title": "중국의 벤처 생태계는 어떻게 작동하는가",
-    "link": "https://news.hada.io/topic?id=36012",
-    "date": "2026-10-26"
-  },
-  {
-    "title": "Pinterest, 사용자 활동에서 장기 목표를 추론하는 LLM 구축",
-    "link": "https://news.hada.io/topic?id=36011",
-    "date": "2026-10-26"
-  },
-  {
-    "title": "Ask GN: 메모리 도구 사용 경험 있나요?",
-    "link": "https://news.hada.io/topic?id=36010",
-    "date": "2026-10-26"
-  },
-  {
-    "title": "OpenAI와 Anthropic은 몇 달 만에 LLM 가격을 최대 80% 내렸다. 왜일까?",
-    "link": "https://news.hada.io/topic?id=36009",
-    "date": "2026-10-26"
-  },
-  {
-    "title": "부분 순서 기반 연산자 우선순위",
-    "link": "https://news.hada.io/topic?id=36006",
-    "date": "2026-10-26"
-  },
-  {
-    "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-    "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
-    "date": "2026-10-26"
-  },
-  {
-    "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-    "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-    "date": "2026-10-26"
-  },
-  {
-    "title": "The hottest AI wearables and gadgets you should know about",
-    "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
-    "date": "2026-10-26"
-  },
-  {
-    "title": "Ask GN: 비개발자인데, AI에게 맡긴 반복 작업이 밤새 멈춘 걸 아침에야 압니다. 어떻게 감시하세요?",
-    "link": "https://news.hada.io/topic?id=36044",
-    "date": "2026-10-26"
-  },
-  {
-    "title": "NeXT Computer 사무실의 뒷이야기",
-    "link": "https://news.hada.io/topic?id=36042",
-    "date": "2026-10-26"
-  },
-  {
-    "title": "스위스를 Minecraft 블록 하나하나로, 1:1 축척으로 구현하다",
-    "link": "https://news.hada.io/topic?id=36039",
-    "date": "2026-10-26"
-  },
-  {
-    "title": "Next.js를 제거하자 내 블로그의 모든 Lighthouse 항목이 100점을 기록함",
-    "link": "https://news.hada.io/topic?id=36035",
-    "date": "2026-10-26"
-  },
-  {
-    "title": "PaperPilot - 클라우드 없이 WASM과 MCP를 지원하는 순수 Rust PDF 엔진",
-    "link": "https://news.hada.io/topic?id=36034",
-    "date": "2026-10-26"
-  },
-  {
-    "title": "From impulse purchase to pocket studio: The M-Vave FM-1",
-    "link": "https://arstechnica.com/gadgets/2026/10/from-impulse-purchase-to-pocket-studio-the-m-vave-fm-1/",
-    "date": "2026-10-26"
-  },
-  {
-    "title": "Will Bodewes, Co-Founder and CEO of Phonely – Interview Series",
-    "link": "https://www.unite.ai/will-bodewes-co-founder-and-ceo-of-phonely-interview-series/",
-    "date": "2026-10-26"
-  },
-  {
-    "title": "Anthropic Files S-1 Registration Statement for Nasdaq IPO",
-    "link": "https://www.unite.ai/anthropic-files-s-1-registration-statement-for-nasdaq-ipo/",
-    "date": "2026-10-26"
-  },
-  {
-    "title": "Software Cloning – Is Paid Software Really Over?",
-    "link": "https://www.unite.ai/ai-software-cloning-enterprise-value/",
-    "date": "2026-10-26"
-  },
-  {
-    "title": "IBM Makes Spyre Accelerator a First-Class PyTorch Backend",
-    "link": "https://www.unite.ai/ibm-makes-spyre-accelerator-a-first-class-pytorch-backend/",
-    "date": "2026-10-26"
-  },
-  {
-    "title": "What Are Computer-Using Agents? How AI Sees, Clicks, Types, and Navigates Software",
-    "link": "https://www.unite.ai/what-are-computer-using-ai-agents/",
-    "date": "2026-10-26"
-  },
-  {
     "title": "Ask GN: 이런 LLM 서비스 써보신분 계신가요?",
     "link": "https://news.hada.io/topic?id=36088",
     "date": "2026-10-27"
@@ -1138,5 +1043,60 @@
     "title": "What Is Chunking in RAG? How Document Splitting Shapes Answer Quality",
     "link": "https://www.unite.ai/what-is-chunking-in-rag-how-document-splitting-shapes-answer-quality/",
     "date": "2026-11-01"
+  },
+  {
+    "title": "AI 토큰 경제의 현주소: CFO가 알아야 할 것",
+    "link": "https://news.hada.io/topic?id=36434&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "AI 시대의 새로운 창업자 유형",
+    "link": "https://news.hada.io/topic?id=36433&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "보이저 1호, 11월 18일 인공물 최초로 지구에서 &quot;1광일&quot; 거리 도달 예정",
+    "link": "https://news.hada.io/topic?id=36431&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "입자가속기에 머리를 관통당한 남자, 얼굴 절반의 시간이 멈췄다",
+    "link": "https://news.hada.io/topic?id=36430&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "Ask HN: 개인정보 보호를 위해 어떤 TV를 추천하시나요?",
+    "link": "https://news.hada.io/topic?id=36429&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+    "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+    "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "Aramco Acquires 49% HUMAIN Stake With $2.6B Cash, AI Assets",
+    "link": "https://www.unite.ai/aramco-acquires-49-humain-stake-with-2-6b-cash-ai-assets/",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "Klap vs. Submagic: Which Is Better for Turning Videos Into Shorts?",
+    "link": "https://www.unite.ai/klap-vs-submagic/",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "Affle Signs Definitive Agreement to Acquire Ad Tech Company Perion",
+    "link": "https://www.unite.ai/affle-signs-definitive-agreement-to-acquire-ad-tech-company-perion/",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "Bahrain’s Mumtalakat, ARP Group Unveil AI-Driven Wholesale Bank Venture",
+    "link": "https://www.unite.ai/bahrains-mumtalakat-arp-group-unveil-ai-driven-wholesale-bank-venture/",
+    "date": "2026-11-02"
   }
 ]
