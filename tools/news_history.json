@@ -1,210 +1,5 @@
 [
   {
-    "title": "PHP2Shell: 악용 시도와 취약점 조치 동향",
-    "link": "https://news.hada.io/topic?id=36144",
-    "date": "2026-10-28"
-  },
-  {
-    "title": "Apple, iPhone Duo 내부 화면 깨짐 발생 시 애플케어+ 없이 교체 가능하다고 밝혀",
-    "link": "https://news.hada.io/topic?id=36142",
-    "date": "2026-10-28"
-  },
-  {
-    "title": "tar-codec - uv가 도입한 빠르고 안전한 Rust tar 파서",
-    "link": "https://news.hada.io/topic?id=36141",
-    "date": "2026-10-28"
-  },
-  {
-    "title": "Show GN: Aqueous 압축 파일 포맷",
-    "link": "https://news.hada.io/topic?id=36140",
-    "date": "2026-10-28"
-  },
-  {
-    "title": "Cursor Agent SDK - 팀 맞춤형 AI 에이전트를 코드로 만들고 배포하는 프레임워크",
-    "link": "https://news.hada.io/topic?id=36138",
-    "date": "2026-10-28"
-  },
-  {
-    "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-    "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
-    "date": "2026-10-28"
-  },
-  {
-    "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-    "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
-    "date": "2026-10-28"
-  },
-  {
-    "title": "The data center boom has an upside: innovation for the US grid",
-    "link": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
-    "date": "2026-10-28"
-  },
-  {
-    "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
-    "link": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
-    "date": "2026-10-28"
-  },
-  {
-    "title": "Who’s really in charge at Anthropic after the IPO?",
-    "link": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
-    "date": "2026-10-28"
-  },
-  {
-    "title": "Retell uses OpenAI models to help power 100M monthly calls",
-    "link": "https://openai.com/index/retell-ai",
-    "date": "2026-10-28"
-  },
-  {
-    "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-    "link": "https://openai.com/index/oracle-apps-in-chatgpt",
-    "date": "2026-10-28"
-  },
-  {
-    "title": "How Check Point accelerates vulnerability research with Daybreak",
-    "link": "https://openai.com/index/check-point-daybreak",
-    "date": "2026-10-28"
-  },
-  {
-    "title": "Build specialized multimodal models with LFM3",
-    "link": "https://huggingface.co/blog/LiquidAI/lfm3",
-    "date": "2026-10-28"
-  },
-  {
-    "title": "Can we trust LLMs to judge whether a research idea is novel?",
-    "link": "https://huggingface.co/blog/allenai/novelty-bench",
-    "date": "2026-10-28"
-  },
-  {
-    "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
-    "link": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/",
-    "date": "2026-10-28"
-  },
-  {
-    "title": "South Carolina's measles outbreak jumped to Washington state 5 times in 2 weeks",
-    "link": "https://arstechnica.com/health/2026/10/domestic-travel-poses-growing-risk-for-measles-and-a-new-challenge-for-states/",
-    "date": "2026-10-28"
-  },
-  {
-    "title": "China's top-secret spaceplane can't hide in low-Earth orbit",
-    "link": "https://arstechnica.com/space/2026/10/chinas-top-secret-spaceplane-cant-hide-in-low-earth-orbit/",
-    "date": "2026-10-28"
-  },
-  {
-    "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
-    "link": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
-    "date": "2026-10-28"
-  },
-  {
-    "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
-    "link": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
-    "date": "2026-10-28"
-  },
-  {
-    "title": "OneQode Secures 14 MW of Chennai AI Capacity in AdaniConneX Agreement",
-    "link": "https://www.unite.ai/oneqode-secures-14-mw-of-chennai-ai-capacity-in-adaniconnex-agreement/",
-    "date": "2026-10-28"
-  },
-  {
-    "title": "GSA Expands Anthropic OneGov Agreement with 40% Claude Discount",
-    "link": "https://www.unite.ai/gsa-expands-anthropic-onegov-agreement-with-40-claude-discount/",
-    "date": "2026-10-28"
-  },
-  {
-    "title": "Stellantis Selects Amperity to Connect Customer Data and Personalize Experiences",
-    "link": "https://www.unite.ai/stellantis-amperity-customer-data-personalization-partnership/",
-    "date": "2026-10-28"
-  },
-  {
-    "title": "Tensor, MTZ Sign LOI to Deploy Up to 500 Autonomous Taxis in Germany",
-    "link": "https://www.unite.ai/tensor-mtz-sign-loi-to-deploy-up-to-500-autonomous-taxis-in-germany/",
-    "date": "2026-10-28"
-  },
-  {
-    "title": "Dream Reports PHP2Shell Attack Chain That Compromised 25 Servers",
-    "link": "https://www.unite.ai/dream-reports-php2shell-attack-chain-that-compromised-25-servers/",
-    "date": "2026-10-28"
-  },
-  {
-    "title": "디바이스 트리에서 Raspberry Pi Zero 3 W와 Pi 4 Model A 발견",
-    "link": "https://news.hada.io/topic?id=36165",
-    "date": "2026-10-28"
-  },
-  {
-    "title": "미국의 부의 불평등을 실제 비율로 그리다",
-    "link": "https://news.hada.io/topic?id=36164",
-    "date": "2026-10-28"
-  },
-  {
-    "title": "여기엔 괴물이 있다: 에이전트가 일을 할 때도 무엇을 알아야 할까?",
-    "link": "https://news.hada.io/topic?id=36162",
-    "date": "2026-10-28"
-  },
-  {
-    "title": "Show GN: iMessage 로 컴패니언 AI 와 대화하는 RenAI 를 만들고 있습니다.",
-    "link": "https://news.hada.io/topic?id=36161",
-    "date": "2026-10-28"
-  },
-  {
-    "title": "미국 연방법전을 위한 Git",
-    "link": "https://news.hada.io/topic?id=36160",
-    "date": "2026-10-28"
-  },
-  {
-    "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
-    "link": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
-    "date": "2026-10-28"
-  },
-  {
-    "title": "Legora is building the agentic operating system for legal work",
-    "link": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
-    "date": "2026-10-28"
-  },
-  {
-    "title": "Southeast Asia’s digital economy to hit $368 billion",
-    "link": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
-    "date": "2026-10-28"
-  },
-  {
-    "title": "Gemini 4 Argon: Built to solve your hardest problems",
-    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-    "date": "2026-10-28"
-  },
-  {
-    "title": "Introducing Playground: Create and play custom games",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
-    "date": "2026-10-28"
-  },
-  {
-    "title": "China’s snooping around Pacific undersea cables raises risks for Big Tech",
-    "link": "https://arstechnica.com/gadgets/2026/10/google-and-meta-subsea-cables-among-most-at-risk-from-sabotage-in-pacific/",
-    "date": "2026-10-28"
-  },
-  {
-    "title": "Waymo Integrates Ramp to Automate Expense Reporting for Business Rides",
-    "link": "https://www.unite.ai/waymo-integrates-ramp-to-automate-expense-reporting-for-business-rides/",
-    "date": "2026-10-28"
-  },
-  {
-    "title": "AI Is the New Insider Threat, but Plans to Address the Risk Are Coming One Layer Too Late",
-    "link": "https://www.unite.ai/agentic-ai-security-sdlc-governance/",
-    "date": "2026-10-28"
-  },
-  {
-    "title": "The Rise of the Lone Scientist Under Agentic AI",
-    "link": "https://www.unite.ai/the-rise-of-the-lone-scientist-under-agentic-ai/",
-    "date": "2026-10-28"
-  },
-  {
-    "title": "Swimlane Adds Custom AI Threat Detections and Two-Way MCP Support to Turbine",
-    "link": "https://www.unite.ai/swimlane-custom-ai-threat-detections-two-way-mcp-turbine/",
-    "date": "2026-10-28"
-  },
-  {
-    "title": "Akeneo Expands Governed AI Product Data Workflows in Autumn Release 2026",
-    "link": "https://www.unite.ai/akeneo-autumn-release-2026-governed-ai-product-data/",
-    "date": "2026-10-28"
-  },
-  {
     "title": "Show GN: 생성형 LLM 없이 만든 실시간 음성 예약 봇 데모 - jev 활용기",
     "link": "https://news.hada.io/topic?id=36205",
     "date": "2026-10-29"
@@ -1218,5 +1013,135 @@
     "title": "Synthesia Brings AI Video Creation and Automation to ChatGPT",
     "link": "https://www.unite.ai/synthesia-brings-ai-video-creation-and-automation-to-chatgpt/",
     "date": "2026-11-03"
+  },
+  {
+    "title": "JVM 시작 시간, 330초에서 3초로 줄이기",
+    "link": "https://news.hada.io/topic?id=36566&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-04"
+  },
+  {
+    "title": "deepseek의 자율형 개발 에이전트 시스템 실험",
+    "link": "https://news.hada.io/topic?id=36564&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-04"
+  },
+  {
+    "title": "생성형 AI 기초를 위한 작은 책: 직관적인 수학 입문서",
+    "link": "https://news.hada.io/topic?id=36561&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-04"
+  },
+  {
+    "title": "미국 기술 대기업의 숨은 AI 부채, 6개월 만에 90% 증가해 3조 2,000억 달러 기록",
+    "link": "https://news.hada.io/topic?id=36559&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-04"
+  },
+  {
+    "title": "wterm - DOM 렌더링과 Ghostty 코어를 지원하는 웹 터미널 에뮬레이터",
+    "link": "https://news.hada.io/topic?id=36554&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-04"
+  },
+  {
+    "title": "Anthropic is working on a system to prove AI models’ identity",
+    "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+    "date": "2026-11-04"
+  },
+  {
+    "title": "Data centers are turning to old jet engines as the wait for power grows",
+    "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+    "date": "2026-11-04"
+  },
+  {
+    "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+    "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+    "date": "2026-11-04"
+  },
+  {
+    "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
+    "link": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+    "date": "2026-11-04"
+  },
+  {
+    "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+    "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+    "date": "2026-11-04"
+  },
+  {
+    "title": "Accelerating engineering for the physical world",
+    "link": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+    "date": "2026-11-04"
+  },
+  {
+    "title": "How Cisco defends at machine speed with OpenAI",
+    "link": "https://openai.com/index/cisco-cyber",
+    "date": "2026-11-04"
+  },
+  {
+    "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+    "link": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+    "date": "2026-11-04"
+  },
+  {
+    "title": "StateBench: Testing how language models track state changes over long documents",
+    "link": "https://huggingface.co/blog/allenai/statebench",
+    "date": "2026-11-04"
+  },
+  {
+    "title": "Palette: teaching a small model to build decks in your design language",
+    "link": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+    "date": "2026-11-04"
+  },
+  {
+    "title": "CWE-bench v2: More coverage, quality, and transparency",
+    "link": "https://huggingface.co/blog/cwe-bench",
+    "date": "2026-11-04"
+  },
+  {
+    "title": "California fights \"preposterous\" Trump admin demand to scrap state broadband laws",
+    "link": "https://arstechnica.com/tech-policy/2026/11/california-fights-preposterous-trump-admin-demand-to-scrap-state-broadband-laws/",
+    "date": "2026-11-04"
+  },
+  {
+    "title": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
+    "link": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/",
+    "date": "2026-11-04"
+  },
+  {
+    "title": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
+    "link": "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/",
+    "date": "2026-11-04"
+  },
+  {
+    "title": "Buttons are back and storage is king when it comes to car interiors",
+    "link": "https://arstechnica.com/cars/2026/11/yes-to-storage-no-to-piano-black-how-car-interior-design-is-changing/",
+    "date": "2026-11-04"
+  },
+  {
+    "title": "Google will let schools skip AI tools, but they have to give up search, too",
+    "link": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
+    "date": "2026-11-04"
+  },
+  {
+    "title": "Cat Wu Steps Down as Claude Code Product Chief After Two Years",
+    "link": "https://www.unite.ai/cat-wu-steps-down-as-claude-code-product-chief-after-two-years/",
+    "date": "2026-11-04"
+  },
+  {
+    "title": "Docusign Buys Suplari to Add AI Procurement Intelligence",
+    "link": "https://www.unite.ai/docusign-buys-suplari-to-add-ai-procurement-intelligence/",
+    "date": "2026-11-04"
+  },
+  {
+    "title": "Ouster Revenue Rises 50% as Physical AI Sensor Shipments Set Record",
+    "link": "https://www.unite.ai/ouster-revenue-rises-50-as-physical-ai-sensor-shipments-set-record/",
+    "date": "2026-11-04"
+  },
+  {
+    "title": "NTT DATA Opens 12MW AI-Ready Jakarta Data Center, Launches APN Connect",
+    "link": "https://www.unite.ai/ntt-data-opens-12mw-ai-ready-jakarta-data-center-launches-apn-connect/",
+    "date": "2026-11-04"
+  },
+  {
+    "title": "LangChain Brings LangSmith BYOC Beta to Azure and Google Cloud",
+    "link": "https://www.unite.ai/langchain-brings-langsmith-byoc-beta-to-azure-and-google-cloud/",
+    "date": "2026-11-04"
   }
 ]
