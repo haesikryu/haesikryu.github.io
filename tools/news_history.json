@@ -1,180 +1,5 @@
 [
   {
-    "title": "Show GN: 생성형 LLM 없이 만든 실시간 음성 예약 봇 데모 - jev 활용기",
-    "link": "https://news.hada.io/topic?id=36205",
-    "date": "2026-10-29"
-  },
-  {
-    "title": "Show GN: Ferryx - Windows·Linux에서도 쓸 수 있는 코딩 에이전트용 네이티브 터미널",
-    "link": "https://news.hada.io/topic?id=36204",
-    "date": "2026-10-29"
-  },
-  {
-    "title": "Nanbeige4.3 33B, 한국어 문서 RAG 299문항 직접 채점: 공식 벤치마크에선 qwen3.8 27B를 이겼지만 한국...",
-    "link": "https://news.hada.io/topic?id=36202",
-    "date": "2026-10-29"
-  },
-  {
-    "title": "온라인 게임 개발자가 말하는 렉과 서버비",
-    "link": "https://news.hada.io/topic?id=36201",
-    "date": "2026-10-29"
-  },
-  {
-    "title": "kern - AI 생성 코드를 매번 새 컨테이너에서 실행하는 경량 루트리스 런타임",
-    "link": "https://news.hada.io/topic?id=36200",
-    "date": "2026-10-29"
-  },
-  {
-    "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
-    "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
-    "date": "2026-10-29"
-  },
-  {
-    "title": "Google expands AI Search ads globally as core ad growth slows",
-    "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
-    "date": "2026-10-29"
-  },
-  {
-    "title": "Microsoft recorded $10 billion in revenue from OpenAI",
-    "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
-    "date": "2026-10-29"
-  },
-  {
-    "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
-    "link": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
-    "date": "2026-10-29"
-  },
-  {
-    "title": "Anthropic just launched tools to show companies what their AI spending is buying",
-    "link": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
-    "date": "2026-10-29"
-  },
-  {
-    "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-    "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
-    "date": "2026-10-29"
-  },
-  {
-    "title": "The future of the firm",
-    "link": "https://openai.com/index/the-future-of-the-firm",
-    "date": "2026-10-29"
-  },
-  {
-    "title": "Legora is building the agentic operating system for legal work",
-    "link": "https://openai.com/index/legora",
-    "date": "2026-10-29"
-  },
-  {
-    "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-    "link": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-    "date": "2026-10-29"
-  },
-  {
-    "title": "ULA's Vulcan rocket is set to return to flight on Friday the 13th",
-    "link": "https://arstechnica.com/space/2026/10/ulas-vulcan-rocket-is-set-to-return-to-flight-on-friday-the-13th/",
-    "date": "2026-10-29"
-  },
-  {
-    "title": "As US ties fray, Europe plans first undersea cable link to Greenland",
-    "link": "https://arstechnica.com/gadgets/2026/10/as-us-ties-fray-europe-plans-first-undersea-cable-link-to-greenland/",
-    "date": "2026-10-29"
-  },
-  {
-    "title": "Peptide peddlers cheer as RFK Jr. unilaterally grants access, overruling FDA",
-    "link": "https://arstechnica.com/health/2026/10/peptide-peddlers-cheer-as-rfk-jr-unilaterally-grants-access-overruling-fda/",
-    "date": "2026-10-29"
-  },
-  {
-    "title": "Trump admin sues Utah to save Kalshi from the state's total ban on gambling",
-    "link": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
-    "date": "2026-10-29"
-  },
-  {
-    "title": "The last, best hope for space tourism just rolled onto a runway in Arizona",
-    "link": "https://arstechnica.com/space/2026/10/the-last-best-hope-for-space-tourism-just-rolled-onto-a-runway-in-arizona/",
-    "date": "2026-10-29"
-  },
-  {
-    "title": "사용자 조작이나 알림 없이 발생하는 Android 원격 서비스 거부 공격",
-    "link": "https://news.hada.io/topic?id=36225",
-    "date": "2026-10-29"
-  },
-  {
-    "title": "Google AI, 2020년 선거 승자를 묻자 답변 회피",
-    "link": "https://news.hada.io/topic?id=36224",
-    "date": "2026-10-29"
-  },
-  {
-    "title": "Show GN: Specify - 코드베이스의 아키텍처와 기능 흐름을 시각화하는 도구",
-    "link": "https://news.hada.io/topic?id=36223",
-    "date": "2026-10-29"
-  },
-  {
-    "title": "GitLab 보안 사고: CVE-2026-97229 악용 시도",
-    "link": "https://news.hada.io/topic?id=36222",
-    "date": "2026-10-29"
-  },
-  {
-    "title": "Ask GN: 비개발자인데, AI가 써 준 메일이 딱 봐도 AI 같습니다. 어떻게 고치세요?",
-    "link": "https://news.hada.io/topic?id=36221",
-    "date": "2026-10-29"
-  },
-  {
-    "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
-    "link": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
-    "date": "2026-10-29"
-  },
-  {
-    "title": "Amazon updates Alexa to help you manage shopping lists, subscriptions, and update delivery instructions",
-    "link": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-subscriptions-and-update-delivery-instructions/",
-    "date": "2026-10-29"
-  },
-  {
-    "title": "Granite Switch 4.1.1 — Update models like you update software",
-    "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
-    "date": "2026-10-29"
-  },
-  {
-    "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-    "link": "https://huggingface.co/blog/anydecisionmodel",
-    "date": "2026-10-29"
-  },
-  {
-    "title": "Massive leak exposes 41,000 DHS workers and undercover ICE agents",
-    "link": "https://arstechnica.com/security/2026/10/massive-leak-exposes-41000-dhs-workers-and-undercover-ice-agents/",
-    "date": "2026-10-29"
-  },
-  {
-    "title": "SpaceX no longer needs NASA, and that's a problem for America's space agency",
-    "link": "https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency/",
-    "date": "2026-10-29"
-  },
-  {
-    "title": "Wabi Raises $55M at $1.25B Valuation to Grow Personal AI Assistant",
-    "link": "https://www.unite.ai/wabi-raises-55m-at-1-25b-valuation-to-grow-personal-ai-assistant/",
-    "date": "2026-10-29"
-  },
-  {
-    "title": "ShareWillow Raises $8.5M Seed to Build AI Agents for Trades Technicians",
-    "link": "https://www.unite.ai/sharewillow-raises-8-5m-seed-ai-agents-trades-technicians/",
-    "date": "2026-10-29"
-  },
-  {
-    "title": "Digital Science Acquires Jenni AI, Linking It to Dimensions Database",
-    "link": "https://www.unite.ai/digital-science-acquires-jenni-ai-linking-it-to-dimensions-database/",
-    "date": "2026-10-29"
-  },
-  {
-    "title": "Pluto Security Details Load/Mine Cryptomining Campaign on Hugging Face",
-    "link": "https://www.unite.ai/pluto-security-details-load-mine-cryptomining-campaign-on-hugging-face/",
-    "date": "2026-10-29"
-  },
-  {
-    "title": "Serval Raises $150M Series C at $3B Valuation to Hire Over 500",
-    "link": "https://www.unite.ai/serval-raises-150m-series-c-at-3b-valuation-to-hire-over-500/",
-    "date": "2026-10-29"
-  },
-  {
     "title": "OpenAI, Pro와 Business Premium 사용량 한도 2배 확대",
     "link": "https://news.hada.io/topic?id=36273",
     "date": "2026-10-30"
@@ -1213,5 +1038,135 @@
     "title": "Together AI Brings Continuous Compilation to Production Inference",
     "link": "https://www.unite.ai/together-ai-brings-continuous-compilation-to-production-inference/",
     "date": "2026-11-04"
+  },
+  {
+    "title": "macOS 27은 CoreStorage 볼륨을 지원하지 않음",
+    "link": "https://news.hada.io/topic?id=36631&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "Show GN: Corvus - 공격 차단·실시간 관제·접속 대기열을 지원하는 셀프호스팅 게이트웨이",
+    "link": "https://news.hada.io/topic?id=36628&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "곤충은 LED 조명에 떼 지어 몰려들지 않는다",
+    "link": "https://news.hada.io/topic?id=36625&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "Thoughtworks Technology Radar, Volume 35 공개",
+    "link": "https://news.hada.io/topic?id=36623&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "자율 에이전트를 위한 데이터 플랫폼 구축",
+    "link": "https://news.hada.io/topic?id=36622&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "Apple is reportedly cutting budgets for its internal AI usage",
+    "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "After the midterms, a bigger clash over data centers could be coming",
+    "link": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+    "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+    "link": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "Almost no one uses AI agents to book their Uber, company says",
+    "link": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+    "link": "https://openai.com/index/openai-to-acquire-pierre",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+    "link": "https://openai.com/index/daybreak-red-aws-govcloud",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "A thousand fewer paths to root",
+    "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "Introducing Images 2.6",
+    "link": "https://openai.com/index/introducing-images-2-6",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+    "link": "https://openai.com/index/devrev-enterprise-self-service",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+    "link": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "Nintendo's biggest ROM chip supplier is bowing out of the business",
+    "link": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "Hackers exploited iOS and Android flaws to infect phones",
+    "link": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "Uranium cubes reveal why the German nuclear project failed",
+    "link": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "VMware releases vSphere Express for virtualization on up to 128 cores",
+    "link": "https://arstechnica.com/information-technology/2026/11/vmware-releases-vsphere-express-for-virtualization-on-up-to-128-cores/",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "AMD's record quarter: Data center business doubles, while gaming craters",
+    "link": "https://arstechnica.com/gadgets/2026/11/amds-record-quarter-data-center-business-doubles-while-gaming-craters/",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "OpenAI’s Enterprise Sales Take Majority as Brockman Sees IPO Readiness",
+    "link": "https://www.unite.ai/openais-enterprise-sales-take-majority-as-brockman-sees-ipo-readiness/",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "Cat Wu to Lead Product Management for OpenAI’s Core Products",
+    "link": "https://www.unite.ai/cat-wu-to-lead-product-management-for-openais-core-products/",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "Amodei Wins Dismissal of Direct Copyright Claim with Leave to Amend",
+    "link": "https://www.unite.ai/amodei-wins-dismissal-of-direct-copyright-claim-with-leave-to-amend/",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "OpenAI Pipeline Finds 948 Linux Kernel Privilege Escalation Flaws",
+    "link": "https://www.unite.ai/openai-pipeline-finds-948-linux-kernel-privilege-escalation-flaws/",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "Atmospheric AI Secures $10M Seed for Procurement Modeling Push",
+    "link": "https://www.unite.ai/atmospheric-ai-secures-10m-seed-for-procurement-modeling-push/",
+    "date": "2026-11-05"
   }
 ]
