@@ -1,175 +1,5 @@
 [
   {
-    "title": "Show HN: 약 1GB의 Qwen 가중치 안에서 작동하는 Nintendo",
-    "link": "https://news.hada.io/topic?id=36318",
-    "date": "2026-10-31"
-  },
-  {
-    "title": "Patrick Stewart가 Jean-Luc Picard 함장을 통해 가르쳐 준 사람의 됨됨이",
-    "link": "https://news.hada.io/topic?id=36317",
-    "date": "2026-10-31"
-  },
-  {
-    "title": "CleanYourTV - Android TV의 불필요한 앱을 끄고 Apple TV 스타일 홈 화면으로 바꾸는 도구",
-    "link": "https://news.hada.io/topic?id=36315",
-    "date": "2026-10-31"
-  },
-  {
-    "title": "좋아하는 웹사이트가 있다면 백업하세요",
-    "link": "https://news.hada.io/topic?id=36313",
-    "date": "2026-10-31"
-  },
-  {
-    "title": "AT Protocol 사용자들은 이 데이터가 공개된다는 사실을 알고 있을까?",
-    "link": "https://news.hada.io/topic?id=36312",
-    "date": "2026-10-31"
-  },
-  {
-    "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-    "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-    "date": "2026-10-31"
-  },
-  {
-    "title": "Ollie, a privacy-focused AI assistant, is shutting down",
-    "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
-    "date": "2026-10-31"
-  },
-  {
-    "title": "Intel’s stock crashes, knocking $12B from government’s stake",
-    "link": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
-    "date": "2026-10-31"
-  },
-  {
-    "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-    "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
-    "date": "2026-10-31"
-  },
-  {
-    "title": "Last-minute Halloween costumes for tech nerds",
-    "link": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
-    "date": "2026-10-31"
-  },
-  {
-    "title": "Making it easier for websites to express AI training preferences",
-    "link": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-    "date": "2026-10-31"
-  },
-  {
-    "title": "Community safety report and new protections for teens",
-    "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-    "date": "2026-10-31"
-  },
-  {
-    "title": "Fair use benefits everyone",
-    "link": "https://openai.com/index/fair-use-benefits-everyone",
-    "date": "2026-10-31"
-  },
-  {
-    "title": "nemotron-halloween",
-    "link": "https://huggingface.co/blog/nvidia/nemotron-halloween",
-    "date": "2026-10-31"
-  },
-  {
-    "title": "Once again, NASA is asking for ideas to rescue Hubble from certain death",
-    "link": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/",
-    "date": "2026-10-31"
-  },
-  {
-    "title": "Flesh-eating screwworms spread to third state and are attacking pets",
-    "link": "https://arstechnica.com/health/2026/10/flesh-eating-screwworms-are-feasting-on-pets-4-dogs-and-cat-attacked-this-week/",
-    "date": "2026-10-31"
-  },
-  {
-    "title": "Oh captain, our captain: Ars staff remembers Patrick Stewart",
-    "link": "https://arstechnica.com/culture/2026/10/oh-captain-our-captain-ars-staff-remembers-patrick-stewart/",
-    "date": "2026-10-31"
-  },
-  {
-    "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
-    "link": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/",
-    "date": "2026-10-31"
-  },
-  {
-    "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
-    "link": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
-    "date": "2026-10-31"
-  },
-  {
-    "title": "Apple Brings First Apple Intelligence Features to China in iOS 27.3",
-    "link": "https://www.unite.ai/apple-brings-first-apple-intelligence-features-to-china-in-ios-27-3/",
-    "date": "2026-10-31"
-  },
-  {
-    "title": "Powerlattice Raises $86M in Equity Offering, SEC Filing Shows",
-    "link": "https://www.unite.ai/powerlattice-raises-86m-in-equity-offering-sec-filing-shows/",
-    "date": "2026-10-31"
-  },
-  {
-    "title": "Databricks Expands SAP Partnership with Genie, Lakeflow, and Lakebase",
-    "link": "https://www.unite.ai/databricks-expands-sap-partnership-with-genie-lakeflow-and-lakebase/",
-    "date": "2026-10-31"
-  },
-  {
-    "title": "OpenAI to Honor Shared Robots.txt Signal for AI Training Preferences",
-    "link": "https://www.unite.ai/openai-to-honor-shared-robots-txt-signal-for-ai-training-preferences/",
-    "date": "2026-10-31"
-  },
-  {
-    "title": "Project Suncatcher’s Orbiting TPU Delivers Its First AI-Generated Haiku",
-    "link": "https://www.unite.ai/project-suncatchers-orbiting-tpu-delivers-its-first-ai-generated-haiku/",
-    "date": "2026-10-31"
-  },
-  {
-    "title": "AI 네이티브 엔지니어링 조직 만들기",
-    "link": "https://news.hada.io/topic?id=36328&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-10-31"
-  },
-  {
-    "title": "세르비아, 세계에서 가장 명석한 의회를 선출하다",
-    "link": "https://news.hada.io/topic?id=36327&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-10-31"
-  },
-  {
-    "title": "아니, npm, “estee”는 “testem”의 오타가 아니다",
-    "link": "https://news.hada.io/topic?id=36326&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-10-31"
-  },
-  {
-    "title": "Infinite Mac: BeOS를 브라우저에서 실행하기",
-    "link": "https://news.hada.io/topic?id=36325&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-10-31"
-  },
-  {
-    "title": "Cisco, 27세 엔지니어에게 AI 토큰 무제한 제공하여 레거시 코드 98% 리팩터링 추진",
-    "link": "https://news.hada.io/topic?id=36324&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-10-31"
-  },
-  {
-    "title": "The latest AI news we announced in September 2026",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
-    "date": "2026-10-31"
-  },
-  {
-    "title": "Seabirds racing home over the ocean can get jet-lagged",
-    "link": "https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/",
-    "date": "2026-10-31"
-  },
-  {
-    "title": "The FDA wants to pull its approval of a drug. It’s not so easy.",
-    "link": "https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/",
-    "date": "2026-10-31"
-  },
-  {
-    "title": "What Is Flow Matching? A Faster Path for Generative AI",
-    "link": "https://www.unite.ai/what-is-flow-matching-a-faster-path-for-generative-ai/",
-    "date": "2026-10-31"
-  },
-  {
-    "title": "Google Plans Support for Shared Robots.txt AI Training Control",
-    "link": "https://www.unite.ai/google-plans-support-for-shared-robots-txt-ai-training-control/",
-    "date": "2026-10-31"
-  },
-  {
     "title": "이탈리아 농부가 다락에서 발견한 정체불명의 씨앗을 심었다",
     "link": "https://news.hada.io/topic?id=36366&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
     "date": "2026-11-01"
@@ -1288,5 +1118,115 @@
     "title": "Physicl Raises $10M Seed to Address Physical AI’s Edge-Case Problem",
     "link": "https://www.unite.ai/physicl-raises-10m-seed-to-address-physical-ais-edge-case-problem/",
     "date": "2026-11-06"
+  },
+  {
+    "title": "Rune: macOS, Windows, Linux, 웹을 위한 네이티브 GPU 렌더링 Rust UI 프레임워크",
+    "link": "https://news.hada.io/topic?id=36735&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-07"
+  },
+  {
+    "title": "Firecracker VM 탈출: PwnEscape 2부",
+    "link": "https://news.hada.io/topic?id=36734&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-07"
+  },
+  {
+    "title": "DoorDash가 정확도를 유지하면서 LLM 검색 비용을 98% 줄인 방법",
+    "link": "https://news.hada.io/topic?id=36733&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-07"
+  },
+  {
+    "title": "AI가 AI 연구를 극적으로 가속하고 있음",
+    "link": "https://news.hada.io/topic?id=36732&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-07"
+  },
+  {
+    "title": "대부분의 AI 스타트업은 살아남지 못한다 - 살아남는 회사를 만드는 방법 [영상]",
+    "link": "https://news.hada.io/topic?id=36731&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-07"
+  },
+  {
+    "title": "Crusoe sells troubled Wyoming data center project to Google",
+    "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+    "date": "2026-11-07"
+  },
+  {
+    "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+    "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+    "date": "2026-11-07"
+  },
+  {
+    "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+    "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+    "date": "2026-11-07"
+  },
+  {
+    "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+    "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+    "date": "2026-11-07"
+  },
+  {
+    "title": "How a Blue Wave midterm might reshape the AI industry",
+    "link": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+    "date": "2026-11-07"
+  },
+  {
+    "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+    "link": "https://openai.com/index/partnering-with-hacktron",
+    "date": "2026-11-07"
+  },
+  {
+    "title": "Measuring how AI agents handle everyday wet-lab science",
+    "link": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+    "date": "2026-11-07"
+  },
+  {
+    "title": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
+    "link": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/",
+    "date": "2026-11-07"
+  },
+  {
+    "title": "Ships loiter near subsea cables amid Iran's warnings to Trump",
+    "link": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/",
+    "date": "2026-11-07"
+  },
+  {
+    "title": "Re-releases of Wing Commander, Ultima titles hit Steam and GOG",
+    "link": "https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/",
+    "date": "2026-11-07"
+  },
+  {
+    "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
+    "link": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
+    "date": "2026-11-07"
+  },
+  {
+    "title": "Earth's churning mantle may have created the Great Unconformity",
+    "link": "https://arstechnica.com/science/2026/11/earths-churning-mantle-may-have-created-the-great-unconformity/",
+    "date": "2026-11-07"
+  },
+  {
+    "title": "Current Muse Scores 47% on Meta’s Personal Superintelligence Index",
+    "link": "https://www.unite.ai/current-muse-scores-47-on-metas-personal-superintelligence-index/",
+    "date": "2026-11-07"
+  },
+  {
+    "title": "OpenAI Secures $11B in Initial Funding at $1.25T Valuation",
+    "link": "https://www.unite.ai/openai-secures-11b-in-initial-funding-at-1-25t-valuation/",
+    "date": "2026-11-07"
+  },
+  {
+    "title": "Cognizant Completes Wizeline Deal to Expand AI Product Engineering",
+    "link": "https://www.unite.ai/cognizant-completes-wizeline-deal-to-expand-ai-product-engineering/",
+    "date": "2026-11-07"
+  },
+  {
+    "title": "OpenAI Introduces BioBasicsBench to Test AI Agents on Wet-Lab Data",
+    "link": "https://www.unite.ai/openai-introduces-biobasicsbench-to-test-ai-agents-on-wet-lab-data/",
+    "date": "2026-11-07"
+  },
+  {
+    "title": "Anthropic IPO Valuation Expectations Fall After Technology Selloff",
+    "link": "https://www.unite.ai/anthropic-ipo-valuation-expectations-fall-after-technology-selloff/",
+    "date": "2026-11-07"
   }
 ]
