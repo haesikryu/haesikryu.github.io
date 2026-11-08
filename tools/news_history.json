@@ -1,90 +1,5 @@
 [
   {
-    "title": "이탈리아 농부가 다락에서 발견한 정체불명의 씨앗을 심었다",
-    "link": "https://news.hada.io/topic?id=36366&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-01"
-  },
-  {
-    "title": "Show GN: LeftPen - 짧은 글의 뜻과 말투를 살려 다듬는 AI 편집기",
-    "link": "https://news.hada.io/topic?id=36365&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-01"
-  },
-  {
-    "title": "AO3, 유지보수로 서비스 중단",
-    "link": "https://news.hada.io/topic?id=36363&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-01"
-  },
-  {
-    "title": "Zero Breach Toolkit - PC와 스마트폰의 스파이웨어 흔적을 오프라인으로 검사하는 도구",
-    "link": "https://news.hada.io/topic?id=36362&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-01"
-  },
-  {
-    "title": "Kluever Maneuver - 버그 동작을 통과하는 테스트로 기록한 뒤 두 커밋으로 수정하기",
-    "link": "https://news.hada.io/topic?id=36361&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-01"
-  },
-  {
-    "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-    "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-    "date": "2026-11-01"
-  },
-  {
-    "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-    "link": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
-    "date": "2026-11-01"
-  },
-  {
-    "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-    "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-    "date": "2026-11-01"
-  },
-  {
-    "title": "OpenAI reportedly lowers funding target for new round",
-    "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-    "date": "2026-11-01"
-  },
-  {
-    "title": "Cisco Talos Details VOLTA Infostealer’s LLM Victim-Ranking Stage",
-    "link": "https://www.unite.ai/cisco-talos-details-volta-infostealers-llm-victim-ranking-stage/",
-    "date": "2026-11-01"
-  },
-  {
-    "title": "Book Review: Investing in AI: Six Mental Models to Tell Moats from Traps by Rob May",
-    "link": "https://www.unite.ai/book-review-investing-in-ai-rob-may/",
-    "date": "2026-11-01"
-  },
-  {
-    "title": "Show GN: Aven - 내 서버에서 사용하는 Railway 스타일 배포 플랫폼",
-    "link": "https://news.hada.io/topic?id=36386&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-01"
-  },
-  {
-    "title": "공개 함수가 다른 공개 함수를 호출하지 않도록 하자",
-    "link": "https://news.hada.io/topic?id=36385&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-01"
-  },
-  {
-    "title": "Anthropic, 비디오 게임 재구현 단속에 나서다",
-    "link": "https://news.hada.io/topic?id=36384&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-01"
-  },
-  {
-    "title": "브라질 법원, 법원 제출 서류에 프롬프트 인젝션을 숨긴 변호사들 제재",
-    "link": "https://news.hada.io/topic?id=36383&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-01"
-  },
-  {
-    "title": "검은 화면만 보인다고 한 고객의 기술 지원 사례",
-    "link": "https://news.hada.io/topic?id=36381&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-01"
-  },
-  {
-    "title": "What Is Chunking in RAG? How Document Splitting Shapes Answer Quality",
-    "link": "https://www.unite.ai/what-is-chunking-in-rag-how-document-splitting-shapes-answer-quality/",
-    "date": "2026-11-01"
-  },
-  {
     "title": "AI 토큰 경제의 현주소: CFO가 알아야 할 것",
     "link": "https://news.hada.io/topic?id=36434&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
     "date": "2026-11-02"
@@ -1268,5 +1183,50 @@
     "title": "What Is Model Distillation? How Large AI Models Teach Smaller Ones",
     "link": "https://www.unite.ai/what-is-model-distillation-how-large-ai-models-teach-smaller-ones/",
     "date": "2026-11-07"
+  },
+  {
+    "title": "언어 모델의 거부 행동은 단일 방향에 의해 매개됨",
+    "link": "https://news.hada.io/topic?id=36785&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-08"
+  },
+  {
+    "title": "Claude Code의 &quot;다시 묻지 않기&quot;, 공개 GitHub 파일 1,122개에 비밀번호 노출",
+    "link": "https://news.hada.io/topic?id=36784&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-08"
+  },
+  {
+    "title": "OpenMausBot - 봇이 사용할 가상 머신을 제공하는 오픈소스 Grok Bot 대체재",
+    "link": "https://news.hada.io/topic?id=36782&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-08"
+  },
+  {
+    "title": "웹에서 AI가 일으키는 온갖 부작용에 어떻게 대처하고 계신가요?",
+    "link": "https://news.hada.io/topic?id=36781&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-08"
+  },
+  {
+    "title": "MaxxBench - “DeepSWE 점수는 좋네요. 그런데 진짜인가요?”",
+    "link": "https://news.hada.io/topic?id=36780&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-08"
+  },
+  {
+    "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+    "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+    "date": "2026-11-08"
+  },
+  {
+    "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+    "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+    "date": "2026-11-08"
+  },
+  {
+    "title": "Book Review: Forward Deployed: Inside the Palantir Framework That Solved Enterprise AI by Riste Gramatikov",
+    "link": "https://www.unite.ai/book-review-forward-deployed-riste-gramatikov/",
+    "date": "2026-11-08"
+  },
+  {
+    "title": "Anthropic’s Planned IPO Puts Public Trust and Data Centers in Focus",
+    "link": "https://www.unite.ai/anthropics-planned-ipo-puts-public-trust-and-data-centers-in-focus/",
+    "date": "2026-11-08"
   }
 ]
