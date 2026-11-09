@@ -1,60 +1,5 @@
 [
   {
-    "title": "AI 토큰 경제의 현주소: CFO가 알아야 할 것",
-    "link": "https://news.hada.io/topic?id=36434&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-02"
-  },
-  {
-    "title": "AI 시대의 새로운 창업자 유형",
-    "link": "https://news.hada.io/topic?id=36433&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-02"
-  },
-  {
-    "title": "보이저 1호, 11월 18일 인공물 최초로 지구에서 &quot;1광일&quot; 거리 도달 예정",
-    "link": "https://news.hada.io/topic?id=36431&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-02"
-  },
-  {
-    "title": "입자가속기에 머리를 관통당한 남자, 얼굴 절반의 시간이 멈췄다",
-    "link": "https://news.hada.io/topic?id=36430&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-02"
-  },
-  {
-    "title": "Ask HN: 개인정보 보호를 위해 어떤 TV를 추천하시나요?",
-    "link": "https://news.hada.io/topic?id=36429&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-02"
-  },
-  {
-    "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-    "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-    "date": "2026-11-02"
-  },
-  {
-    "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
-    "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
-    "date": "2026-11-02"
-  },
-  {
-    "title": "Aramco Acquires 49% HUMAIN Stake With $2.6B Cash, AI Assets",
-    "link": "https://www.unite.ai/aramco-acquires-49-humain-stake-with-2-6b-cash-ai-assets/",
-    "date": "2026-11-02"
-  },
-  {
-    "title": "Klap vs. Submagic: Which Is Better for Turning Videos Into Shorts?",
-    "link": "https://www.unite.ai/klap-vs-submagic/",
-    "date": "2026-11-02"
-  },
-  {
-    "title": "Affle Signs Definitive Agreement to Acquire Ad Tech Company Perion",
-    "link": "https://www.unite.ai/affle-signs-definitive-agreement-to-acquire-ad-tech-company-perion/",
-    "date": "2026-11-02"
-  },
-  {
-    "title": "Bahrain’s Mumtalakat, ARP Group Unveil AI-Driven Wholesale Bank Venture",
-    "link": "https://www.unite.ai/bahrains-mumtalakat-arp-group-unveil-ai-driven-wholesale-bank-venture/",
-    "date": "2026-11-02"
-  },
-  {
     "title": "벨기에와 스웨덴 슈퍼마켓 냉동고, 사이버 공격 의심 피해",
     "link": "https://news.hada.io/topic?id=36470&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
     "date": "2026-11-03"
@@ -1268,5 +1213,50 @@
     "title": "What Is AI Red Teaming? How Experts Stress-Test Models and Agents",
     "link": "https://www.unite.ai/what-is-ai-red-teaming-how-experts-stress-test-models-and-agents/",
     "date": "2026-11-08"
+  },
+  {
+    "title": "Starship 15차 비행, 11월 13일 부스터와 우주선 모두 포획 시도 계획",
+    "link": "https://news.hada.io/topic?id=36865&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-09"
+  },
+  {
+    "title": "Chimera Vocal Synth - 기도 시뮬레이션으로 소리를 만드는 음성 합성기",
+    "link": "https://news.hada.io/topic?id=36864&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-09"
+  },
+  {
+    "title": "Windows용 Little Snitch, PacketHound",
+    "link": "https://news.hada.io/topic?id=36862&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-09"
+  },
+  {
+    "title": "Show GN: 스피캣 - 말만 하면 일정·가계부·메모가 알아서 정리되는 앱",
+    "link": "https://news.hada.io/topic?id=36858&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-09"
+  },
+  {
+    "title": "X(Twitter)에서 제품을 출시하는 방법: 출시 당일 실행 가이드",
+    "link": "https://news.hada.io/topic?id=36857&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-09"
+  },
+  {
+    "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+    "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+    "date": "2026-11-09"
+  },
+  {
+    "title": "LG AI Research Opens Free API Access to Its K-EXAONE 2.5 Model",
+    "link": "https://www.unite.ai/lg-ai-research-opens-free-api-access-to-its-k-exaone-2-5-model/",
+    "date": "2026-11-09"
+  },
+  {
+    "title": "NVIDIA Board Opens Review After Reported Foreign Intelligence Effort",
+    "link": "https://www.unite.ai/nvidia-board-opens-review-after-reported-foreign-intelligence-effort/",
+    "date": "2026-11-09"
+  },
+  {
+    "title": "White House Request Raises US AI Safety Center Independence Concerns",
+    "link": "https://www.unite.ai/white-house-request-raises-us-ai-safety-center-independence-concerns/",
+    "date": "2026-11-09"
   }
 ]
