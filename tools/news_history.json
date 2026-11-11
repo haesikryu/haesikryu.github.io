@@ -1,205 +1,5 @@
 [
   {
-    "title": "JVM 시작 시간, 330초에서 3초로 줄이기",
-    "link": "https://news.hada.io/topic?id=36566&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-04"
-  },
-  {
-    "title": "deepseek의 자율형 개발 에이전트 시스템 실험",
-    "link": "https://news.hada.io/topic?id=36564&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-04"
-  },
-  {
-    "title": "생성형 AI 기초를 위한 작은 책: 직관적인 수학 입문서",
-    "link": "https://news.hada.io/topic?id=36561&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-04"
-  },
-  {
-    "title": "미국 기술 대기업의 숨은 AI 부채, 6개월 만에 90% 증가해 3조 2,000억 달러 기록",
-    "link": "https://news.hada.io/topic?id=36559&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-04"
-  },
-  {
-    "title": "wterm - DOM 렌더링과 Ghostty 코어를 지원하는 웹 터미널 에뮬레이터",
-    "link": "https://news.hada.io/topic?id=36554&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-04"
-  },
-  {
-    "title": "Anthropic is working on a system to prove AI models’ identity",
-    "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
-    "date": "2026-11-04"
-  },
-  {
-    "title": "Data centers are turning to old jet engines as the wait for power grows",
-    "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
-    "date": "2026-11-04"
-  },
-  {
-    "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-    "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
-    "date": "2026-11-04"
-  },
-  {
-    "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
-    "link": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
-    "date": "2026-11-04"
-  },
-  {
-    "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-    "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
-    "date": "2026-11-04"
-  },
-  {
-    "title": "Accelerating engineering for the physical world",
-    "link": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-    "date": "2026-11-04"
-  },
-  {
-    "title": "How Cisco defends at machine speed with OpenAI",
-    "link": "https://openai.com/index/cisco-cyber",
-    "date": "2026-11-04"
-  },
-  {
-    "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-    "link": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
-    "date": "2026-11-04"
-  },
-  {
-    "title": "StateBench: Testing how language models track state changes over long documents",
-    "link": "https://huggingface.co/blog/allenai/statebench",
-    "date": "2026-11-04"
-  },
-  {
-    "title": "Palette: teaching a small model to build decks in your design language",
-    "link": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-    "date": "2026-11-04"
-  },
-  {
-    "title": "CWE-bench v2: More coverage, quality, and transparency",
-    "link": "https://huggingface.co/blog/cwe-bench",
-    "date": "2026-11-04"
-  },
-  {
-    "title": "California fights \"preposterous\" Trump admin demand to scrap state broadband laws",
-    "link": "https://arstechnica.com/tech-policy/2026/11/california-fights-preposterous-trump-admin-demand-to-scrap-state-broadband-laws/",
-    "date": "2026-11-04"
-  },
-  {
-    "title": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
-    "link": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/",
-    "date": "2026-11-04"
-  },
-  {
-    "title": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
-    "link": "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/",
-    "date": "2026-11-04"
-  },
-  {
-    "title": "Buttons are back and storage is king when it comes to car interiors",
-    "link": "https://arstechnica.com/cars/2026/11/yes-to-storage-no-to-piano-black-how-car-interior-design-is-changing/",
-    "date": "2026-11-04"
-  },
-  {
-    "title": "Google will let schools skip AI tools, but they have to give up search, too",
-    "link": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
-    "date": "2026-11-04"
-  },
-  {
-    "title": "Cat Wu Steps Down as Claude Code Product Chief After Two Years",
-    "link": "https://www.unite.ai/cat-wu-steps-down-as-claude-code-product-chief-after-two-years/",
-    "date": "2026-11-04"
-  },
-  {
-    "title": "Docusign Buys Suplari to Add AI Procurement Intelligence",
-    "link": "https://www.unite.ai/docusign-buys-suplari-to-add-ai-procurement-intelligence/",
-    "date": "2026-11-04"
-  },
-  {
-    "title": "Ouster Revenue Rises 50% as Physical AI Sensor Shipments Set Record",
-    "link": "https://www.unite.ai/ouster-revenue-rises-50-as-physical-ai-sensor-shipments-set-record/",
-    "date": "2026-11-04"
-  },
-  {
-    "title": "NTT DATA Opens 12MW AI-Ready Jakarta Data Center, Launches APN Connect",
-    "link": "https://www.unite.ai/ntt-data-opens-12mw-ai-ready-jakarta-data-center-launches-apn-connect/",
-    "date": "2026-11-04"
-  },
-  {
-    "title": "LangChain Brings LangSmith BYOC Beta to Azure and Google Cloud",
-    "link": "https://www.unite.ai/langchain-brings-langsmith-byoc-beta-to-azure-and-google-cloud/",
-    "date": "2026-11-04"
-  },
-  {
-    "title": "Geoffrey Hinton: AI가 없었더라면 더 나았을 수도 있다",
-    "link": "https://news.hada.io/topic?id=36593&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-04"
-  },
-  {
-    "title": "Tell HN: Gemini는 유료 구독자의 채팅 기록도 학습에 사용함(개인 계정)",
-    "link": "https://news.hada.io/topic?id=36592&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-04"
-  },
-  {
-    "title": "AI가 40년간 쌓인 기술 부채를 갚도록 몰아붙이고 있음",
-    "link": "https://news.hada.io/topic?id=36591&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-04"
-  },
-  {
-    "title": "Show GN: 브라우저 쿠키 목록 스캐너",
-    "link": "https://news.hada.io/topic?id=36590&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-04"
-  },
-  {
-    "title": "Nvidia RTX Spark의 암호화된 펌웨어, Linux 추론 속도를 35% 수준으로 낮춤",
-    "link": "https://news.hada.io/topic?id=36589&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-04"
-  },
-  {
-    "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
-    "link": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
-    "date": "2026-11-04"
-  },
-  {
-    "title": "Southeast Asia’s digital economy to hit $368 billion",
-    "link": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
-    "date": "2026-11-04"
-  },
-  {
-    "title": "Gemini 4 Argon: Built to solve your hardest problems",
-    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-    "date": "2026-11-04"
-  },
-  {
-    "title": "Introducing Playground: Create and play custom games",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
-    "date": "2026-11-04"
-  },
-  {
-    "title": "Leidos Unveils HeadWay Dispatch for Cross-Vendor AI Agent Control",
-    "link": "https://www.unite.ai/leidos-unveils-headway-dispatch-for-cross-vendor-ai-agent-control/",
-    "date": "2026-11-04"
-  },
-  {
-    "title": "Google Publishes Multi-Method Framework for Evaluating Health AI",
-    "link": "https://www.unite.ai/google-publishes-multi-method-framework-for-evaluating-health-ai/",
-    "date": "2026-11-04"
-  },
-  {
-    "title": "Cloudflare Adds Personal Agent Analytics and Per-Agent Access Controls",
-    "link": "https://www.unite.ai/cloudflare-adds-personal-agent-analytics-and-per-agent-access-controls/",
-    "date": "2026-11-04"
-  },
-  {
-    "title": "20 Percent of All ‘Ok’ Web Responses AI Gets Are Not Okay",
-    "link": "https://www.unite.ai/20-percent-of-all-ok-web-responses-ai-gets-are-not-okay/",
-    "date": "2026-11-04"
-  },
-  {
-    "title": "Together AI Brings Continuous Compilation to Production Inference",
-    "link": "https://www.unite.ai/together-ai-brings-continuous-compilation-to-production-inference/",
-    "date": "2026-11-04"
-  },
-  {
     "title": "macOS 27은 CoreStorage 볼륨을 지원하지 않음",
     "link": "https://news.hada.io/topic?id=36631&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
     "date": "2026-11-05"
@@ -1307,6 +1107,126 @@
   {
     "title": "The Widening Gap Between AI Policy and Real-World Enforcement",
     "link": "https://www.unite.ai/internal-ai-governance-framework/",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "AMD Zen 6 제품군: 강력한 코어에 일감 공급하기",
+    "link": "https://news.hada.io/topic?id=36972&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "7개월이 지난 Glasswing, 기대에 못 미치는 발견으로 유지보수자에게 과도한 부담을 주다",
+    "link": "https://news.hada.io/topic?id=36971&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "기업용 AI 제품은 어떻게 가격을 매기는가",
+    "link": "https://news.hada.io/topic?id=36970&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "책이 제 역할을 하지 못하는 이유 (2019)",
+    "link": "https://news.hada.io/topic?id=36969&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "Show HN: 스페인 발렌시아를 SimCity풍 아이소메트릭 뷰로 보기",
+    "link": "https://news.hada.io/topic?id=36968&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+    "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+    "link": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+    "link": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+    "link": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+    "link": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "Gilbert + Tobin rethinks the business of law with AI",
+    "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "Introducing Businesses in ChatGPT",
+    "link": "https://openai.com/index/introducing-businesses-chatgpt",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "Gemini Intelligence: New features, on more devices",
+    "link": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+    "link": "https://huggingface.co/blog/hub-gcp-marketplace",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "Seagate's new hybrid drive raises some old questions",
+    "link": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "The US military seems to be getting nervous about the launch supply crunch",
+    "link": "https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+    "link": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "Democrats oppose plan to stack FCC with Republicans, plan probes of Chairman Carr",
+    "link": "https://arstechnica.com/tech-policy/2026/11/democrats-oppose-plan-to-stack-fcc-with-republicans-plan-probes-of-chairman-carr/",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+    "link": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "ELECTRA AI Raises $5M Bridge Financing to Support Commercial Execution",
+    "link": "https://www.unite.ai/electra-ai-raises-5m-bridge-financing-to-support-commercial-execution/",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "Anthropic Opens Australian Retail Offer for Its Planned Nasdaq IPO",
+    "link": "https://www.unite.ai/anthropic-opens-australian-retail-offer-for-its-planned-nasdaq-ipo/",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "AMD Releases Zen 6 EPYC Chips for Denser AI Agent Deployments",
+    "link": "https://www.unite.ai/amd-releases-zen-6-epyc-chips-for-denser-ai-agent-deployments/",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "OpenAI Quarterly Revenue Rises About 50% as Operating Loss Widens",
+    "link": "https://www.unite.ai/openai-quarterly-revenue-rises-about-50-as-operating-loss-widens/",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "AWS Makes Kimi K3.1 Pro Highspeed Available on Amazon Bedrock",
+    "link": "https://www.unite.ai/aws-makes-kimi-k3-1-pro-highspeed-available-on-amazon-bedrock/",
     "date": "2026-11-11"
   }
 ]
