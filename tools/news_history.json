@@ -1,135 +1,5 @@
 [
   {
-    "title": "macOS 27은 CoreStorage 볼륨을 지원하지 않음",
-    "link": "https://news.hada.io/topic?id=36631&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-05"
-  },
-  {
-    "title": "Show GN: Corvus - 공격 차단·실시간 관제·접속 대기열을 지원하는 셀프호스팅 게이트웨이",
-    "link": "https://news.hada.io/topic?id=36628&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-05"
-  },
-  {
-    "title": "곤충은 LED 조명에 떼 지어 몰려들지 않는다",
-    "link": "https://news.hada.io/topic?id=36625&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-05"
-  },
-  {
-    "title": "Thoughtworks Technology Radar, Volume 35 공개",
-    "link": "https://news.hada.io/topic?id=36623&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-05"
-  },
-  {
-    "title": "자율 에이전트를 위한 데이터 플랫폼 구축",
-    "link": "https://news.hada.io/topic?id=36622&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-05"
-  },
-  {
-    "title": "Apple is reportedly cutting budgets for its internal AI usage",
-    "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
-    "date": "2026-11-05"
-  },
-  {
-    "title": "After the midterms, a bigger clash over data centers could be coming",
-    "link": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
-    "date": "2026-11-05"
-  },
-  {
-    "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
-    "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
-    "date": "2026-11-05"
-  },
-  {
-    "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
-    "link": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
-    "date": "2026-11-05"
-  },
-  {
-    "title": "Almost no one uses AI agents to book their Uber, company says",
-    "link": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
-    "date": "2026-11-05"
-  },
-  {
-    "title": "OpenAI to acquire Pierre Computer Company, Inc.",
-    "link": "https://openai.com/index/openai-to-acquire-pierre",
-    "date": "2026-11-05"
-  },
-  {
-    "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-    "link": "https://openai.com/index/daybreak-red-aws-govcloud",
-    "date": "2026-11-05"
-  },
-  {
-    "title": "A thousand fewer paths to root",
-    "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-    "date": "2026-11-05"
-  },
-  {
-    "title": "Introducing Images 2.6",
-    "link": "https://openai.com/index/introducing-images-2-6",
-    "date": "2026-11-05"
-  },
-  {
-    "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
-    "link": "https://openai.com/index/devrev-enterprise-self-service",
-    "date": "2026-11-05"
-  },
-  {
-    "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-    "link": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
-    "date": "2026-11-05"
-  },
-  {
-    "title": "Nintendo's biggest ROM chip supplier is bowing out of the business",
-    "link": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
-    "date": "2026-11-05"
-  },
-  {
-    "title": "Hackers exploited iOS and Android flaws to infect phones",
-    "link": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/",
-    "date": "2026-11-05"
-  },
-  {
-    "title": "Uranium cubes reveal why the German nuclear project failed",
-    "link": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
-    "date": "2026-11-05"
-  },
-  {
-    "title": "VMware releases vSphere Express for virtualization on up to 128 cores",
-    "link": "https://arstechnica.com/information-technology/2026/11/vmware-releases-vsphere-express-for-virtualization-on-up-to-128-cores/",
-    "date": "2026-11-05"
-  },
-  {
-    "title": "AMD's record quarter: Data center business doubles, while gaming craters",
-    "link": "https://arstechnica.com/gadgets/2026/11/amds-record-quarter-data-center-business-doubles-while-gaming-craters/",
-    "date": "2026-11-05"
-  },
-  {
-    "title": "OpenAI’s Enterprise Sales Take Majority as Brockman Sees IPO Readiness",
-    "link": "https://www.unite.ai/openais-enterprise-sales-take-majority-as-brockman-sees-ipo-readiness/",
-    "date": "2026-11-05"
-  },
-  {
-    "title": "Cat Wu to Lead Product Management for OpenAI’s Core Products",
-    "link": "https://www.unite.ai/cat-wu-to-lead-product-management-for-openais-core-products/",
-    "date": "2026-11-05"
-  },
-  {
-    "title": "Amodei Wins Dismissal of Direct Copyright Claim with Leave to Amend",
-    "link": "https://www.unite.ai/amodei-wins-dismissal-of-direct-copyright-claim-with-leave-to-amend/",
-    "date": "2026-11-05"
-  },
-  {
-    "title": "OpenAI Pipeline Finds 948 Linux Kernel Privilege Escalation Flaws",
-    "link": "https://www.unite.ai/openai-pipeline-finds-948-linux-kernel-privilege-escalation-flaws/",
-    "date": "2026-11-05"
-  },
-  {
-    "title": "Atmospheric AI Secures $10M Seed for Procurement Modeling Push",
-    "link": "https://www.unite.ai/atmospheric-ai-secures-10m-seed-for-procurement-modeling-push/",
-    "date": "2026-11-05"
-  },
-  {
     "title": "Sshole - musl 기반 OpenSSH에서 비밀번호 인증을 우회하는 취약점",
     "link": "https://news.hada.io/topic?id=36654&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
     "date": "2026-11-06"
@@ -1308,5 +1178,125 @@
     "title": "Valory Unveils Open-Weight Olas Predict Model With Gains in Real-World Forecasting",
     "link": "https://www.unite.ai/valory-olas-predict-open-weight-model-forecasting/",
     "date": "2026-11-11"
+  },
+  {
+    "title": "더 나은, 더 효율적인 RAG를 위한 빠른 검색",
+    "link": "https://news.hada.io/topic?id=37031&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-12"
+  },
+  {
+    "title": "AI와 일할 때 가장 자주 던지는 질문: 지금 관성에 끌려가고 있는가?",
+    "link": "https://news.hada.io/topic?id=37030&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-12"
+  },
+  {
+    "title": "페인트 얼룩의 93%는 유효한 Perl 프로그램이다 (2019)",
+    "link": "https://news.hada.io/topic?id=37029&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-12"
+  },
+  {
+    "title": "Show HN: 투자할 YC 스타트업을 결정하는 게임으로 Papers, Please를 재현함",
+    "link": "https://news.hada.io/topic?id=37027&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-12"
+  },
+  {
+    "title": "Show HN: Yogurt - 무료이며 프라이버시를 보호하는 오픈소스 Granola 대안",
+    "link": "https://news.hada.io/topic?id=37025&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-12"
+  },
+  {
+    "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+    "link": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+    "date": "2026-11-12"
+  },
+  {
+    "title": "The unfolding Jensen Huang scandal: a timeline",
+    "link": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "date": "2026-11-12"
+  },
+  {
+    "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+    "link": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+    "date": "2026-11-12"
+  },
+  {
+    "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+    "link": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+    "date": "2026-11-12"
+  },
+  {
+    "title": "Why the data center you dread might never even be built",
+    "link": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+    "date": "2026-11-12"
+  },
+  {
+    "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+    "link": "https://openai.com/index/jiostar-vijay-seshadri",
+    "date": "2026-11-12"
+  },
+  {
+    "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+    "date": "2026-11-12"
+  },
+  {
+    "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+    "date": "2026-11-12"
+  },
+  {
+    "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+    "link": "https://huggingface.co/blog/token-pooling",
+    "date": "2026-11-12"
+  },
+  {
+    "title": "CEO Jensen Huang's job is suddenly on the line at Nvidia",
+    "link": "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/",
+    "date": "2026-11-12"
+  },
+  {
+    "title": "T-Mobile illegally imposed 50GB cap on low-income home Internet plan, NY says",
+    "link": "https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says/",
+    "date": "2026-11-12"
+  },
+  {
+    "title": "Anduril says its first satellite can see adversaries maneuver in orbital night",
+    "link": "https://arstechnica.com/space/2026/11/anduril-demos-night-vision-sensor-for-tracking-satellites-in-darkness/",
+    "date": "2026-11-12"
+  },
+  {
+    "title": "NASA's secret weapon in the lunar space race may be ... procurement reform?",
+    "link": "https://arstechnica.com/space/2026/11/nasa-takes-an-all-hands-on-deck-approach-in-its-return-to-the-moon/",
+    "date": "2026-11-12"
+  },
+  {
+    "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
+    "link": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
+    "date": "2026-11-12"
+  },
+  {
+    "title": "Tether Releases QVAC BotPsy for Tool-Using AI on Personal Devices",
+    "link": "https://www.unite.ai/tether-releases-qvac-botpsy-for-tool-using-ai-on-personal-devices/",
+    "date": "2026-11-12"
+  },
+  {
+    "title": "TIER IV Targets Driverless Dump Truck Operations at Japanese Port",
+    "link": "https://www.unite.ai/tier-iv-targets-driverless-dump-truck-operations-at-japanese-port/",
+    "date": "2026-11-12"
+  },
+  {
+    "title": "NAVER Plans Logistics Unit and AI Agent as Operating Profit Falls",
+    "link": "https://www.unite.ai/naver-plans-logistics-unit-and-ai-agent-as-operating-profit-falls/",
+    "date": "2026-11-12"
+  },
+  {
+    "title": "AWS Adds Direct Web Search API for Custom Agents and Data Pipelines",
+    "link": "https://www.unite.ai/aws-adds-direct-web-search-api-for-custom-agents-and-data-pipelines/",
+    "date": "2026-11-12"
+  },
+  {
+    "title": "Applied Biologics Joins Dartmouth for Computational Protein Design",
+    "link": "https://www.unite.ai/applied-biologics-joins-dartmouth-for-computational-protein-design/",
+    "date": "2026-11-12"
   }
 ]
