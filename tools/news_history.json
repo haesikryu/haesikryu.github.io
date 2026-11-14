@@ -1,155 +1,5 @@
 [
   {
-    "title": "Rune: macOS, Windows, Linux, 웹을 위한 네이티브 GPU 렌더링 Rust UI 프레임워크",
-    "link": "https://news.hada.io/topic?id=36735&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-07"
-  },
-  {
-    "title": "Firecracker VM 탈출: PwnEscape 2부",
-    "link": "https://news.hada.io/topic?id=36734&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-07"
-  },
-  {
-    "title": "DoorDash가 정확도를 유지하면서 LLM 검색 비용을 98% 줄인 방법",
-    "link": "https://news.hada.io/topic?id=36733&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-07"
-  },
-  {
-    "title": "AI가 AI 연구를 극적으로 가속하고 있음",
-    "link": "https://news.hada.io/topic?id=36732&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-07"
-  },
-  {
-    "title": "대부분의 AI 스타트업은 살아남지 못한다 - 살아남는 회사를 만드는 방법 [영상]",
-    "link": "https://news.hada.io/topic?id=36731&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-07"
-  },
-  {
-    "title": "Crusoe sells troubled Wyoming data center project to Google",
-    "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-    "date": "2026-11-07"
-  },
-  {
-    "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-    "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-    "date": "2026-11-07"
-  },
-  {
-    "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-    "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
-    "date": "2026-11-07"
-  },
-  {
-    "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-    "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-    "date": "2026-11-07"
-  },
-  {
-    "title": "How a Blue Wave midterm might reshape the AI industry",
-    "link": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
-    "date": "2026-11-07"
-  },
-  {
-    "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-    "link": "https://openai.com/index/partnering-with-hacktron",
-    "date": "2026-11-07"
-  },
-  {
-    "title": "Measuring how AI agents handle everyday wet-lab science",
-    "link": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-    "date": "2026-11-07"
-  },
-  {
-    "title": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
-    "link": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/",
-    "date": "2026-11-07"
-  },
-  {
-    "title": "Ships loiter near subsea cables amid Iran's warnings to Trump",
-    "link": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/",
-    "date": "2026-11-07"
-  },
-  {
-    "title": "Re-releases of Wing Commander, Ultima titles hit Steam and GOG",
-    "link": "https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/",
-    "date": "2026-11-07"
-  },
-  {
-    "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
-    "link": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
-    "date": "2026-11-07"
-  },
-  {
-    "title": "Earth's churning mantle may have created the Great Unconformity",
-    "link": "https://arstechnica.com/science/2026/11/earths-churning-mantle-may-have-created-the-great-unconformity/",
-    "date": "2026-11-07"
-  },
-  {
-    "title": "Current Muse Scores 47% on Meta’s Personal Superintelligence Index",
-    "link": "https://www.unite.ai/current-muse-scores-47-on-metas-personal-superintelligence-index/",
-    "date": "2026-11-07"
-  },
-  {
-    "title": "OpenAI Secures $11B in Initial Funding at $1.25T Valuation",
-    "link": "https://www.unite.ai/openai-secures-11b-in-initial-funding-at-1-25t-valuation/",
-    "date": "2026-11-07"
-  },
-  {
-    "title": "Cognizant Completes Wizeline Deal to Expand AI Product Engineering",
-    "link": "https://www.unite.ai/cognizant-completes-wizeline-deal-to-expand-ai-product-engineering/",
-    "date": "2026-11-07"
-  },
-  {
-    "title": "OpenAI Introduces BioBasicsBench to Test AI Agents on Wet-Lab Data",
-    "link": "https://www.unite.ai/openai-introduces-biobasicsbench-to-test-ai-agents-on-wet-lab-data/",
-    "date": "2026-11-07"
-  },
-  {
-    "title": "Anthropic IPO Valuation Expectations Fall After Technology Selloff",
-    "link": "https://www.unite.ai/anthropic-ipo-valuation-expectations-fall-after-technology-selloff/",
-    "date": "2026-11-07"
-  },
-  {
-    "title": "모든 Mac에는 문서화되지 않은 가족 구성원 분류기가 탑재돼 있음",
-    "link": "https://news.hada.io/topic?id=36748&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-07"
-  },
-  {
-    "title": "Show GN: Y-Term - Your terminal, augmented (확장형 터미널 에뮬레이터)",
-    "link": "https://news.hada.io/topic?id=36747&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-07"
-  },
-  {
-    "title": "Devvm.dev: 프로젝트마다 하나의 VM",
-    "link": "https://news.hada.io/topic?id=36746&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-07"
-  },
-  {
-    "title": "Asahi Linux 개발 현황: Linux 7.3",
-    "link": "https://news.hada.io/topic?id=36744&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-07"
-  },
-  {
-    "title": "Bong: 주소창 단축키로 원하는 사이트를 바로 검색하는 셀프호스팅 가능한 리다이렉터",
-    "link": "https://news.hada.io/topic?id=36743&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-07"
-  },
-  {
-    "title": "The Bantu expansion changed Africa. Scientists are still tracing how.",
-    "link": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/",
-    "date": "2026-11-07"
-  },
-  {
-    "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
-    "link": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
-    "date": "2026-11-07"
-  },
-  {
-    "title": "What Is Model Distillation? How Large AI Models Teach Smaller Ones",
-    "link": "https://www.unite.ai/what-is-model-distillation-how-large-ai-models-teach-smaller-ones/",
-    "date": "2026-11-07"
-  },
-  {
     "title": "언어 모델의 거부 행동은 단일 방향에 의해 매개됨",
     "link": "https://news.hada.io/topic?id=36785&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
     "date": "2026-11-08"
@@ -1288,5 +1138,125 @@
     "title": "Vertiv Launches PowerStation 3100 RPP for High-Density AI Racks",
     "link": "https://www.unite.ai/vertiv-launches-powerstation-3100-rpp-for-high-density-ai-racks/",
     "date": "2026-11-13"
+  },
+  {
+    "title": "FAA, 01:19Z에 전국 항공기 이륙 중지 해제",
+    "link": "https://news.hada.io/topic?id=37145&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-14"
+  },
+  {
+    "title": "우크라이나, 2주도 안 돼 러시아 정유 능력 36% 마비시켜",
+    "link": "https://news.hada.io/topic?id=37144&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-14"
+  },
+  {
+    "title": "Show GN: 로컬 AI머신을 구입하기 전에 성능을 미리 예측할 수 있는 웹앱",
+    "link": "https://news.hada.io/topic?id=37143&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-14"
+  },
+  {
+    "title": "로폼 운영사 해킹으로 2만여 명 개인정보 유출, ‘모두의 창업’ 참가자 818명 포함",
+    "link": "https://news.hada.io/topic?id=37140&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-14"
+  },
+  {
+    "title": "KORS 모든 주파수의 항공 무선 실시간 청취, Victoria, CA도 항공기 출발 중단",
+    "link": "https://news.hada.io/topic?id=37139&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-14"
+  },
+  {
+    "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+    "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+    "date": "2026-11-14"
+  },
+  {
+    "title": "AI agent startup LangChain hits $3B valuation",
+    "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+    "date": "2026-11-14"
+  },
+  {
+    "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+    "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+    "date": "2026-11-14"
+  },
+  {
+    "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+    "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+    "date": "2026-11-14"
+  },
+  {
+    "title": "The unfolding Jensen Huang scandal: a timeline",
+    "link": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "date": "2026-11-14"
+  },
+  {
+    "title": "Introducing ChatGPT Wallet",
+    "link": "https://openai.com/index/introducing-chatgpt-wallet",
+    "date": "2026-11-14"
+  },
+  {
+    "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+    "link": "https://openai.com/business/customer-stories/shield",
+    "date": "2026-11-14"
+  },
+  {
+    "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+    "link": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+    "date": "2026-11-14"
+  },
+  {
+    "title": "XYBench: Helping with the problem behind the question",
+    "link": "https://huggingface.co/blog/allenai/xybench",
+    "date": "2026-11-14"
+  },
+  {
+    "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
+    "link": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
+    "date": "2026-11-14"
+  },
+  {
+    "title": "FAA has lifted its third-ever nationwide ground stop",
+    "link": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
+    "date": "2026-11-14"
+  },
+  {
+    "title": "Millions of Americans are not taking their GLP-1 drugs as prescribed",
+    "link": "https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/",
+    "date": "2026-11-14"
+  },
+  {
+    "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+    "link": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+    "date": "2026-11-14"
+  },
+  {
+    "title": "In elephants, the resilience of communities has its limits",
+    "link": "https://arstechnica.com/science/2026/11/in-elephants-the-resilience-of-communities-has-its-limits/",
+    "date": "2026-11-14"
+  },
+  {
+    "title": "Cursor Traces Breach to Access Key Exposed by Fireworks AI",
+    "link": "https://www.unite.ai/cursor-traces-breach-to-access-key-exposed-by-fireworks-ai/",
+    "date": "2026-11-14"
+  },
+  {
+    "title": "FAA Issues Nationwide Ground Stop After Communications Problems",
+    "link": "https://www.unite.ai/faa-issues-nationwide-ground-stop-after-communications-problems/",
+    "date": "2026-11-14"
+  },
+  {
+    "title": "Anthropic IPO Could Raise $64 Billion as Orders Reach Six Times",
+    "link": "https://www.unite.ai/anthropic-ipo-could-raise-64-billion-as-orders-reach-six-times/",
+    "date": "2026-11-14"
+  },
+  {
+    "title": "Fortreum Launches Kovr-Powered VDR/VER Offering Ahead of FedRAMP Vulnerability Deadline",
+    "link": "https://www.unite.ai/fortreum-kovr-vdr-ver-fedramp-vulnerability-deadline/",
+    "date": "2026-11-14"
+  },
+  {
+    "title": "NVIDIA Says Permanent CEO Search Remains at Search-Firm Stage",
+    "link": "https://www.unite.ai/nvidia-says-permanent-ceo-search-remains-at-search-firm-stage/",
+    "date": "2026-11-14"
   }
 ]
