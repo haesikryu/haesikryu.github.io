@@ -1,90 +1,5 @@
 [
   {
-    "title": "언어 모델의 거부 행동은 단일 방향에 의해 매개됨",
-    "link": "https://news.hada.io/topic?id=36785&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-08"
-  },
-  {
-    "title": "Claude Code의 &quot;다시 묻지 않기&quot;, 공개 GitHub 파일 1,122개에 비밀번호 노출",
-    "link": "https://news.hada.io/topic?id=36784&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-08"
-  },
-  {
-    "title": "OpenMausBot - 봇이 사용할 가상 머신을 제공하는 오픈소스 Grok Bot 대체재",
-    "link": "https://news.hada.io/topic?id=36782&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-08"
-  },
-  {
-    "title": "웹에서 AI가 일으키는 온갖 부작용에 어떻게 대처하고 계신가요?",
-    "link": "https://news.hada.io/topic?id=36781&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-08"
-  },
-  {
-    "title": "MaxxBench - “DeepSWE 점수는 좋네요. 그런데 진짜인가요?”",
-    "link": "https://news.hada.io/topic?id=36780&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-08"
-  },
-  {
-    "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-    "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
-    "date": "2026-11-08"
-  },
-  {
-    "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-    "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
-    "date": "2026-11-08"
-  },
-  {
-    "title": "Book Review: Forward Deployed: Inside the Palantir Framework That Solved Enterprise AI by Riste Gramatikov",
-    "link": "https://www.unite.ai/book-review-forward-deployed-riste-gramatikov/",
-    "date": "2026-11-08"
-  },
-  {
-    "title": "Anthropic’s Planned IPO Puts Public Trust and Data Centers in Focus",
-    "link": "https://www.unite.ai/anthropics-planned-ipo-puts-public-trust-and-data-centers-in-focus/",
-    "date": "2026-11-08"
-  },
-  {
-    "title": "Show GN: Boxdawn guard - Claude Code가 위험한 명령을 실행하기 전에 판정하는 플러그인",
-    "link": "https://news.hada.io/topic?id=36811&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-08"
-  },
-  {
-    "title": "GitHub, 또 장애인가?",
-    "link": "https://news.hada.io/topic?id=36809&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-08"
-  },
-  {
-    "title": "Meridian - Servo와 GPUI로 만든 실험적 웹 브라우저",
-    "link": "https://news.hada.io/topic?id=36807&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-08"
-  },
-  {
-    "title": "Google, 와이오밍주 남동부의 Crusoe 데이터센터 부지 인수",
-    "link": "https://news.hada.io/topic?id=36806&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-08"
-  },
-  {
-    "title": "Show GN: 라플라스의 가위 - LLM을 재학습하지 않고, 출력 가중치만 안전하게 수정.",
-    "link": "https://news.hada.io/topic?id=36805&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-08"
-  },
-  {
-    "title": "Physicists listened to electrical noise to crack a superconductor mystery",
-    "link": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
-    "date": "2026-11-08"
-  },
-  {
-    "title": "Amazon Builds Home Robotics Team for New-to-World Robot",
-    "link": "https://www.unite.ai/amazon-builds-home-robotics-team-for-new-to-world-robot/",
-    "date": "2026-11-08"
-  },
-  {
-    "title": "What Is AI Red Teaming? How Experts Stress-Test Models and Agents",
-    "link": "https://www.unite.ai/what-is-ai-red-teaming-how-experts-stress-test-models-and-agents/",
-    "date": "2026-11-08"
-  },
-  {
     "title": "Starship 15차 비행, 11월 13일 부스터와 우주선 모두 포획 시도 계획",
     "link": "https://news.hada.io/topic?id=36865&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
     "date": "2026-11-09"
@@ -1303,5 +1218,60 @@
     "title": "Anakapalli MoU Maps 400 MW And 1,400 MW AirTrunk Campus Proposals",
     "link": "https://www.unite.ai/anakapalli-mou-maps-400-mw-and-1-400-mw-airtrunk-campus-proposals/",
     "date": "2026-11-14"
+  },
+  {
+    "title": "LinkedIn과 Monster, CBC 조사 후 가짜 채용 공고 1,000건 이상 삭제",
+    "link": "https://news.hada.io/topic?id=37186&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-15"
+  },
+  {
+    "title": "컨텐츠 플랫폼에서 웹인프라서비스의 시대로",
+    "link": "https://news.hada.io/topic?id=37185&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-15"
+  },
+  {
+    "title": "ChatGPT 내 비즈니스 기능 소개",
+    "link": "https://news.hada.io/topic?id=37183&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-15"
+  },
+  {
+    "title": "소프트웨어 직무명의 계보",
+    "link": "https://news.hada.io/topic?id=37182&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-15"
+  },
+  {
+    "title": "Text.js - 브라우저 콘솔에서 동작하는 앱을 만드는 React 프레임워크",
+    "link": "https://news.hada.io/topic?id=37181&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-15"
+  },
+  {
+    "title": "Where was Nvidia’s security team?",
+    "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+    "date": "2026-11-15"
+  },
+  {
+    "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+    "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+    "date": "2026-11-15"
+  },
+  {
+    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+    "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "date": "2026-11-15"
+  },
+  {
+    "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+    "link": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+    "date": "2026-11-15"
+  },
+  {
+    "title": "SpaceX returned its Starship rocket on Saturday—but there's a catch",
+    "link": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
+    "date": "2026-11-15"
+  },
+  {
+    "title": "Reinstatement Letter for Jensen Huang Surpasses 100,000 Signatures",
+    "link": "https://www.unite.ai/reinstatement-letter-for-jensen-huang-surpasses-100-000-signatures/",
+    "date": "2026-11-15"
   }
 ]
