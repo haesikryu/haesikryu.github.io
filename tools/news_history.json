@@ -1,50 +1,5 @@
 [
   {
-    "title": "Starship 15차 비행, 11월 13일 부스터와 우주선 모두 포획 시도 계획",
-    "link": "https://news.hada.io/topic?id=36865&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-09"
-  },
-  {
-    "title": "Chimera Vocal Synth - 기도 시뮬레이션으로 소리를 만드는 음성 합성기",
-    "link": "https://news.hada.io/topic?id=36864&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-09"
-  },
-  {
-    "title": "Windows용 Little Snitch, PacketHound",
-    "link": "https://news.hada.io/topic?id=36862&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-09"
-  },
-  {
-    "title": "Show GN: 스피캣 - 말만 하면 일정·가계부·메모가 알아서 정리되는 앱",
-    "link": "https://news.hada.io/topic?id=36858&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-09"
-  },
-  {
-    "title": "X(Twitter)에서 제품을 출시하는 방법: 출시 당일 실행 가이드",
-    "link": "https://news.hada.io/topic?id=36857&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-09"
-  },
-  {
-    "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-    "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
-    "date": "2026-11-09"
-  },
-  {
-    "title": "LG AI Research Opens Free API Access to Its K-EXAONE 2.5 Model",
-    "link": "https://www.unite.ai/lg-ai-research-opens-free-api-access-to-its-k-exaone-2-5-model/",
-    "date": "2026-11-09"
-  },
-  {
-    "title": "NVIDIA Board Opens Review After Reported Foreign Intelligence Effort",
-    "link": "https://www.unite.ai/nvidia-board-opens-review-after-reported-foreign-intelligence-effort/",
-    "date": "2026-11-09"
-  },
-  {
-    "title": "White House Request Raises US AI Safety Center Independence Concerns",
-    "link": "https://www.unite.ai/white-house-request-raises-us-ai-safety-center-independence-concerns/",
-    "date": "2026-11-09"
-  },
-  {
     "title": "HN에서 쓰신 댓글을 봤습니다",
     "link": "https://news.hada.io/topic?id=36888&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
     "date": "2026-11-10"
@@ -1313,5 +1268,90 @@
     "title": "Megaspeed Retains Counsel to Probe Reports on Its AI Cloud Business",
     "link": "https://www.unite.ai/megaspeed-retains-counsel-to-probe-reports-on-its-ai-cloud-business/",
     "date": "2026-11-15"
+  },
+  {
+    "title": "Jensen Huang, 측근들과 Nvidia CEO 복귀 논의",
+    "link": "https://news.hada.io/topic?id=37254&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-16"
+  },
+  {
+    "title": "Vulcan 로켓, 비행 재개 발사 실패로 Amazon 위성 40기 손실",
+    "link": "https://news.hada.io/topic?id=37253&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-16"
+  },
+  {
+    "title": "Show GN: Landlink - 인터넷 없이 통신하는 오픈소스 프로젝트",
+    "link": "https://news.hada.io/topic?id=37252&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-16"
+  },
+  {
+    "title": "Show GN: agent-monitor - 어느 에이전트 세션이 내 답을 기다리는지 보여주는 macOS 메뉴바 앱",
+    "link": "https://news.hada.io/topic?id=37251&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-16"
+  },
+  {
+    "title": "국토부, 구글의 1:5,000 지도 국외 반출 보안조건 이행 확인",
+    "link": "https://news.hada.io/topic?id=37249&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-16"
+  },
+  {
+    "title": "Apple launches new app to study how people use AI for health",
+    "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+    "date": "2026-11-16"
+  },
+  {
+    "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+    "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+    "date": "2026-11-16"
+  },
+  {
+    "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+    "link": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+    "date": "2026-11-16"
+  },
+  {
+    "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+    "link": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+    "date": "2026-11-16"
+  },
+  {
+    "title": "A step toward defining the Standard Model on a lattice",
+    "link": "https://openai.com/index/step-toward-defining-the-standard-model",
+    "date": "2026-11-16"
+  },
+  {
+    "title": "Our new blog for science",
+    "link": "https://openai.com/index/our-new-blog-for-science",
+    "date": "2026-11-16"
+  },
+  {
+    "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
+    "link": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
+    "date": "2026-11-16"
+  },
+  {
+    "title": "AI-Guided Echocardiography Shows High Yield in Controlled Studies",
+    "link": "https://www.unite.ai/ai-guided-echocardiography-shows-high-yield-in-controlled-studies/",
+    "date": "2026-11-16"
+  },
+  {
+    "title": "LS ELECTRIC to Supply Switchgear for US AI Data Center Expansion",
+    "link": "https://www.unite.ai/ls-electric-to-supply-switchgear-for-us-ai-data-center-expansion/",
+    "date": "2026-11-16"
+  },
+  {
+    "title": "LG Electronics Targets Humanoid Safety Certification with KIRIA",
+    "link": "https://www.unite.ai/lg-electronics-targets-humanoid-safety-certification-with-kiria/",
+    "date": "2026-11-16"
+  },
+  {
+    "title": "Apple Opens U.S. Study of Trust in Conversational Health AI",
+    "link": "https://www.unite.ai/apple-opens-u-s-study-of-trust-in-conversational-health-ai/",
+    "date": "2026-11-16"
+  },
+  {
+    "title": "Bharat Semi Raises $24M Seed to Bring AI Image Sensors to Market",
+    "link": "https://www.unite.ai/bharat-semi-raises-24m-seed-to-bring-ai-image-sensors-to-market/",
+    "date": "2026-11-16"
   }
 ]
