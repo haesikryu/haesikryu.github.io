@@ -1,170 +1,5 @@
 [
   {
-    "title": "FAA, 01:19Z에 전국 항공기 이륙 중지 해제",
-    "link": "https://news.hada.io/topic?id=37145&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-14"
-  },
-  {
-    "title": "우크라이나, 2주도 안 돼 러시아 정유 능력 36% 마비시켜",
-    "link": "https://news.hada.io/topic?id=37144&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-14"
-  },
-  {
-    "title": "Show GN: 로컬 AI머신을 구입하기 전에 성능을 미리 예측할 수 있는 웹앱",
-    "link": "https://news.hada.io/topic?id=37143&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-14"
-  },
-  {
-    "title": "로폼 운영사 해킹으로 2만여 명 개인정보 유출, ‘모두의 창업’ 참가자 818명 포함",
-    "link": "https://news.hada.io/topic?id=37140&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-14"
-  },
-  {
-    "title": "KORS 모든 주파수의 항공 무선 실시간 청취, Victoria, CA도 항공기 출발 중단",
-    "link": "https://news.hada.io/topic?id=37139&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-14"
-  },
-  {
-    "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-    "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-    "date": "2026-11-14"
-  },
-  {
-    "title": "AI agent startup LangChain hits $3B valuation",
-    "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-    "date": "2026-11-14"
-  },
-  {
-    "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-    "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-    "date": "2026-11-14"
-  },
-  {
-    "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
-    "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-    "date": "2026-11-14"
-  },
-  {
-    "title": "The unfolding Jensen Huang scandal: a timeline",
-    "link": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-    "date": "2026-11-14"
-  },
-  {
-    "title": "Introducing ChatGPT Wallet",
-    "link": "https://openai.com/index/introducing-chatgpt-wallet",
-    "date": "2026-11-14"
-  },
-  {
-    "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-    "link": "https://openai.com/business/customer-stories/shield",
-    "date": "2026-11-14"
-  },
-  {
-    "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-    "link": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-    "date": "2026-11-14"
-  },
-  {
-    "title": "XYBench: Helping with the problem behind the question",
-    "link": "https://huggingface.co/blog/allenai/xybench",
-    "date": "2026-11-14"
-  },
-  {
-    "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
-    "link": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
-    "date": "2026-11-14"
-  },
-  {
-    "title": "FAA has lifted its third-ever nationwide ground stop",
-    "link": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
-    "date": "2026-11-14"
-  },
-  {
-    "title": "Millions of Americans are not taking their GLP-1 drugs as prescribed",
-    "link": "https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/",
-    "date": "2026-11-14"
-  },
-  {
-    "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-    "link": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
-    "date": "2026-11-14"
-  },
-  {
-    "title": "In elephants, the resilience of communities has its limits",
-    "link": "https://arstechnica.com/science/2026/11/in-elephants-the-resilience-of-communities-has-its-limits/",
-    "date": "2026-11-14"
-  },
-  {
-    "title": "Cursor Traces Breach to Access Key Exposed by Fireworks AI",
-    "link": "https://www.unite.ai/cursor-traces-breach-to-access-key-exposed-by-fireworks-ai/",
-    "date": "2026-11-14"
-  },
-  {
-    "title": "FAA Issues Nationwide Ground Stop After Communications Problems",
-    "link": "https://www.unite.ai/faa-issues-nationwide-ground-stop-after-communications-problems/",
-    "date": "2026-11-14"
-  },
-  {
-    "title": "Anthropic IPO Could Raise $64 Billion as Orders Reach Six Times",
-    "link": "https://www.unite.ai/anthropic-ipo-could-raise-64-billion-as-orders-reach-six-times/",
-    "date": "2026-11-14"
-  },
-  {
-    "title": "Fortreum Launches Kovr-Powered VDR/VER Offering Ahead of FedRAMP Vulnerability Deadline",
-    "link": "https://www.unite.ai/fortreum-kovr-vdr-ver-fedramp-vulnerability-deadline/",
-    "date": "2026-11-14"
-  },
-  {
-    "title": "NVIDIA Says Permanent CEO Search Remains at Search-Firm Stage",
-    "link": "https://www.unite.ai/nvidia-says-permanent-ceo-search-remains-at-search-firm-stage/",
-    "date": "2026-11-14"
-  },
-  {
-    "title": "염증을 유발하지 않으면서 노화를 촉진하는 단백질 발견",
-    "link": "https://news.hada.io/topic?id=37154&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-14"
-  },
-  {
-    "title": "ggml v1.0.0 - 폐기 예정 API 제거, FP8 지원과 백엔드 성능 개선",
-    "link": "https://news.hada.io/topic?id=37153&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-14"
-  },
-  {
-    "title": "Go의 확률적 자료구조",
-    "link": "https://news.hada.io/topic?id=37152&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-14"
-  },
-  {
-    "title": "Show HN: Isometric SF - 샌프란시스코 베이 지역의 픽셀 아트 지도",
-    "link": "https://news.hada.io/topic?id=37151&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-14"
-  },
-  {
-    "title": "AI가 코딩을 해결했다면, 왜 내 소프트웨어는 여전히 그대로일까? [영상]",
-    "link": "https://news.hada.io/topic?id=37150&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-14"
-  },
-  {
-    "title": "James Webb telescope finds ice older than the star it orbits",
-    "link": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/",
-    "date": "2026-11-14"
-  },
-  {
-    "title": "Winemakers are learning that conservation can be good for business",
-    "link": "https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/",
-    "date": "2026-11-14"
-  },
-  {
-    "title": "What Is the NIST AI Risk Management Framework? A Guide for AI Teams",
-    "link": "https://www.unite.ai/what-is-the-nist-ai-risk-management-framework-a-guide-for-ai-teams/",
-    "date": "2026-11-14"
-  },
-  {
-    "title": "Anakapalli MoU Maps 400 MW And 1,400 MW AirTrunk Campus Proposals",
-    "link": "https://www.unite.ai/anakapalli-mou-maps-400-mw-and-1-400-mw-airtrunk-campus-proposals/",
-    "date": "2026-11-14"
-  },
-  {
     "title": "LinkedIn과 Monster, CBC 조사 후 가짜 채용 공고 1,000건 이상 삭제",
     "link": "https://news.hada.io/topic?id=37186&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
     "date": "2026-11-15"
@@ -1367,6 +1202,116 @@
   {
     "title": "Lagarde Urges EU Funds to Take First Losses on AI Infrastructure",
     "link": "https://www.unite.ai/lagarde-urges-eu-funds-to-take-first-losses-on-ai-infrastructure/",
+    "date": "2026-11-21"
+  },
+  {
+    "title": "AGI 다음에는 무엇이 올까?",
+    "link": "https://news.hada.io/topic?id=37558&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-21"
+  },
+  {
+    "title": "Anthropic, IPO 직후 주가 급락…Nasdaq은 2026년 상승분 반납",
+    "link": "https://news.hada.io/topic?id=37557&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-21"
+  },
+  {
+    "title": "Codex로 일하는 새로운 방식 [영상]",
+    "link": "https://news.hada.io/topic?id=37556&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-21"
+  },
+  {
+    "title": "Cloudflare가 Raft 대신 QuePaxa를 선택한 이유",
+    "link": "https://news.hada.io/topic?id=37555&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-21"
+  },
+  {
+    "title": "‘확률적 앵무새’가 리만 가설을 증명한 모양이다",
+    "link": "https://news.hada.io/topic?id=37554&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-21"
+  },
+  {
+    "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+    "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+    "date": "2026-11-21"
+  },
+  {
+    "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+    "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+    "date": "2026-11-21"
+  },
+  {
+    "title": "Chips can survive the space environment — can their financing?",
+    "link": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+    "date": "2026-11-21"
+  },
+  {
+    "title": "Combatting adversarial distillation",
+    "link": "https://openai.com/index/combatting-adversarial-distillation",
+    "date": "2026-11-21"
+  },
+  {
+    "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+    "link": "https://openai.com/business/customer-stories/hebbia",
+    "date": "2026-11-21"
+  },
+  {
+    "title": "Can AI help scientists identify promising drug candidates?",
+    "link": "https://openai.com/index/introducing-medchembench",
+    "date": "2026-11-21"
+  },
+  {
+    "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+    "link": "https://huggingface.co/blog/inkling2mini",
+    "date": "2026-11-21"
+  },
+  {
+    "title": "Trump FCC declares California isn't allowed to enforce phone service rules",
+    "link": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
+    "date": "2026-11-21"
+  },
+  {
+    "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
+    "link": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
+    "date": "2026-11-21"
+  },
+  {
+    "title": "Google rolls out new search homepage with AI chat history and no search button",
+    "link": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+    "date": "2026-11-21"
+  },
+  {
+    "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+    "link": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+    "date": "2026-11-21"
+  },
+  {
+    "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+    "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+    "date": "2026-11-21"
+  },
+  {
+    "title": "AWS Quick Adds Chat-Built Flows and Multi-Agent Orchestration",
+    "link": "https://www.unite.ai/aws-quick-adds-chat-built-flows-and-multi-agent-orchestration/",
+    "date": "2026-11-21"
+  },
+  {
+    "title": "Oracle Says Funding for OpenAI Infrastructure Contract Is Secured",
+    "link": "https://www.unite.ai/oracle-says-funding-for-openai-infrastructure-contract-is-secured/",
+    "date": "2026-11-21"
+  },
+  {
+    "title": "Anysphere Weighs Moving Cursor Away From Chinese Open-Weight Models",
+    "link": "https://www.unite.ai/anysphere-weighs-moving-cursor-away-from-chinese-open-weight-models/",
+    "date": "2026-11-21"
+  },
+  {
+    "title": "AWS Adds Managed Cluster Extensions to SageMaker HyperPod Slurm",
+    "link": "https://www.unite.ai/aws-adds-managed-cluster-extensions-to-sagemaker-hyperpod-slurm/",
+    "date": "2026-11-21"
+  },
+  {
+    "title": "AWS Routes HyperPod Inference Across Regions From One Endpoint",
+    "link": "https://www.unite.ai/aws-routes-hyperpod-inference-across-regions-from-one-endpoint/",
     "date": "2026-11-21"
   }
 ]
