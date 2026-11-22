@@ -1,100 +1,5 @@
 [
   {
-    "title": "LinkedIn과 Monster, CBC 조사 후 가짜 채용 공고 1,000건 이상 삭제",
-    "link": "https://news.hada.io/topic?id=37186&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-15"
-  },
-  {
-    "title": "컨텐츠 플랫폼에서 웹인프라서비스의 시대로",
-    "link": "https://news.hada.io/topic?id=37185&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-15"
-  },
-  {
-    "title": "ChatGPT 내 비즈니스 기능 소개",
-    "link": "https://news.hada.io/topic?id=37183&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-15"
-  },
-  {
-    "title": "소프트웨어 직무명의 계보",
-    "link": "https://news.hada.io/topic?id=37182&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-15"
-  },
-  {
-    "title": "Text.js - 브라우저 콘솔에서 동작하는 앱을 만드는 React 프레임워크",
-    "link": "https://news.hada.io/topic?id=37181&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-15"
-  },
-  {
-    "title": "Where was Nvidia’s security team?",
-    "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-    "date": "2026-11-15"
-  },
-  {
-    "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-    "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-    "date": "2026-11-15"
-  },
-  {
-    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-    "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-    "date": "2026-11-15"
-  },
-  {
-    "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-    "link": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
-    "date": "2026-11-15"
-  },
-  {
-    "title": "SpaceX returned its Starship rocket on Saturday—but there's a catch",
-    "link": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
-    "date": "2026-11-15"
-  },
-  {
-    "title": "Reinstatement Letter for Jensen Huang Surpasses 100,000 Signatures",
-    "link": "https://www.unite.ai/reinstatement-letter-for-jensen-huang-surpasses-100-000-signatures/",
-    "date": "2026-11-15"
-  },
-  {
-    "title": "AI 코딩 에이전트의 &quot;테스트 모두 통과&quot;를 믿기 전에 확인하는 9가지 (실측 사례 모음)",
-    "link": "https://news.hada.io/topic?id=37202&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-15"
-  },
-  {
-    "title": "고칠 줄 몰라서가 아니라 불편한 줄 몰라서 – 기억해야 할 창구를 줄인 업무 환경 개선기",
-    "link": "https://news.hada.io/topic?id=37201&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-15"
-  },
-  {
-    "title": "법원, DRAM 가격 담합 소송 기각 신청 거부",
-    "link": "https://news.hada.io/topic?id=37200&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-15"
-  },
-  {
-    "title": "Show GN: 인디해커온라인 – 창업자, 개발자들의 온라인 오피스를 만든 이야기",
-    "link": "https://news.hada.io/topic?id=37199&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-15"
-  },
-  {
-    "title": "Show GN: agent-otel-kit - Claude Code·Codex·Gemini CLI 사용량, 비용, 도구 호출을 한 대시보드로",
-    "link": "https://news.hada.io/topic?id=37198&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-15"
-  },
-  {
-    "title": "How the world’s fires changed while humanity hit pause",
-    "link": "https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/",
-    "date": "2026-11-15"
-  },
-  {
-    "title": "Why AI Inference Now Drives Energy, Water, and Carbon Costs",
-    "link": "https://www.unite.ai/why-ai-inference-now-drives-energy-water-and-carbon-costs/",
-    "date": "2026-11-15"
-  },
-  {
-    "title": "Megaspeed Retains Counsel to Probe Reports on Its AI Cloud Business",
-    "link": "https://www.unite.ai/megaspeed-retains-counsel-to-probe-reports-on-its-ai-cloud-business/",
-    "date": "2026-11-15"
-  },
-  {
     "title": "Jensen Huang, 측근들과 Nvidia CEO 복귀 논의",
     "link": "https://news.hada.io/topic?id=37254&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
     "date": "2026-11-16"
@@ -1363,5 +1268,70 @@
     "title": "Baseten Extends Decision Models to 128K Context and Image Input",
     "link": "https://www.unite.ai/baseten-extends-decision-models-to-128k-context-and-image-input/",
     "date": "2026-11-21"
+  },
+  {
+    "title": "ClawDOS - DOS용 AI 코딩 에이전트",
+    "link": "https://news.hada.io/topic?id=37604&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-22"
+  },
+  {
+    "title": "마음으로 몸을 이끌어, 몸이 나를 이끌게 하기",
+    "link": "https://news.hada.io/topic?id=37603&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-22"
+  },
+  {
+    "title": "Astra 6.2와 Sol 6.2, SimpleBench에서 부진",
+    "link": "https://news.hada.io/topic?id=37602&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-22"
+  },
+  {
+    "title": "UI SDK - AI 에이전트가 UI의 기본 동작을 조합해 컴포넌트를 만드는 라이브러리",
+    "link": "https://news.hada.io/topic?id=37600&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-22"
+  },
+  {
+    "title": "췌장암 치료 알약, ‘수십 년 만의 최대 돌파구’로 평가받음",
+    "link": "https://news.hada.io/topic?id=37598&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-22"
+  },
+  {
+    "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+    "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+    "date": "2026-11-22"
+  },
+  {
+    "title": "A tale of two Nvidias",
+    "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+    "date": "2026-11-22"
+  },
+  {
+    "title": "Here are the top AI agents that can live in your text messages",
+    "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "date": "2026-11-22"
+  },
+  {
+    "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+    "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+    "date": "2026-11-22"
+  },
+  {
+    "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
+    "link": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
+    "date": "2026-11-22"
+  },
+  {
+    "title": "OpenRouter Cuts Three Providers After AI Prompt Exposure Findings",
+    "link": "https://www.unite.ai/openrouter-cuts-three-providers-after-ai-prompt-exposure-findings/",
+    "date": "2026-11-22"
+  },
+  {
+    "title": "Together AI Discloses Prompt Leak After Coding Agent Exposed Credential",
+    "link": "https://www.unite.ai/together-ai-discloses-prompt-leak-after-coding-agent-exposed-credential/",
+    "date": "2026-11-22"
+  },
+  {
+    "title": "Lean and Mathlib Communities Certify Claude-Assisted Riemann Proof",
+    "link": "https://www.unite.ai/lean-and-mathlib-communities-certify-claude-assisted-riemann-proof/",
+    "date": "2026-11-22"
   }
 ]
