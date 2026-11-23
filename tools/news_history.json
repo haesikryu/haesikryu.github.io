@@ -1,90 +1,5 @@
 [
   {
-    "title": "Jensen Huang, 측근들과 Nvidia CEO 복귀 논의",
-    "link": "https://news.hada.io/topic?id=37254&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-16"
-  },
-  {
-    "title": "Vulcan 로켓, 비행 재개 발사 실패로 Amazon 위성 40기 손실",
-    "link": "https://news.hada.io/topic?id=37253&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-16"
-  },
-  {
-    "title": "Show GN: Landlink - 인터넷 없이 통신하는 오픈소스 프로젝트",
-    "link": "https://news.hada.io/topic?id=37252&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-16"
-  },
-  {
-    "title": "Show GN: agent-monitor - 어느 에이전트 세션이 내 답을 기다리는지 보여주는 macOS 메뉴바 앱",
-    "link": "https://news.hada.io/topic?id=37251&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-16"
-  },
-  {
-    "title": "국토부, 구글의 1:5,000 지도 국외 반출 보안조건 이행 확인",
-    "link": "https://news.hada.io/topic?id=37249&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-16"
-  },
-  {
-    "title": "Apple launches new app to study how people use AI for health",
-    "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
-    "date": "2026-11-16"
-  },
-  {
-    "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
-    "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
-    "date": "2026-11-16"
-  },
-  {
-    "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
-    "link": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
-    "date": "2026-11-16"
-  },
-  {
-    "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
-    "link": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
-    "date": "2026-11-16"
-  },
-  {
-    "title": "A step toward defining the Standard Model on a lattice",
-    "link": "https://openai.com/index/step-toward-defining-the-standard-model",
-    "date": "2026-11-16"
-  },
-  {
-    "title": "Our new blog for science",
-    "link": "https://openai.com/index/our-new-blog-for-science",
-    "date": "2026-11-16"
-  },
-  {
-    "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
-    "link": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
-    "date": "2026-11-16"
-  },
-  {
-    "title": "AI-Guided Echocardiography Shows High Yield in Controlled Studies",
-    "link": "https://www.unite.ai/ai-guided-echocardiography-shows-high-yield-in-controlled-studies/",
-    "date": "2026-11-16"
-  },
-  {
-    "title": "LS ELECTRIC to Supply Switchgear for US AI Data Center Expansion",
-    "link": "https://www.unite.ai/ls-electric-to-supply-switchgear-for-us-ai-data-center-expansion/",
-    "date": "2026-11-16"
-  },
-  {
-    "title": "LG Electronics Targets Humanoid Safety Certification with KIRIA",
-    "link": "https://www.unite.ai/lg-electronics-targets-humanoid-safety-certification-with-kiria/",
-    "date": "2026-11-16"
-  },
-  {
-    "title": "Apple Opens U.S. Study of Trust in Conversational Health AI",
-    "link": "https://www.unite.ai/apple-opens-u-s-study-of-trust-in-conversational-health-ai/",
-    "date": "2026-11-16"
-  },
-  {
-    "title": "Bharat Semi Raises $24M Seed to Bring AI Image Sensors to Market",
-    "link": "https://www.unite.ai/bharat-semi-raises-24m-seed-to-bring-ai-image-sensors-to-market/",
-    "date": "2026-11-16"
-  },
-  {
     "title": "Show GN: MaaC – 악보를 코드로 쓰고 AI가 편곡까지 하게 만든 음악 언어와 Rust CLI",
     "link": "https://news.hada.io/topic?id=37285&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
     "date": "2026-11-17"
@@ -1383,5 +1298,75 @@
     "title": "Tesla Rolls Out FSD V15 with Reality View and Vision Upgrades",
     "link": "https://www.unite.ai/tesla-rolls-out-fsd-v15-with-reality-view-and-vision-upgrades/",
     "date": "2026-11-22"
+  },
+  {
+    "title": "Internet Archive의 잊힌 영상으로 만든 무료 대안 TV 네트워크",
+    "link": "https://news.hada.io/topic?id=37690&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-23"
+  },
+  {
+    "title": "GL.iNet 보안 공지 2026-11-20: 라우터와 KVM 악성코드 감염 대응",
+    "link": "https://news.hada.io/topic?id=37689&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-23"
+  },
+  {
+    "title": "에이전트 시대의 Postgres 데이터베이스",
+    "link": "https://news.hada.io/topic?id=37687&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-23"
+  },
+  {
+    "title": "Nespresso의 캡슐당 커피 중량 감축 프로젝트",
+    "link": "https://news.hada.io/topic?id=37686&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-23"
+  },
+  {
+    "title": "Alibaba에서 구한 RISC-V 보드에 NixOS 구동하기",
+    "link": "https://news.hada.io/topic?id=37685&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-23"
+  },
+  {
+    "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+    "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+    "date": "2026-11-23"
+  },
+  {
+    "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+    "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+    "date": "2026-11-23"
+  },
+  {
+    "title": "Why data centers are at the center of the Big Tech backlash",
+    "link": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+    "date": "2026-11-23"
+  },
+  {
+    "title": "Perplexity and Intelligence",
+    "link": "https://openai.com/index/perplexity-and-intelligence",
+    "date": "2026-11-23"
+  },
+  {
+    "title": "Visa CLI Adds Card Verification for AI Agents and OUSD Task Payouts",
+    "link": "https://www.unite.ai/visa-cli-adds-card-verification-for-ai-agents-and-ousd-task-payouts/",
+    "date": "2026-11-23"
+  },
+  {
+    "title": "XPENG Moves Public NGP Rides Into Its Paris Retail Store",
+    "link": "https://www.unite.ai/xpeng-moves-public-ngp-rides-into-its-paris-retail-store/",
+    "date": "2026-11-23"
+  },
+  {
+    "title": "Jay Clayton to Temporarily Serve as Acting National Cyber Director",
+    "link": "https://www.unite.ai/jay-clayton-to-temporarily-serve-as-acting-national-cyber-director/",
+    "date": "2026-11-23"
+  },
+  {
+    "title": "Bessent Declines to Back Huang’s Return Amid Nvidia Investigations",
+    "link": "https://www.unite.ai/bessent-declines-to-back-huangs-return-amid-nvidia-investigations/",
+    "date": "2026-11-23"
+  },
+  {
+    "title": "Employee Health Benefits End at Foundation Future Industries",
+    "link": "https://www.unite.ai/employee-health-benefits-end-at-foundation-future-industries/",
+    "date": "2026-11-23"
   }
 ]
