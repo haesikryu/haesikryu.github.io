@@ -1278,5 +1278,110 @@
     "title": "Judge Grants Bond to Former OpenAI Engineer in Recording Case",
     "link": "https://www.unite.ai/judge-grants-bond-to-former-openai-engineer-in-recording-case/",
     "date": "2026-11-25"
+  },
+  {
+    "title": "Google, 정수 소인수분해와 이산로그 등을 다룬 Cogentic 논문 공개",
+    "link": "https://news.hada.io/topic?id=37842&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-26"
+  },
+  {
+    "title": "개당 3달러로 미국 재무부 서브도메인 탈취하기",
+    "link": "https://news.hada.io/topic?id=37841&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-26"
+  },
+  {
+    "title": "Windows Loudness Equalization을 역공학해 PipeWire로 이식",
+    "link": "https://news.hada.io/topic?id=37840&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-26"
+  },
+  {
+    "title": "Marginalia Search, 자금, C++, Rust, AI와 이런저런 이야기",
+    "link": "https://news.hada.io/topic?id=37838&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-26"
+  },
+  {
+    "title": "Show HN: 브라우저에서 다시 실행하는 옛 Nvidia와 ATI 기술 데모",
+    "link": "https://news.hada.io/topic?id=37835&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-26"
+  },
+  {
+    "title": "State AGs fight Character.AI’s plan to auction off users’ private chats",
+    "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+    "date": "2026-11-26"
+  },
+  {
+    "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+    "link": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+    "date": "2026-11-26"
+  },
+  {
+    "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+    "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+    "date": "2026-11-26"
+  },
+  {
+    "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+    "link": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+    "date": "2026-11-26"
+  },
+  {
+    "title": "An Indic Voice Agent with CUGA",
+    "link": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+    "date": "2026-11-26"
+  },
+  {
+    "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+    "link": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+    "date": "2026-11-26"
+  },
+  {
+    "title": "Ladybird's new alpha shows there's life beyond Chromium",
+    "link": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/",
+    "date": "2026-11-26"
+  },
+  {
+    "title": "Etsy clarifies AI terms after seller backlash",
+    "link": "https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash/",
+    "date": "2026-11-26"
+  },
+  {
+    "title": "Ars Live recap: Don’t expect military attacks on data centers to stop",
+    "link": "https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop/",
+    "date": "2026-11-26"
+  },
+  {
+    "title": "Guilty: Huawei faces steep penalties for stealing T-Mobile, Cisco trade secrets",
+    "link": "https://arstechnica.com/tech-policy/2026/11/jury-convicts-huawei-of-stealing-us-trade-secrets-evading-iran-sanctions/",
+    "date": "2026-11-26"
+  },
+  {
+    "title": "Lead azide detonation sends clouds over Iowa as questions of health risks swirl",
+    "link": "https://arstechnica.com/health/2026/11/army-detonates-tons-of-lead-azide-as-local-residents-brace-for-toxic-plume/",
+    "date": "2026-11-26"
+  },
+  {
+    "title": "Guilherme Joventino, Co-Founder & COO of MIGNOW – Interview Series",
+    "link": "https://www.unite.ai/guilherme-joventino-co-founder-coo-of-mignow-interview-series/",
+    "date": "2026-11-26"
+  },
+  {
+    "title": "When One Robot Learns, Can a Thousand Others Follow?",
+    "link": "https://www.unite.ai/robot-learning-from-humans-and-other-robots/",
+    "date": "2026-11-26"
+  },
+  {
+    "title": "Anthropic Details Claude-Assisted Rust Migration of Messages API",
+    "link": "https://www.unite.ai/anthropic-details-claude-assisted-rust-migration-of-messages-api/",
+    "date": "2026-11-26"
+  },
+  {
+    "title": "Elisa Seghetti, Co-Founder & CEO of Saturn Dynamics – Interview Series",
+    "link": "https://www.unite.ai/elisa-seghetti-co-founder-ceo-of-saturn-dynamics-interview-series/",
+    "date": "2026-11-26"
+  },
+  {
+    "title": "XPENG Debuts IRON Humanoid and Outlines Store Training Plan",
+    "link": "https://www.unite.ai/xpeng-debuts-iron-humanoid-and-outlines-store-training-plan/",
+    "date": "2026-11-26"
   }
 ]
