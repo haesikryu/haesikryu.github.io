@@ -1,225 +1,5 @@
 [
   {
-    "title": "Show GN: buntOS - Mainline Linux 7.2 + Rust Wayland OS with built-in AI agent control on a Dimensity 8300 tab",
-    "link": "https://news.hada.io/topic?id=37355&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-18"
-  },
-  {
-    "title": "VisualBasic.World: 1997~2012년 Planet Source Code 프로그램 갤러리",
-    "link": "https://news.hada.io/topic?id=37353&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-18"
-  },
-  {
-    "title": "학교 휴대전화 금지가 시험 성적을 점진적으로 높인다는 새로운 근거",
-    "link": "https://news.hada.io/topic?id=37352&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-18"
-  },
-  {
-    "title": "코딩 에이전트 삭제 사고 10건, 실행된 셸 명령으로 본 원인과 안전한 형태",
-    "link": "https://news.hada.io/topic?id=37349&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-18"
-  },
-  {
-    "title": "Three.js에서 AAA 게임 수준의 실내 조명 구현하기",
-    "link": "https://news.hada.io/topic?id=37347&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-18"
-  },
-  {
-    "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
-    "link": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
-    "date": "2026-11-18"
-  },
-  {
-    "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
-    "link": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
-    "date": "2026-11-18"
-  },
-  {
-    "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
-    "link": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
-    "date": "2026-11-18"
-  },
-  {
-    "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
-    "link": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/",
-    "date": "2026-11-18"
-  },
-  {
-    "title": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
-    "link": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/",
-    "date": "2026-11-18"
-  },
-  {
-    "title": "Strengthening NATO and allied cyber defenses with AI",
-    "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-    "date": "2026-11-18"
-  },
-  {
-    "title": "Introducing OpenAI for Chile",
-    "link": "https://openai.com/index/introducing-openai-for-chile",
-    "date": "2026-11-18"
-  },
-  {
-    "title": "House Democrats promise a US return to global climate talks",
-    "link": "https://arstechnica.com/tech-policy/2026/11/house-democrats-promise-a-us-return-to-global-climate-talks/",
-    "date": "2026-11-18"
-  },
-  {
-    "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
-    "link": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
-    "date": "2026-11-18"
-  },
-  {
-    "title": "Artist brings old Space Shuttle tank back to life",
-    "link": "https://arstechnica.com/space/2026/11/how-an-artist-gave-shape-to-a-space-shuttles-new-towering-exhibit/",
-    "date": "2026-11-18"
-  },
-  {
-    "title": "Elementl Power Builds Gemini-Based Tools for Nuclear Project Planning",
-    "link": "https://www.unite.ai/elementl-power-builds-gemini-based-tools-for-nuclear-project-planning/",
-    "date": "2026-11-18"
-  },
-  {
-    "title": "Fortra Opens Select-Customer Testing for AI in Two MFT Products",
-    "link": "https://www.unite.ai/fortra-opens-select-customer-testing-for-ai-in-two-mft-products/",
-    "date": "2026-11-18"
-  },
-  {
-    "title": "Boyuan Capital Closes RMB 1.1B Fund II to Back Industrial AI",
-    "link": "https://www.unite.ai/boyuan-capital-closes-rmb-1-1b-fund-ii-to-back-industrial-ai/",
-    "date": "2026-11-18"
-  },
-  {
-    "title": "What Will Remain After AI? Where Value Survives",
-    "link": "https://www.unite.ai/ai-bubble-burst-business-survival/",
-    "date": "2026-11-18"
-  },
-  {
-    "title": "Voyage Labs Raises $12M Seed to Add Engineers and Supplier Partnerships",
-    "link": "https://www.unite.ai/voyage-labs-raises-12m-seed-to-add-engineers-and-supplier-partnerships/",
-    "date": "2026-11-18"
-  },
-  {
-    "title": "GitHub에서 사라진 마이크로소프트의 ONNX Runtime",
-    "link": "https://news.hada.io/topic?id=37390&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-18"
-  },
-  {
-    "title": "이스라엘 대 Wikipedia",
-    "link": "https://news.hada.io/topic?id=37388&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-18"
-  },
-  {
-    "title": "Show HN: Alloy CSS, JavaScript를 꺼도 작동하는 대화상자, 메뉴, 탭",
-    "link": "https://news.hada.io/topic?id=37385&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-18"
-  },
-  {
-    "title": "Show GN: Lightcap - 가볍고 빠른 맥용 화면 녹화/스크린샷 앱",
-    "link": "https://news.hada.io/topic?id=37384&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-18"
-  },
-  {
-    "title": "Show GN: 깎깎 - 칼로 연필을 깎고 그 끝으로 그려 보는 3D iOS 게임",
-    "link": "https://news.hada.io/topic?id=37383&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-18"
-  },
-  {
-    "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
-    "link": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
-    "date": "2026-11-18"
-  },
-  {
-    "title": "Nvidia promises that revenue will keep soaring — for now",
-    "link": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
-    "date": "2026-11-18"
-  },
-  {
-    "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
-    "link": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
-    "date": "2026-11-18"
-  },
-  {
-    "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
-    "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
-    "date": "2026-11-18"
-  },
-  {
-    "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
-    "link": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
-    "date": "2026-11-18"
-  },
-  {
-    "title": "Introducing GPT-6.2 Astra and Sol",
-    "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-    "date": "2026-11-18"
-  },
-  {
-    "title": "Introducing ChatGPT for Sales",
-    "link": "https://openai.com/index/introducing-chatgpt-for-sales",
-    "date": "2026-11-18"
-  },
-  {
-    "title": "Astra for Law leads in legal intelligence",
-    "link": "https://openai.com/index/astra-law-6-2",
-    "date": "2026-11-18"
-  },
-  {
-    "title": "Put Gemini to work for you",
-    "link": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
-    "date": "2026-11-18"
-  },
-  {
-    "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
-    "link": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
-    "date": "2026-11-18"
-  },
-  {
-    "title": "San Diego dumps both Flock cameras and smart streetlights",
-    "link": "https://arstechnica.com/tech-policy/2026/11/san-diego-dumps-both-flock-cameras-and-smart-streetlights/",
-    "date": "2026-11-18"
-  },
-  {
-    "title": "Yet another satellite company is jockeying for a rocket—but this one makes sense",
-    "link": "https://arstechnica.com/space/2026/11/yet-another-satellite-company-is-jockeying-for-a-rocket-but-this-one-makes-sense/",
-    "date": "2026-11-18"
-  },
-  {
-    "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
-    "link": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/",
-    "date": "2026-11-18"
-  },
-  {
-    "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
-    "link": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/",
-    "date": "2026-11-18"
-  },
-  {
-    "title": "KPMG Brings AI Agents Into U.S. Audits With Clara Intelligence",
-    "link": "https://www.unite.ai/kpmg-clara-intelligence-ai-agents-us-audits/",
-    "date": "2026-11-18"
-  },
-  {
-    "title": "KiteFishAI Introduces NanoI1 for Private, Local Enterprise AI",
-    "link": "https://www.unite.ai/kitefishai-nanoi1-private-local-enterprise-ai/",
-    "date": "2026-11-18"
-  },
-  {
-    "title": "Nexalus and RENDA Launch Nova8 Liquid-Cooled AI Server for Data Center Retrofits",
-    "link": "https://www.unite.ai/nexalus-renda-nova8-liquid-cooled-ai-server/",
-    "date": "2026-11-18"
-  },
-  {
-    "title": "Genesys Decouples AI Agent Deployment From Cloud Migration",
-    "link": "https://www.unite.ai/genesys-decouples-ai-agent-deployment-from-cloud-migration/",
-    "date": "2026-11-18"
-  },
-  {
-    "title": "Judge Sets Expedited Trial for Former OpenAI Engineer in Bugging Case",
-    "link": "https://www.unite.ai/judge-sets-expedited-trial-for-former-openai-engineer-in-bugging-case/",
-    "date": "2026-11-18"
-  },
-  {
     "title": "Gemini 4 Carbon은 왜 이렇게 오래 걸릴까?",
     "link": "https://news.hada.io/topic?id=37411&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
     "date": "2026-11-19"
@@ -1363,5 +1143,140 @@
     "title": "BIS Adds Megaspeed and Six Other Entities to Entity List",
     "link": "https://www.unite.ai/bis-adds-megaspeed-and-six-other-entities-to-entity-list/",
     "date": "2026-11-24"
+  },
+  {
+    "title": "Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7, 13.3.2 (여러 CVE 관련)",
+    "link": "https://news.hada.io/topic?id=37814&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-25"
+  },
+  {
+    "title": "Matrix Multiplication의 Θ(n^2.25) 시간 복잡도 [pdf]",
+    "link": "https://news.hada.io/topic?id=37813&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-25"
+  },
+  {
+    "title": "심장마비와 뇌졸중 위험, 수십 년 전에 감지 가능",
+    "link": "https://news.hada.io/topic?id=37812&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-25"
+  },
+  {
+    "title": "Show GN: Tern - Ctrl+ㅊ 를 Ctrl-C 로 처리해주는 한글 특화 터미널 에뮬레이터 앱",
+    "link": "https://news.hada.io/topic?id=37811&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-25"
+  },
+  {
+    "title": "GPT-6 모델, 내재적 단백질 설계 능력 입증",
+    "link": "https://news.hada.io/topic?id=37808&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-25"
+  },
+  {
+    "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+    "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+    "date": "2026-11-25"
+  },
+  {
+    "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+    "link": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+    "date": "2026-11-25"
+  },
+  {
+    "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+    "link": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+    "date": "2026-11-25"
+  },
+  {
+    "title": "Even the best AI agents struggle with everyday life",
+    "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+    "date": "2026-11-25"
+  },
+  {
+    "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+    "link": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+    "date": "2026-11-25"
+  },
+  {
+    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+    "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+    "date": "2026-11-25"
+  },
+  {
+    "title": "Searching for distant planets with Astra",
+    "link": "https://openai.com/index/searching-for-distant-planets-with-astra",
+    "date": "2026-11-25"
+  },
+  {
+    "title": "How Intentful uses dots to make more time for growth",
+    "link": "https://openai.com/business/customer-stories/intentful-dots",
+    "date": "2026-11-25"
+  },
+  {
+    "title": "How iFood scales coding agents across 15,000 repositories",
+    "link": "https://openai.com/business/customer-stories/ifood",
+    "date": "2026-11-25"
+  },
+  {
+    "title": "Clay helps sales teams win with Codex and ChatGPT",
+    "link": "https://openai.com/business/customer-stories/clay-plugins-openai",
+    "date": "2026-11-25"
+  },
+  {
+    "title": "How Gemini is changing the game for Golden State's organization and fans.",
+    "link": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+    "date": "2026-11-25"
+  },
+  {
+    "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+    "link": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+    "date": "2026-11-25"
+  },
+  {
+    "title": "Half of NASA's aging Mars fleet knocked offline by technical issues",
+    "link": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/",
+    "date": "2026-11-25"
+  },
+  {
+    "title": "Microsoft's historic cloud outage exposed an engineering “fog of war”",
+    "link": "https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/",
+    "date": "2026-11-25"
+  },
+  {
+    "title": "What's going on with the Riemann hypothesis?",
+    "link": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/",
+    "date": "2026-11-25"
+  },
+  {
+    "title": "Back-to-back measles deaths is our new reality; US tally now at 14",
+    "link": "https://arstechnica.com/health/2026/11/measles-death-toll-rises-to-14-as-national-case-tally-nears-6000/",
+    "date": "2026-11-25"
+  },
+  {
+    "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
+    "link": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
+    "date": "2026-11-25"
+  },
+  {
+    "title": "OpenAI Preprint Reports 9/4 Bound for Matrix Multiplication",
+    "link": "https://www.unite.ai/openai-preprint-reports-9-4-bound-for-matrix-multiplication/",
+    "date": "2026-11-25"
+  },
+  {
+    "title": "Perplexity Guide Details Permission and Citation Tests for AI Search",
+    "link": "https://www.unite.ai/perplexity-guide-details-permission-and-citation-tests-for-ai-search/",
+    "date": "2026-11-25"
+  },
+  {
+    "title": "OpenTable Agrees to Acquire Me&u for Voice AI and Venue Software",
+    "link": "https://www.unite.ai/opentable-agrees-to-acquire-me-and-u-for-voice-ai-and-venue-software/",
+    "date": "2026-11-25"
+  },
+  {
+    "title": "Together AI Launches Preemptible GPU Compute at Half On-Demand Rates",
+    "link": "https://www.unite.ai/together-ai-launches-preemptible-gpu-compute-at-half-on-demand-rates/",
+    "date": "2026-11-25"
+  },
+  {
+    "title": "Judge Grants Bond to Former OpenAI Engineer in Recording Case",
+    "link": "https://www.unite.ai/judge-grants-bond-to-former-openai-engineer-in-recording-case/",
+    "date": "2026-11-25"
   }
 ]
