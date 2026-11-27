@@ -1,220 +1,5 @@
 [
   {
-    "title": "유럽연합 집행위원회가 직원 4만 명 이상에게 Matrix를 도입한 방법",
-    "link": "https://news.hada.io/topic?id=37473&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-20"
-  },
-  {
-    "title": "Show GN: Agent World - 코딩 에이전트들이 사는 3D 마을",
-    "link": "https://news.hada.io/topic?id=37472&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-20"
-  },
-  {
-    "title": "Ruby2ßhell: 기본 구성 Rails에서 인증 없이 가능한 원격 코드 실행",
-    "link": "https://news.hada.io/topic?id=37471&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-20"
-  },
-  {
-    "title": "VM 한 대에서 웹 서버 1,500만 개 실행하기: smoltcp, DPDK, AF_XDP",
-    "link": "https://news.hada.io/topic?id=37470&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-20"
-  },
-  {
-    "title": "Java4Shell은 Java를 사용해야 할 이유다",
-    "link": "https://news.hada.io/topic?id=37467&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-20"
-  },
-  {
-    "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
-    "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
-    "date": "2026-11-20"
-  },
-  {
-    "title": "Superhuman pushes its Go assistant everywhere",
-    "link": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
-    "date": "2026-11-20"
-  },
-  {
-    "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-    "date": "2026-11-20"
-  },
-  {
-    "title": "Mouse fight club might explain why we like to watch violent things",
-    "link": "https://arstechnica.com/science/2026/11/watching-mouse-fight-club-teaches-the-critters-how-to-fight/",
-    "date": "2026-11-20"
-  },
-  {
-    "title": "NASA's new Moon plans have a problem: Orion wasn't designed to fly this way",
-    "link": "https://arstechnica.com/space/2026/11/to-make-moon-landings-easier-nasa-is-making-life-harder-for-orion/",
-    "date": "2026-11-20"
-  },
-  {
-    "title": "How to tell a cyberattack from a plain old outage",
-    "link": "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/",
-    "date": "2026-11-20"
-  },
-  {
-    "title": "Yes, the EU AI Act Covers Agentic AI—Here’s How",
-    "link": "https://www.unite.ai/how-the-eu-ai-act-regulates-agentic-ai/",
-    "date": "2026-11-20"
-  },
-  {
-    "title": "LangChain Launches LangSmith Tool Gateway to Govern Agent Tool Calls",
-    "link": "https://www.unite.ai/langchain-launches-langsmith-tool-gateway-to-govern-agent-tool-calls/",
-    "date": "2026-11-20"
-  },
-  {
-    "title": "Oliver Wyman to Acquire Synpulse for AI and Technology Consulting",
-    "link": "https://www.unite.ai/oliver-wyman-to-acquire-synpulse-for-ai-and-technology-consulting/",
-    "date": "2026-11-20"
-  },
-  {
-    "title": "K4Connect Raises $8M Funding Round to Expand Senior Living AI Tools",
-    "link": "https://www.unite.ai/k4connect-raises-8m-funding-round-to-expand-senior-living-ai-tools/",
-    "date": "2026-11-20"
-  },
-  {
-    "title": "Abridge Details Controls for AI-Generated Physical-Exam Notes",
-    "link": "https://www.unite.ai/abridge-details-controls-for-ai-generated-physical-exam-notes/",
-    "date": "2026-11-20"
-  },
-  {
-    "title": "Show GN: Namoo - 부모님의 이야기를 AI 인터뷰로 기록해 이북과 오디오북으로 만들어 주는 앱",
-    "link": "https://news.hada.io/topic?id=37506&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-20"
-  },
-  {
-    "title": "Gemini 4 Neon, Models Engineering Index의 새로운 1위에 오름",
-    "link": "https://news.hada.io/topic?id=37505&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-20"
-  },
-  {
-    "title": "소프트웨어 기업들은 가정용 컴퓨팅을 없애려 하는가?",
-    "link": "https://news.hada.io/topic?id=37504&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-20"
-  },
-  {
-    "title": "Show GN: 법원 경매 예상 낙찰가 - 다음 매각기일 물건을 말로 찾고 지도로 보는 무료 사이트",
-    "link": "https://news.hada.io/topic?id=37502&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-20"
-  },
-  {
-    "title": "Show GN: OneHandy - 회원가입 없이 브라우저에서 쓰는 무료 웹 도구 123종 (계산기·변환기·텍스트·이미지)",
-    "link": "https://news.hada.io/topic?id=37499&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "date": "2026-11-20"
-  },
-  {
-    "title": "Apple may be developing its own AI agent that runs your Mac",
-    "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-    "date": "2026-11-20"
-  },
-  {
-    "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-    "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
-    "date": "2026-11-20"
-  },
-  {
-    "title": "Meta’s new Muse Charm device may cost $300",
-    "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
-    "date": "2026-11-20"
-  },
-  {
-    "title": "These tech outages are giving Y2K, AI agent style",
-    "link": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
-    "date": "2026-11-20"
-  },
-  {
-    "title": "The unfolding Jensen Huang scandal: a timeline",
-    "link": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-    "date": "2026-11-20"
-  },
-  {
-    "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-    "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-    "date": "2026-11-20"
-  },
-  {
-    "title": "Deploying Daybreak Red",
-    "link": "https://openai.com/business/learn/deploying-daybreak-red",
-    "date": "2026-11-20"
-  },
-  {
-    "title": "See PR scans in action",
-    "link": "https://openai.com/business/learn/pr-scans-demo",
-    "date": "2026-11-20"
-  },
-  {
-    "title": "Explore the Codex Security Plugin",
-    "link": "https://openai.com/business/learn/codex-security-plugin-demo",
-    "date": "2026-11-20"
-  },
-  {
-    "title": "Get started with Daybreak Blue",
-    "link": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
-    "date": "2026-11-20"
-  },
-  {
-    "title": "Introducing Tool Retrieval in the Gemini API",
-    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
-    "date": "2026-11-20"
-  },
-  {
-    "title": "Walter Isaacson on curiosity and creativity in the AI age.",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
-    "date": "2026-11-20"
-  },
-  {
-    "title": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
-    "link": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
-    "date": "2026-11-20"
-  },
-  {
-    "title": "MAHA PAC spent more on steak, luxury club than candidates, report shows",
-    "link": "https://arstechnica.com/health/2026/11/maha-pac-spent-more-on-steak-luxury-club-than-candidates-report-shows/",
-    "date": "2026-11-20"
-  },
-  {
-    "title": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say",
-    "link": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/",
-    "date": "2026-11-20"
-  },
-  {
-    "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
-    "link": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
-    "date": "2026-11-20"
-  },
-  {
-    "title": "Google turns to Blue Origin for a rocket, but its long-term problem remains",
-    "link": "https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/",
-    "date": "2026-11-20"
-  },
-  {
-    "title": "NTT and SSC Space Explore a Global Laser Network for Satellite Data",
-    "link": "https://www.unite.ai/ntt-ssc-space-laser-ground-station-network/",
-    "date": "2026-11-20"
-  },
-  {
-    "title": "Bonta Demands NVIDIA Records On China Transfers And Disclosures",
-    "link": "https://www.unite.ai/bonta-demands-nvidia-records-on-china-transfers-and-disclosures/",
-    "date": "2026-11-20"
-  },
-  {
-    "title": "John Deere Buys Orchard AI to Pair Crop Scans with Farm Equipment",
-    "link": "https://www.unite.ai/john-deere-buys-orchard-ai-to-pair-crop-scans-with-farm-equipment/",
-    "date": "2026-11-20"
-  },
-  {
-    "title": "DeepMind Institute Maps Four Routes From AGI to Superintelligence",
-    "link": "https://www.unite.ai/deepmind-institute-maps-four-routes-from-agi-to-superintelligence/",
-    "date": "2026-11-20"
-  },
-  {
-    "title": "J-POWER, Hitachi and Macnica Agree on Physical AI Platform Study",
-    "link": "https://www.unite.ai/j-power-hitachi-and-macnica-agree-on-physical-ai-platform-study/",
-    "date": "2026-11-20"
-  },
-  {
     "title": "Anthropic 수학자, Claude와 리만 가설 및 일반화 리만 가설을 증명했다고 발표 [pdf]",
     "link": "https://news.hada.io/topic?id=37529&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
     "date": "2026-11-21"
@@ -1327,6 +1112,46 @@
   {
     "title": "Improving Human Impersonation, as the Web Closes Up Against AI",
     "link": "https://www.unite.ai/improving-human-impersonation-as-the-web-closes-up-against-ai/",
+    "date": "2026-11-27"
+  },
+  {
+    "title": "Show GN: RealView - 머스크가 공개한 테슬라 Reality View 구조를 코드로 구현, 맥북 한 대로 학습",
+    "link": "https://news.hada.io/topic?id=37934&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-27"
+  },
+  {
+    "title": "USAID Files - 빅테크 협력과 허위정보 대응에 관한 내부 자료",
+    "link": "https://news.hada.io/topic?id=37933&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-27"
+  },
+  {
+    "title": "Show GN: ARCUS-STACK - 매번하는 반복을 조금 더 똑똑하게, 여러 AI 코딩 에이전트에게 시킬 수 있는 스킬팩",
+    "link": "https://news.hada.io/topic?id=37932&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-27"
+  },
+  {
+    "title": "리만 가설이란 무엇인가? 시각적으로 이해하기",
+    "link": "https://news.hada.io/topic?id=37931&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-27"
+  },
+  {
+    "title": "State of AI 2026: 올해의 가장 큰 이슈와 2027년 AGI 가능성",
+    "link": "https://news.hada.io/topic?id=37930&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "date": "2026-11-27"
+  },
+  {
+    "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+    "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+    "date": "2026-11-27"
+  },
+  {
+    "title": "Ford unveils the GT41 as it hopes to win Le Mans again",
+    "link": "https://arstechnica.com/cars/2026/11/ford-unveils-the-gt41-as-it-hopes-to-win-le-mans-again/",
+    "date": "2026-11-27"
+  },
+  {
+    "title": "Canada Invests $700 Million More to Expand AI Compute Access Fund",
+    "link": "https://www.unite.ai/canada-invests-700-million-more-to-expand-ai-compute-access-fund/",
     "date": "2026-11-27"
   }
 ]
